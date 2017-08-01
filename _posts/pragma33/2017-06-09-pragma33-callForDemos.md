@@ -9,7 +9,7 @@ short: Call for Demos
 Dear PRAGMA friends,
 
 On behalf of the PRAGMA 33 Program Committee, we are soliciting demos for the
-PRAGMA 33 workshop in Gainesville, Florida, hosted by University of Florida.
+PRAGMA 33 workshop in Brisbane,Australia hosted by The University of Queensland.
 All PRAGMA 33 attendees are encouraged to submit abstracts to the demo
 session.
  
@@ -24,20 +24,16 @@ information:
 <br>
 
 ## Submission Instructions
-
-[Registration](http://www.pragma-grid.net/pragma33-registration/) for the main PRAGMA 33 
-event **by September DATE, 2017** is required prior to Demo Request submission. 
+Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. Registration detials will be provided soon 
 <br />
 
-Please provide the information above (items 1 to 4) here: **[PRAGMA 33 Demo Request](https://FIX.ME)**   
+Please provide the information above (items 1 to 4) using the template **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**   
 
 We are looking forward to your submissions. If you have any questions
 regarding the demo abstract submission, please contact our demo chairs:
 
-1. Person1, email (at) affiliation (dot) edu (dot) jp
-2. Person2, email (at) affiliation (dot) edu (dot) jp
-3. Person3, email (at) affiliation (dot) edu (dot) jp
-
+1. Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
+2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
 <br>
 
 ## Important Dates:
@@ -48,5 +44,5 @@ Author notification: September 25th, 2017
 
 For technical questions, please contact:
 <br>
-TBA, email (at) affiliation (dot)  edu
+Siddeswara Guru, s.guru (at) uq (dot) edu (dot) au
 
