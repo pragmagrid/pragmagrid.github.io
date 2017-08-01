@@ -7,7 +7,7 @@ short: Contact
 ---
 
 ### Posters and Lighning Talks
-* TBA
+* [Posters and Lighning Talks contact](http://www.pragma-grid.net/pragma33-callForPosters/)
 
 <br>
 
