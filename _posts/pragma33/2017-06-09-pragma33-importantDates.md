@@ -16,6 +16,6 @@ short: dates
 
 #### September 25, 2017: Demo Author Notification
 
-#### October 16-17, 2017: PRAGMA workshop
-#### October 18-20, 2017: eResearch 2017, The University of Queensland, Brisbane, Australia
+#### October 16-17, 2017: PRAGMA 33 Workshop
+#### October 18-20, 2017: eResearch Australasia 2017, Brisbane, Australia
 
