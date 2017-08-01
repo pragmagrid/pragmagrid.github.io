@@ -6,8 +6,8 @@ workshop: pragma33
 short: Committee
 ---
 ## Program Chair
-Prof. David Abramson, The University of Queensland<br/>
-Dr. Siddeswara Guru, The University of Queensland<br/>
+David Abramson, The University of Queensland<br/>
+Siddeswara Guru, The University of Queensland<br/>
 
 ## Program Committee
 Minh Dinh, The University of Queensland<br/>
