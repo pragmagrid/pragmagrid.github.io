@@ -18,5 +18,7 @@ short: Contact
 
 ### Logistics (travel, accommodation, invitation letter) 
 
-* TBA
+ Siddeswara Guru, s(dot) guru(at) uq(dot) edu(dot) au
+ David Abramson, david(dot) abramson(at) uq(dot) edu(dot) au
+
 
