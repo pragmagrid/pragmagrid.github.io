@@ -29,7 +29,7 @@ All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.
 
-**[PRAGMA 33 Poster / Lightning Talks Submission](https://FIX.ME)**
+Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https://drive.google.com/open?id=0B0FUjpQKIKsTaE9ueDBJREJYdFU)** to submit poster/lightning talk.
 
 ## Important Dates
 
@@ -40,8 +40,6 @@ Review feedback and acceptance notice will be provided by **September 24, 2017**
 If you have any questions, please do not hesitate to contact the
 Poster/Lightning Talks Committee:
 
-Person, email (at) affiliation (dot) edu <br />
-Person, email (at) affiliation (dot) edu <br />
-Person, email (at) affiliation (dot) edu <br />
+Minh Dinh, m.dinh1 (at) uq (dot) edu (dot) au<br />
 
 
