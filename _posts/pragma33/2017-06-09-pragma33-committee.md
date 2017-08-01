@@ -6,8 +6,9 @@ workshop: pragma33
 short: Committee
 ---
 ## Program Chair
-Prof. David Abramson, The University of Queensland
-Dr. Siddeswara Guru, The University of Queensland
+Prof. David Abramson, The University of Queensland<br/>
+Dr. Siddeswara Guru, The University of Queensland<br/>
+
 ## Program Committee
 Minh Dinh, The University of Queensland<br/>
 Renato J Figueiredo, The University of Florida<br/>
@@ -24,12 +25,11 @@ Pongsakorn U-chupala, The National Institute of Advanced Industrial Science and 
 Chawanat Nakasan, The National Institute of Advanced Industrial Science and Technology<br/>
 Peter Arzberger, The University of California,San Diego<br/>
 Philip Papadopoulos, The University of California,San Diego<br/>
-## Demo Committee
 
+## Demo Committee
 Yoshiyuki Kido, Osaka University<br/>
 Wanida Putthividhya, Thammasat University<br/>
 
 ## Student Posters and lightning talks
-
 Minh Dinh, The University of Queensland<br/>
 
