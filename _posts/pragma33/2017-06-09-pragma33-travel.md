@@ -12,6 +12,5 @@ Brisbane Airport (IATA: BNE, ICAO: YBBN) is the primary international airport
 serving Brisbane and South East Queensland. 
 
 ## Ground Transportation
-
 TBA
 
