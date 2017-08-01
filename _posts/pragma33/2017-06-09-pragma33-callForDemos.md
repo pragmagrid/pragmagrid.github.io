@@ -9,7 +9,7 @@ short: Call for Demos
 Dear PRAGMA friends,
 
 On behalf of the PRAGMA 33 Program Committee, we are soliciting demos for the
-PRAGMA 33 workshop in Brisbane,Australia hosted by The University of Queensland.
+PRAGMA 33 workshop in Brisbane, Australia hosted by The University of Queensland.
 All PRAGMA 33 attendees are encouraged to submit abstracts to the demo
 session.
  
