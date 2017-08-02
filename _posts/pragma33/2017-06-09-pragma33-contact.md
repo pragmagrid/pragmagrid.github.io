@@ -12,7 +12,7 @@ short: Contact
 <br>
 
 ### Demos
-* [Demo chairs contact](http://www.pragma-grid.net/pragma33-callForDemos/) 
+* [Demo chairs contact](http://www.pragma-grid.net/pragma33-callForDemos) 
 
 <br>
 
