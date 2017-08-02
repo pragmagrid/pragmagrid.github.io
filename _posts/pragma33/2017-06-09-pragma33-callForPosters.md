@@ -24,7 +24,7 @@ covering the following information:
 3.  Summary of work to be presented  
 
 <br />
-All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in)
+All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in).
 All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.
@@ -40,6 +40,6 @@ Review feedback and acceptance notice will be provided by **September 24, 2017**
 If you have any questions, please do not hesitate to contact the
 Poster/Lightning Talks Committee:
 
-Minh Dinh, m.dinh1 (at) uq (dot) edu (dot) au<br />
+Minh Dinh, m(dot)dinh1 (at) uq (dot) edu (dot) au<br />
 
 
