@@ -32,9 +32,8 @@ Please provide the information above (items 1 to 4) using the template **[PRAGMA
 
 ## Important Dates
 
-**Submission deadline: September 15th, 2017** 
-
-**Author notification: September 25th, 2017**
+Demo abstract submission deadline: **September 15th, 2017** 
+Author notification: **September 25th, 2017**
 <br/>
 We are looking forward to your submissions. If you have any questions
 regarding the demo abstract submission, please contact our demo chairs:
