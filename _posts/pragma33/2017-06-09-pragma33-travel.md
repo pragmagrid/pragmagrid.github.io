@@ -12,7 +12,8 @@ Brisbane Airport (IATA: BNE, ICAO: YBBN) is the primary international airport
 serving Brisbane and South East Queensland. 
 
 ## Accommodation
-There are wide range of accommodation options in the vicinity of the conference venue. Please see the detials available in the [eResearch Australasia Conference website](https://conference.eresearch.edu.au/2017-accommodation-brisbane/)
+There are wide range of accommodation options in the vicinity of the conference venue. Please visit the [eResearch Australasia Conference website](https://conference.eresearch.edu.au/2017-accommodation-brisbane/) for details.
 
 ## Ground Transportation
-Brisbane have differnt modes of transportation includidng buses, trains, taxis and ferries. Trains are available from Airport to South Brisbane. However, Taxis are also very convenient and widely available.  
+Brisbane offers a variety of transportation options that  include buses, trains, taxis and ferries. Trains and taxis are both available from the airport to South Brisbane.  
+  
