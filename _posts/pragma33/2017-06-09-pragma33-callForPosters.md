@@ -38,7 +38,7 @@ Review feedback and acceptance notice will be provided by **September 24, 2017**
 <br />
 
 If you have any questions, please do not hesitate to contact the
-Poster/Lightning Talks Committee:
+Poster and Lightning Talks chair:
 
 Minh Dinh, m(dot)dinh1 (at) uq (dot) edu (dot) au<br />
 
