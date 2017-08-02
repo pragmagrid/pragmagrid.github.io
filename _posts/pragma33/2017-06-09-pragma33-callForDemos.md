@@ -44,5 +44,5 @@ regarding the demo abstract submission, please contact our demo chairs:
 
 For technical questions, please contact:
 <br>
-Siddeswara Guru, s.guru (at) uq (dot) edu (dot) au
+Siddeswara Guru, s(dot) guru (at) uq (dot) edu (dot) au
 
