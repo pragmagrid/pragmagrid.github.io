@@ -12,9 +12,7 @@ The University of Queensland Research Computing Centre is honoured to host PRAGM
 
 
 
-On behalf of the PRAGMA 33 organizing team and with warm regards, 
-David Abramson and Siddeswara Guru  
-General Chairs of PRAGMA 33
-
-<br/>
+On behalf of the PRAGMA 33 organizing team and with warm regards, <br/>
+David Abramson and Siddeswara Guru  <br/>
+General Chairs of PRAGMA 33 <br/>
 
