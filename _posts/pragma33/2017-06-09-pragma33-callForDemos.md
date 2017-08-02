@@ -21,29 +21,24 @@ information:
  3. **A brief abstract describing the demo** 
  4. **Requirements for the demo (e.g. time, network, etc.)**
 
-<br>
+<br/>
 
 ## Submission Instructions
 Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. Registration detials will be provided soon 
-<br />
 
-Please provide the information above (items 1 to 4) using the template **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**. Instructions for abstract submission wil be made available soon.  
 
-We are looking forward to your submissions. If you have any questions
-regarding the demo abstract submission, please contact our demo chairs:
+Please provide the information above (items 1 to 4) using the template **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**. Instructions for abstract submission will be available soon.  
 
-1. Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
-2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
-
-<br>
 
 ## Important Dates
 
 **Submission deadline: September 15th, 2017** 
 
 **Author notification: September 25th, 2017**
+<br/>
+We are looking forward to your submissions. If you have any questions
+regarding the demo abstract submission, please contact our demo chairs:
 
-For technical questions, please contact:
-<br>
-Siddeswara Guru, s(dot) guru (at) uq (dot) edu (dot) au
+1. Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
+2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
 
