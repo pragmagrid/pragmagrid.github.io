@@ -27,7 +27,7 @@ information:
 Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. Registration detials will be provided soon 
 <br />
 
-Please provide the information above (items 1 to 4) using the template **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**   
+Please provide the information above (items 1 to 4) using the template **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**. Instructions for abstract submission wil be made available soon.  
 
 We are looking forward to your submissions. If you have any questions
 regarding the demo abstract submission, please contact our demo chairs:
