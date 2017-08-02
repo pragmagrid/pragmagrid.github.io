@@ -6,5 +6,5 @@ workshop: pragma33
 short: registration
 ---
 
-TBA
+The registration site will be open very soon.
 
