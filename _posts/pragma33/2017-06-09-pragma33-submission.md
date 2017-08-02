@@ -6,16 +6,10 @@ workshop: pragma33
 short: abstract
 ---
 
-[Registration](http://www.pragma-grid.net/pragma33-registration/) for the main PRAGMA 33 event **by September 15, 2017** is required prior to abstract submissions. 
+The [Registration](http://www.pragma-grid.net/pragma33-registration/) deadline for PRAGMA 33 is **September 15, 2017**. Please note that youmust register prior to submitting your abstract(s).
 <br />
 
-**[PRAGMA 33 Demo Request](https://FIXME) by (September 15, 2017)**  
+Please consult the [Call for Demos](http://www.pragma-grid.net/pragma33-callForDemos/) and the [Call for posters(http://www.pragma-grid.net/pragma33-CallForPosters/) links for relevant submission instructions, important dates, and contact information.
 
-Visit <a href="http://www.pragma-grid.net/pragma33-CallForDemos/">Call for Demos</a> for requirement, important dates and contact
-<br />
-
-**[PRAGMA 33 Poster / Lightning Talks Submission](https://goo.gl/85YK3d) (by September 19, 2017)**
-
-Visit <a href="http://www.pragma-grid.net/pragma33-CallForPosters/" target="_blank">Call for Posters</a> for requirement, important dates and contact
 <br />
 
