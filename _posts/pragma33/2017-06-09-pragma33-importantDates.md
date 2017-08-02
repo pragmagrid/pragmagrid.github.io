@@ -10,9 +10,9 @@ short: dates
 
 #### September 15, 2017: Poster/Lightning Talks Submission deadline
 
-#### September 15, 2017: last day for early bird registration for [eReseach Australasia conference](https://conference.eresearch.edu.au/registration-2017/)
+#### September 15, 2017: Last day for early bird registration for [eReseach Australasia conference](https://conference.eresearch.edu.au/registration-2017/)
 
-#### September 15, 2017: last day for PRAGMA workshop Registration and [group-rate-guaranteed reservation at designated Hotel](https://conference.eresearch.edu.au/2017-accommodation-brisbane/)
+#### September 15, 2017: Last day for PRAGMA workshop Registration and [group-rate-guaranteed reservation at designated Hotel](https://conference.eresearch.edu.au/2017-accommodation-brisbane/)
 
 #### September 24, 2017: Poster Review Feedback and Acceptance Notification
 
