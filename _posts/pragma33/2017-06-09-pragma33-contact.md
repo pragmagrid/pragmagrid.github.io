@@ -18,7 +18,7 @@ short: Contact
 
 ### Logistics (travel, accommodation, invitation letter) 
 
- Siddeswara Guru, s(dot) guru(at) uq(dot) edu(dot) au
+ Siddeswara Guru, s(dot) guru(at) uq(dot) edu(dot) au <br/><br/>
  David Abramson, david(dot) abramson(at) uq(dot) edu(dot) au
 
 
