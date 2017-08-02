@@ -36,7 +36,6 @@ regarding the demo abstract submission, please contact our demo chairs:
 2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
 <br>
 
-
 ## Important Dates
 
 **Submission deadline: September 15th, 2017** 
