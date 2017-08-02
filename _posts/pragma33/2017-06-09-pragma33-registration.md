@@ -6,5 +6,5 @@ workshop: pragma33
 short: registration
 ---
 
-The registration site will be open very soon.
+Registration details will be provided soon.
 
