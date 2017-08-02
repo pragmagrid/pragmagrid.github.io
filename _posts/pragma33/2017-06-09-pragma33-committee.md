@@ -30,6 +30,6 @@ Chawanat Nakasan, National Institute of Advanced Industrial Science and Technolo
 Yoshiyuki Kido, Osaka University<br/>
 Wanida Putthividhya, Thammasat University<br/>
 
-## Student Posters and Lightning talks
+## Student Posters and Lightning Talks
 Minh Dinh, University of Queensland<br/>
 
