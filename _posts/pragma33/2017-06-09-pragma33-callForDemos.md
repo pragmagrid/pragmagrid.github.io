@@ -34,7 +34,7 @@ regarding the demo abstract submission, please contact our demo chairs:
 
 1. Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
 2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
-<br/>
+<br>
 
 
 ## Important Dates
