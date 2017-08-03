@@ -5,6 +5,7 @@ date: 2017-06-09
 workshop: pragma33
 short: Committee
 ---
+
 ## Program Chair
 David Abramson, University of Queensland<br/>
 Siddeswara Guru, University of Queensland<br/>
@@ -15,7 +16,7 @@ Philip Papadopoulos, University of California,San Diego<br/>
 Minh Dinh, University of Queensland<br/>
 Renato J Figueiredo, The University of Florida<br/>
 Yoshiyuki Kido, Osaka University<br/>
-Habibah A. Wahab, Universiti Sains Malaysia<br/>
+Habibah A. Wahab, Universiti Sains Malaysia<br/>
 Nurul Hashimah Ahamed Hassain Malim, Universiti Sains Malaysia<br/>
 Kohei Ichikawa, Nara Institute of Science and Technology<br/>
 Jason Haga, National Institute of Advanced Industrial Science and Technology<br/>

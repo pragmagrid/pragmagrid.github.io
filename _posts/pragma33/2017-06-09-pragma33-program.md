@@ -5,4 +5,7 @@ date: 2017-06-09
 workshop: pragma33
 short: program
 ---
-## Coming soon
+
+<p>
+Coming Soon
+</p>

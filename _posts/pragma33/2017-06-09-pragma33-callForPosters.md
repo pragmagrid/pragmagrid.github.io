@@ -33,7 +33,7 @@ Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https:
 
 ## Important Dates
 
-Submission deadline to be considered for participation is **September 15, 2017**.  
+Submission deadline to be considered for participation is **September 15, 2017**.<br>  
 Review feedback and acceptance notice will be provided by **September 24, 2017**.  
 <br />
 

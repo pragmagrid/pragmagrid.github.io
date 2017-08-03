@@ -6,19 +6,18 @@ workshop: pragma33
 short: Contact
 ---
 
-### Posters and Lighning Talks
-* [Posters and Lighning Talks contact](http://www.pragma-grid.net/pragma33-callForPosters/)
+* **Posters and Lighning Talks contact**
 
-<br>
+    Minh Dinh, m(dot)dinh1 (at) uq (dot) edu (dot) au
 
-### Demos
-* [Demo chairs contact](http://www.pragma-grid.net/pragma33-callForDemos) 
+* **Demo chairs contact**
 
-<br>
+    Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp <br/>
+    Wanida Putthividhya, wputthividhya (at) gmail (dot) com
 
-### Logistics (travel, accommodation, invitation letter) 
+* **Logistics: travel, accommodation, invitation letter**
 
- Siddeswara Guru, s(dot) guru(at) uq(dot) edu(dot) au <br/><br/>
- David Abramson, david(dot) abramson(at) uq(dot) edu(dot) au
+     Siddeswara Guru, s(dot) guru(at) uq(dot) edu(dot) au <br/>
+     David Abramson, david(dot) abramson(at) uq(dot) edu(dot) au
 
 
