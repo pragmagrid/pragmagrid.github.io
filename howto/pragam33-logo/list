@@ -1,3 +1,4 @@
+########### first try ######################3
 
 # crop end of image
 convert -crop 750x403+100+0! kangaroo.jpg crop-end.jpg
@@ -11,10 +12,31 @@ convert crop-start-flop.jpg crop-end.jpg +append cropped.jpg
 convert -crop 1050x285+0+110! cropped.jpg croptop.jpg
 # change colors of orig map
 convert aus_map.png -fill white -draw 'color 50,50 replace' -fill red -draw 'color 100,80 replace' map.png
-# place map in low left roner
+# place map in low left corner
 convert -composite croptop.jpg map.png -geometry 102x93+50+175 header.jpg 
 # use gimp on header.jpg to add "pragma 33" and kanagaroo dots, save
 
 # examples
 #convert -resize '900x200!' header.jpg new.jpg
 #convert -composite new.jpg ~/Desktop/aus_map.png  -geometry 102x93+780+15 new1.png 
+
+############# final rendering #############
+
+# background: download ocean photo horizon.jpg, open in gimp, rotate horizon, 
+# crop close to needed size, save as horizon.png
+convert -resize 1050x233! horizon.png  horizon2.png 
+
+# use kangaroo photo for the outline:
+# download photo, in gimp remove everything except kangaroo shape,
+# fill with color, overlay shape with dots, remove original kangaroo shape.
+# flip horizontally, change size, rotate.  save as left-kangaroo.png.
+
+# from previous gimp header file save separately logo text and export as  words.png
+# overlay 3 images to make composite image
+convert -composite horizon2.png map.png -geometry 102x93+100+125 header-map.png 
+convert -composite header-map.png left-kangaroo.png -geometry +700+20 header-map-kan.png
+convert -composite header-map-kan.png words.png -geometry +100+0 header-all.jpg
+
+# make thumprint 
+convert -resize 25% header-all.jpg workshop-33.png 
+
