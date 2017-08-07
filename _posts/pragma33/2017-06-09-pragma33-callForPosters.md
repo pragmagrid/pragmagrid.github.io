@@ -29,7 +29,7 @@ All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.
 
-Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https://drive.google.com/open?id=0B0FUjpQKIKsTaE9ueDBJREJYdFU)** to submit poster/lightning talk. Instructions for poster submission will be available soon.
+Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https://drive.google.com/open?id=0B0FUjpQKIKsTaE9ueDBJREJYdFU)** to submit poster/lightning talk. All abstract for the poster and lightning talk should be submitted through the [EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by selecting "Lightning Talk and Poster Session" track.
 
 ## Important Dates
 
