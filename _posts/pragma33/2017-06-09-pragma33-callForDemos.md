@@ -25,11 +25,11 @@ information:
 
 ## Submission Instructions
 Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. <br>
-Registration detials will be provided soon 
+Please see the [Registration details](http://www.pragma-grid.net/pragma33-registration/). 
 
 Please provide the information above (items 1 to 4) using the template
 **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**.<br>
-Instructions for abstract submission will be available soon.  
+All abstract for the demo should be submitted through the [EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by selecting "Demo Session" track.  
 
 ## Important Dates
 
