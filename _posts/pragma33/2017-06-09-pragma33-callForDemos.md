@@ -40,4 +40,4 @@ We are looking forward to your submissions. If you have any questions
 regarding the demo abstract submission, please contact our demo chairs:
 
 1. Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
-2. Wanida Putthividhya, wputthividhya (at) gmail (dot) com
+2. Nurul Hashimah Ahamed Hassain Malim, nurulhashimah(at) usm(dot) my
