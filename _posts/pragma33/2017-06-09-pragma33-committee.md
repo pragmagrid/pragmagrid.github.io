@@ -25,6 +25,7 @@ Beth Plale, National Science Foundation<br/>
 Nadya Williams, University of California,San Diego<br/>
 Wanida Putthividhya, Thammasat University<br/>
 Pongsakorn U-chupala, National Institute of Advanced Industrial Science and Technology<br/>
+Huang Che, National Institute of Advanced Industrial Science and Technology<br/>
 Chawanat Nakasan, National Institute of Advanced Industrial Science and Technology<br/>
 
 ## Demo Committee
