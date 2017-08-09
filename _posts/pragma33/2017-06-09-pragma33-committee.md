@@ -24,9 +24,9 @@ Weicheng Huang, National Center for High-performance Computing <br/>
 Beth Plale, National Science Foundation<br/>
 Nadya Williams, University of California,San Diego<br/>
 Wanida Putthividhya, Thammasat University<br/>
-Pongsakorn U-chupala, Nara Institute of Advanced Industrial Science and Technology<br/>
-Che Huang, Nara Institute of Advanced Industrial Science and Technology<br/>
-Chawanat Nakasan, Nara Institute of Advanced Industrial Science and Technology<br/>
+Pongsakorn U-chupala, Nara Institute of Science and Technology<br/>
+Che Huang, Nara Institute of Science and Technology<br/>
+Chawanat Nakasan, Nara Institute of Science and Technology<br/>
 
 ## Demo Committee
 Yoshiyuki Kido, Osaka University<br/>
