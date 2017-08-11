@@ -33,6 +33,8 @@ collections:
      output: true
   students:
      output: true
+  software:
+     output: true
 
 
 exclude:

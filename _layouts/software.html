@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="border">
+  <h3>{{page.title}}</h3>
+</div>
+
+<div class="post-content" itemprop="articleBody">
+  {% if page.imagesrc %} 
+    <img src="/images/software/{{page.imagesrc}}" alt="" class="thum-left"/>
+  {% endif %}
+  <p> {{ content }} </p>
+  <p>URL: <a href="{{page.link}}">{{page.link}}</a></p>
+</div>
+
+<hr class="primary">
+<p><a href="/products"> Back to Products </a> </p>
+
+
