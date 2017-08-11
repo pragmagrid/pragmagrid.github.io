@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<div class="text-center">
+  <h1>{{ page.software }} {{ page.title }}</h1>
+</div>
+
+ {% assign pages = site.[page.short] | sort: "order" %}
+
+<div class="border">
+  <h3>Cloud and Cluster Tools<div class="row"></h3>
+</div>
+<section id="services">
+<ul>
+{% for item in pages %}
+  {% if item.section == 'cloud' %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
+
+
+<div class="border">
+  <h3>Expeditions Tools<div class="row"></h3>
+</div>
+<section id="services">
+<ul>
+{% for item in pages %}
+  {% if item.section == 'expeditions' %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
+
+
+<div class="border">
+  <h3>Data Related Tools and Services<div class="row"></h3>
+</div>
+<section id="services">
+<ul>
+{% for item in pages %}
+  {% if item.section == 'data' %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
+
+<div class="border">
+  <h3>PRAGMA ENT Tools<div class="row"></h3>
+</div>
+<section id="services">
+<ul>
+{% for item in pages %}
+  {% if item.section == 'ent' %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
+
+<div class="border">
+  <h3>Other Software created, enhanced or motivated by PRAGMA<div class="row"></h3>
+</div>
+<section id="services">
+<ul>
+{% for item in pages %}
+  {% if item.section == 'other' %}
+    <li><a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
+
+<hr class="primary">
+<p> <a href="{{ page.url }}"> Back to top </a> </p>
