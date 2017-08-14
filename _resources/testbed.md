@@ -51,15 +51,16 @@ for sharing of data/computation?
 
 #### Sites
 
+* UF
 * UCSD
-* UFL
-* AIST
-* NAIST
-* Internet2
-* CNIC
-* Osaka
-* NCHC
 * IU
+* NAIST
+* Osaka
+* AIST
+* NCHC
+* Thammasat
+* MIMOS
+* Kasaesart (currently, its reousrces ar enot connected to ENT)
 
 [1]: /projects/ent/
 [2]: /resources/testbed-site-setup/
