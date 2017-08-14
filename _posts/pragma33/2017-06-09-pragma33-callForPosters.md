@@ -12,6 +12,9 @@ The poster session offers the opportunity for presenters to share their work
 through a quick introduction to the entire conference audience, followed by
 one-on-one discussions next to the poster.
 
+The best 3 posters will be submitted to be shown at the PRAGMA booth at eResearch
+Australia. Please see [booth info](/pragma33-booth)
+
 ## Submissions
 Authors are expected to both present their poster during poster sessions and
 to give a three (3) minute introductory lightning talk. As such, an acceptable

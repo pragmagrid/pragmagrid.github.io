@@ -13,6 +13,9 @@ PRAGMA 33 workshop in Brisbane, Australia hosted by The University of Queensland
 <br>All PRAGMA 33 attendees are encouraged to submit abstracts to the demo
 session.
  
+The demo can also be submitted to be shown at the PRAGMA booth at eResearch
+Australia. Please see [booth info](/pragma33-booth)
+
 The abstract should be between 250 and 400 words and include the following
 information: 
 
