@@ -19,3 +19,7 @@ categories:
     {% endif %}
   {% endfor %}
 </ul>
+
+<br>
+<p> <a href="/people"> Back to People </a> </p>
+
