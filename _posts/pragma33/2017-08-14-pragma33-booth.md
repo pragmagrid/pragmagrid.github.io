@@ -9,7 +9,7 @@ short: eResearch booth
 Dear PRAGMA friends,
 
 The workshop is co-located with the [eResearch Australasia conference, 2017](https://conference.eresearch.edu.au/). 
-PRAGMA will have a booth at the eResearch during October 18-20. 
+PRAGMA will have a booth at the conference during October 18-20, 2017. 
 
 PRAGMA attendees who are submitting poster, demo or talk can also 
 present their work at the booth. 
@@ -35,7 +35,7 @@ availability, we will make a schedule for the booth demos.
 
 <br>
 We are looking forward to your submissions. If you have any questions
-regarding the booth demo submission, please contact our demo chairs:
+regarding the booth demo submission, please contact our booth demo coordinators:
 
 1. Jason Haga, jh (dot) haga (at) aist (dot) go (dot) jp
 2. Nadya Williams, nadya (at) sdsc (dot) edu
