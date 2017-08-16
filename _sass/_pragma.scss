@@ -17,9 +17,13 @@ $grey-light: #fafafa;
 .meeting { padding: 0; }
 .meeting td { padding: 10px 15px 10px 5px; }
 
-/*  for a defualt layout column-left for content and column-right for links */
+/*  for a default layout column-left for content and column-right for links */
 .column-left { border: 0px solid red; width:80%; float:left; line-height:18px; padding-top: 2px; }
 .column-right { border: 0px solid green; width:20%; float:right; padding-top: 2px; }
+
+/*  for a two-column layout column1 and  column2 are roughly same width */
+.column1 { border: 0px solid red; width:43%; float:left; line-height:18px; padding-top: 2px; }
+.column2 { border: 0px solid green; width:56%; float:right; padding-top: 2px; }
 
 .quicklinks {background:$grey-light; margin-bottom:20px;}
 .ql-entry {width:96%; margin: 0; padding: 0 0 0 5px;}      
@@ -48,4 +52,13 @@ div.clear   { clear:both; height:.01em; overflow:hidden; }
 
 /* pragma31 hackathon teams  */
 .teams { float: right; height:  90px; clear: both; }
+
+/* generic table rows coloring*/
+$gblue1: #F5FAFF;
+$gblue2: #E6F2FF;
+$ggrey: #eee;
+.generic tr.odd { background-color : $gblue1; }
+.generic tr.even { background-color : $gblue2; }
+.generic th { color: $blue-dark; background-color : $ggrey; }
+.generic td { padding : 5px 10px 15px 10px; }
 
