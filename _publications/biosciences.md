@@ -33,7 +33,7 @@ Technology (IJACT). Vol. 6, No. 1. pp. 68-78.
 
 <div class="border">2012</div>
 
-Syahdi RR, Mun`im A, Suhartanto H, Yanuar A,. 2012. Virtual screening of Indonesian herbal 
+Syahdi RR, Mun'im A, Suhartanto H, Yanuar A,. 2012. Virtual screening of Indonesian herbal 
 database as HIV-1 reverse transcriptase inhibitor. Bioinformation.  2012;8(24):1206-10. 
 doi: 10.6026/97320630081206. Epub 2012 Dec 8,
 http://www.ncbi.nlm.nih.gov/pubmed/23275721
