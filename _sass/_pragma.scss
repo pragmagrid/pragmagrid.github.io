@@ -21,6 +21,11 @@ $grey-light: #fafafa;
 .column-left { border: 0px solid red; width:80%; float:left; line-height:18px; padding-top: 2px; }
 .column-right { border: 0px solid green; width:20%; float:right; padding-top: 2px; }
 
+/*  for a leftmenu layout column left for links content and column right for
+ *  content */
+.column-menu-left { border: 0px solid red; width:19%; float:left; line-height:18px; padding-top: 2px; padding-right:2px}
+.column-content-right { border: 0px solid green; width:80%; float:right; padding-top: 2px; padding-left: 2px}
+
 /*  for a two-column layout column1 and  column2 are roughly same width */
 .column1 { border: 0px solid red; width:43%; float:left; line-height:18px; padding-top: 2px; }
 .column2 { border: 0px solid green; width:56%; float:right; padding-top: 2px; }
@@ -62,3 +67,5 @@ $ggrey: #eee;
 .generic th { color: $blue-dark; background-color : $ggrey; }
 .generic td { padding : 5px 10px 15px 10px; }
 
+/* active page in publication layout */
+.active { color: $orange !important; text-decoration: underline; }
