@@ -38,6 +38,8 @@ database as HIV-1 reverse transcriptase inhibitor. Bioinformation.  2012;8(24):1
 doi: 10.6026/97320630081206. Epub 2012 Dec 8,
 http://www.ncbi.nlm.nih.gov/pubmed/23275721
 
-Biosciences Patent: Haga, JH, Chien S, Mui M, Pham PD, Levesque MJ. 2012. SSH-2 (SlingSHot-2)
+<div class="border">Biosciences Patent</div>
+
+Haga, JH, Chien S, Mui M, Pham PD, Levesque MJ. 2012. SSH-2 (SlingSHot-2)
 Inhibitors and Methods for Making and Using Them (Patent, PCT/US12/29267).
 
