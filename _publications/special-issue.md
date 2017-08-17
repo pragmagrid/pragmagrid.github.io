@@ -26,39 +26,39 @@ reflection (Arzberger 2017) and six research papers organized into three themes:
 Note: The articles that appear in this section are not listed again in the other separate sections.
 
 
-Pacific Rim Applications and Grid Middleware Assembly (PRAGMA) special issue on  
-international clouds for data science, B. Plale and M. Chen Eds. Concurrency and 
+[**Pacific Rim Applications and Grid Middleware Assembly (PRAGMA) special issue on  
+international clouds for data science**](https://doi.org/10.1002/cpe.v29.13), B. Plale and M. Chen Eds. Concurrency and 
 Computation: Practice and Experience, John Wiley and Sons, Vol. 29, Issue 13, 2017. 
-DOI: 10.1002/cpe.v29.13/issuetoc  
-(http://onlinelibrary.wiley.com/doi/10.1002/cpe.v29.13/issuetoc) 
+DOI: 10.1002/cpe.v29.13
 
-Plale B, Chen, M. 2017. Pacific Rim Applications and Grid Middleware Assembly (PRAGMA): 
-International clouds for data science. Ibid. DOI: 10.1002/cpe.4140
+Plale B, Chen, M. 2017. [**Pacific Rim Applications and Grid Middleware Assembly (PRAGMA): 
+International clouds for data science**](https://doi.org/10.1002/cpe.4140). DOI: 10.1002/cpe.4140
 
-Arzberger P. 2017. A reflection on the origins, evolution, and future of PRAGMA. Ibid. DOI: 
-10.1002/cpe.4136
+Arzberger P. 2017. 
+[**A reflection on the origins, evolution, and future of PRAGMA**](https://doi.org/10.1002/cpe.4136). 
+DOI: 10.1002/cpe.4136
 
-Smallen S, Williams N, Papadopoulos P. 2017. Lightweight scheduling for the PRAGMA cloud 
-testbed, Ibid. 10.1002/cpe.4132
+Smallen S, Williams N, Papadopoulos P. 2017. [**Lightweight scheduling for the PRAGMA cloud 
+testbed**](https://doi.org/10.1002/cpe.4132). DOI: 10.1002/cpe.4132
 
-Ichikawa K, U-Chupala P, Huang C, Nakasan C, Liu T-L, Chang J-Y, et al. 2017. PRAGMA-
-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim. Ibid. 
-10.1002/cpe.4138
+Ichikawa K, U-Chupala P, Huang C, Nakasan C, Liu T-L, Chang J-Y, et al. 2017.  
+[**PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific
+Rim**](https://doi.org/10.1002/cpe.4138). DOI: 10.1002/cpe.4138
 
-Nakasan C, Ichikawa K, Iida H, Uthayopas P. 2017. A simple multipath openflow controller 
-using topology-based algorithms for multipath TCP. Ibid. 10.1002/cpe.4134
+Nakasan C, Ichikawa K, Iida H, Uthayopas P. 2017. [**A simple multipath openflow controller 
+using topology-based algorithms for multipath TCP**](https://doi.org/10.1002/cpe.4134). DOI: 10.1002/cpe.4134
 
-Subratie KC, Aditya S, Mahesula S, Figueiredo R, Carey CC, Hanson PC. 2017. GRAPLEr: A 
-distributed collaborative environment for lake ecosystem modeling that integrates overlay 
-networks, high-throughput computing, and web services. Ibid. DOI: 10.1002/cpe.4139
+Subratie KC, Aditya S, Mahesula S, Figueiredo R, Carey CC, Hanson PC. 2017.
+[**GRAPLEr: A distributed collaborative environment for lake ecosystem modeling that integrates overlay 
+networks, high-throughput computing, and web services**](https://doi.org/10.1002/cpe.4139).  DOI: 10.1002/cpe.4139
 
-Williams N, Stewart A, Papadopoulos P. 2017. Virtualizing Lifemapper software infrastructure
-for biodiversity expedition. Ibid. DOI: 10.1002/cpe.4137
+Williams N, Stewart A, Papadopoulos P. 2017. [**Virtualizing Lifemapper software infrastructure
+for biodiversity expedition**](https:doi.org/10.1002/cpe.4137). DOI: 10.1002/cpe.4137
 
-Lee J-G, Tsai W-F, Lee L-C, Lin C-Y, Lin H-C, Tsuang B-J. 2017. In-place query driven big
-data platform: Applications to post processing of environmental monitoring. Ibid.  DOI:
-10.1002/cpe.4135
+Lee J-G, Tsai W-F, Lee L-C, Lin C-Y, Lin H-C, Tsuang B-J. 2017. [**In-place query driven big
+data platform: Applications to post processing of environmental
+monitoring**](https://doi.org/10.1002/cpe.4135). DOI: 10.1002/cpe.4135
 
-Wong L, Shimojo S, Teranishi Y, Yoshinhisa T, Haga JH. 2017. Interactive museum exhibits
-with embedded systems: A use-case scenario. Ibid.  DOI: 10.1002/cpe.4141
+Wong L, Shimojo S, Teranishi Y, Yoshinhisa T, Haga JH. 2017. [**Interactive museum exhibits
+with embedded systems: A use-case scenario**](https://doi.org/10.1002/cpe.4141). DOI: 10.1002/cpe.4141
 
