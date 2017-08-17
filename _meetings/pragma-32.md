@@ -39,8 +39,7 @@ date: 2017-01-13
   * **[Towards Enhancing Usability and Modularity of the PRAGMA Cloud Scheduler][11]**, 
     Nannapas Banluesombatkul and Prapansak Kaewlamul
   * **[Identifying early warning indicators of eutrophication to inform real-world management:
-    engaging long-term datasets, ecosystem modeling, committed citizen scientists, and remote 
-	sensing][12]**, Nicole Ward
+    engaging long-term datasets, ecosystem modeling, committed citizen scientists, and remote sensing][12]**, Nicole Ward
   * **[Applying Deep Learning to Network Traffic Identification and Categorization][13]**, Pongsakorn U-chupala
   * **[Metalimnetic oxygen minimum zones decouple diffusive methane and carbon dioxide fluxes from 
     seasonal turnover in a eutrophic reservoir ][14]**, Ryan McClure

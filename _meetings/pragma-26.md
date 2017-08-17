@@ -62,7 +62,7 @@ date: 2014-04-09
 * [Telesciences/ Remote Sensing][21], Shinji Shimojo, Fang-Pang Lin, Sornthep Vannarat
 * Scientific Expeditions, Reed Beaman, Paul Hanson, Chao-Chin Lin
     * [Biodiversity][22]
-	* [Lake Eutrophication][23]
+    * [Lake Eutrophication][23]
 * [Cyber-learning/ Distance Education][24], Ruth Lee
 
 #### Demo/ Innovation Session 1

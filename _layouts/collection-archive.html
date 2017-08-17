@@ -29,7 +29,7 @@ are archived and are availalbe for download from the git repository
               <tr>
                 <td>
                    {% if service.dates %}
-				     {% assign words = service.dates | split: ',' %}
+                     {% assign words = service.dates | split: ',' %}
                      <span class="dates">{{ words[1] }}, {{ words[0] }}</span>
                    {% else %}
                      <span class="dates">{{ service.date | date: '%Y, %B %d'  }}</span>

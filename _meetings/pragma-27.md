@@ -49,10 +49,10 @@ Track I: Student Lightning Talks
 
     * Bioscience Jason Haga
 
-	     * [Disease BioPortal (pdf)][24], Nor Arlina Amirah Ahmad Ghani
-	     * [Implementing Citizen Science in Biodiversity Conservation:
-		   EcoSabah - Android APplicaiton Reporting Solution for Species
-		   Occurrences in Sabah, Malaysia (pdf)][25], Nor Arlina Amirah Ahmad Ghani
+         * [Disease BioPortal (pdf)][24], Nor Arlina Amirah Ahmad Ghani
+         * [Implementing Citizen Science in Biodiversity Conservation:
+           EcoSabah - Android APplicaiton Reporting Solution for Species
+           Occurrences in Sabah, Malaysia (pdf)][25], Nor Arlina Amirah Ahmad Ghani
 
     * Cyber-learning/Distance Education, Jong Suk Ruth Lee
     * Resources, Networking and Data. Beth Plale, Philip Papadopoulos, Yoshio Tanaka
@@ -61,17 +61,17 @@ Track I: Student Lightning Talks
 * 3:30pm - 4:45pm Demonstration/Innovation Session I: Potpourri 
 
     * River image monitoring and data analysis for bridge safety warning
-	  WenYu Chang, WheyFone Tsai, Franco Lin, ShiChing Lin, FangPang Lin
-	  National Center for High-Performance Computing
+      WenYu Chang, WheyFone Tsai, Franco Lin, ShiChing Lin, FangPang Lin
+      National Center for High-Performance Computing
 
-	* [Cross-Institute Virtual Cluster Management in PRAGMA][3],
-	  Yuan Luo, Shava Smallen, Nadya Williams, Beth Plale, Philip Papadopoulos
-	  Indiana University, University of California San Diego
+    * [Cross-Institute Virtual Cluster Management in PRAGMA][3],
+      Yuan Luo, Shava Smallen, Nadya Williams, Beth Plale, Philip Papadopoulos
+      Indiana University, University of California San Diego
 
-	* Internet of Things - Interactive Museum Models with Microcontrollers
-	  Nicole Wong, Jason Haga, Chad Weinard, Shinji Shimojo, Teruaki Yokoyama,
-	  Yuichi Teranishi, Yoshimasa Ishi
-	  UCSD, AIST, BPOC, Osaka U/NICT, Kobe Institute of Computing, Osaka U
+    * Internet of Things - Interactive Museum Models with Microcontrollers
+      Nicole Wong, Jason Haga, Chad Weinard, Shinji Shimojo, Teruaki Yokoyama,
+      Yuichi Teranishi, Yoshimasa Ishi
+      UCSD, AIST, BPOC, Osaka U/NICT, Kobe Institute of Computing, Osaka U
 
 * 6:00pm - 8:00pm Poster Session 
 
@@ -85,7 +85,7 @@ Track I: Student Lightning Talks
 
     * [PRAGMA/GLEON Lake Expedition HTCondor Overlay Network (pdf)][7],
       Renato Figueiredo, Kensworth Subratie (University of Florida), 
-	  Paul Hanson, Craig Snortheim (University of Wisconsin),
+      Paul Hanson, Craig Snortheim (University of Wisconsin),
       Cayelan Carey (Virginia Tech)
 
     * [Lifemapper as a deck of Virtual Components][6], Nadya Williams (UCSD), Aimee, Stewart (KU)
@@ -115,7 +115,7 @@ Track I: Student Lightning Talks
    * Resources, Networking and Data Philip Papadopoulos, Beth Plale
 
        * [ENT - PRAGMA Experimental Network Testbed (pdf)][10] Mauricio Tsugawa, Kohei Ichikawa
-	   * [Resources WG Report][30], Phil Papadopoulos
+       * [Resources WG Report][30], Phil Papadopoulos
 
    * Telesciences/Remote Sensing/Geoscience Fang-Pang Lin, Shimojo Shinji, Sorthep Vannarat
 

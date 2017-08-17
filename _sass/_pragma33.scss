@@ -79,7 +79,7 @@ $paleblue2: #efecf0;
 */
 
 body.pragma33 nav {
-	width:100%;
+    width:100%;
     background-color: $pearl;
     float: right;
     font-weight: 900;
@@ -91,7 +91,7 @@ body.pragma33 nav {
         &:visited { color: $orange2; }
         &:hover { color: $blue1; }
         line-height: $base-line-height;
-		margin-left: 40px; 
+        margin-left: 40px; 
     }
     @include media-query($on-palm) {
         min-width: 150px;

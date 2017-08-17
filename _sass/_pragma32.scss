@@ -75,7 +75,7 @@ $paleblue1: #F5FAFF;
 $paleblue2: #E6F2FF;
 
 body.pragma32 nav {
-	width:100%;
+    width:100%;
     background-color: $green3;
     float: right;
     font-weight: 900;
@@ -87,7 +87,7 @@ body.pragma32 nav {
         &:visited { color: $green2; }
         &:hover { color: $pink1; }
         line-height: $base-line-height;
-		margin-left: 40px; 
+        margin-left: 40px; 
     }
     @include media-query($on-palm) {
         min-width: 150px;
