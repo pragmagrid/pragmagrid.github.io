@@ -13,6 +13,8 @@ PRAGMA 33 workshop in Brisbane, Australia hosted by The University of Queensland
 <br>All PRAGMA 33 attendees are encouraged to submit abstracts to the demo
 session.
  
+<div class="border"><h2>Submission Instructions</h2></div>
+
 The demo can also be submitted to be shown at the PRAGMA booth at eResearch
 Australia. Please see [booth info](/pragma33-booth)
 
@@ -26,15 +28,18 @@ information:
 
 <br>
 
-## Submission Instructions
 Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. <br>
 Please see the [Registration details](http://www.pragma-grid.net/pragma33-registration/). 
 
 Please provide the information above (items 1 to 4) using the template
 **[PRAGMA 33 Demo template](https://drive.google.com/open?id=0B0FUjpQKIKsTNm5kZUl0TXdTck0)**.<br>
-All abstract for the demo should be submitted through the [EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by selecting "Demo Session" track.  
 
-## Important Dates
+<div class="border"><h2>Where to Submit</h2></div>
+
+All abstract for the demo should be submitted through the 
+[EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by selecting "Demo Session" track.  
+
+<div class="border"><h2>Important Dates</h2></div>
 
 Demo abstract submission deadline: **September 15th, 2017** <br>
 Author notification: **September 25th, 2017**

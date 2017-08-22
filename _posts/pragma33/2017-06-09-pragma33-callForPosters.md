@@ -15,7 +15,8 @@ one-on-one discussions next to the poster.
 The best 3 posters will be submitted to be shown at the PRAGMA booth at eResearch
 Australia. Please see [booth info](/pragma33-booth)
 
-## Submissions
+<div class="border"><h2>Submissions</h2></div>
+
 Authors are expected to both present their poster during poster sessions and
 to give a three (3) minute introductory lightning talk. As such, an acceptable
 submission must include a PDF of the poster text abstract. The abstract will
@@ -32,9 +33,15 @@ All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.
 
-Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https://drive.google.com/open?id=0B0FUjpQKIKsTaE9ueDBJREJYdFU)** to submit poster/lightning talk. All abstract for the poster and lightning talk should be submitted through the [EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by selecting "Lightning Talk and Poster Session" track.
+Please use the **[PRAGMA 33 Poster / Lightning Talks Submission template](https://drive.google.com/open?id=0B0FUjpQKIKsTaE9ueDBJREJYdFU)** to submit poster/lightning talk. 
 
-## Important Dates
+<div class="border"><h2>Where to Submit</h2></div>
+
+All abstract for the poster and lightning talk should be submitted through the 
+[EasyChair submission system](https://easychair.org/conferences/?conf=pragma33) by 
+selecting "Lightning Talk and Poster Session" track.
+
+<div class="border"><h2>Important Dates</h2></div>
 
 Submission deadline to be considered for participation is **September 15, 2017**.<br>  
 Review feedback and acceptance notice will be provided by **September 24, 2017**.  
