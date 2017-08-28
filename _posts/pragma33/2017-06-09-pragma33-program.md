@@ -18,7 +18,7 @@ short: program
 ## Monday, October 16th, Brisbane Convention and Exhibition Centre
 
 <table class="program32">
-  <col width="240">
+  <col width="350">
   <tr>
     <th>Time</th>
     <th>Activity</th>
