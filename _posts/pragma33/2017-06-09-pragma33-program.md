@@ -24,7 +24,7 @@ short: program
   </tr>
   <tr>
     <td>8:45-8:55</td>
-    <td><strong>Welcome statements</strong></td>
+    <td><strong>Welcome statement</strong></td>
   </tr>
   <tr>
     <td>9:00-10:00</td>
