@@ -29,8 +29,8 @@ short: program
   <tr>
     <td>9:00-10:00</td>
     <td><strong>Keynote</strong>
-        <br>The Atlas of Living Australia: Sharing biodiversity information to inform research, policy and operational outcomes - Dr John La Salle
-        <br>eReefs - Cedric Robillot</td>
+        <br>Dr John La Salle - The Atlas of Living Australia: Sharing biodiversity information to inform research, policy and operational outcomes
+        <br>Cedric Robillot - Title TBA - </td>
   </tr>
   <tr>
     <td>10:00-10:30</td>
@@ -96,10 +96,10 @@ short: program
     <tr>
     <td>9:00-10:30</td>
     <td><strong>Plenary</strong>
-        <br>Peter Scarth
+        <br>Peter Scarth - Title TBA
         <br>Sandra Gesing - Science Gateway Overview
         <br>PRAGMA and Science Gateway Intersection Panel Q&A 
-         </td>
+    </td>
    </tr>
   <tr>
     <td>10:30-11:00</td>
@@ -115,12 +115,11 @@ short: program
   </tr>
   <tr>
     <td>14:00-14:20</td>
-    <td>Demo session if required; planning for PRAGMA booth in eResearch Australasia 2017; discussion of future of PRAGMA -- Session Chair TBD</td>
+    <td>Demo session if required; planning for PRAGMA booth in eResearch Australasia 2017; discussion of future of PRAGMA</td>
   </tr>
   <tr>
     <td>14:20-14:50</td>
-    <td><strong>COFFEE/TEA BREAK</strong>
-        </td>
+    <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
   <tr>
     <td>14:50-16:00</td>
