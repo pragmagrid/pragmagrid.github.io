@@ -51,7 +51,7 @@ If you have any questions, please do not hesitate to contact the
 Poster and Lightning Talks chair:
 
 Minh Dinh, m(dot)dinh1 (at) uq (dot) edu (dot) au<br />
-Huang Che, huangche(at) is(dot)naist(dot) jp<br/>
+Che Huang, huangche(at) is(dot)naist(dot) jp<br/>
 
 
 
