@@ -34,4 +34,5 @@ Nurul Hashimah Ahamed Hassain Malim, Universiti Sains Malaysia<br/>
 
 ## Student Posters and Lightning Talks
 Minh Dinh, University of Queensland<br/>
+Che Huang, Nara Institute of Science and Technology<br/>
 
