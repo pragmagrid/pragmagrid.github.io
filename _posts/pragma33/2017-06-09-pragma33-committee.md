@@ -30,7 +30,7 @@ Chawanat Nakasan, Nara Institute of Science and Technology<br/>
 
 ## Demo Committee
 Yoshiyuki Kido, Osaka University<br/>
-Wanida Putthividhya, Thammasat University<br/>
+Nurul Hashimah Ahamed Hassain Malim, Universiti Sains Malaysia<br/>
 
 ## Student Posters and Lightning Talks
 Minh Dinh, University of Queensland<br/>
