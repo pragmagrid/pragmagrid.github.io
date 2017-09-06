@@ -7,6 +7,10 @@ category: res-wg
 
 <div class="border">2017</div>
 
+U-chupala P, Watashiba Y, Ichikawa K, Date S, Iida H. 2017. Container Rebalancing: Towards
+Proactive Linux Containers Placement Optimization in a Data Center. The 41th IEEE Computer
+Society International Conference on Computers, Software & Applications (COMPSAC).
+
 Lee GJ Fortes JAB. 2017 Hierarchical Self-Tuning of Concurrency and Resource
 Units in Data-Analytics Frameworks. 14th International Conference on Autonomic Computing,
 July 17-20, 2017, Columbus, Ohio. (One of three candidates for the Karsten Schwan Best
