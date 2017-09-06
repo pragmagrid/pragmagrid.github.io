@@ -29,7 +29,7 @@ short: program
   <tr>
     <td>9:00-10:00</td>
     <td><strong>Keynote</strong>
-        <br>Dr John La Salle - The Atlas of Living Australia: Sharing biodiversity information to inform research, policy and operational outcomes
+        <br>Lee Belbin - The Atlas of Living Australia: Sharing biodiversity information to inform research, policy and operational outcomes
         <br>Cedric Robillot - Title TBA </td>
   </tr>
   <tr>
