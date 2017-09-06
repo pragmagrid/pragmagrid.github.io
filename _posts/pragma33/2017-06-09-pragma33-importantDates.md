@@ -6,7 +6,7 @@ workshop: pragma33
 short: dates
 ---
 
-#### September 01, 2017: [eResearch Australasia 2017 Posters and Solutions Showcases deadline] (https://conference.eresearch.edu.au/abstract-submission/)
+#### September 08, 2017: [eResearch Australasia 2017 Posters and Solutions Showcases deadline](https://conference.eresearch.edu.au/abstract-submission/)
 #### September 15, 2017: [Demo Abstract Submission deadline](http://www.pragma-grid.net/pragma33-callForDemos/)
 
 #### September 15, 2017: [Poster/Lightning Talks Submission deadline](http://www.pragma-grid.net/pragma33-callForPosters/)
