@@ -37,11 +37,11 @@ Conference on Entertainment Computing. pp. 149-160. Sep. 2016.
 Khumngoen W, Putthividhya W, Tan-anannuwat V. 2016. Fine-grained bandwidth allocation in  
 software-defined networks. IEEE International Computer Science and Engineering Conference (ICSEC).
 
-Watashiba Y, Susumu Date S, Abe H, Ichikawa K, Kido Y, Yamanaka H, Kawai E, Shimojo S.
+Watashiba Y, Susumu Date S, Abe H, Ichikawa K, Kido Y, Yamanaka H, Kawai E, Shimojo S. 
 2016. Architecture of Virtualized Computational Resource Allocation on SDN-enhanced Job 
-Management System Framework. Proceedings of the 39th IEEE International Convention on  
+Management System Framework. Proceedings of the 39th IEEE International Convention on 
 Information and Communication Technology, Electronics and Microelectronics (MIPRO 2016). 
-pp. 257-262. May. 2016. [DOI: 10.1109/MIPRO.2016.7522145]
+pp. 257-262. May. 2016. DOI: 10.1109/MIPRO.2016.7522145
 
 <div class="border">2015</div>
 
