@@ -6,20 +6,21 @@ workshop: pragma33
 short: dates
 ---
 
-#### September 08, 2017: [eResearch Australasia 2017 Posters and Solutions Showcases deadline](https://conference.eresearch.edu.au/abstract-submission/)
-#### September 15, 2017: [Demo Abstract Submission deadline](http://www.pragma-grid.net/pragma33-callForDemos/)
+September 08, 2017: [eResearch Australasia 2017 Posters and Solutions Showcases deadline](https://conference.eresearch.edu.au/abstract-submission/)
 
-#### September 15, 2017: [Poster/Lightning Talks Submission deadline](http://www.pragma-grid.net/pragma33-callForPosters/)
+September 15, 2017: [Demo Abstract Submission deadline](http://www.pragma-grid.net/pragma33-callForDemos/)
 
-#### September 15, 2017: Last day for early bird registration for [eReseach Australasia conference](https://conference.eresearch.edu.au/registration-2017/)
+September 15, 2017: [Poster/Lightning Talks Submission deadline](http://www.pragma-grid.net/pragma33-callForPosters/)
 
-#### September 15, 2017: Last day for PRAGMA workshop Registration and [group-rate-guaranteed reservation at designated Hotels](https://conference.eresearch.edu.au/2017-accommodation-brisbane/)
+September 15, 2017: Last day for early bird registration for [eReseach Australasia conference](https://conference.eresearch.edu.au/registration-2017/)
 
-#### September 24, 2017: Poster Review Feedback and Acceptance Notification
+September 15, 2017: Last day for PRAGMA workshop Registration and [group-rate-guaranteed reservation at designated Hotels](https://conference.eresearch.edu.au/2017-accommodation-brisbane/)
 
-#### September 25, 2017: Demo Acceptance Notification
+September 24, 2017: Poster Review Feedback and Acceptance Notification
 
-#### October 16-17, 2017: PRAGMA 33 Workshop
+September 25, 2017: Demo Acceptance Notification
 
-#### October 18-20, 2017: eResearch Australasia 2017
+October 16-17, 2017: PRAGMA 33 Workshop
+
+October 18-20, 2017: eResearch Australasia 2017
 

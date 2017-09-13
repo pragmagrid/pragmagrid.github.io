@@ -71,7 +71,8 @@ $orange2: darken($orange1, 5%);
 $pearl: #dde9ff;
 $blue1: #3595d4;
 $paleblue1: lighten($pearl,5%);
-$paleblue2: lighten($pearl,9%);
+$paleblue2: lighten($blue1,39%);
+$paleorange: lighten($orange1,40%);
 /*
 $paleblue1: lighten(#efecf0,3%);
 $paleblue2: #E6F2FF;
@@ -99,14 +100,15 @@ body.pragma33 nav {
 }
 
 /* for program table */
-body.pragma33 .program33  { padding: 2px; width: 60%; }
-body.pragma33 .program33 th { font-weight: bold; color: $orange2;  font-size: 12px; background: $pearl;}
+body.pragma33 .program33  { padding: 2px; width: 90%; }
+body.pragma33 .program33 th { font-weight: bold; color: $orange2;  font-size: 14px; background: $paleorange;}
 body.pragma33 .program33 tr { border: 2px solid white; }
 body.pragma33 .program33 tr:hover { background-color: #f5f5f5 }
 body.pragma33 .program33 tr:nth-child(odd) { background-color : $paleblue1; }
 body.pragma33 .program33 tr:nth-child(even) { background-color : $paleblue2; }
 body.pragma33 .program33 td { padding : 5px 2px 5px 10px; }
 body.pragma33 .program33 tr td:nth-child(1) { font-weight : bold; }
+body.pragma33 .program33col tr,th { width: 15px; }
 
 body.pragma33 #sponsors img {
   display: inline-block;

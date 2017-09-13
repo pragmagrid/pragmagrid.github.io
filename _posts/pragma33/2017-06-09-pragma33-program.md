@@ -5,25 +5,31 @@ date: 2017-06-09
 workshop: pragma33
 short: program
 ---
-# Tentative Program
 
-<table class="program32">
+## Sunday, October 15th
+
+<table class="program33">
   <tr>
-    <td>October 15th 2017</td>
-    <td>PRAGMA Welcome Reception
-        <br>5:30 PM: Venue to be announce later</td>
-  </tr>
-</table>
-
-## Monday, October 16th, Brisbane Convention and Exhibition Centre
-
-<table class="program32">
-  <tr>
-    <th>Time</th>
+    <th class="program33col">Time</th>
     <th>Activity</th>
   </tr>
   <tr>
-    <td>8:45-8:55</td>
+    <td>17:30</td>
+    <td>PRAGMA Welcome Reception<br>Venue TBA later</td>
+  </tr>
+</table>
+
+<br>
+
+## Monday, October 16th, Brisbane Convention and Exhibition Centre
+
+<table class="program33">
+  <tr>
+    <th class="program33col">Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td class="program33col">8:45-8:55</td>
     <td><strong>Welcome statement</strong></td>
   </tr>
   <tr>
@@ -93,7 +99,7 @@ short: program
 
 ## Tuesday, October 17th, Brisbane Convention and Exhibition Centre
  
-<table class="program32">
+<table class="program33">
   <tr>
     <th>Time</th>
     <th>Activity</th>
