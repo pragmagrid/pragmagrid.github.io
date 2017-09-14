@@ -70,9 +70,9 @@ $orange1: #fc510d;
 $orange2: darken($orange1, 5%);
 $pearl: #dde9ff;
 $blue1: #3595d4;
-$paleblue1: lighten($pearl,5%);
-$paleblue2: lighten($blue1,39%);
-$paleorange: lighten($orange1,40%);
+$paleblue2: lighten($pearl,5%);
+$paleblue1: lighten($blue1,42%);
+$paleorange: lighten($orange1,42%);
 /*
 $paleblue1: lighten(#efecf0,3%);
 $paleblue2: #E6F2FF;
@@ -101,7 +101,7 @@ body.pragma33 nav {
 
 /* for program table */
 body.pragma33 .program33  { padding: 2px; width: 90%; }
-body.pragma33 .program33 th { font-weight: bold; color: $orange2;  font-size: 14px; background: $paleorange;}
+body.pragma33 .program33 th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
 body.pragma33 .program33 tr { border: 2px solid white; }
 body.pragma33 .program33 tr:hover { background-color: #f5f5f5 }
 body.pragma33 .program33 tr:nth-child(odd) { background-color : $paleblue1; }
