@@ -12,10 +12,51 @@ The workshop is co-located with the [eResearch Australasia conference, 2017](htt
 PRAGMA will have a booth at the conference during October 18-20, 2017. 
 
 PRAGMA attendees who are submitting poster, demo or talk can also 
-present their work at the booth. 
+present their work at the booth.  The demo can be about your PRAGMA activities
+or about your Research organization activities. We are happy to exhibit 
+any research-related printed material that you can provide (brochures,
+posters).
+
+Each session will be about 1.5 hr long  and will be time-slot-aligned with e-Research 
+presentations so nobody will need to stay in the booth  for the whole duration
+but will only need to be in the booth during some of these 5 sessions.  
+**The demos are "on demand"** so nobody will be
+at the booth for an extended time
+and will have a chance to attend other eResearch activities. 
 
 Depending on the number of submissions and respective presenters time
-availability, we will make a schedule for the booth demos. 
+availability, we will make a schedule for the booth demos.  Current proposed
+schedule:
+
+<table class="program33">
+  <tr>
+    <th class="program33col">Day</th>
+    <th>Session</th>
+  </tr>
+  <tr>
+    <td>We, Oct 18</td>
+    <td>Morning 10:30 - 12:30</td>
+  </tr>
+  <tr>
+    <td>We, Oct 18</td>
+    <td>Afternoon 13:30 - 15:30</td>
+  </tr>
+  <tr>
+    <td>Th, Oct 19</td>
+    <td>Morning 10:30 - 12:30</td>
+  </tr>
+  <tr>
+    <td>Th, Oct 19</td>
+    <td>Afternoon 13:30 - 15:30</td>
+  </tr>
+  <tr>
+    <td>Fr, Oct 20</td>
+    <td>Morning 10:30 - 12:30</td>
+  </tr>
+</table>
+
+<br>
+
 
 **Booth Attributes:**
 
