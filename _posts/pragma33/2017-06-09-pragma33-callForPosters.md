@@ -43,8 +43,8 @@ selecting "Lightning Talk and Poster Session" track.
 
 <div class="border"><h2>Important Dates</h2></div>
 
-Submission deadline to be considered for participation is **September 15, 2017**.<br>  
-Review feedback and acceptance notice will be provided by **September 24, 2017**.  
+Submission deadline to be considered for participation is **September 30, 2017**.<br>  
+Review feedback and acceptance notice will be provided by **October 3, 2017**.  
 <br />
 
 If you have any questions, please do not hesitate to contact the
