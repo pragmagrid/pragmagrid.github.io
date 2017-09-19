@@ -28,7 +28,7 @@ information:
 
 <br>
 
-Registration for the main PRAGMA 33 event **by September 17, 2017** is required prior to Demo Request submission. <br>
+Registration for the main PRAGMA 33 event is required prior to Demo Request submission. <br>
 Please see the [Registration details](http://www.pragma-grid.net/pragma33-registration/). 
 
 Please provide the information above (items 1 to 4) using the template
