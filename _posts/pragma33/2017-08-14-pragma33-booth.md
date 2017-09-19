@@ -30,28 +30,46 @@ schedule:
 
 <table class="program33">
   <tr>
-    <th class="program33col">Day</th>
-    <th>Session</th>
+    <th width="10%">Day</th>
+    <th width="20%">Session</th>
+    <th>Demo</th>
   </tr>
   <tr>
-    <td>We, Oct 18</td>
-    <td>Morning 10:30 - 12:30</td>
+    <td>We<br>Oct 18</td>
+    <td>Morning<br>10:30 - 12:30</td>
+    <td>Nurul Hashimah Ahamed Hassain Malim (TBA)<br>
+        Heru Suhartanto <b>HPC Resources Management Portal with Job Scheduler
+        and Load Balancer based on High Throughput Condor: Molecular Dynamics
+        Case Study</b>
+    </td>
   </tr>
   <tr>
-    <td>We, Oct 18</td>
-    <td>Afternoon 13:30 - 15:30</td>
+    <td>We<br> Oct 18</td>
+    <td>Afternoon<br>13:30 - 15:30</td>
+    <td>Ken Subtrate (TBA)<br>
+        Jason Haga (TBA)
+    </td>
   </tr>
   <tr>
-    <td>Th, Oct 19</td>
-    <td>Morning 10:30 - 12:30</td>
+    <td>Th<br> Oct 19</td>
+    <td>Morning<br>10:30 - 12:30</td>
+    <td>Nurul Hashimah Ahamed Hassain Malim (TBA)<br>
+        Kohei Ichikawa (TBA)
+	</td>
   </tr>
   <tr>
-    <td>Th, Oct 19</td>
-    <td>Afternoon 13:30 - 15:30</td>
+    <td>Th<br> Oct 19</td>
+    <td>Afternoon<br>13:30 - 15:30</td>
+    <td>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b><br>
+        Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b>
+	</td>
   </tr>
   <tr>
-    <td>Fr, Oct 20</td>
-    <td>Morning 10:30 - 12:30</td>
+    <td>Fr<br> Oct 20</td>
+    <td>Morning<br>10:30 - 12:30</td>
+    <td>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b><br>
+        Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b>
+	</td>
   </tr>
 </table>
 
