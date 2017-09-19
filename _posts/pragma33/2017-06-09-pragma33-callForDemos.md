@@ -41,8 +41,8 @@ All abstract for the demo should be submitted through the
 
 <div class="border"><h2>Important Dates</h2></div>
 
-Demo abstract submission deadline: **September 15th, 2017** <br>
-Author notification: **September 25th, 2017**
+Demo abstract submission deadline: **September 30th, 2017** <br>
+Author notification: **October 3rd, 2017**
 <br>
 We are looking forward to your submissions. If you have any questions
 regarding the demo abstract submission, please contact our demo chairs:
