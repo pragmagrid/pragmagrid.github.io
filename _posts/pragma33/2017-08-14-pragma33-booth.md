@@ -34,42 +34,55 @@ schedule:
     <th width="20%">Session</th>
     <th>Demo</th>
   </tr>
+
   <tr>
     <td>We<br>Oct 18</td>
     <td>Morning<br>10:30 - 12:30</td>
-    <td>Nurul Hashimah Ahamed Hassain Malim (TBA)<br>
-        Heru Suhartanto <b>HPC Resources Management Portal with Job Scheduler
-        and Load Balancer based on High Throughput Condor: Molecular Dynamics
-        Case Study</b>
-    </td>
+    <td><ul>
+        <li>Nurul Hashimah Ahamed Hassain Malim <b>Cheminformatics at Universiti Sains Malaysia</b></li>
+        <li>Heru Suhartanto <b>HPC Resources Management Portal with Job Scheduler
+            and Load Balancer based on High Throughput Condor: Molecular Dynamics Case Study</b></li>
+    </ul></td>
   </tr>
+
   <tr>
     <td>We<br> Oct 18</td>
     <td>Afternoon<br>13:30 - 15:30</td>
-    <td>Ken Subtrate (TBA)<br>
-        Jason Haga (TBA)
-    </td>
+    <td><ul>
+        <li>Ken Subtrate (TBA)</li>
+        <li>Jason Haga <b>VR demo</b></li>
+        <li>Kwan Wing Keung <b>Hong Kong University HPC facilities, research, and collaborative work with different 
+            consortium and supercomputer centres in China.</b></li>
+    </ul></td>
   </tr>
+
   <tr>
     <td>Th<br> Oct 19</td>
     <td>Morning<br>10:30 - 12:30</td>
-    <td>Nurul Hashimah Ahamed Hassain Malim (TBA)<br>
-        Kohei Ichikawa (TBA)
-	</td>
+    <td><ul>
+        <li>Nurul Hashimah Ahamed Hassain Malim <b>Cybercriminal Personality Detection through Machine Learning</b></li>
+        <li>Kohei Ichikawa <b>An Optimal Multipath Assignment Technique for OpenFlow Network</b></li>
+        <li>Kwan Wing Keung <b>Hong Kong University HPC facilities, research, and collaborative work with different 
+            consortium and supercomputer centres in China.</b></li>
+    </ul></td>
   </tr>
+
   <tr>
     <td>Th<br> Oct 19</td>
     <td>Afternoon<br>13:30 - 15:30</td>
-    <td>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b><br>
-        Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b>
-	</td>
+    <td><ul>
+        <li>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b></li>
+        <li>Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b></li>
+    </ul></td>
   </tr>
   <tr>
     <td>Fr<br> Oct 20</td>
     <td>Morning<br>10:30 - 12:30</td>
-    <td>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b><br>
-        Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b>
-	</td>
+    <td><ul>
+        <li>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b></li>
+        <li>Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b><br></li>
+        <li>Jason Haga <b>VR demo</b></li>
+    </ul></td>
   </tr>
 </table>
 
