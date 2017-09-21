@@ -36,17 +36,18 @@ schedule:
   </tr>
 
   <tr>
-    <td>We<br>Oct 18</td>
+    <td rowspan="2">We<br>Oct 18</td>
     <td>Morning<br>10:30 - 12:30</td>
     <td><ul>
         <li>Nurul Hashimah Ahamed Hassain Malim <b>Cheminformatics at Universiti Sains Malaysia</b></li>
         <li>Heru Suhartanto <b>HPC Resources Management Portal with Job Scheduler
             and Load Balancer based on High Throughput Condor: Molecular Dynamics Case Study</b></li>
+        <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
+            execution on AIST AI Cloud</b></li>
     </ul></td>
   </tr>
 
   <tr>
-    <td>We<br> Oct 18</td>
     <td>Afternoon<br>13:30 - 15:30</td>
     <td><ul>
         <li>Ken Subtrate (TBA)</li>
@@ -57,18 +58,19 @@ schedule:
   </tr>
 
   <tr>
-    <td>Th<br> Oct 19</td>
+    <td rowspan="2">Th<br> Oct 19</td>
     <td>Morning<br>10:30 - 12:30</td>
     <td><ul>
         <li>Nurul Hashimah Ahamed Hassain Malim <b>Cybercriminal Personality Detection through Machine Learning</b></li>
         <li>Kohei Ichikawa <b>An Optimal Multipath Assignment Technique for OpenFlow Network</b></li>
         <li>Kwan Wing Keung <b>Hong Kong University HPC facilities, research, and collaborative work with different 
             consortium and supercomputer centres in China.</b></li>
+        <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
+            execution on AIST AI Cloud</b></li>
     </ul></td>
   </tr>
 
   <tr>
-    <td>Th<br> Oct 19</td>
     <td>Afternoon<br>13:30 - 15:30</td>
     <td><ul>
         <li>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b></li>
