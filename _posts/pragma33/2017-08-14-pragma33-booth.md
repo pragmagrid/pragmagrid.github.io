@@ -52,8 +52,9 @@ schedule:
     <td><ul>
         <li>Ken Subtrate (TBA)</li>
         <li>Jason Haga <b>VR demo</b></li>
-        <li>Kwan Wing Keung <b>Hong Kong University HPC facilities, research, and collaborative work with different 
-            consortium and supercomputer centres in China.</b></li>
+        <li>Kwan Wing Keung <b>Researching computing support in University of
+		Hongkong Information Technology Services (ITS) and the fostering of
+		International research collaboration </b></li>
     </ul></td>
   </tr>
 
@@ -63,8 +64,9 @@ schedule:
     <td><ul>
         <li>Nurul Hashimah Ahamed Hassain Malim <b>Cybercriminal Personality Detection through Machine Learning</b></li>
         <li>Kohei Ichikawa <b>An Optimal Multipath Assignment Technique for OpenFlow Network</b></li>
-        <li>Kwan Wing Keung <b>Hong Kong University HPC facilities, research, and collaborative work with different 
-            consortium and supercomputer centres in China.</b></li>
+        <li>Kwan Wing Keung <b>Researching computing support in University of
+		Hongkong Information Technology Services (ITS) and the fostering of
+		International research collaboration </b></li>
         <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
             execution on AIST AI Cloud</b></li>
     </ul></td>
