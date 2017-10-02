@@ -39,7 +39,8 @@ schedule:
     <td rowspan="2">We<br>Oct 18</td>
     <td>Morning<br>10:30 - 12:30</td>
     <td><ul>
-        <li>Nurul Hashimah Ahamed Hassain Malim <b>Cheminformatics at Universiti Sains Malaysia</b></li>
+        <li>Nurul Hashimah Ahamed Hassain Malim <b>Cheminformatics at Universiti Sains 
+            Malaysia to Prediction of Drug Target Interaction Using Association Rule Mining</b></li>
         <li>Heru Suhartanto <b>HPC Resources Management Portal with Job Scheduler
             and Load Balancer based on High Throughput Condor: Molecular Dynamics Case Study</b></li>
         <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
@@ -53,8 +54,8 @@ schedule:
         <li>Ken Subtrate (TBA)</li>
         <li>Jason Haga <b>VR demo</b></li>
         <li>Kwan Wing Keung <b>Researching computing support in University of
-		Hongkong Information Technology Services (ITS) and the fostering of
-		International research collaboration </b></li>
+        Hongkong Information Technology Services (ITS) and the fostering of
+        International research collaboration </b></li>
     </ul></td>
   </tr>
 
@@ -65,8 +66,8 @@ schedule:
         <li>Nurul Hashimah Ahamed Hassain Malim <b>Cybercriminal Personality Detection through Machine Learning</b></li>
         <li>Kohei Ichikawa <b>An Optimal Multipath Assignment Technique for OpenFlow Network</b></li>
         <li>Kwan Wing Keung <b>Researching computing support in University of
-		Hongkong Information Technology Services (ITS) and the fostering of
-		International research collaboration </b></li>
+        Hongkong Information Technology Services (ITS) and the fostering of
+        International research collaboration </b></li>
         <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
             execution on AIST AI Cloud</b></li>
     </ul></td>
