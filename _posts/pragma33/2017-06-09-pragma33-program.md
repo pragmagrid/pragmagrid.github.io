@@ -15,8 +15,8 @@ short: program
   </tr>
   <tr>
     <td>5:30 - 7:00 PM</td>
-    <td>PRAGMA Welcome Reception<br>Venue: [The Terrace, Southbank Beer Garden
-30BA Stanley Plaza, South Brisbane, South Bank](https://www.google.com.au/maps/place/Southbank+Beer+Garden/@-27.478452,153.022927,15z/data=!4m5!3m4!1s0x0:0xe18fbcc8c0480572!8m2!3d-27.478452!4d153.022927)
+    <td>PRAGMA Welcome Reception<br>Venue: The Terrace, Southbank Beer Garden
+30BA Stanley Plaza, South Brisbane, South Bank, [Click here for Google Map](https://www.google.com.au/maps/place/Southbank+Beer+Garden/@-27.478452,153.022927,15z/data=!4m5!3m4!1s0x0:0xe18fbcc8c0480572!8m2!3d-27.478452!4d153.022927)
  </td>
   </tr>
 </table>
