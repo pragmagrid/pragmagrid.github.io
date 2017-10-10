@@ -15,4 +15,9 @@ There are wide range of accommodation options in the vicinity of the conference 
 
 ## Ground Transportation
 Brisbane offers a variety of transportation options that  include buses, trains, taxis and ferries. Trains and taxis are both available from the airport to South Brisbane. Please visit [Translink website](https://translink.com.au/) to know more about public transport and plan your journey.
+
+## Brisbane Weather
+Brisbane will have a pleasant weather during October with temperature in early to mid-20s degree centigrade with some moderate to heavy rainfall. Please see [Brisbane forecast](http://www.bom.gov.au/qld/forecasts/brisbane.shtml?ref=hdr) for more up to data weather information. The [weather radar](http://www.bom.gov.au/products/IDR663.loop.shtml) wil provide latest rainfall radar. 
+
+
   
