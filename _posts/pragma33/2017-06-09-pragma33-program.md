@@ -89,12 +89,12 @@ short: program
 </td>
    </tr>
    <tr>
-    <td>18:00</td>
-    <td>Social Event</td>
+    <td>18:00 - 21:00</td>
+    <td>Conference Dinner</td>
+    <td> <a href="https://www.google.com.au/search?q=Jetty+A+Southbank+Parklands&npsic=0&rflfq=1&rlha=0&rllag=-27477843,153023212,381&tbm=lcl&ved=0ahUKEwiQkNGI_NDWAhVD2LwKHYDUBYsQtgMIMg&tbs=lrf:!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2&rldoc=1#rlfi=hd:;si:17813822291445585030;mv:!1m3!1d3244.747110918004!2d153.02321204999998!3d-27.47784365!2m3!1f0!2f0!3f0!3m2!1i100!2i176!4f13.1"> Venue: River City Cruises, Sunset Dinner Cruise
+    Jetty A South Bank Parklands on the river right in front of the Wheel of Brisbane </a>
    </tr>
-
 </table> 
-
 
 <br>
 
