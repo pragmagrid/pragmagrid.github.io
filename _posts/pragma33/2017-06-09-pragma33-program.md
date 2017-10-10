@@ -113,6 +113,7 @@ short: program
         <br>Peter Scarth - Solving wicked problems for fun and profit: how do we maximise societal value from our data and compute resources
         <br>Sandra Gesing - Science Gateway Overview
         <br>PRAGMA and Science Gateway Intersection Panel Q&A 
+        <br> Q&A Panelists: Jason Haga, Shava Smallen, Sandra Gesing, Peter Scarth
     </td>
    </tr>
   <tr>
