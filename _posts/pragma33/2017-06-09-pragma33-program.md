@@ -51,7 +51,7 @@ short: program
   </tr>
   <tr>
     <td>11:00-11:30</td>
-    <td> Working group and Expedition updates (6 talks of 5 minutes each -- session chair Weicheng Huang</td>
+    <td> Working group and Expedition updates (6 talks of 5 minutes each) -- session chair Weicheng Huang</td>
   </tr>
   <tr>
     <td>11:30-12:00</td>
@@ -80,11 +80,11 @@ short: program
     <td>Poster session -- chairs: Che Huang and Minh Dinh</td>
   </tr>
   <tr>
-    <td>15:30-16:00</td>
+    <td>15:30-16:30</td>
     <td>Working group meeting continues</td>
   </tr>
    <tr>
-    <td>16:00-17:00</td>
+    <td>16:30-17:00</td>
     <td>Demo session - Part 1 -- Demo session chair -- Nurul Hashimah Ahamed Hassain Malim
 </td>
    </tr>
@@ -121,8 +121,12 @@ short: program
     <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
   <tr>
-    <td>11:00-12:00</td>
+    <td>11:00-11:30</td>
     <td>Demo Session - Part 2, session chair - Yoshiyuki Kido</td>
+  </tr>
+  <tr>
+    <td>11:30-12:00</td>
+    <td>PRIME Project update - Jason Haga</td>
   </tr>
   <tr>
     <td>12:00-14:00</td>
