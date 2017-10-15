@@ -86,6 +86,9 @@ short: program
    <tr>
     <td>16:30-17:00</td>
     <td>Demo session - Part 1 -- Demo session chair -- Nurul Hashimah Ahamed Hassain Malim
+      <br> Sarah Richmond, "An innovative tool for mapping and modelling species
+distributions: the Biodiversity and Climate Change Virtual Laboratory"
+      <br> Shava Smallen, "Increasing usability of the PRAGMA cloud testbed"
 </td>
    </tr>
    <tr>
@@ -121,11 +124,15 @@ short: program
     <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
   <tr>
-    <td>11:00-11:30</td>
-    <td>Demo Session - Part 2, session chair - Yoshiyuki Kido</td>
+    <td>11:00-11:45</td>
+    <td>Demo Session - Part 2, session chair - Yoshiyuki Kido
+    <br> Nurul Hashimah Ahamed Hassain Malim, "Cheminformatics at Universiti Sains Malaysia"
+    <br> Nadya Williams and Phil Papadopoulos, "Building Virtual Cluster on Comet"
+    <br> Jason Haga, "MedThaiSAGE: Visualization of Thai Medical Research Data on Large Tiled Display Walls"
+    </td>
   </tr>
   <tr>
-    <td>11:30-12:00</td>
+    <td>11:45-12:00</td>
     <td>PRIME Project update - Jason Haga</td>
   </tr>
   <tr>
