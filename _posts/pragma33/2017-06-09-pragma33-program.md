@@ -109,11 +109,11 @@ short: program
   </tr>
     <tr>
     <td>9:00-10:30</td>
-    <td><strong>Plenary</strong>
+    <td><strong>Plenary Session chair - David Abramson</strong>
         <br>Peter Scarth - Solving wicked problems for fun and profit: how do we maximise societal value from our data and compute resources
         <br>Sandra Gesing - Science Gateway Overview
         <br>PRAGMA and Science Gateway Intersection Panel Q&A 
-        <br> Q&A Panelists: Jason Haga, Shava Smallen, Sandra Gesing, Peter Scarth
+        <br> Q&A Panelists: Jason Haga, Shava Smallen, Sandra Gesing, Peter Scarth, Dan Katz.
     </td>
    </tr>
   <tr>
