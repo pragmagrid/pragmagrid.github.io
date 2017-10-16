@@ -86,7 +86,7 @@ short: program
    <tr>
     <td>16:30-17:00</td>
     <td>Demo session - Part 1 -- Demo session chair -- Nurul Hashimah Ahamed Hassain Malim
-      <br> Shava Smallen, "Increasing usability of the PRAGMA cloud testbed"
+      <br> Shava Smallen, "Increasing usability of the PRAGMA cloud testbed" (20 min)
       <br> Nadya Williams, "Building Virtual Cluster on Comet", (10min)
 </td>
    </tr>
