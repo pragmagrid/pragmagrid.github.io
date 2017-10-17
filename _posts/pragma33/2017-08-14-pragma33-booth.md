@@ -45,6 +45,7 @@ schedule:
             and Load Balancer based on High Throughput Condor: Molecular Dynamics Case Study</b></li>
         <li>Yusuke Tanimura and Ryosei Takano <b>Title: Container-based AI software deployment and 
             execution on AIST AI Cloud</b></li>
+        <li>Weicheng Huang <b>Data Marketplace Initiative of Taiwan</b></li>
     </ul></td>
   </tr>
 
@@ -57,6 +58,8 @@ schedule:
         <li>Kwan Wing Keung <b>Researching computing support in University of
         Hongkong Information Technology Services (ITS) and the fostering of
         International research collaboration </b></li>
+        <li>Weicheng Huang <b>Data Marketplace Initiative of Taiwan</b></li>
+        <li>Aimee Stewart <b>Lifemapper</b></li>
     </ul></td>
   </tr>
 
@@ -79,6 +82,7 @@ schedule:
     <td><ul>
         <li>Shava Smallen <b>Increasing usability of the PRAGMA cloud testbed</b></li>
         <li>Nadya Williams <b>Building a Virtual Cluster on XSEDE Comet</b></li>
+        <li>Aimee Stewart <b>Lifemapper</b></li>
     </ul></td>
   </tr>
   <tr>
