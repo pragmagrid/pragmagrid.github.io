@@ -61,7 +61,7 @@ date: 2017-06-09
 
 * <span class="strongword">16:30 - 17:00</span> **Demo Session, Part 1**<br>
   Session chair: Nurul Hashimah Ahamed Hassain Malim
-  * [Increasing usability of the PRAGMA cloud testbed] <!--[11]-->, Shava Smallen
+  * [Increasing usability of the PRAGMA cloud testbed][11], Shava Smallen
   * [Building VIrtual Cluster on Comet][12], Nadya Williams
 <br><br>
 
@@ -128,7 +128,7 @@ date: 2017-06-09
 [9]: {{ base }}/talks/lt-leonard-ong.pdf
 [10]: {{ base }}/talks/lt-sri-chusri.pdf
 
-[11]: {{ base }}/demos/demo-scheduler.pdf
+[11]: {{ base }}/demos/demo-cloud-scheduler.pdf
 [12]: {{ base }}/demos/demo-comet.pdf
 
 [13]: {{ base }}/demos/poster-nurul-cheminformatics.pdf
