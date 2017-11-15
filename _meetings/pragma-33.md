@@ -7,35 +7,28 @@ meeting_url: /pragma33
 date: 2017-06-09
 ---
 
-#### <font color="red">This page is under construction</font>
+#### <span class="strongword">October 16 </span> 
+**PRAGMA 33 Main Workshop Day 1**
 
-#### <span class="strongword">October 16 </span>
-
-**PRAGMA33 Main Workshop Day 1**
-
-* <span class="strongword">08:45 - 08:55</span> **Welcome  Statements** <br>
-  David Abramson, PRAGMA-33 General Chair<br>
+* <span class="strongword">08:45 - 08:55</span> **Welcome  Statements** David Abramson, PRAGMA-33 General Chair
 
 * <span class="strongword">09:00 - 10:00</span> **KEYNOTE TALKS**<br>
-  Lee Belbin  [The Atlas of Living Australia: Sharing biodiversity information
-  to inform research, policy and operational outcomes][1] <br>
-  Cedric Robillot "eReefs: Delivering information about Great Barrier Reef
-  from catchment to ocean" <br>
+  * [The Atlas of Living Australia: Sharing biodiversity information
+    to inform research, policy and operational outcomes][1], Lee Belbin <br>
+  * "eReefs: Delivering information about Great Barrier Reef from catchment to ocean", Cedric Robillot
+<br><br>
 
-* <span class="strongword">10:00 - 10:30</span> 
-  Phil Papadopoulos "PRAGMA update: Set context for the workshop and some
-  updates from the working groups" <!--[2]--> <br>
+* <span class="strongword">10:00 - 10:30</span> **PRAGMA update**, Phil Papadopoulos <br>
+  "Set context for the workshop and some updates from the working groups"<!--[2]-->
 
-* <span class="strongword">10:30 - 11:00</span> **COFFEE/TEA BREAK<br>Group photo**
+* <span class="strongword">10:30 - 11:00</span> **COFFEE/TEA BREAK and Group photo**
 
-* <span class="strongword">11:00 - 11:30</span> Working group and Expedition updates<br>
-  Session chair: Weicheng Huang
+* <span class="strongword">11:00 - 11:30</span> **Working group and Expedition updates** Session chair: Weicheng Huang
   * [Resources and Data working group and Expeditions updates][3]
   * [Lake Modeling Expedition update][4] 
 <br><br>
 
-* <span class="strongword">11:30 - 12:00</span> **Lightning talks**<br>
-  Session chairs: Che Huang and Minh Dinh
+* <span class="strongword">11:30 - 12:00</span> **Lightning talks** Session chairs: Che Huang and Minh Dinh
   * [Implementation of e-Health Grid model in Indonesia using Grid LIPI][5], Angga Pradipta
   * [Network and Storage Failure Tolerance on High Performance Computing System Using
     Application MIgration Approach][6], Husen Rusdiansyah
@@ -47,20 +40,18 @@ date: 2017-06-09
 
 * <span class="strongword">12:00 - 13:00</span> **LUNCH BREAK**
 
-* <span class="strongword">13:00 - 14:20</span> Working group breakout meetings<br>
+* <span class="strongword">13:00 - 14:20</span> **Working group breakout meetings**<br>
   Resources working group -- PRAGMA Main Room: P10  <br>
   Telescience/Geoscience working group -- PRAGMA Breakout Room 1: Concord Boardroom <br>
   Bioscience and cyber learning working group -- PRAGMA Breakout Room 2: P8 <br>
 
 * <span class="strongword">14:20 - 14:50</span> **COFFEE/TEA BREAK**
 
-* <span class="strongword">14:50 - 15:30</span> Poster Session<br>
-  Session chairs: Che Huang and Minh Dinh
+* <span class="strongword">14:50 - 15:30</span> **Poster Session**  Session chairs: Che Huang and Minh Dinh
 
-* <span class="strongword">15:30 - 16:30</span> Working group meeting continues<br>
+* <span class="strongword">15:30 - 16:30</span> **Working group meeting continues**
 
-* <span class="strongword">16:30 - 17:00</span> **Demo Session, Part 1**<br>
-  Session chair: Nurul Hashimah Ahamed Hassain Malim
+* <span class="strongword">16:30 - 17:00</span> **Demo Session, Part 1**  Session chair: Nurul Hashimah Ahamed Hassain Malim
   * [Increasing usability of the PRAGMA cloud testbed][11], Shava Smallen
   * [Building VIrtual Cluster on Comet][12], Nadya Williams
 <br><br>
@@ -71,48 +62,44 @@ date: 2017-06-09
 <br><br>
 
 #### <span class="strongword">October 17</span>
-
 **PRAGMA33 Main Workshop Day 2**
 
-* <span class="strongword">09:00 - 10:30</span> *Plenary Session**<br>
-  Session chair: David Abramson <br>
-  Peter Scarth "Solving wicked problems for fun and profit: how do we maximise societal value from our data and compute resources"<br>
-  Sandra Gesing "Science Gateway Overview"<br>
-  PRAGMA and Science Gateway Intersection Panel Q&A <br>
-  Q&A Panelists: Jason Haga, Shava Smallen, Sandra Gesing, Peter Scarth, Dan Katz.
+* <span class="strongword">09:00 - 10:30</span> **Plenary Session** Session chair: David Abramson
+  * Peter Scarth "Solving wicked problems for fun and profit: how do we maximise societal value from our data and compute resources"
+  * Sandra Gesing "Science Gateway Overview"
+  * PRAGMA and Science Gateway Intersection Panel Q&A <br>
+    Q&A Panelists: Jason Haga, Shava Smallen, Sandra Gesing, Peter Scarth, Dan Katz.
 
 * <span class="strongword">10:30 - 11:00</span> **COFFEE/TEA BREAK**
 
-* <span class="strongword">11:00 - 11:45</span> **Demo Session, Part 2**<br>
-  Session chair: Yoshiyuki Kido
+* <span class="strongword">11:00 - 11:45</span> **Demo Session, Part 2** Session chair: Yoshiyuki Kido
   * [Cheminformatics at Universiti Sains Malaysia][13], Nurul Hashimah Ahamed Hassain Malim
   * [An innovative tool for mapping and modelling species distributions: the Biodiversity and Climate Change Virtual Laboratory][14], 
     Sarah Richmond
   * [MedThaiSAGE: Visualization of Thai Medical Research Data on Large Tiled Display Walls][15], Jason Haga
 <br><br>
 
-* <span class="strongword">11:45 - 12:00</span> PRIME Project update - Jason Haga <!--[16]-->
+* <span class="strongword">11:45 - 12:00</span> **PRIME Project update** Jason Haga <!--[16]-->
 
 * <span class="strongword">12:00 - 14:00</span> **LUNCH BREAK and PRAGMA Steering Committee meeting**
 
-* <span class="strongword">14:00 - 14:20</span> Update on PRAGMA booth activities in eResearch Australasia 2017, Jason Haga and Nadya Williams
+* <span class="strongword">14:00 - 14:20</span> **Update on PRAGMA booth activities in eResearch Australasia 2017**, Jason Haga and Nadya Williams
 
 * <span class="strongword">14:20 - 14:50</span> **COFFEE/TEA BREAK**
 
-* <span class="strongword">14:50 - 16:00</span> **Working group breakouts II** <br>
+* <span class="strongword">14:50 - 16:00</span> **Working group breakout meetings** 
   * Resources working group, PRAGMA Main Room: P10 
   * Telescience/Geoscience working group, PRAGMA Breakout Room 1: Concord Boardroom 
   * Bioscience and cyber learning working group, PRAGMA Breakout Room 2: P11
 <br><br>
 
-* <span class="strongword">16:00 - 17:00</span> PRAGMA-33 wrap-up <br>
+* <span class="strongword">16:00 - 17:00</span> **PRAGMA-33 wrap-up**
   * Working Group Summaries: [Resources and Data][17], <!-- [Telescience/Geoscience][18], [Bioscience][19] -->
   * [Steering Committee Summary] <!--[20-->, Peter Arzberger 
   * Invitation to PRAGMA 34,  Jason Haga & Yoshiyuki Kido
 <br><br>
 
-* <span class="strongword">17:00</span> End of the Workshop<br>
-  eResearch Australasia Reception
+* <span class="strongword">17:00</span> **End of the Workshop.  eResearch Australasia Reception**
 
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma33' %}
 
