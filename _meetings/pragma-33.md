@@ -100,6 +100,25 @@ date: 2017-06-09
 <br><br>
 
 * <span class="strongword">17:00</span> **End of the Workshop.  eResearch Australasia Reception**
+<br><br>
+
+#### <span class="strongword">October 18-20 </span> 
+**eResearch Australasia booth demos and posters**
+
+* **Live VR Demo**, Jason Haga 
+* [Cheminformatics at Universiti Sains Malaysia to Prediction of Drug Target Interaction Using Association Rule Mining]
+  [21], Nurul Hashimah Ahamed Hassain Malim 
+* [HPC Resources Management Portal with Job Scheduler and Load Balancer based on High Throughput Condor: Molecular Dynamics Case Study]
+  [22], Heru Suhartanto 
+* [Container-based AI software deployment and execution on AIST AI Cloud][23], Yusuke Tanimura and Ryosei Takano 
+* [Data Marketplace Initiative of Taiwan][24], Weicheng Huang 
+* [Dynamically Aggregating Smart Community Sensors, Edge and Cloud Resources with Overlay VPNs][25], Ken Subtrate 
+* [Researching computing support in University of Hongkong Information Technology 
+  Services (ITS) and the fostering of International research collaboration][26], Kwan Wing Keung 
+* [Cybercriminal Personality Detection through Machine Learning][27], Nurul Hashimah Ahamed Hassain Malim 
+* [An Optimal Multipath Assignment Technique for OpenFlow Network][28], Kohei Ichikawa 
+* [Increasing usability of the PRAGMA cloud testbed][11], Shava Smallen 
+* [Building a Virtual Cluster on XSEDE Comet][12], Nadya Williams 
 
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma33' %}
 
@@ -128,3 +147,12 @@ date: 2017-06-09
 [19]: {{ base }}/wg/wg-bioscience-work.pdf    
 
 [20]: {{ base }}/wg/steering-committee-summary.pdf    
+
+[21]: {{ base }}/demos/poster-nurul-cheminformatics.pdf
+[22]: {{ base }}/demos/booth-heru.pdf
+[23]: {{ base }}/demos/demo-containers.pdf
+[24]: {{ base }}/demos/booth-whuang.pdf
+[25]: {{ base }}/demos/poster-ken-subtratie.pdf
+[26]: {{ base }}/demos/booth-wk-kwan.pdf
+[27]: {{ base }}/demos/poster-nurul-machine-learning.pdf
+[28]: {{ base }}/demos/demo-openflow-ent.pdf
