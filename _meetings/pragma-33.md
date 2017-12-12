@@ -25,6 +25,7 @@ date: 2017-06-09
 
 * <span class="strongword">11:00 - 11:30</span> **Working group and Expedition updates** Session chair: Weicheng Huang
   * [Resources and Data working group and Expeditions updates][3]
+  * [Telescienes and Biosciences  working groups combined updates][18]
   * [Lake Modeling Expedition update][4] 
 <br><br>
 
@@ -79,7 +80,7 @@ date: 2017-06-09
   * [MedThaiSAGE: Visualization of Thai Medical Research Data on Large Tiled Display Walls][15], Jason Haga
 <br><br>
 
-* <span class="strongword">11:45 - 12:00</span> **PRIME Project update** Jason Haga <!--[16]-->
+* <span class="strongword">11:45 - 12:00</span> [**PRIME Project update**][16] Jason Haga 
 
 * <span class="strongword">12:00 - 14:00</span> **LUNCH BREAK and PRAGMA Steering Committee meeting**
 
@@ -94,7 +95,7 @@ date: 2017-06-09
 <br><br>
 
 * <span class="strongword">16:00 - 17:00</span> **PRAGMA-33 wrap-up**
-  * Working Group Summaries: [Resources and Data][17], <!-- [Telescience/Geoscience][18], [Bioscience][19] -->
+  * Working Group Summaries: [Resources and Data][17], [Telescience/Geoscience][19]
   * [Steering Committee Summary] <!--[20-->, Peter Arzberger 
   * Invitation to PRAGMA 34,  Jason Haga & Yoshiyuki Kido
 <br><br>
@@ -143,8 +144,8 @@ date: 2017-06-09
 [16]: {{ base }}/talks/jhaga-prime-update.pdf
 
 [17]: {{ base }}/wg/wg-resources-work.pdf    
-[18]: {{ base }}/wg/wg-telescience-work.pdf    
-[19]: {{ base }}/wg/wg-bioscience-work.pdf    
+[18]: {{ base }}/wg/wg-telesciences-biosciences-updates.pdf    
+[19]: {{ base }}/wg/wg-telesciences-work.pdf    
 
 [20]: {{ base }}/wg/steering-committee-summary.pdf    
 
