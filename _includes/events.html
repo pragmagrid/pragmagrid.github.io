@@ -1,38 +1,17 @@
 
-  <div class="quicklinks">
-        <div class="ql-entry"  text-align="center">
-            <h4>Upcoming Events </h4> 
-        </div>
-
-<!--
-        <div class="ql-entry">
-            <a href="/news" title="SUNTOWNS ">&raquo; SUNTOWNS (Smart UNIversity TOWNS) Workshop</a><br>
-            April 12, 2017<br>
-            University of Florida, Gainesville, Florida USA<br><hr>
-        </div>
--->
-        <div class="ql-entry">
-            <a href="/news" title="PRAGMA 33">&raquo; PRAGMA 33</a><br>
-            October  16-17, 2017<br>
-            The University of Queensland, Brisbane, Australia<br><hr>
-        </div>
-
-        <div class="ql-entry">
-            <a href="/news" title="eResearch 2017">&raquo; eResearch 2017</a><br>
-            October  16-20, 2017<br>
-            The University of Queensland, Brisbane, Australia<br><hr>
-        </div>
-    
-    <div class="ql-entry">
-            <a href="/news" title="HPC Asia 2018">&raquo; HPC Asia 2018</a><br>
-            January 29-31, 2018<br>
-            Tokyo, Japan<br><hr>
-        </div>
-    
-    <div class="ql-entry">
-            <a href="/news" title="PRAGMA 34">&raquo; PRAGMA 34</a><br>
-            May 9-12, 2018<br>
-            Akihabara, Tokyo, Japan<br><hr>
-        </div>
-
+<div class="quicklinks">
+  <div class="ql-entry"  text-align="center">
+    <h4>Upcoming Events </h4> 
   </div>
+
+  {% for service in site.["news"] %}
+    {% if service.categories[0] == "events" %}
+      <div class="ql-entry">
+         <a href="/news" title="{{ service.title }}">&raquo; {{ service.title }}</a><br>
+         {{ service.dates }}<br>
+         {{ service.location }}<br><hr>
+      </div>
+    {% endif %}
+  {% endfor %}
+
+</div>
