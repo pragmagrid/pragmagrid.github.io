@@ -96,7 +96,7 @@ date: 2016-07-22
        PRAGMA-ENT for IoT Era][27], Takuya Yamada, Osaka University<br>
      * **3rd  place** [EDDVISAR Augmented Reality within Web Technology][28], Phuripat Akarasiriwong, Nodtakorn Thamsuwan, <br>
      * [CSP - Conceptually Manageable Sensor Pod on Raspberry pi & Edison board][45], Changquan Piao <br>
-     * [#mq A lightweight and scalable MQTT broker][46], Wiriyang Pipatsakulroj <br>
+     * [&mu;mq A lightweight and scalable MQTT broker][46], Wiriyang Pipatsakulroj <br>
      * [Managing Reputation of Crowdsourcing Systems][47], Wongsatorn Thongthaworn<br>
      * [Full Packet Capturing in 10Gb Network][48], Panuwach Boonyasup<br>
      <br>
