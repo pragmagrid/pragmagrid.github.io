@@ -90,11 +90,15 @@ date: 2016-07-22
 
   * [Introduction][42], Gabriel Zhou
 
-  * "Best Student Lightning Talks and Awards" Chair: Mr. Chawanat Nakasan, NAIST<br>
+  * "Student Lightning Talks and Awards" Chair: Mr. Chawanat Nakasan, NAIST<br>
      * **1st  place** [Implementing and Testing Ceph Distributed File System with Multipath TCP][26] <br>
      * **2nd  place** [A Proposal of Access Control Mechanism Towards User-dedicated <br>
        PRAGMA-ENT for IoT Era][27], Takuya Yamada, Osaka University<br>
      * **3rd  place** [EDDVISAR Augmented Reality within Web Technology][28], Phuripat Akarasiriwong, Nodtakorn Thamsuwan, <br>
+     * [CSP - Conceptually Manageable Sensor Pod on Raspberry pi & Edison board][45], Changquan Piao <br>
+     * [#mq A lightweight and scalable MQTT broker][46], Wiriyang Pipatsakulroj <br>
+     * [Managing Reputation of Crowdsourcing Systems][47], Wongsatorn Thongthaworn<br>
+     * [Full Packet Capturing in 10Gb Network][48], Panuwach Boonyasup<br>
      <br>
 
   * [PRAGMA Student Hackathon Summary and Awards][33] Chair: Dr. Putchong Uthayopas, Kasetsart University
@@ -167,9 +171,9 @@ date: 2016-07-22
 [24]: {{ base }}/september-9/demo/globalSQL-demo.pdf
 [25]: {{ base }}/september-9/demo/visibility-demo.pdf
 
-[26]: {{ base }}/september-9/student-talks/lightingTalk-1.pdf
-[27]: {{ base }}/september-9/student-talks/lightingTalk-2.pdf
-[28]: {{ base }}/september-9/student-talks/lightingTalk-3.pdf
+[26]: {{ base }}/september-9/student-talks/lightningTalk-1.pdf
+[27]: {{ base }}/september-9/student-talks/lightningTalk-2.pdf
+[28]: {{ base }}/september-9/student-talks/lightningTalk-3.pdf
 
 [29]: {{ base }}/september-9/hackathon-sumamry/task1-2.pdf
 [30]: {{ base }}/september-9/hackathon-sumamry/task2.pdf
@@ -193,3 +197,9 @@ date: 2016-07-22
 [42]: {{ base }}/september-9/student-talks/students-introduction.pdf
 [43]: {{ base }}/september-9/hackathon-sumamry/task1-1.pdf
 [44]: {{ base }}/hackathon/Task3/TASK-3.pdf
+
+[45]: {{ base }}/september-9/student-talks/lightningTalk-4.pdf
+[46]: {{ base }}/september-9/student-talks/lightningTalk-5.pdf
+[47]: {{ base }}/september-9/student-talks/lightningTalk-6.pdf
+[48]: {{ base }}/september-9/student-talks/lightningTalk-7.pdf
+
