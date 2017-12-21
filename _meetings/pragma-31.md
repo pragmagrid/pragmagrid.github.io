@@ -88,6 +88,8 @@ date: 2016-07-22
 
 * <span class="strongword">09:30 - 10:40</span> **PRAGMA STUDENT SESSION**
 
+  * [Introduction][42], Gabriel Zhou
+
   * "Best Student Lightning Talks and Awards" Chair: Mr. Chawanat Nakasan, NAIST<br>
      * **1st  place** [Implementing and Testing Ceph Distributed File System with Multipath TCP][26] <br>
      * **2nd  place** [A Proposal of Access Control Mechanism Towards User-dedicated <br>
@@ -97,8 +99,9 @@ date: 2016-07-22
 
   * [PRAGMA Student Hackathon Summary and Awards][33] Chair: Dr. Putchong Uthayopas, Kasetsart University
 
-     * Task 1 [Extension of the existing PRAGMA Cloud Testbed site][29] <br>
+     * Task 1 Extension of the existing PRAGMA Cloud Testbed site [group 1][43] [group 2][29] <br>
      * Task 2 [Add more visibility and analytical ability to PRAGMA Cloud Testbed services][30] <br>
+     * Task 3 [Applications that search, query, discover or generally mine biodiversity data through Lifemapper APIs][44]<br>
      <br>
 
 * <span class="strongword">13:45 - 14:30</span> **DEMO SESSION #3: Data and Science Research**<br>
@@ -168,7 +171,7 @@ date: 2016-07-22
 [27]: {{ base }}/september-9/student-talks/lightingTalk-2.pdf
 [28]: {{ base }}/september-9/student-talks/lightingTalk-3.pdf
 
-[29]: {{ base }}/september-9/hackathon-sumamry/task1.pdf
+[29]: {{ base }}/september-9/hackathon-sumamry/task1-2.pdf
 [30]: {{ base }}/september-9/hackathon-sumamry/task2.pdf
 
 [31]: {{ base }}/september-9/demo/edison-demo.pdf
@@ -186,3 +189,7 @@ date: 2016-07-22
 
 [40]: {{ base }}/september-9/summary-steering-committee.pdf
 [41]: {{ base }}/september-9/welcome-pragma32.pdf
+
+[42]: {{ base }}/september-9/student-talks/students-introduction.pdf
+[43]: {{ base }}/september-9/hackathon-sumamry/task1-1.pdf
+[44]: {{ base }}/hackathon/Task3/TASK-3.pdf
