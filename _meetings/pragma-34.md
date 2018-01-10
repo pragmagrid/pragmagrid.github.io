@@ -8,16 +8,19 @@ date: 2017-12-15
 ---
 
 #### <span class="strongword">May 9 </span> 
+**Pre-workshop on High Performance Infrastructure for AI**
+
+TBA
+
+#### <span class="strongword">May 10</span>
 **PRAGMA 34 Main Workshop Day 1**
 
 TBA 
-<br><br>
 
-#### <span class="strongword">May 10</span>
+#### <span class="strongword">May 11</span>
 **PRAGMA 34 Main Workshop Day 2**
 
 TBA 
-
 {% assign base = 'https://github.com/pragmagrid/pragma-meetings/blob/master/pragma34' %}
 
 [1]: {{ base }}/talks/
