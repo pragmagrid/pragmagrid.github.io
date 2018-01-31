@@ -53,7 +53,7 @@ schedule:
     <td>Afternoon<br>13:30 - 15:30</td>
     <td><ul>
         <li>Ken Subtrate <b>Dynamically Aggregating Smart Community Sensors,
-		Edge and Cloud Resources with Overlay VPNs</b></li>
+        Edge and Cloud Resources with Overlay VPNs</b></li>
         <li>Jason Haga <b>VR demo</b></li>
         <li>Kwan Wing Keung <b>Researching computing support in University of
         Hongkong Information Technology Services (ITS) and the fostering of
