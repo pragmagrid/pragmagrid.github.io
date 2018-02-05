@@ -48,7 +48,7 @@ This page is under construction
     <th>Activity</th>
   </tr>
   <tr>
-    <td class="program34col">9:00-9:10</td>
+    <td>9:00-9:10</td>
     <td><strong>Welcome statement</strong></td>
   </tr>
   <tr>
