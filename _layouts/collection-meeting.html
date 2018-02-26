@@ -31,6 +31,12 @@ layout: default
             {% if service.meeting_url  %}
                |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
             {% endif %}
+            {% if service.photos  %}
+               |  <a href="{{ service.photos }}">photos</a> 
+            {% endif %}
+            {% if service.culture  %}
+               |  <a href="{{ service.culture }}">culture learning</a> 
+            {% endif %}
           </td>
         </tr>
         {% endfor %}
