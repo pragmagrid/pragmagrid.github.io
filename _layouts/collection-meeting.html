@@ -28,7 +28,7 @@ layout: default
             {% else %}
                 <a href="{{ service.url }}" title="{{ service.title }}">presentations </a>
             {% endif %}
-            {% if service.meeting_url  != "" %}
+            {% if service.meeting_url  %}
                |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
             {% endif %}
           </td>
