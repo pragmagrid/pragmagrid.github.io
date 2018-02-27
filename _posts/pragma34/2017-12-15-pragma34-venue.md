@@ -20,26 +20,20 @@ The venue is located in the Akihabara area, adjacent to the JR Akihabara Station
 ## Accommodation
 There are a variety of options for accommodation in the vicinity of the conference venue. Below is a list of nearby hotels.<br>
 
-Akihabara Washington Hotel<br>
-http://akihabara.washington-hotels.jp/
+[Akihabara Washington Hotel](http://akihabara.washington-hotels.jp/)<br>
 
-Remm Akihabara<br>
-http://www-a.global.hankyu-hotel.com/remm-akihabara/
+[Remm Akihabara](http://www-a.global.hankyu-hotel.com/remm-akihabara/)<br>
 
-Dormy Inn Akihabara Hot Spring<br>
-http://dormy-inn-akihabara-tokyo.hotel-ds.com/en/
+[Dormy Inn Akihabara Hot Spring](http://dormy-inn-akihabara-tokyo.hotel-ds.com/en/)<br>
 
-Hotel Villa Fontaine Tokyo-Ueno Okachimachi<br>
-http://www.hvf.jp/eng/location/ueno.php
+[Hotel Villa Fontaine Tokyo-Ueno Okachimachi](http://www.hvf.jp/eng/location/ueno.php)<br>
 
-APA Hotel Akihabara-ekimae<br>
-https://www.apahotel.com/ja_en/hotels/detail.php?id=140
+[APA Hotel Akihabara-ekimae](https://www.apahotel.com/ja_en/hotels/detail.php?id=140)<br>
 
-Hotel MyStays Ochanomizu conference Center<br>
-https://www.mystays.com/en-us/hotel-mystays-ochanomizu-conference-center-tokyo/
+[Hotel MyStays Ochanomizu conference Center](https://www.mystays.com/en-us/hotel-mystays-ochanomizu-conference-center-tokyo/)<br>
 
-the b tokyo ochanomizu<br>
-http://ochanomizu.theb-hotels.com/en/
+[the b tokyo ochanomizu](http://ochanomizu.theb-hotels.com/en/)<br>
+
 
 
 
