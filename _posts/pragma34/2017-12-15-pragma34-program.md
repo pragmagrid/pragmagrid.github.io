@@ -204,6 +204,8 @@ This page is under construction
         <br>
     </td>
   </tr>
+</table>
+<br>
 
 ## Sunday, May 13 - International Collaboration
 <table class="program34">
@@ -213,8 +215,8 @@ This page is under construction
   </tr>
   <tr>
     <td>8:00-18:00</td>
-    <td><strong>Bof Future of AI in Long-Tail Science</strong>
+    <td><strong>BoF Future of AI in Long-Tail Science</strong>
         <br>
     </td>
   </tr>
-
+</table>
