@@ -6,7 +6,7 @@ workshop: pragma34
 short: program
 ---
 
-This page is under construction
+This page will be updated as new information becomes available.
 
 ## Wednesday, May 9 - Pre-Workshop
 <table class="program34">
