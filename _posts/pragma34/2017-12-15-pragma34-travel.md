@@ -10,9 +10,13 @@ This page is under construction
 
 ## Air Travel
 Tokyo has two major international airports: [Narita International Airport (NRT)](https://narita-airport.jp/en/) and [Haneda Airport (HND)](http://www.haneda-airport.com). Whether you arrive at either Tokyo airport will depend on which airline you use. Both airports have convenient access to central Tokyo.
+<br>
+<br>
 
 ## Accommodation
 Please see the [Venue/Lodging](http://www.pragma-grid.net/pragma34-venue/) page for more details.
+<br>
+<br>
 
 ## Ground Transportation
 ### From Narita Airport
@@ -34,8 +38,8 @@ Haneda Airport is located closer to central Tokyo than Narita Airport. The dista
 [Tokyo Monorail:](http://www.tokyo-monorail.co.jp/english/) Tokyo Monorail connects Haneda Airport to Hamamatsucho station in 15 to 20 minutes. Transfer to JR Yamanote Line and Oedo Subway Line at Hamamatsucho station provide quick access to central Tokyo.
 
 [Airport Limousine Bus:](https://www.limousinebus.co.jp/en/) Haneda Airport Limousine Bus will also take you directly to major hotels in central Tokyo.
-
-
+<br>
+<br>
 
 ## Weather
 Tokyo will have pleasant weather in May. Temperatures average around 18 degrees centigrade with the possiblity of some rainfall. Please consult weather websites to get the most up to date information.
