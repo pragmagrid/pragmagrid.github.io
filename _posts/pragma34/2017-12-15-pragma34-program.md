@@ -8,7 +8,7 @@ short: program
 
 This page is under construction
 
-## Wednesday, May 9th - Pre-Workshop
+## Wednesday, May 9 - Pre-Workshop
 <table class="program34">
   <tr>
     <th class="program34col">Time</th>
@@ -41,7 +41,7 @@ This page is under construction
 </table>
 <br>
 
-## Thursday, May 10th
+## Thursday, May 10 - Workshop Day 1
 <table class="program34">
   <tr>
     <th class="program34col">Time</th>
@@ -116,7 +116,7 @@ This page is under construction
 <br>
 
 
-## Friday, May 11th
+## Friday, May 11 - Workshop Day 2
 <table class="program34">
   <tr>
     <th>Time</th>
@@ -192,7 +192,7 @@ This page is under construction
 <br>
 
 
-## Saturday, May 12th
+## Saturday, May 12 - International Collaboration
 <table class="program34">
   <tr>
     <th>Time</th>
@@ -200,8 +200,21 @@ This page is under construction
   </tr>
   <tr>
     <td>8:00-18:00</td>
-    <td><strong>Excursion/cultural learning</strong>
-        <br>Hakone
+    <td><strong>Engaging International Partners in Collaborative Education</strong>
+        <br>
+    </td>
+  </tr>
+
+## Sunday, May 13 - International Collaboration
+<table class="program34">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>8:00-18:00</td>
+    <td><strong>Bof Future of AI in Long-Tail Science</strong>
+        <br>
     </td>
   </tr>
 
