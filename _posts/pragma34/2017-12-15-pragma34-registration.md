@@ -7,9 +7,7 @@ short: registration
 ---
 
 ## PRAGMA 34 Registration
-Please note that this page is under construction. Registration and CENTRA3 Workshop links are not yet linked. They will be available in late February.<br>
-
-To register for PRAGMA / CENTRA Japan Meetings 2018, please click here and proceed to the registration page.<br>
+To register for PRAGMA / CENTRA Japan Meetings 2018, please go to: https://acislab.wufoo.com/forms/pragmacentra-japan-meeting-2018/.<br>
 
 Please note that PRAGMA 34 Workshop and CENTRA 3 All-Hands Meeting are held at different locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station and CENTRA 3 All-Hands Meeting will be held at AP Tokyo Marunouchi near JR Tokyo Station. It takes about 4 minutes from JR Akihabara Station to JR Tokyo Station on the JR Yamanote Line.<br>
 
@@ -28,5 +26,9 @@ May 16: CENTRA 3 Post-Workshop ABCI (AIST) visit (Kashiwanoha, Kashiwa-shi)<br>
 ### ASEAN IVO Software Defined System on Disaster Mitigation and Smart Cities Meeting<br>
 May 14-15: ASEAN IVO Meeting (Members only)<br>
 <br>
+
+## For those registering for the PRAGMA 34 Meeting
+Please register by March 30.<br>
+If you have any questions or concerns, please do not hesitate to contact us at pragma_centra@ml.nict.go.jp<br>
 
 
