@@ -6,6 +6,8 @@ workshop: pragma34
 short: Call for Demos
 ---
 
+This page is being updated.
+
 Dear PRAGMA friends,
 
 On behalf of the PRAGMA 34 Program Committee, we are soliciting demos for the
