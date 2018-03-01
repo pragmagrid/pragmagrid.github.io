@@ -6,15 +6,14 @@ workshop: pragma34
 short: Contact
 ---
 
-This page is under construction
+* **Logistics (travel, venue, etc.)**<br>
+pragma_centra (at) ml (dot) nict (dot) go (dot) jp<br>
 
-* **Posters and Lighning Talks contact**
+* **Posters and Lightning Talks**<br>
+Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0 (at) is (dot) naist (dot) jp<br>
 
-
-* **Demo chairs contact**
-
-
-* **Logistics: travel, accommodation, invitation letter**
-
+* **Demo Presentations**<br>
+Nurul Hashimah Ahmed Hassain Malim, nurulhashimah (at) usm (dot) my<br>
+Kohei Ichikawa, ichikawa (at) is (dot) naist (dot) jp<br>
 
 
