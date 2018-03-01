@@ -6,9 +6,6 @@ workshop: pragma34
 short: dates
 ---
 
-This page will be updated as more information is available.
-
-## Important Dates
 As soon as possible, check [Visa Information](http://www.pragma-grid.net/pragma34-visaLetters/) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.<br>
 
 February 27, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.pragma-grid.net/pragma34-registration/) Opens<br>
