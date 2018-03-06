@@ -14,10 +14,10 @@ Address: Akihabara Dai Bldg 4F 1-18-13 Sotokanda, Chiyoda-ku,Tokyo 101-0021, Jap
 The venue is located in the Akihabara area, adjacent to the JR Akihabara Station.<br> 
 
 From:<br>
-JR Akihabara Station ........................	1 minute on foot<br>
-Tokyo Metro Ginza Line Suehirocho Station ...	3 minutes on foot<br>
-Tokyo Metro Hibiya Line Akihabara Station ...	4 minutes on foot<br>
-Tsukuba Express Akihabara Station ...........	3 minutes on foot<br>
+JR Akihabara Station ........................   1 minute on foot<br>
+Tokyo Metro Ginza Line Suehirocho Station ...   3 minutes on foot<br>
+Tokyo Metro Hibiya Line Akihabara Station ...   4 minutes on foot<br>
+Tsukuba Express Akihabara Station ...........   3 minutes on foot<br>
 
 Please note that PRAGMA 34 and CENTRA 3 All-Hands Meeting are held at different locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station and CENTRA 3 All-Hands Meeting will be held at AP Tokyo Marunouchi near JR Tokyo Station. 
 
