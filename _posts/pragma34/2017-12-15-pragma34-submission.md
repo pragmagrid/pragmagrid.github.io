@@ -6,5 +6,8 @@ workshop: pragma34
 short: abstract
 ---
 
-This page is under construction
+## Call for Demos [page] (http://www.pragma-grid.net/pragma34-callDemos/)
+
+## Call for Posters [page](http://www.pragma-grid.net/pragma34-callPosters/)
+
 
