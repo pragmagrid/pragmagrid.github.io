@@ -10,7 +10,7 @@ As soon as possible, check [Visa Information](http://www.pragma-grid.net/pragma3
 
 February 27, 2018: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.pragma-grid.net/pragma34-registration/) Opens<br>
 
-March 30, 2018: Registration deadline. See more details described on the [Registration page](http://www.pragma-grid.net/pragma34-registration/) on this site<br>
+<strong>March 30, 2018: Registration deadline</strong> so that accurate head counts are in place for meals and events. See more details at the [Registration page](http://www.pragma-grid.net/pragma34-registration/) on this site<br>
 <br>
 <br>
 <br>
