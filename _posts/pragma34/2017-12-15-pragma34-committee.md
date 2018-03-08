@@ -10,7 +10,6 @@ short: Committee
 Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan<br>
 Yoshiyuki Kido, Osaka University, Japan<br>
 <br>
-<br>
 
 ## Program Committee
 Peter Arzberger, University of California, San Diego, USA<br>
@@ -33,19 +32,14 @@ Ryousei Takano, National Institute of Advanced Industrial Science and Technology
 Jelina Tetangco, Advanced Science and Technology Institute (ASTI), The Philippines <br>
 David Abramson, University of Queensland, Australia
 <br>
-<br>
-
 
 ## Demo Committee
 Nurul Hashimah Ahamed Hassain Malim, Universiti Sains Malaysi, Malaysia<br>
 Kohei Ichikawa, Nara Institute of Science and Technology (NAIST), Japan<br>
 <br>
-<br>
-
 
 ## Student Posters and Lightning Talks
 Wassapon "Boom" Watanakeesuntorn, Nara Institute of Science and Technology (NAIST), Japan<br>
-<br>
 <br>
 
 ## Local Organizing Committee
