@@ -1,6 +1,6 @@
 ---
 layout: pragma34
-title: "Visa"
+title: "Visa Information"
 date: 2017-12-15
 workshop: pragma34
 short: Visa
