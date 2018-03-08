@@ -6,7 +6,6 @@ workshop: pragma34
 short: registration
 ---
 
-## PRAGMA 34 Registration
 To register for PRAGMA / CENTRA Japan Meetings 2018, please go to the [registration page](https://acislab.wufoo.com/forms/pragmacentra-japan-meetings-2018/).<br>
 
 Please register by <strong>March 30, 2018</strong> so that accurate head counts are in place for meals and events.<br>
