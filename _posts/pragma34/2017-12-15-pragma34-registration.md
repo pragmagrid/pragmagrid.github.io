@@ -28,7 +28,7 @@ May 14-15: ASEAN IVO Meeting (Members only)<br>
 <br>
 
 ## For those registering for the PRAGMA 34 Meeting
-Please register by March 30.<br>
+Please register by <strong>March 30, 2018</strong> so that accurate head counts are in place for meals and events.<br>
 If you have any questions or concerns, please do not hesitate to contact us at pragma_centra@ml.nict.go.jp<br>
 
 
