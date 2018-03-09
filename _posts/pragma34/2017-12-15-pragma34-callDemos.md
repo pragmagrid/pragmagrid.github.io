@@ -8,16 +8,14 @@ short: Call for Demos
 
 This page is being updated.
 
-Dear PRAGMA friends,
-
 On behalf of the PRAGMA 34 Program Committee, we are soliciting demos for the
-PRAGMA 34 workshop.  <br>All PRAGMA 34 attendees are encouraged to submit abstracts to the demo
-session.
+PRAGMA 34 workshop. All PRAGMA 34 attendees are encouraged to submit abstracts to the demo
+sessions.<br>
  
 <div class="border"><h2>Submission Instructions</h2></div>
 
 The abstract should be between 250 and 400 words and include the following
-information: 
+information: <br>
 
  1. **Title of the demo** 
  2. **Names and institutions** 
@@ -30,9 +28,19 @@ Registration for the main PRAGMA 34 event is required prior to Demo Request subm
 Please see the [Registration details](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
+All PRAGMA34 attendees are welcomed to submit demo abstracts using the following form:
+http://www.pragma-grid.net/pragma34-callPosters/<br>
+
+If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:
+(http://www.pragma-grid.net/pragma34-registration/)<br>
+
 
 <div class="border"><h2>Important Dates</h2></div>
+Submission deadline: March 23, 2018<br>
+Author notification: April 1, 2018<br>
+Workshop Registration deadline: March 30, 2018<br>
 
-We are looking forward to your submissions. If you have any questions
-regarding the demo abstract submission, please contact our demo chairs:
+If you have any questions regarding the demo abstract submission, please contact our demo chairs:<br>
+Nurul Hashimah Ahmed Hassain Malim, nurulhashimah (at) usm (dot) my<br>
+Kohei Ichikawa, ichikawa (at) is (dot) naist (dot) jp<br>
 
