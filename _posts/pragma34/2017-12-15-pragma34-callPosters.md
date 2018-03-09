@@ -8,8 +8,8 @@ short: Call for Posters
 
 This page is under construction 
 
-PRAGMA 34 attendees are welcome to submit posters (and associated abstracts)
-to the PRAGMA 34 Poster Session.  
+All PRAGMA 34 attendees are welcome to submit posters (and associated abstracts)
+to the PRAGMA 34 Poster Session, especially students. 
 The poster session offers the opportunity for presenters to share their work
 through a quick introduction to the entire conference audience, followed by
 one-on-one discussions next to the poster.
@@ -23,9 +23,9 @@ for your lightning talk.<br>
 
 The submission should cover the following information: <br>
 
-1) Title of the poster<br>
-2) Names and institutions <br>
-3) A brief abstract (less than or equal to 450 words) <br>
+**1) Title of the poster** 
+**2) Names and institutions** 
+**3) A brief abstract (less than or equal to 450 words)**
 
 We strongly recommend all submissions use the word template [here](pragmagrid.github.io/images/pragma34/PRAGMA34_Poster_Abstract_Template2.dotx).<br />
 
