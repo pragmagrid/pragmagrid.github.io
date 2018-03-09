@@ -37,7 +37,7 @@ decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template using the following [form](https://goo.gl/forms/m9tuyQppsehmBmEr1):<br> 
+All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template using the following [form](https://docs.google.com/forms/d/1HEREFErUWU52sivilaamwZHoTf_I1N7L2cRSam_ZAFw/edit?usp=sharing):<br> 
 
 If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:<br>
 (http://www.pragma-grid.net/pragma34-registration/)<br>
