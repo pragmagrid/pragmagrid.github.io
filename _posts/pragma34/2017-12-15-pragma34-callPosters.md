@@ -29,7 +29,8 @@ The submission should cover the following information: <br>
 
 <br>
 
-We strongly recommend all submissions use the word template [here]<a href="/images/pragma34/PRAGMA34_Poster_Abstract_Template2.dotx">file</a>.<br>
+We strongly recommend all submissions use the word template 
+<a href="/images/pragma34/PRAGMA34_Poster_Abstract_Template2.dotx">here</a>.<br>
 
 All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
@@ -38,6 +39,7 @@ review comments and, if necessary, resubmit their updated poster and abstract.<b
 
 <div class="border"><h2>Where to Submit</h2></div>
 All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template using the following [form](https://docs.google.com/forms/d/1HEREFErUWU52sivilaamwZHoTf_I1N7L2cRSam_ZAFw/edit?usp=sharing):<br> 
+<!----note this link to the form is found on the Form "Send" button->Add collaborators->Sharing settings has "Link to share"   --->
 
 If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:<br>
 (http://www.pragma-grid.net/pragma34-registration/)<br>
