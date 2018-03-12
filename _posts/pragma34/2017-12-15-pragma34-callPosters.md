@@ -39,7 +39,7 @@ review comments and, if necessary, resubmit their updated poster and abstract.<b
 
 <div class="border"><h2>Where to Submit</h2></div>
 All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by email to:<br>
-pragma_submissions (at) googlegroups (dot) com<br> 
+pragma_submissions (at) googlegroups (dot) com <br>
 
 If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:<br>
 (http://www.pragma-grid.net/pragma34-registration/)<br>
