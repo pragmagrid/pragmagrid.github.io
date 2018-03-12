@@ -23,12 +23,14 @@ information: <br>
  4. **Requirements for the demo (e.g. time, network, etc.)**
 
 <br>
+We strongly recommend all submissions use the Word template 
+<a href="/images/pragma34/PRAGMA34_Demo_Abstract_Template2.dotx">here</a>.<br>
 
 Registration for the main PRAGMA 34 event is required prior to Demo Request submission. <br>
 Please see the [Registration details](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees are welcomed to submit demo abstracts using the following [form](https://goo.gl/forms/m9tuyQppsehmBmEr1).<br>
+All PRAGMA34 attendees are welcomed to submit demo abstracts via email to: (email here)<br>
 
 <div class="border"><h2>Important Dates</h2></div>
 Submission deadline: **March 23, 2018**<br>
