@@ -38,14 +38,15 @@ decisions will be made available via email. Authors are expected to respond to
 review comments and, if necessary, resubmit their updated poster and abstract.<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template using the following <br> 
+All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by email to:<br>
+pragma_submissions (at) googlegroups (dot) com<br> 
 
 If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:<br>
 (http://www.pragma-grid.net/pragma34-registration/)<br>
 
 <div class="border"><h2>Important Dates</h2></div>
-Submission deadline: **March 23, 2018**<br>
-Author notification: April 1, 2018<br>
+Submission deadline: **March 26, 2018**<br>
+Author notification: April 8, 2018<br>
 Workshop Registration deadline: **March 30, 2018**<br>
 
 If you have any questions, please contact our Poster and Student Presentations Chair:<br>
