@@ -31,7 +31,7 @@ Registration for the main PRAGMA 34 event is required prior to Demo Request subm
 Please see the [Registration details](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees are welcomed to submit demo abstracts via email to: pragma_submissions@googlegroups.com<br>
+All PRAGMA34 attendees are welcomed to submit demo abstracts via email to: pragma_submissions (at) googlegroups (dot) com<br>
 
 <div class="border"><h2>Important Dates</h2></div>
 Submission deadline: **March 26, 2018**<br>
