@@ -23,6 +23,7 @@ information: <br>
  4. **Requirements for the demo (e.g. time, network, etc.)**
 
 <br>
+
 We strongly recommend all submissions use the Word template 
 <a href="/images/pragma34/PRAGMA34_Demo_Abstract_Template2.dotx">here</a>.<br>
 
