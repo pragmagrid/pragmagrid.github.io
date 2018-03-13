@@ -35,7 +35,7 @@ Registration for the main PRAGMA 34 event is required prior to Demo Request subm
 If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees are welcome to submit the completed word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34).<br>
+All PRAGMA34 attendees are welcome to submit the completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34).<br>
 
 <div class="border"><h2>Important Dates</h2></div>
 Submission deadline: **March 26, 2018**<br>
