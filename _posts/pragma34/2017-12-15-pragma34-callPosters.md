@@ -41,7 +41,7 @@ All accepted posters will also need to prepare a 1 min lightning talk of their w
 If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees, especially students, are welcome to submit the completed word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34)<br>
+All PRAGMA34 attendees, especially students, are welcome to submit the completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34)<br>
 
 <div class="border"><h2>Important Dates</h2></div>
 Submission deadline: **March 26, 2018**<br>
