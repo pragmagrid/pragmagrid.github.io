@@ -39,8 +39,7 @@ Authors are expected to respond to review comments and, if necessary, resubmit t
 All accepted posters will also need to prepare a 1-2 min lightning talk of their work to be presented during the conference.<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by email to:<br>
-pragma_submissions (at) googlegroups (dot) com <br>
+All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by EasyChair<br>
 
 If you haven’t registered to PRAGMA 34 workshop yet, please register your attendee information to:<br>
 (http://www.pragma-grid.net/pragma34-registration/)<br>
