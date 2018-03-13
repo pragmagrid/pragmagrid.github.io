@@ -14,7 +14,7 @@ sessions.<br>
  
 <div class="border"><h2>Submission Instructions</h2></div>
 
-The abstract should be between 250 and 400 words and include the following
+The abstract should be less than 450 words and include the following
 information: <br>
 
  1. **Title of the demo** 
@@ -29,13 +29,13 @@ We strongly recommend all submissions use the Word template
 
 All accepted demo submissions will be presented during the workshop.<br>
 Each demo will be 15mins with 5min for questions.<br>
-In order to better document the workshop, all presentations will be collected for uploading to the website.<br>
+In order to better document the workshop activities, all presentations will be collected for uploading to the website.<br>
 
 Registration for the main PRAGMA 34 event is required prior to Demo Request submission. <br>
 If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees are welcomed to submit the completed word template by EasyChair<br>
+All PRAGMA34 attendees are welcomed to submit the completed word template by [EasyChair](https://easychair.org/conferences/?conf=pragma34).<br>
 
 <div class="border"><h2>Important Dates</h2></div>
 Submission deadline: **March 26, 2018**<br>
