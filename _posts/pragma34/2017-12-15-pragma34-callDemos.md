@@ -32,7 +32,7 @@ Each demo will be 15mins with 5min for questions.<br>
 In order to better document the workshop, all presentations will be collected for uploading to the website.<br>
 
 Registration for the main PRAGMA 34 event is required prior to Demo Request submission. <br>
-Please see the [Registration details](http://www.pragma-grid.net/pragma34-registration/). 
+If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/). 
 
 <div class="border"><h2>Where to Submit</h2></div>
 All PRAGMA34 attendees are welcomed to submit the completed word template by EasyChair<br>
