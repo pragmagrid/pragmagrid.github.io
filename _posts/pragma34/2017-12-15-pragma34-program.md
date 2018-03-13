@@ -55,7 +55,8 @@ This page will be updated as new information becomes available.
     <td>9:10-10:00</td>
     <td><strong>Keynote</strong>
         <br>Speaker 1 TBD
-        <br>Speaker 2 TBD</td>
+        <br>Discussion
+    </td>
   </tr>
   <tr>
     <td>10:00-10:30</td>
@@ -124,11 +125,9 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>9:00-10:00</td>
-    <td><strong>What we know so far/State of the art/Demos in Development (chair =?)</strong>
-        <br>Presenter 1 TBD
-        <br>Presenter 2 TBD
-        <br>Presenter 3 TBD 
-        <br>Discussion?
+     <td><strong>Keynote</strong>
+        <br>Speaker 2 TBD
+        <br>Discussion
     </td>
   </tr>
   <tr>
