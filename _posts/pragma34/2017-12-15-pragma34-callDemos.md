@@ -29,7 +29,7 @@ We strongly recommend all submissions use the Word template
 
 All accepted demo submissions will be presented during the workshop.<br>
 Each demo will be 15mins with 5min for questions.<br>
-In order to better document the presentations, all presentations will be collected for uploading to the website.<br>
+In order to better document the workshop, all presentations will be collected for uploading to the website.<br>
 
 Registration for the main PRAGMA 34 event is required prior to Demo Request submission. <br>
 Please see the [Registration details](http://www.pragma-grid.net/pragma34-registration/). 
