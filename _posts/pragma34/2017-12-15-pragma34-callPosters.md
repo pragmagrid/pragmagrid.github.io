@@ -34,8 +34,8 @@ We strongly recommend all submissions use the word template
 
 All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
-decisions will be made available via email. Authors are expected to respond to
-review comments and, if necessary, resubmit their updated poster and abstract.<br>
+decisions will be made available via email.<br>
+Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.<br>
 All accepted posters will also need to prepare a 1-2 min lightning talk of their work to be presented during the conference.<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
