@@ -17,7 +17,7 @@ one-on-one discussions next to the poster.
 <div class="border"><h2>Submissions</h2></div>
 
 Authors are expected to both present their poster during poster sessions and
-to give a three (3) minute introductory lightning talk. As such, an acceptable
+to give a one minute introductory lightning talk. As such, an acceptable
 submission must include a PDF of the poster text abstract and will form the basis
 for your lightning talk.<br>
 
@@ -36,10 +36,10 @@ All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email.<br>
 Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.<br>
-All accepted posters will also need to prepare a 1-2 min lightning talk of their work to be presented during the conference.<br>
+All accepted posters will also need to prepare a 1 min lightning talk of their work to be presented during the conference.<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
-All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by EasyChair<br>
+All PRAGMA34 attendees, especially students, are welcomed to submit the completed word template by [EasyChair](https://easychair.org/conferences/?conf=pragma34)<br>
 
 If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br>
 
