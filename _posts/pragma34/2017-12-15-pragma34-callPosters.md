@@ -25,7 +25,8 @@ The submission should cover the following information: <br>
 
 1. **Title of the poster** 
 2. **Names and institutions** 
-3. **A brief abstract (less than or equal to 450 words)**
+3. **Student author (Y/N)**
+4. **A brief abstract (less than or equal to 450 words)**
 
 <br>
 
