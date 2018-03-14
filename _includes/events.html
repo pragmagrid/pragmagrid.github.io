@@ -7,9 +7,9 @@
   {% for service in site.["news"] %}
     {% if service.categories[0] == "events" %}
       <div class="ql-entry">
-         <a href="/news" title="{{ service.title }}">&raquo; {{ service.title }}</a><br>
-         {{ service.dates }}<br>
-         {{ service.location }}<br><hr>
+         <a href="{% if service.link %}{{ service.link }}{% else %}{{ service.url }}{% endif %}" title="{{ service.title }}">&raquo; {{ service.title }}</a>
+         <br>{{ service.dates }}
+         <br>{{ service.location }}<br><hr>
       </div>
     {% endif %}
   {% endfor %}
