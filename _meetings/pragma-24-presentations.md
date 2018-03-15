@@ -22,6 +22,8 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
 * [Tutorial on Software-Defined Networking][3] Mauricio Tsugawa
 * [Building The PRAGMA International Cloud][4] Cindy Zheng
 
+<br>
+
 <span class="subsection">PRAGMA Student Workshop</span>
 
 * [Cloud Computing Model and Prototype Implementation of Molecular Dynamics Simulations using Amber and Gromacs][5]
@@ -46,12 +48,16 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
   Assoc. Prof. Kamjorn Tatiyakavee, M.D., General, Office of Higher Education
   Commission, Ministry of Education, Thailand
 
+<br>
+
 <span class="subsection">Worklign Group Updates</span>
 
 * [Resources and Data][14] Yoshio Tanaka, Cindy Zhemg, Phil Papadopoulos
 * [Biosciences][15] Wilfred LI, Habibah Wahab
 * [Telesciences][16] Shimojo, Fang-Pang Lin
 * [Geosciences][17] Sornthep Vannarat, Yoshio Tanaka
+
+<br>
 
 <span class="subsection">Demonstration Session</span>
 
@@ -64,6 +70,8 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
 * Keynote 2: Cloud security: what changes with SDN, Jose Fortes, UF
 * [PRAGMA Graduate students Association (GSA) update][21]
 * New member introduction: [IU][22], [TU][23], [UFL][24], [UW][25]
+
+<br>
 
 <span class="subsection">Poster Session</span>
 
@@ -83,12 +91,16 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
 * [Keynote 3: e-Science and Data Infrastructure Development][33] Thaweesak Koanantakool, Ph.D.
   President National Science and Technology Development Agency (NSTDA), Thailand
 
+<br>
+
 <span class="subsection">Demonstration Session</span>
 
 * [Data Observation Network for Earth Demonstration of Tools and Services][34],
   Dave Vieglais, University of Kansas, [abstract][51]
 * [E-Rium: a Web Portal for Publishing & Accessing Observa7on Data from Geographically
   Distributed and Heterogeneous Sources ][35], Naiyana Sahavechaphan, [abstract][55]
+
+<br>
 
 <span class="subsection">Working Group Breakout
 
@@ -99,6 +111,8 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
 * Geosciences: [Tsunami][39]
 * Cyberlearning [Proposal][40]
 
+<br>
+
 <span class="subsection">Working Group Report</span>
 
 * [Resources and Data][41]
@@ -106,6 +120,8 @@ culture: http://www.flickr.com/photos/31817935@N00/sets/72157633101934508/
 * [Telesciences][43]
 * [Geosciences][44]
 * [Cyberlearning][45]
+
+<br>
 
 <span class="subsection">[Wrap-up and Invitation to PRAGMA 25][56]</span>
 

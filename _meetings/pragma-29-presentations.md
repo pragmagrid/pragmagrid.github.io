@@ -11,15 +11,14 @@ date: 2015-10-07
 <h4>Meeting Presentations </h4>
 </div>
 
-October 5 - 7
---------------
+#### <span class="strongword">October 5 - 7</span>
 
-**International [Workshop][33] on Building Collaborations in Biodiversity Informatics**
+<span class="subsection">International [Workshop][33] on Building Collaborations in Biodiversity Informatics</span>
 
-October 7
-----------
 
-**Student Session Lightning Talks**
+#### <span class="strongword">October 7</span>
+
+<span class="subsection">Student Session Lightning Talks</span>
 
 * [Breaking the Trade-off between Performance and Reliability in Network Storage System][1], Hiroki Ohtsuji 
 * [Performance Analysis of Virtual Machine and Container for Cloud Based High Performance Computing Platform][2],
@@ -39,8 +38,9 @@ October 7
 * [Evaluation of Topology-based OpenFlow Controller for Multipath TCP on PRAGMA-ENT][12], Chawanat Nakasan
 * An implementation of SAGE Bridge for sharing visualized contents on multiple tiled display wall systems, Arata Endo
 
-October 8
------------
+<br>
+
+#### <span class="strongword">October 8</span>
 
 * 09.00-09.30  **Welcome remark and introduction**, Chair Heru  Suhartanto, (Universitas Indonesia)
   * Opening speech by General Chair: Heru Suhartanto               
@@ -68,8 +68,9 @@ October 8
   * [PRAGMA-ENT: Exposing SDN Concepts to Domain Scientists in the Pacific Rim][23]
   * [Virtualizing LIfemapper Software Infrastructure for Biodiversity Expedition][25]
 
-October 9
------------
+<br>
+
+#### <span class="strongword">October 9</span>
 
 * 09.00-09.10 **Opening remarks**, Heru Suhartanto (Universitas Indonesia)
 * 09.10-09.35 **Invited speaker**: Dr. Rifki Sadikin, Bioinformatics/High Performance
