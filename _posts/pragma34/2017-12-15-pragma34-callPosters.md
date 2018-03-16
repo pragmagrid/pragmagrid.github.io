@@ -6,8 +6,6 @@ workshop: pragma34
 short: Call for Posters
 ---
 
-This page is under construction 
-
 All PRAGMA 34 attendees are welcome to submit posters (and associated abstracts)
 to the PRAGMA 34 Poster Session, especially students. 
 The poster session offers the opportunity for presenters to share their work
@@ -37,7 +35,9 @@ All posters must use the **A1** format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
 decisions will be made available via email.<br>
 Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.<br>
-All accepted posters will also need to prepare a 1 min lightning talk of their work to be presented during the conference.<br>
+All accepted posters will also need to prepare a 1 min lightning talk (one slide) of their work to be presented during the conference.<br>
+
+We are arranging to have accepted posters printed in Japan and details will be provided soon.<br>
 
 If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br>
 
