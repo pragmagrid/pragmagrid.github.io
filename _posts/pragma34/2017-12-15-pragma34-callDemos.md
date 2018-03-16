@@ -6,8 +6,6 @@ workshop: pragma34
 short: Call for Demos
 ---
 
-This page is being updated.
-
 On behalf of the PRAGMA 34 Program Committee, we are soliciting demos for the
 PRAGMA 34 workshop. The demo session offers opportunities to showcase applications/test-bed developed under PRAGMA for the potential broader use by the community. All PRAGMA 34 attendees are encouraged to submit abstracts to the demo
 sessions.<br>
