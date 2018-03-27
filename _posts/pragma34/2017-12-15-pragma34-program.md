@@ -54,8 +54,9 @@ This page will be updated as new information becomes available.
   <tr>
     <td>9:10-10:00</td>
     <td><strong>Keynote</strong>
-        <br>Speaker 1 TBD
-        <br>Discussion
+        <br>Dr. Yasushi Yagi, Osaka University
+        <br>Title: TBD
+        <br>Discussion following presentation
     </td>
   </tr>
   <tr>
@@ -126,8 +127,9 @@ This page will be updated as new information becomes available.
   <tr>
     <td>9:00-10:00</td>
      <td><strong>Keynote</strong>
-        <br>Speaker 2 TBD
-        <br>Discussion
+        <br>Dr. Yoshiki Seo, Artificial Intelligence Research Center, AIST
+        <br>Title: TBD
+        <br>Discussion following presentation
     </td>
   </tr>
   <tr>
