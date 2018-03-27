@@ -115,7 +115,8 @@ This page will be updated as new information becomes available.
    </tr>
    <tr>
     <td>18:00 - 21:00</td>
-    <td>Conference Dinner <br> <b> Venue:</b>
+    <td><strong>Conference Dinner</strong>
+      <br>Venue:
     </td>
    </tr>
 </table> 
@@ -139,7 +140,9 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td>PRAGMA Wide Mentoring Update - Jason Haga</td>
+    <td><strong>PRAGMA Wide Mentoring Update</strong>
+       <br>Dr. Jason Haga
+    </td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
@@ -147,10 +150,10 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>11:00-12:00</td>
-    <td>Demo Session 2, session chair ?
-    <br> Demo4 TBD
-    <br> Demo5 TBD
-    <br> Demo6 TBD
+    <td><strong>Demo Session 2, session chair ?</strong>
+       <br> Demo4 TBD
+       <br> Demo5 TBD
+       <br> Demo6 TBD
     </td>
   </tr>
   <tr>
@@ -181,17 +184,20 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td>Best posters -- chair?</td>
+    <td><strong>Best posters -- chair?</strong></td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
-    <td>PRAGMA-34 wrap-up - (Working Group Summaries, Steering Committee Summaries) -- Peter Arzberger
-      <br> Invitation to PRAGMA 35 -- ?
+    <td><strong>PRAGMA-34 Wrap-up</strong>
+      <br>Working Group Summaries, Steering Committee Summaries -- Peter Arzberger
+      <br>Invitation to PRAGMA 35 -- ?
     </td>
   </tr>
   <tr>
     <td>18:00-21:00</td>
-    <td>Conference Dinner</td>
+    <td><strong>Conference Dinner</strong>
+      <br>Venue:
+    </td>
   </tr>
 </table>
  
