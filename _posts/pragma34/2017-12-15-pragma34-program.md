@@ -61,7 +61,10 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td>Phil Papadopoulos - PRAGMA update: Set context for the workshop and some updates from the working groups </td>
+    <td><strong>PRAGMA update</strong>
+       <br>Dr. Phil Papadopoulos
+       <br>Set context for the workshop and some updates from the working groups
+    </td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
@@ -70,11 +73,13 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>11:00-11:30</td>
-    <td> Working group and Expedition updates (6 talks of 5 minutes each) -- session chair ?</td>
+    <td><strong>Working group and Expedition updates</strong>
+       <br>6 talks of 5 minutes each) -- session chair ?
+    </td>
   </tr>
   <tr>
     <td>11:30-12:00</td>
-    <td>Lightning talks -- session chairs ?</td>
+    <td><strong>Lightning talks -- session chairs ?</strong></td>
   </tr>
   <tr>
     <td>12:00-13:00</td>
