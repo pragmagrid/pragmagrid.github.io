@@ -36,7 +36,7 @@ If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Regi
 All PRAGMA34 attendees are welcome to submit the completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34).<br>
 
 <div class="border"><h2>Important Dates</h2></div>
-Submission deadline: **March 26, 2018**<br>
+Submission deadline: **March 30, 2018 EXTENDED**<br>
 Author notification: April 8, 2018<br>
 Workshop Registration deadline: **March 30, 2018**<br>
 
