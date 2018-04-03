@@ -6,8 +6,6 @@ workshop: pragma34
 short: Travel
 ---
 
-This page is under construction
-
 ## Air Travel
 Tokyo has two major international airports: [Narita International Airport (NRT)](https://narita-airport.jp/en/) and [Haneda Airport (HND)](http://www.haneda-airport.com). Whether you arrive at either Tokyo airport will depend on which airline you use. Both airports have convenient access to central Tokyo.
 <br>
