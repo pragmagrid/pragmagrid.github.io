@@ -102,15 +102,18 @@ This page will be updated as new information becomes available.
     </td>
   </tr>
   <tr>
-    <td>15:30-16:30</td>
-    <td><strong>Poster session -- chairs?</strong></td>
+    <td>15:30-16:00</td>
+    <td><strong>Poster session</strong></td>
   </tr>
   <tr>
-    <td>16:30-17:30</td>
+    <td>16:00-17:30</td>
     <td><strong>Demo session 1 -- Chair?</strong>
       <br> Demo1 - TBD
       <br> Demo2 - TBD
       <br> Demo3 - TBD
+      <br> Demo4 - TBD
+      <br> Demo5 - TBD
+      <br> Demo6 - TBD
     </td>
    </tr>
    <tr>
@@ -149,19 +152,22 @@ This page will be updated as new information becomes available.
     <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
   <tr>
-    <td>11:00-12:00</td>
+    <td>11:00-12:30</td>
     <td><strong>Demo Session 2, session chair ?</strong>
-       <br> Demo4 TBD
-       <br> Demo5 TBD
-       <br> Demo6 TBD
+       <br> Demo7 TBD
+       <br> Demo8 TBD
+       <br> Demo9 TBD
+       <br> Demo10 TBD
+       <br> Demo11 TBD
+       <br> Demo12 TBD
     </td>
   </tr>
   <tr>
-    <td>12:00-14:00</td>
+    <td>12:30-14:30</td>
     <td><strong>LUNCH BREAK and PRAGMA Steering committee meeting</strong></td>
   </tr>
   <tr>
-    <td>14:00-15:00</td>
+    <td>14:30-16:00</td>
     <td><strong>Working group breakout 2</strong>
      <br>Resources WG -- Room?
      <br>Telescience/Geoscience WG -- Room?
@@ -170,10 +176,10 @@ This page will be updated as new information becomes available.
     </td>
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>16:00-16:30</td>
     <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
-  <tr>
+<!--  <tr>
     <td>15:30-16:30</td>
     <td><strong>Working group breakout 3</strong>
      <br>Resources WG -- Room?
@@ -181,7 +187,7 @@ This page will be updated as new information becomes available.
      <br>Bioscience WG -- Room?
      <br>Cyber-learning WG -- Room?
     </td>
-  </tr>
+  </tr> --!>
   <tr>
     <td>16:30-16:45</td>
     <td><strong>Best posters -- chair?</strong></td>
