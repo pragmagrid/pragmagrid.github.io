@@ -179,15 +179,6 @@ This page will be updated as new information becomes available.
     <td>16:00-16:30</td>
     <td><strong>COFFEE/TEA BREAK</strong></td>
   </tr>
-<!--  <tr>
-    <td>15:30-16:30</td>
-    <td><strong>Working group breakout 3</strong>
-     <br>Resources WG -- Room?
-     <br>Telescience/Geoscience WG -- Room?
-     <br>Bioscience WG -- Room?
-     <br>Cyber-learning WG -- Room?
-    </td>
-  </tr> --!>
   <tr>
     <td>16:30-16:45</td>
     <td><strong>Best posters -- chair?</strong></td>
