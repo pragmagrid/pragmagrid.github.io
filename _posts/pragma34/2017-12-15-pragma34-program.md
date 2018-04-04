@@ -49,7 +49,7 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>9:00-9:10</td>
-    <td><strong>Welcome statement</strong></td>
+    <td><strong>Welcome Statement</strong></td>
   </tr>
   <tr>
     <td>9:10-10:00</td>
@@ -61,7 +61,7 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td><strong>PRAGMA update</strong>
+    <td><strong>PRAGMA Update</strong>
        <br>Dr. Phil Papadopoulos
        <br>Set context for the workshop and some updates from the working groups
     </td>
@@ -73,13 +73,13 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>11:00-11:30</td>
-    <td><strong>Working group and Expedition updates</strong>
+    <td><strong>Working Group and Expedition Updates</strong>
        <br>6 talks of 5 minutes each) -- session chair ?
     </td>
   </tr>
   <tr>
     <td>11:30-12:00</td>
-    <td><strong>Lightning talks -- session chairs ?</strong></td>
+    <td><strong>Lightning Talks -- session chairs ?</strong></td>
   </tr>
   <tr>
     <td>12:00-13:00</td>
@@ -88,7 +88,7 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>13:00-15:00</td>
-    <td><strong>Working group breakout 1</strong>
+    <td><strong>Working Group Breakout 1</strong>
      <br>Resources WG -- Room?
      <br>Telescience/Geoscience WG -- Room?
      <br>Bioscience WG -- Room?
@@ -103,11 +103,11 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>15:30-16:00</td>
-    <td><strong>Poster session</strong></td>
+    <td><strong>Poster Session</strong></td>
   </tr>
   <tr>
     <td>16:00-17:30</td>
-    <td><strong>Demo session 1 -- Chair?</strong>
+    <td><strong>Demo Session 1 -- Chair?</strong>
       <br> Demo1 - TBD
       <br> Demo2 - TBD
       <br> Demo3 - TBD
@@ -119,7 +119,6 @@ This page will be updated as new information becomes available.
    <tr>
     <td>18:00 - 21:00</td>
     <td><strong>Conference Dinner</strong>
-      <br>Venue:
     </td>
    </tr>
 </table> 
@@ -153,7 +152,7 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2, session chair ?</strong>
+    <td><strong>Demo Session 2 -- Chair=?</strong>
        <br> Demo7 TBD
        <br> Demo8 TBD
        <br> Demo9 TBD
@@ -164,11 +163,11 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>12:30-14:30</td>
-    <td><strong>LUNCH BREAK and PRAGMA Steering committee meeting</strong></td>
+    <td><strong>LUNCH BREAK and PRAGMA Steering Committee Meeting</strong></td>
   </tr>
   <tr>
     <td>14:30-16:00</td>
-    <td><strong>Working group breakout 2</strong>
+    <td><strong>Working Group Breakout 2</strong>
      <br>Resources WG -- Room?
      <br>Telescience/Geoscience WG -- Room?
      <br>Bioscience WG -- Room?
@@ -181,19 +180,19 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td><strong>Best posters -- chair?</strong></td>
+    <td><strong>Best Posters -- chair?</strong></td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
     <td><strong>PRAGMA-34 Wrap-up</strong>
-      <br>Working Group Summaries, Steering Committee Summaries -- Peter Arzberger
-      <br>Invitation to PRAGMA 35 -- ?
+      <br>Dr. Peter Arzberger
+      <br>Working Group Summaries, Steering Committee Summaries
+      <br>Invitation to PRAGMA 35
     </td>
   </tr>
   <tr>
     <td>18:00-21:00</td>
     <td><strong>Conference Dinner</strong>
-      <br>Venue:
     </td>
   </tr>
 </table>
