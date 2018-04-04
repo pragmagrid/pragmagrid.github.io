@@ -6,7 +6,7 @@ workshop: pragma34
 short: registration
 ---
 
-Registration is now closed. Thank you for your participation.
+<strong>Registration is now closed. Thank you for your participation.</strong>
 <!--To register for PRAGMA / CENTRA Japan Meetings 2018, please go to the [registration page](https://acislab.wufoo.com/forms/pragmacentra-japan-meetings-2018/).<br>
 -->
 
