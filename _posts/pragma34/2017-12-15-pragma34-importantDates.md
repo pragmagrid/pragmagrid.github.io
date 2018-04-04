@@ -8,7 +8,7 @@ short: dates
 
 As soon as possible, check [Visa Information](http://www.pragma-grid.net/pragma34-visaLetters/) and follow up accordingly if you need to obtain a Japanese visa to enter Japan.<br>
 
-### <strong>February 27, 2018</strong>: PRAGMA / CENTRA Japan Meetings 2018 [Registration](http://www.pragma-grid.net/pragma34-registration/) Opens
+### <strong>February 27, 2018</strong>: PRAGMA / CENTRA Japan Meetings 2018 <!--[Registration](http://www.pragma-grid.net/pragma34-registration/) Opens--> Registration is now closed.<br>
 
 ### <strong>March 30, 2018: Registration deadline</strong> so that accurate head counts are in place for meals and events.<br> See more details at the [Registration page](http://www.pragma-grid.net/pragma34-registration/) on this site<br>
 <br>
