@@ -15,6 +15,9 @@ This page will be updated as new information becomes available.
     <th>Activity</th>
   </tr>
   <tr>
+    <td> 8:00 - </td>
+    <td>Registration Opens</td>
+  </tr><tr>
     <td> 10:00 - 12:00</td>
     <td>Workshop (presentations) @ Akihabara convention hall - Room 5A</td>
   </tr>
@@ -46,6 +49,10 @@ This page will be updated as new information becomes available.
   <tr>
     <th class="program34col">Time</th>
     <th>Activity</th>
+  </tr>
+  <tr>
+    <td> 8:00 - </td>
+    <td>Registration Opens</td>
   </tr>
   <tr>
     <td>9:00-9:10</td>
