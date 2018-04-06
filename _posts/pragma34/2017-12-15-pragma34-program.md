@@ -55,11 +55,11 @@ This page will be updated as new information becomes available.
     <td>Registration Opens</td>
   </tr>
   <tr>
-    <td>9:00-9:10</td>
+    <td>9:00 - 9:10</td>
     <td><strong>Welcome Statement - Room 5B</strong></td>
   </tr>
   <tr>
-    <td>9:10-10:00</td>
+    <td>9:10 - 10:00</td>
     <td><strong>Keynote - Room 5B</strong>
         <br>Dr. Yasushi Yagi, Osaka University
         <br>Title: TBD
@@ -67,34 +67,34 @@ This page will be updated as new information becomes available.
     </td>
   </tr>
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:00 - 10:30</td>
     <td><strong>PRAGMA Update - Room 5B</strong>
        <br>Dr. Phil Papadopoulos
        <br>Set context for the workshop and some updates from the working groups
     </td>
   </tr>
   <tr>
-    <td>10:30-11:00</td>
+    <td>10:30 - 11:00</td>
     <td><strong>COFFEE/TEA BREAK - Room 5C</strong>
         <br><strong>Group photo</strong></td>
   </tr>
   <tr>
-    <td>11:00-11:30</td>
+    <td>11:00 - 11:30</td>
     <td><strong>Working Group and Expedition Updates - Room 5B</strong>
        <br>6 talks of 5 minutes each) -- session chair ?
     </td>
   </tr>
   <tr>
-    <td>11:30-12:00</td>
+    <td>11:30 - 12:00</td>
     <td><strong>Lightning Talks - Room 5B -- session chair ?</strong></td>
   </tr>
   <tr>
-    <td>12:00-13:00</td>
+    <td>12:00 - 13:00</td>
     <td><strong>LUNCH BREAK</strong>
         </td>
   </tr>
   <tr>
-    <td>13:00-15:00</td>
+    <td>13:00 - 15:00</td>
     <td><strong>Working Group Breakout 1</strong>
      <br>Resources WG - Room 5B
      <br>Telescience/Geoscience WG - Room 5A
@@ -103,17 +103,17 @@ This page will be updated as new information becomes available.
     </td>
   </tr>
   <tr>
-    <td>15:00-15:30</td>
+    <td>15:00 - 15:30</td>
     <td><strong>COFFEE/TEA BREAK - Room 5C
     <br>Poster Session Starts</strong>
     </td>
   </tr>
   <tr>
-    <td>15:30-16:00</td>
+    <td>15:30 - 16:00</td>
     <td><strong>Poster Session - Room 5C</strong></td>
   </tr>
   <tr>
-    <td>16:00-17:30</td>
+    <td>16:00 - 17:30</td>
     <td><strong>Demo Session 1 - Room 5B -- Chair?</strong>
       <br> Demo1 - TBD
       <br> Demo2 - TBD
