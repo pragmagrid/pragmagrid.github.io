@@ -15,12 +15,12 @@ This page will be updated as new information becomes available.
     <th>Activity</th>
   </tr>
   <tr>
-    <td> 9:00 - 12:00</td>
-    <td>Workshop (presentations) @ Akihabara convention hall</td>
+    <td> 10:00 - 12:00</td>
+    <td>Workshop (presentations) @ Akihabara convention hall - Room 5A</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td>Lunch w/ vendor exhibits</td>
+    <td>Lunch w/ vendor exhibits - Room 5C</td>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
@@ -49,11 +49,11 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>9:00-9:10</td>
-    <td><strong>Welcome Statement</strong></td>
+    <td><strong>Welcome Statement - Room 5B</strong></td>
   </tr>
   <tr>
     <td>9:10-10:00</td>
-    <td><strong>Keynote</strong>
+    <td><strong>Keynote - Room 5B</strong>
         <br>Dr. Yasushi Yagi, Osaka University
         <br>Title: TBD
         <br>Discussion following presentation
@@ -61,25 +61,25 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td><strong>PRAGMA Update</strong>
+    <td><strong>PRAGMA Update - Room 5B</strong>
        <br>Dr. Phil Papadopoulos
        <br>Set context for the workshop and some updates from the working groups
     </td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
-    <td><strong>COFFEE/TEA BREAK</strong>
+    <td><strong>COFFEE/TEA BREAK - Room 5C</strong>
         <br><strong>Group photo</strong></td>
   </tr>
   <tr>
     <td>11:00-11:30</td>
-    <td><strong>Working Group and Expedition Updates</strong>
+    <td><strong>Working Group and Expedition Updates - Room 5B</strong>
        <br>6 talks of 5 minutes each) -- session chair ?
     </td>
   </tr>
   <tr>
     <td>11:30-12:00</td>
-    <td><strong>Lightning Talks -- session chairs ?</strong></td>
+    <td><strong>Lightning Talks - Room 5B -- session chair ?</strong></td>
   </tr>
   <tr>
     <td>12:00-13:00</td>
@@ -89,25 +89,25 @@ This page will be updated as new information becomes available.
   <tr>
     <td>13:00-15:00</td>
     <td><strong>Working Group Breakout 1</strong>
-     <br>Resources WG -- Room?
-     <br>Telescience/Geoscience WG -- Room?
-     <br>Bioscience WG -- Room?
-     <br>Cyber-learning WG -- Room?
+     <br>Resources WG - Room 5B
+     <br>Telescience/Geoscience WG - Room 5A
+     <br>Bioscience WG - Room 5D
+     <br>Cyber-learning WG - Room 5G
     </td>
   </tr>
   <tr>
     <td>15:00-15:30</td>
-    <td><strong>COFFEE/TEA BREAK
+    <td><strong>COFFEE/TEA BREAK - Room 5C
     <br>Poster Session Starts</strong>
     </td>
   </tr>
   <tr>
     <td>15:30-16:00</td>
-    <td><strong>Poster Session</strong></td>
+    <td><strong>Poster Session - Room 5C</strong></td>
   </tr>
   <tr>
     <td>16:00-17:30</td>
-    <td><strong>Demo Session 1 -- Chair?</strong>
+    <td><strong>Demo Session 1 - Room 5B -- Chair?</strong>
       <br> Demo1 - TBD
       <br> Demo2 - TBD
       <br> Demo3 - TBD
@@ -134,7 +134,7 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>9:00-10:00</td>
-     <td><strong>Keynote</strong>
+     <td><strong>Keynote - Room 5B</strong>
         <br>Dr. Yoshiki Seo, Artificial Intelligence Research Center, AIST
         <br>Title: TBD
         <br>Discussion following presentation
@@ -142,17 +142,17 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td><strong>PRAGMA Wide Mentoring Update</strong>
+    <td><strong>PRAGMA Wide Mentoring Update - Room 5B</strong>
        <br>Dr. Jason Haga
     </td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
-    <td><strong>COFFEE/TEA BREAK</strong></td>
+    <td><strong>COFFEE/TEA BREAK - Room 5C</strong></td>
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2 -- Chair=?</strong>
+    <td><strong>Demo Session 2 - Room 5B -- Chair=?</strong>
        <br> Demo7 TBD
        <br> Demo8 TBD
        <br> Demo9 TBD
@@ -163,28 +163,28 @@ This page will be updated as new information becomes available.
   </tr>
   <tr>
     <td>12:30-14:30</td>
-    <td><strong>LUNCH BREAK and PRAGMA Steering Committee Meeting</strong></td>
+    <td><strong>LUNCH BREAK (Room 5B) and PRAGMA Steering Committee Meeting (Room 5A)</strong></td>
   </tr>
   <tr>
     <td>14:30-16:00</td>
     <td><strong>Working Group Breakout 2</strong>
-     <br>Resources WG -- Room?
-     <br>Telescience/Geoscience WG -- Room?
-     <br>Bioscience WG -- Room?
-     <br>Cyber-learning WG -- Room?
+     <br>Resources WG - Room 5B
+     <br>Telescience/Geoscience WG - Room 5A
+     <br>Bioscience WG - Room 5D
+     <br>Cyber-learning WG - Room 5G
     </td>
   </tr>
   <tr>
     <td>16:00-16:30</td>
-    <td><strong>COFFEE/TEA BREAK</strong></td>
+    <td><strong>COFFEE/TEA BREAK - Room 5C</strong></td>
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td><strong>Best Posters -- chair?</strong></td>
+    <td><strong>Best Posters - Room 5B -- chair?</strong></td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
-    <td><strong>PRAGMA-34 Wrap-up</strong>
+    <td><strong>PRAGMA-34 Wrap-up - Room 5B</strong>
       <br>Dr. Peter Arzberger
       <br>Working Group Summaries, Steering Committee Summaries
       <br>Invitation to PRAGMA 35
