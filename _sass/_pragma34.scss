@@ -110,7 +110,7 @@ body.pragma34 .program34 tr:nth-child(even) { background-color : $paleblue2; }
 body.pragma34 .program34 td { padding : 4px 4px 4px 4px; vertical-align: top;}
 body.pragma34 .program34 tr td:nth-child(1) { font-weight : bold; }
 body.pragma34 .program34col tr,th { width: 10px; }
-body.pragma34 .program34col td style={width:100px};
+body.pragma34 .program34col td style=width:100px;
 body.pragma34 .colc td,th {text-align: center;}
 
 body.pragma34 #sponsors img {
