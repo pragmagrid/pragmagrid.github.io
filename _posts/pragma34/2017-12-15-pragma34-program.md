@@ -89,7 +89,7 @@ short: program
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td><strong>LUNCH BREAK</strong>
+    <td><strong>LUNCH BREAK (Room 5C)</strong>
         </td>
   </tr>
   <tr>
