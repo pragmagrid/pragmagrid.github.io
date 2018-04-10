@@ -6,12 +6,11 @@ workshop: pragma34
 short: program
 ---
 
-This page will be updated as new information becomes available.
 
 ## Wednesday, May 9 - Pre-Workshop
 <table class="program34">
   <tr>
-    <th class="program34col">Time</th>
+    <th>Time</th>
     <th>Activity</th>
   </tr>
   <tr>
@@ -47,7 +46,7 @@ This page will be updated as new information becomes available.
 ## Thursday, May 10 - Workshop Day 1
 <table class="program34">
   <tr>
-    <th class="program34col">Time</th>
+    <th>Time</th>
     <th>Activity</th>
   </tr>
   <tr>
