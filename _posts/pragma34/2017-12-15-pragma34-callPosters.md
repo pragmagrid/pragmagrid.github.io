@@ -49,6 +49,7 @@ If you miss this deadline you may still participate, however you are responsible
 6. Authors are responsible for poster setup and removal<br>
 
 <!--If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br> -->
+<br>
 
 <div class="border"><h2>Where to Submit</h2></div>
 All PRAGMA34 attendees, especially students, are welcome to submit the completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34)<br>
