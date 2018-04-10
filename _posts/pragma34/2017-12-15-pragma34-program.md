@@ -214,8 +214,8 @@ short: program
   </tr>
   <tr>
     <td>8:00-18:00</td>
-    <td><strong>Engaging International Partners in Collaborative Education</strong>
-        <br>
+    <td><strong>Engaging International Partners in Collaborative Education</strong><br>
+        Open to all PRAGMA/CENTRA attendees<br>
     </td>
   </tr>
 </table>
@@ -229,8 +229,8 @@ short: program
   </tr>
   <tr>
     <td>8:00-18:00</td>
-    <td><strong>BoF Future of AI in Long-Tail Science</strong>
-        <br>
+    <td><strong>BoF Future of AI in Long-Tail Science</strong><br>
+        Open to all PRAGMA/CENTRA attendees<br>
     </td>
   </tr>
 </table>
