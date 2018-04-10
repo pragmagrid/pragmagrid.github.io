@@ -37,17 +37,18 @@ decisions will be made available via email.<br>
 Authors are expected to respond to review comments and, if necessary, resubmit their updated poster and abstract.<br>
 All accepted posters will also need to prepare a 1 min lightning talk (one slide) of their work to be presented during the conference.<br>
 
-We are arranging to have accepted posters printed in Japan and details to be posted soon.<br>
-<!--- Please note the following:<br>
-1. Digital file must be received by 4/23 to ensure printing<br>
+We are arranging to have accepted posters printed in Japan and available at the venue<br>
+
+<strong>Please note the following:</strong><br>
+1. Digital file <strong>MUST be received by 4/22</strong> to ensure printing.<br>
+If you miss this deadline you may still participate, however you are responsible for printing and transporting your poster.<br>
 2. Files must be in PDF format<br>
 3. A1 poster size (594 x 841 mm/23.4 x 33.1 in)<br>
 4. Minimum 150dpi for images<br>
 5. Embed all fonts and images (specify Press Quality or High Quality when converting to PDF)<br>
 6. Authors are responsible for poster setup and removal<br>
---->
 
-If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br>
+<!--If you haven’t registered to PRAGMA 34 workshop yet, please do so at the [Registration page](http://www.pragma-grid.net/pragma34-registration/)<br> -->
 
 <div class="border"><h2>Where to Submit</h2></div>
 All PRAGMA34 attendees, especially students, are welcome to submit the completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma34)<br>
