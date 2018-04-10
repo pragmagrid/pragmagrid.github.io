@@ -100,17 +100,23 @@ body.pragma34 nav {
 }
 
 /* for program table */
+table.program34 {
+  padding: 2px;
+  margin: 0px;
+  width: 100%;
+  table-layout: auto;
+}
 
-body.pragma34 .program34  { padding: 2px; width: 100%; }
-body.pragma34 .program34 th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
-body.pragma34 .program34 tr { border: 2px solid white; }
-body.pragma34 .program34 tr:hover { background-color: #f5f5f5 }
-body.pragma34 .program34 tr:nth-child(odd) { background-color : $paleblue1; }
-body.pragma34 .program34 tr:nth-child(even) { background-color : $paleblue2; }
-body.pragma34 .program34 td { padding : 4px 4px 4px 4px; vertical-align: top;}
-body.pragma34 .program34 tr td:nth-child(1) { font-weight : bold; }
-body.pragma34 .program34col tr,th {width: 10px;}
-body.pragma34 .colc td,th {text-align: center;}
+.program34 th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.program34 tr { border: 2px solid white; }
+.program34 tr:nth-child(odd)  { background-color : $paleblue1; }
+.program34 tr:nth-child(even) { background-color : $paleblue2; }
+.program34 tr:nth-child(odd):hover  { background-color: #f2c05c; }
+.program34 tr:nth-child(even):hover { background-color: #f2c05c; }
+.program34 tr td:nth-child(1) { font-weight : bold; width: 14% !important; }
+.program34 tr td:nlast-child { width: 100% ; }
+.program34 td { padding : 4px 4px 4px 14px; vertical-align: top;}
+.colc td,th {text-align: center;}
 
 body.pragma34 #sponsors img {
   display: inline-block;
