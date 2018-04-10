@@ -14,7 +14,7 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td> 8:00 - </td>
+    <td> 9:30 - </td>
     <td>Registration Opens</td>
   </tr><tr>
     <td> 10:00 - 12:00</td>
@@ -50,7 +50,7 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td> 8:00 - </td>
+    <td> 8:30 - </td>
     <td>Registration Opens</td>
   </tr>
   <tr>
