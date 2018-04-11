@@ -299,7 +299,7 @@ short: program
   <tr>
     <td>8:00-18:00</td>
     <td><strong>Engaging International Partners in Collaborative Education</strong><br>
-        Open to all PRAGMA/CENTRA attendees<br>
+        Open to PRAGMA/CENTRA attendees<br>
     </td>
   </tr>
 </table>
