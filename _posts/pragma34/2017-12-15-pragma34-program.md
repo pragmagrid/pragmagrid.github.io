@@ -105,6 +105,66 @@ short: program
     <td>15:00 - 15:30</td>
     <td><strong>COFFEE/TEA BREAK (Room 5C)
     <br>Poster Session Starts</strong>
+	    <br>
+        <br>Nabylla Azahra, Sarah Syahwenni, Ummi Azizah Rachmawati, Sri Chusri Haryanti and Heru Suhartanto
+        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation
+	    <br>
+        <br>Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
+        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications
+	    <br>
+        <br>Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
+        <br><i>Toward image inbetweening using Latent Model
+	    <br>
+        <br>Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, Vahid Daneshmand and Kensworth Subratie
+        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling
+	    <br>
+        <br>Qing Hong, Yusuke Tanimura and Hidemoto Nakada
+	    <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
+	    <br>
+        <br>Yossapol Jearamanytwesin, Nantanapak Saranpattarawet and Wanida Putthividhya
+        <br><i>GIS with Crowdsourcing as a Service</i>
+	    <br>
+        <br>Surapol Kunsarwat and Tanatorn Tanantorg
+        <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i>
+	    <br>
+        <br>Suchanat Mangkhangjaroen
+        <br><i>ONE: Online Note Extraction to Music Cheat</i>
+	    <br>
+        <br>Yuki Matsui, Yasuhiro Watashiba, Susumu Date, Takashi Yoshikawa and Shinji Shimojo
+        <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i>
+	    <br>
+        <br>Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
+        <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i>
+	    <br>
+        <br>Visaruth Punnium, Pasit Pongpojkasem, Prapaporn Rattanatamrong, Shava Smallen and Nadya Williams
+        <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i>
+	    <br>
+        <br>Tanakon Sawanglok, Tananya Thampairoj and Pokpong Songmuang
+        <br><i>Human Postural System with Kinect</i>
+	    <br>
+        <br>Heru Suhartanto and Ari Wibisono
+        <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i>
+	    <br>
+        <br>Jutamas Teerarueangchaisri and Worawat Suraphanphairoj
+        <br><i>Recommender Chatbot for Thailand Attraction</i>
+	    <br>
+        <br>Wongsatorn Thongthaworn and Prapaporn Rattanathamrong
+        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i>
+	    <br>
+        <br>Wisit Tipchuen
+        <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i>
+	    <br>
+        <br>Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
+        <br><i>The Status of Data Marketplace – on its way to the National Data Service</i>
+	    <br>
+        <br>Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
+        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
+	    <br>
+        <br>Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida and Putchong Uthayopas
+        <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i>
+	    <br>
+        <br>Juan Sebastian Aguirre Zarraonandia
+        <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i>
     </td>
   </tr>
   <tr>
