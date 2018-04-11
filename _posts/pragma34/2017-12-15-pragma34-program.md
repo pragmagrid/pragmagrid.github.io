@@ -114,17 +114,22 @@ short: program
   <tr>
     <td>16:00 - 17:30</td>
     <td><strong>Demo Session 1 Cyberinfrastructure (Room 5B) -- Chair?</strong>
+	    <br>
       <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
       <br><i>An Optimized Information Service for High Performance Computing Environment</i>
+	    <br>
       <br>Jerry Seo and Jong-Sook Lee
       <br><i>A Computational Science Platform, EDISON</i>
+	    <br>
       <br>Shava Smallen, Philip Papadopoulos and Nadya Williams
       <br><i>Experimentation with Kubernetes and Containers on PRAGMA Cloud</i>
+	    <br>
       <br>Matthew Collins, Gaurav Yeole, Nadya Williams and Shava Smallen
-	    <br><i>Demo: Using Spark, PRAGMA Cloud, Deep Learning, and Virtualized GPUs to Find Museum Specimens Contaminated with
-          Mercury Salts</i>
+	    <br><i>Demo: Using Spark, PRAGMA Cloud, Deep Learning, and Virtualized GPUs to Find Museum Specimens Contaminated with Mercury Salts</i>
+	    <br>
       <br>Nadya Williams, Jimmy Liu, Shava Smallen and Phil Papadopoulos
       <br><i>Setting up Deep Learning Analysis on GPU-based Virtual cluster for Traffic Monitoring Project</i>
+	    <br>
       <br>Yu-Chuan Huang, Chih-Wei Yi, Sid Liu, Dennis Syu and Chien-Chao Tseng
       <br><i>A Deep Learning Service Cluster for Ball Tracking from Broadcast Video</i>
     </td>
@@ -165,13 +170,25 @@ short: program
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2 (Room 5B) -- Chair=?</strong>
-       <br> Demo7 TBD
-       <br> Demo8 TBD
-       <br> Demo9 TBD
-       <br> Demo10 TBD
-       <br> Demo11 TBD
-       <br> Demo12 TBD
+    <td><strong>Demo Session 2 Applications (Room 5B) -- Chair=?</strong>
+	    <br>
+       <br>Angga Pradipta, Sri Chusri Haryanti and Ummi Azizah Rachmawati
+       <br><i>Indonesian E-Health Grid Model Test Bed on LIPI Grid Machine</i>
+	    <br>
+       <br>Sarah Syahwenni Utari, Sri Chusri Haryanti and Ummi Azizah Rachmawati
+       <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
+	    <br>
+       <br>Jimmy Liu, Jason Haga, Mike Lin, Sid Liu, Dennis Syu and Chih-Wei Yi
+       <br><i>An Interactive Platform for DLaaS on SAGE2- Traffic Monitoring as an Example</i>
+	    <br>
+       <br>Shintaro Oka, Kazunori Nozaki and Mikako Hayashi
+       <br><i>Image Recognition for Dental Instruments</i>
+	    <br>
+       <br>Aimee Stewart, Nadya Williams and Hsiu-Mei Chou
+       <br><i>Lifemapper: Portable Infrastructure, Portable Interface</i>
+	    <br>
+       <br>Karpjoo Jeong and Yongnan Wen
+       <br><i>An IoT & Big Data System for Understanding-based Real-time Pet Care</i>
     </td>
   </tr>
   <tr>
