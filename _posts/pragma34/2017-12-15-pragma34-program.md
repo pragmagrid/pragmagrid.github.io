@@ -107,16 +107,16 @@ short: program
     <br>Poster Session Starts</strong>
 	    <br>
         <br>Nabylla Azahra, Sarah Syahwenni, Ummi Azizah Rachmawati, Sri Chusri Haryanti and Heru Suhartanto
-        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation
+	    <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i>
 	    <br>
         <br>Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
-        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications
+        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i>
 	    <br>
         <br>Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
-        <br><i>Toward image inbetweening using Latent Model
+        <br><i>Toward image inbetweening using Latent Model</i>
 	    <br>
         <br>Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, Vahid Daneshmand and Kensworth Subratie
-        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling
+        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i>
 	    <br>
         <br>Qing Hong, Yusuke Tanimura and Hidemoto Nakada
 	    <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
@@ -173,7 +173,7 @@ short: program
   </tr>
   <tr>
     <td>16:00 - 17:30</td>
-    <td><strong>Demo Session 1 Cyberinfrastructure (Room 5B) -- Chair?</strong>
+    <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B) -- Chair?</strong>
 	    <br>
       <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
       <br><i>An Optimized Information Service for High Performance Computing Environment</i>
@@ -230,7 +230,7 @@ short: program
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2 Applications (Room 5B) -- Chair=?</strong>
+    <td><strong>Demo Session 2, Applications (Room 5B) -- Chair=?</strong>
 	    <br>
        <br>Angga Pradipta, Sri Chusri Haryanti and Ummi Azizah Rachmawati
        <br><i>Indonesian E-Health Grid Model Test Bed on LIPI Grid Machine</i>
