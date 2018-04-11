@@ -113,13 +113,20 @@ short: program
   </tr>
   <tr>
     <td>16:00 - 17:30</td>
-    <td><strong>Demo Session 1 (Room 5B) -- Chair?</strong>
-      <br> Demo1 - TBD
-      <br> Demo2 - TBD
-      <br> Demo3 - TBD
-      <br> Demo4 - TBD
-      <br> Demo5 - TBD
-      <br> Demo6 - TBD
+    <td><strong>Demo Session 1 Cyberinfrastructure (Room 5B) -- Chair?</strong>
+      <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
+      <br><i>An Optimized Information Service for High Performance Computing Environment</i>
+      <br>Jerry Seo and Jong-Sook Lee
+      <br><i>A Computational Science Platform, EDISON</i>
+      <br>Shava Smallen, Philip Papadopoulos and Nadya Williams
+      <br><i>Experimentation with Kubernetes and Containers on PRAGMA Cloud</i>
+      <br>Matthew Collins, Gaurav Yeole, Nadya Williams and Shava Smallen
+	    <br><i>Demo: Using Spark, PRAGMA Cloud, Deep Learning, and Virtualized GPUs to Find Museum Specimens Contaminated with
+          Mercury Salts</i>
+      <br>Nadya Williams, Jimmy Liu, Shava Smallen and Phil Papadopoulos
+      <br><i>Setting up Deep Learning Analysis on GPU-based Virtual cluster for Traffic Monitoring Project</i>
+      <br>Yu-Chuan Huang, Chih-Wei Yi, Sid Liu, Dennis Syu and Chien-Chao Tseng
+      <br><i>A Deep Learning Service Cluster for Ball Tracking from Broadcast Video</i>
     </td>
    </tr>
    <tr>
