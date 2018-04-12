@@ -11,7 +11,9 @@ We will add names and logos to the list of sponsors as the program develops. <br
 Thank you to our generous sponsors:<br>
 
 ## PLATNIUM LEVEL<br>
-
+<img src="/images/pragma34/DDN-Storage_web.png"/>
+</p>
+<br>
 
 ## GOLD LEVEL<br>
 
