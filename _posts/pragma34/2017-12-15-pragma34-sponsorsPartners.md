@@ -8,7 +8,7 @@ short: Sponsors and partners
 
 We will add names and logos to the list of sponsors as the program develops. <br />
 
-Thank you to our generous sponsors:<br>
+# Thank you to our generous sponsors:<br>
 <br>
 <br>
 
