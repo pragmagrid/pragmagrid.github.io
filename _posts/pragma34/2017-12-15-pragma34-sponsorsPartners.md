@@ -11,13 +11,11 @@ We will add names and logos to the list of sponsors as the program develops. <br
 Thank you to our generous sponsors:<br>
 
 ## PLATNIUM LEVEL<br>
-<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN"/>
-</p>
+<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:200px;"/>
 <br>
 
 ## GOLD LEVEL<br>
 <img src="/images/pragma34/Intel-logo_web.png" alt="Intel" style="width:200px;"/>
-</p>
 <br>
 
 ## SILVER LEVEL<br>
