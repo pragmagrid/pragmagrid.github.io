@@ -6,31 +6,29 @@ workshop: pragma34
 short: Sponsors and partners
 --- 
 
-We will add names and logos to the list of sponsors as the program develops. <br />
-
 # Thank you to our generous sponsors:<br>
 <br>
 <br>
 
 # PLATNIUM LEVEL<br>
-<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:250px;"/>
+<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:250px;">
 <br>
 <br>
 <br>
 
 # GOLD LEVEL<br>
-<img src="/images/pragma34/Intel-logo_web.png" alt="Intel" style="width:200px;"/>
+<img src="/images/pragma34/Intel-logo_web.png" alt="Intel" style="width:200px;">
 <br>
 <br>
 <br>
 
 # SILVER LEVEL<br>
-<img src="/images/pragma34/HPCtech-logo_web.png" alt="HPC Tech" style="width:150px;"/>
+<img src="/images/pragma34/HPCtech-logo_web.png" alt="HPC Tech" style="width:150px;">
 <br>
 <br>
 <br>
 
 <br>
 ## With additional support from:<br>
-<a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> <br/>
-<a href="http://www.pragma-grid.net/people/">The PRAGMA Community</a> <br/>
+<a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> <br>
+<a href="http://www.pragma-grid.net/people/">The PRAGMA Community</a> <br>
