@@ -16,7 +16,9 @@ Thank you to our generous sponsors:<br>
 <br>
 
 ## GOLD LEVEL<br>
-
+<img src="/images/pragma34/Intel-logo_web.png"/>
+</p>
+<br>
 
 ## SILVER LEVEL<br>
 
