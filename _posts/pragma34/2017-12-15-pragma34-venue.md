@@ -12,8 +12,8 @@ The PRAGMA34 workshop will be held at [Akihabara Convention Hall](http://www.aki
 Address: Akihabara Dai Bldg 4F 1-18-13 Sotokanda, Chiyoda-ku,Tokyo 101-0021, Japan.
 
 Floor Map:<br>
-<p align="center">
-<img src="/images/pragma34/Akibahall map2.png" alt="5F map" style="width:800px;" />
+<p>
+<img src="/images/pragma34/Akibahall map2.png" alt="5F map" style="width:700px;" />
 </p>
 <br>
 <br>
@@ -27,8 +27,8 @@ Tsukuba Express Akihabara Station ...........   3 minutes on foot<br>
 
 Please note that PRAGMA 34 and CENTRA 3 All-Hands Meeting are held at different locations. PRAGMA 34 will be held at Akihabara Convention Hall near JR Akihabara Station and CENTRA 3 All-Hands Meeting will be held at AP Tokyo Marunouchi near JR Tokyo Station. 
 
-<p align="center">
-<img src="/images/pragma34/CENTRA_PRAGMA venues_access_mod2.png" alt="Access map" style="width:800px;"/>
+<p>
+<img src="/images/pragma34/CENTRA_PRAGMA venues_access_mod2.png" alt="Access map" style="width:700px;"/>
 </p>
 <br>
 <br>
