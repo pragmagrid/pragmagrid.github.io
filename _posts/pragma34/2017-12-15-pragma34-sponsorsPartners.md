@@ -12,6 +12,7 @@ short: Sponsors and partners
 
 # PLATNIUM LEVEL<br>
 <img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:250px;">
+<img src="/images/pragma34/symbol_mark_rgb_red_web.jpg" alt="Fujitsu" style="width:220px;">
 <br>
 <br>
 <br>
