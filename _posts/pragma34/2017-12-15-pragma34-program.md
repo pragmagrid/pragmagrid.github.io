@@ -284,8 +284,9 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>18:00-21:00</td>
-    <td><strong>Conference Dinner</strong>
+    <td>17:50-21:30</td>
+    <td><strong>Conference Dinner</strong><br>
+	    Tokyo River Cruise<br>
     </td>
   </tr>
 </table>
