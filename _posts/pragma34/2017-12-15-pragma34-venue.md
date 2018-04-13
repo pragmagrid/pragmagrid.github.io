@@ -11,6 +11,12 @@ The PRAGMA34 workshop will be held at [Akihabara Convention Hall](http://www.aki
 [Map and Directions](https://www.google.co.jp/maps/place/Akihabara+Convention+Hall/@35.6991943,139.7699329,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c1d6fb74207:0xe6100facc0f6dc34!8m2!3d35.6991943!4d139.7721216?hl=en).<br>
 Address: Akihabara Dai Bldg 4F 1-18-13 Sotokanda, Chiyoda-ku,Tokyo 101-0021, Japan.
 
+Floor Map:<br>
+<p align="center">
+<img src="/images/pragma34/Akibahall map2.png"/>
+</p>
+<br>
+<br>
 The venue is located in the Akihabara area, adjacent to the JR Akihabara Station.<br> 
 
 From:<br>
