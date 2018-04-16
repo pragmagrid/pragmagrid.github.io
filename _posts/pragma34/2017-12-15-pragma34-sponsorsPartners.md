@@ -11,8 +11,9 @@ short: Sponsors and partners
 <br>
 
 # PLATNIUM LEVEL<br>
-<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:250px;">
-<img src="/images/pragma34/symbol_mark_rgb_red_web.jpg" alt="Fujitsu" style="width:270px;">
+<img src="/images/pragma34/DDN-Storage_web.png" alt="DNN" style="width:260px;">
+<img src="/images/pragma34/symbol_mark_rgb_red_web.jpg" alt="Fujitsu" style="width:280px;">
+<img src="/images/pragma34/RGB_PNG_statement_color_type2_m.png" alt="NEC" style="width:260px;">
 <br>
 <br>
 <br>
@@ -24,7 +25,7 @@ short: Sponsors and partners
 <br>
 
 # SILVER LEVEL<br>
-<img src="/images/pragma34/HPCtech-logo_web.png" alt="HPC Tech" style="width:120px;">
+<img src="/images/pragma34/HPCtech_logo_500x130.jpg" alt="HPC Tech" style="width:120px;">
 <br>
 <br>
 <br>
