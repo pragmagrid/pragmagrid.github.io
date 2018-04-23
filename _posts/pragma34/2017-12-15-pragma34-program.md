@@ -37,7 +37,7 @@ short: program
   <tr>
     <td> 10:50 - 11:10</td>
     <td>Dr. Gerald Pao, UC San Diego, USA<br>
-	<i>Using the Fish Brain & Convergent Cross Mapping to Create Novel Neuromorphic Deep Learning Architectures</i><br>
+	<i>Novel Neuromorphic Deep Learning Architectures From Empirical Dynamical Modeling of the Zebrafish Brain</i><br>
 	(includes 5min. Q&A)</td>
   </tr>
   <tr>
