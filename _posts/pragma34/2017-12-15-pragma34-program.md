@@ -24,32 +24,33 @@ short: program
   
   <tr>
     <td> 10:00 - 10:25</td>
-    <td><i>Introduction of ABCI</i><br>
-	   Dr. Hirotaka Ogawa, AIST, Japan<br>
-	   (includes 10min. Q&A)</td>
+    <td>Dr. Hirotaka Ogawa, AIST, Japan<br>
+	<i>Introduction of ABCI</i><br>
+	(includes 10min. Q&A)</td>
   </tr>
   <tr>
     <td> 10:25 - 10:50</td>
-    <td><i>Architecture and Facilities of ABCI</i><br>
-	   Dr. Ryousei Takano, AIST, Japan<br>
-	   (includes 10min. Q&A)</td>
+    <td>Dr. Ryousei Takano, AIST, Japan<br>
+        <i>Architecture and Facilities of ABCI</i><br>
+	(includes 10min. Q&A)</td>
   </tr>
   <tr>
     <td> 10:50 - 11:10</td>
-    <td><i>Using the Fish Brain & Convergent Cross Mapping to Create Novel Neuromorphic Deep Learning Architectures</i><br>
-	   Dr. Gerald Pao, UC San Diego, USA<br>
-	   (includes 5min. Q&A)</td>
+    <td>Dr. Gerald Pao, UC San Diego, USA<br>
+	<i>Using the Fish Brain & Convergent Cross Mapping to Create Novel Neuromorphic Deep Learning Architectures</i><br>
+	(includes 5min. Q&A)</td>
   </tr>
   <tr>
     <td> 11:10 - 11:30</td>
-    <td><i>Data and AI Research Platform in Taiwan</i><br>
-	   Dr. Weicheng Huang, NCHC, Taiwan<br>
-	   (includes 5min. Q&A)</td>
+    <td>Dr. Weicheng Huang, NCHC, Taiwan<br>
+	<i>Data and AI Research Platform in Taiwan</i><br>
+	(includes 5min. Q&A)</td>
   </tr>
   <tr>
     <td> 11:30 - 12:00</td>
-    <td><i>Introduction from Exhibitors</i><br>
-	   DDN, Fujitsu, NEC (10min. each)</td>
+    <td>DDN, Fujitsu, NEC<br>
+	<i>Introduction from Exhibitors</i><br>
+	(10min. each)</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
