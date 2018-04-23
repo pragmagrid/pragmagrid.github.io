@@ -19,7 +19,8 @@ short: program
   </tr>
   <tr>
     <td> 10:00 - 12:00</td>
-    <td><strong>Workshop on High Performance Infrastructure for AI</strong>, Akihabara Convention Hall (Room 5B and 5C)</td>
+    <td><strong>Workshop on High Performance Infrastructure for AI</strong><br>
+	        Akihabara Convention Hall (Room 5B and 5C)</td>
   </tr>
   
   <tr>
@@ -37,7 +38,7 @@ short: program
   <tr>
     <td> 10:50 - 11:10<br>
 	 (includes 5min. Q&A)</td>
-    <td><i>TBD</i><br>
+    <td><i>Using the Fish Brain & Convergent Cross Mapping to Create Novel Neuromorphic Deep Learning Architectures</i><br>
 	   Dr. Gerald Pao, UC San Diego, USA</td>
   </tr>
   <tr>
