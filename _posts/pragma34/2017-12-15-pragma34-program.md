@@ -7,7 +7,7 @@ short: program
 ---
 
 
-## Wednesday, May 9 - Pre-Workshop
+## Wednesday, May 9 - Workshop on High Performance Infrastructure for AI
 <table class="program34">
   <tr>
     <th>Time</th>
@@ -19,8 +19,7 @@ short: program
   </tr>
   <tr>
     <td> 10:00 - 12:00</td>
-    <td><strong>Workshop on High Performance Infrastructure for AI</strong><br>
-	        Akihabara Convention Hall (Room 5B and 5C)</td>
+    <td><strong>Venue: Akihabara Convention Hall (Room 5B and 5C)</strong><br></td>
   </tr>
   
   <tr>
@@ -66,7 +65,7 @@ short: program
   </tr>
   <tr>
     <td>15:00 - 16:30</td>
-    <td>Move to Akihabara Convention Hall by a bus</td>
+    <td>Move to Akihabara Convention Hall</td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
