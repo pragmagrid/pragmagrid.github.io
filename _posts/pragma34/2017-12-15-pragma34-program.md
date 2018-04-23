@@ -73,7 +73,7 @@ short: program
     <td>Summary and Wrap-up</td>
   </tr>
   <tr>
-    <td>17:30 - </td>
+    <td>17:15 - </td>
     <td>PRAGMA Welcome Reception</td>
   </tr>
 </table>
