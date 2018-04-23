@@ -23,24 +23,33 @@ short: program
   </tr>
   
   <tr>
-    <td> 10:00 - 10:25 (includes 10min. Q&A)</td>
-    <td><i>Introduction of ABCI</i>, Dr. Hirotaka Ogawa, AIST, Japan</td>
+    <td> 10:00 - 10:25<br>
+	 (includes 10min. Q&A)</td>
+    <td><i>Introduction of ABCI</i><br>
+	   Dr. Hirotaka Ogawa, AIST, Japan</td>
   </tr>
   <tr>
-    <td> 10:25 - 10:50 (includes 10min. Q&A)</td>
-    <td><i>Architecture and Facilities of ABCI</i>, Dr. Ryousei Takano, AIST, Japan</td>
+    <td> 10:25 - 10:50<br>
+	 (includes 10min. Q&A)</td>
+    <td><i>Architecture and Facilities of ABCI</i><br>
+	   Dr. Ryousei Takano, AIST, Japan</td>
   </tr>
   <tr>
-    <td> 10:50 - 11:10 (includes 5min. Q&A)</td>
-    <td><i>TBD</i>, Dr. Gerald Pao, UC San Diego, USA</td>
+    <td> 10:50 - 11:10<br>
+	 (includes 5min. Q&A)</td>
+    <td><i>TBD</i><br>
+	   Dr. Gerald Pao, UC San Diego, USA</td>
   </tr>
   <tr>
-    <td> 11:10 - 11:30 (includes 5min. Q&A)</td>
-    <td><i>Data and AI Research Platform in Taiwan</i>, Dr. Weicheng Huang, NCHC, Taiwan</td>
+    <td> 11:10 - 11:30<br>
+	 (includes 5min. Q&A)</td>
+    <td><i>Data and AI Research Platform in Taiwan</i><br>
+	   Dr. Weicheng Huang, NCHC, Taiwan</td>
   </tr>
   <tr>
     <td> 11:30 - 12:00</td>
-    <td><i>Introduction from Exhibitors</i>, DDN, Fujitsu, NEC (10min. each)</td>
+    <td><i>Introduction from Exhibitors</i><br>
+	   DDN, Fujitsu, NEC (10min. each)</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
