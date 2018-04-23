@@ -16,30 +16,56 @@ short: program
   <tr>
     <td> 9:30 - </td>
     <td>Registration Opens</td>
-  </tr><tr>
+  </tr>
+  <tr>
     <td> 10:00 - 12:00</td>
-    <td>Workshop (presentations) @ Akihabara convention hall (Room 5A)</td>
+    <td><strong>Workshop on High Performance Infrastructure for AI</strong>, Akihabara Convention Hall (Room 5B and 5C)</td>
+  </tr>
+  
+  <tr>
+    <td> 10:00 - 10:25 (includes 10min. Q&A)</td>
+    <td><i>Introduction of ABCI</i>, Dr. Hirotaka Ogawa, AIST, Japan</td>
+  </tr>
+  <tr>
+    <td> 10:25 - 10:50 (includes 10min. Q&A)</td>
+    <td><i>Architecture and Facilities of ABCI</i>, Dr. Ryousei Takano, AIST, Japan</td>
+  </tr>
+  <tr>
+    <td> 10:50 - 11:10 (includes 5min. Q&A)</td>
+    <td><i>TBD</i>, Dr. Gerald Pao, UC San Diego, USA</td>
+  </tr>
+  <tr>
+    <td> 11:10 - 11:30 (includes 5min. Q&A)</td>
+    <td><i>Data and AI Research Platform in Taiwan</i>, Dr. Weicheng Huang, NCHC, Taiwan</td>
+  </tr>
+  <tr>
+    <td> 11:30 - 12:00</td>
+    <td><i>Introduction from Exhibitors</i>, DDN, Fujitsu, NEC (10min. each)</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td>Lunch w/ vendor exhibits (Room 5C)</td>
+    <td>Discussion and exhibits w/ lunch (Room 5C)</td>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
-    <td>Move to Kashiwa-Campus by a bus</td>
+    <td>Move to AI Data Center, Kashiwanoha-Campus, U. Tokyo.</td>
   </tr>
   <tr>
-    <td>14:00 - 15:30</td>
-    <td>Visit ABCI</td>
+    <td>14:00 - 15:00</td>
+    <td>Visit AI Data Center</td>
   </tr>
   <tr>
-    <td>15:30 - 17:00</td>
-    <td>Move to Akihabara by a bus</td>
+    <td>15:00 - 16:30</td>
+    <td>Move to Akihabara Convention Hall by a bus</td>
+  </tr>
+  <tr>
+    <td>16:30 - 17:00</td>
+    <td>Summary and Wrap-up</td>
   </tr>
   <tr>
     <td>17:30 - </td>
     <td>PRAGMA Welcome Reception</td>
-    </tr>
+  </tr>
 </table>
 <br>
 
