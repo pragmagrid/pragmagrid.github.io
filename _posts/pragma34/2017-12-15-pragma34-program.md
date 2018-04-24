@@ -19,7 +19,7 @@ short: program
   </tr>
   <tr>
     <td> 10:00 - 12:00</td>
-    <td><strong>Venue: Akihabara Convention Hall (Room 5B and 5C)</strong><br></td>
+    <td><strong>Venue: Akihabara Convention Hall (Room 5A and 5C)</strong><br></td>
   </tr>
   
   <tr>
