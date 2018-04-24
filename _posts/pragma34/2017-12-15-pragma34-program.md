@@ -70,7 +70,7 @@ short: program
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td>Summary and Wrap-up</td>
+    <td>Summary and Wrap-up (Room 5B)</td>
   </tr>
   <tr>
     <td>17:15 - </td>
