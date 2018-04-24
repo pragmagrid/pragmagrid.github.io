@@ -69,11 +69,11 @@ short: program
     <td>Move to Akihabara Convention Hall</td>
   </tr>
   <tr>
-    <td>16:30 - 17:00</td>
+    <td>16:30 - 16:50</td>
     <td>Summary and Wrap-up (Room 5B)</td>
   </tr>
   <tr>
-    <td>17:15 - </td>
+    <td>17:00 - </td>
     <td>PRAGMA Welcome Reception</td>
   </tr>
 </table>
