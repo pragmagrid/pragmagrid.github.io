@@ -97,7 +97,7 @@ short: program
     <td>9:10 - 10:00</td>
     <td><strong>Keynote (Room 5B)</strong>
         <br>Dr. Yasushi Yagi, Osaka University
-        <br>Title: TBD
+        <br>Title: Gait Image Analysis for Person Authentication
         <br>Discussion following presentation
     </td>
   </tr>
