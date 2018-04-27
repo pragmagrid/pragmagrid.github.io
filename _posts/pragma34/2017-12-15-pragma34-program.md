@@ -73,7 +73,7 @@ short: program
     <td>Summary and Wrap-up (Room 5B)</td>
   </tr>
   <tr>
-    <td>17:00 - </td>
+    <td>17:00 - 18:45</td>
     <td>PRAGMA Welcome Reception</td>
   </tr>
 </table>
@@ -234,7 +234,7 @@ short: program
     </td>
    </tr>
    <tr>
-    <td>18:00 - 21:00</td>
+    <td>18:00 - 20:30</td>
     <td><strong>Conference Dinner</strong>
     </td>
    </tr>
@@ -352,7 +352,7 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>8:00-18:00</td>
+    <td>9:00-17:30</td>
     <td><strong>BoF Future of AI in Long-Tail Science</strong><br>
         Open to all PRAGMA/CENTRA attendees<br>
     </td>
