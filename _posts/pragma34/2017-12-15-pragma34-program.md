@@ -25,32 +25,32 @@ short: program
   <tr>
     <td> 10:00 - 10:25</td>
     <td>Dr. Hirotaka Ogawa, AIST, Japan<br>
-	<i>Introduction of ABCI</i><br>
-	(includes 10min. Q&A)</td>
+    <i>Introduction of ABCI</i><br>
+    (includes 10min. Q&A)</td>
   </tr>
   <tr>
     <td> 10:25 - 10:50</td>
     <td>Dr. Ryousei Takano, AIST, Japan<br>
         <i>Architecture and Facilities of ABCI</i><br>
-	(includes 10min. Q&A)</td>
+    (includes 10min. Q&A)</td>
   </tr>
   <tr>
     <td> 10:50 - 11:10</td>
     <td>Dr. Gerald Pao, UC San Diego, USA<br>
-	<i>Novel Neuromorphic Deep Learning Architectures From Empirical Dynamical Modeling of the Zebrafish Brain</i><br>
-	(includes 5min. Q&A)</td>
+    <i>Novel Neuromorphic Deep Learning Architectures From Empirical Dynamical Modeling of the Zebrafish Brain</i><br>
+    (includes 5min. Q&A)</td>
   </tr>
   <tr>
     <td> 11:10 - 11:30</td>
     <td>Dr. Weicheng Huang, NCHC, Taiwan<br>
-	<i>Data and AI Research Platform in Taiwan</i><br>
-	(includes 5min. Q&A)</td>
+    <i>Data and AI Research Platform in Taiwan</i><br>
+    (includes 5min. Q&A)</td>
   </tr>
   <tr>
     <td> 11:30 - 12:00</td>
     <td>DDN, Fujitsu, NEC<br>
-	<i>Introduction from Exhibitors</i><br>
-	(10min. each)</td>
+    <i>Introduction from Exhibitors</i><br>
+    (10min. each)</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -141,67 +141,67 @@ short: program
     <td>15:00 - 15:30</td>
     <td><strong>COFFEE/TEA BREAK (Room 5C)
     <br>Poster Session Starts</strong>
-	    <br>
+        <br>
         <br>Nabylla Azahra, Sarah Syahwenni, Ummi Azizah Rachmawati, Sri Chusri Haryanti and Heru Suhartanto
-	    <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i>
-	    <br>
+        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i>
+        <br>
         <br>Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
         <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i>
-	    <br>
+        <br>
         <br>Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
         <br><i>Toward image inbetweening using Latent Model</i>
-	    <br>
+        <br>
         <br>Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, Vahid Daneshmand and Kensworth Subratie
         <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i>
-	    <br>
+        <br>
         <br>Qing Hong, Yusuke Tanimura and Hidemoto Nakada
-	    <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
-	    <br>
+        <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
+        <br>
         <br>Yossapol Jearamanytwesin, Nantanapak Saranpattarawet and Wanida Putthividhya
         <br><i>GIS with Crowdsourcing as a Service</i>
-	    <br>
+        <br>
         <br>Surapol Kunsarwat and Tanatorn Tanantorg
         <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i>
-	    <br>
-	<br>Yu Luo, Quan Zhou, Kunalan Ratharanjan, Beth Plale, Ramil Mauleon, Jason Haga, Hsiu-Mei Chou
-	<br><i>Persistent IDs: Application to Workflow and Sensor Applications</i>
-	    <br>
+        <br>
+    <br>Yu Luo, Quan Zhou, Kunalan Ratharanjan, Beth Plale, Ramil Mauleon, Jason Haga, Hsiu-Mei Chou
+    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i>
+        <br>
         <br>Suchanat Mangkhangjaroen
         <br><i>ONE: Online Note Extraction to Music Cheat</i>
-	    <br>
+        <br>
         <br>Yuki Matsui, Yasuhiro Watashiba, Susumu Date, Takashi Yoshikawa and Shinji Shimojo
         <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i>
-	    <br>
+        <br>
         <br>Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
         <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i>
-	    <br>
+        <br>
         <br>Visaruth Punnium, Pasit Pongpojkasem, Prapaporn Rattanatamrong, Shava Smallen and Nadya Williams
         <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i>
-	    <br>
+        <br>
         <br>Tanakon Sawanglok, Tananya Thampairoj and Pokpong Songmuang
         <br><i>Human Postural System with Kinect</i>
-	    <br>
+        <br>
         <br>Heru Suhartanto and Ari Wibisono
         <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i>
-	    <br>
+        <br>
         <br>Jutamas Teerarueangchaisri and Worawat Suraphanphairoj
         <br><i>Recommender Chatbot for Thailand Attraction</i>
-	    <br>
+        <br>
         <br>Wongsatorn Thongthaworn and Prapaporn Rattanathamrong
         <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i>
-	    <br>
+        <br>
         <br>Wisit Tipchuen
         <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i>
-	    <br>
+        <br>
         <br>Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
         <br><i>The Status of Data Marketplace – on its way to the National Data Service</i>
-	    <br>
+        <br>
         <br>Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
         <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
-	    <br>
+        <br>
         <br>Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida and Putchong Uthayopas
         <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i>
-	    <br>
+        <br>
         <br>Juan Sebastian Aguirre Zarraonandia
         <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i>
     </td>
@@ -213,22 +213,22 @@ short: program
   <tr>
     <td>16:00 - 17:30</td>
     <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B) -- Chair?</strong>
-	    <br>
+        <br>
       <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
       <br><i>An Optimized Information Service for High Performance Computing Environment</i>
-	    <br>
+        <br>
       <br>Jerry Seo and Jong-Sook Lee
       <br><i>A Computational Science Platform, EDISON</i>
-	    <br>
+        <br>
       <br>Shava Smallen, Philip Papadopoulos and Nadya Williams
       <br><i>Experimentation with Kubernetes and Containers on PRAGMA Cloud</i>
-	    <br>
+        <br>
       <br>Matthew Collins, Gaurav Yeole, Nadya Williams and Shava Smallen
-	    <br><i>Demo: Using Spark, PRAGMA Cloud, Deep Learning, and Virtualized GPUs to Find Museum Specimens Contaminated with Mercury Salts</i>
-	    <br>
+        <br><i>Demo: Using Spark, PRAGMA Cloud, Deep Learning, and Virtualized GPUs to Find Museum Specimens Contaminated with Mercury Salts</i>
+        <br>
       <br>Nadya Williams, Jimmy Liu, Shava Smallen and Phil Papadopoulos
       <br><i>Setting up Deep Learning Analysis on GPU-based Virtual cluster for Traffic Monitoring Project</i>
-	    <br>
+        <br>
       <br>Yu-Chuan Huang, Chih-Wei Yi, Sid Liu, Dennis Syu and Chien-Chao Tseng
       <br><i>A Deep Learning Service Cluster for Ball Tracking from Broadcast Video</i>
     </td>
@@ -270,22 +270,22 @@ short: program
   <tr>
     <td>11:00-12:30</td>
     <td><strong>Demo Session 2, Applications (Room 5B) -- Chair=?</strong>
-	    <br>
+        <br>
        <br>Angga Pradipta, Sri Chusri Haryanti and Ummi Azizah Rachmawati
        <br><i>Indonesian E-Health Grid Model Test Bed on LIPI Grid Machine</i>
-	    <br>
+        <br>
        <br>Sarah Syahwenni Utari, Sri Chusri Haryanti and Ummi Azizah Rachmawati
        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
-	    <br>
+        <br>
        <br>Jimmy Liu, Jason Haga, Mike Lin, Sid Liu, Dennis Syu and Chih-Wei Yi
        <br><i>An Interactive Platform for DLaaS on SAGE2- Traffic Monitoring as an Example</i>
-	    <br>
+        <br>
        <br>Shintaro Oka, Kazunori Nozaki and Mikako Hayashi
        <br><i>Image Recognition for Dental Instruments</i>
-	    <br>
+        <br>
        <br>Aimee Stewart, Nadya Williams and Hsiu-Mei Chou
        <br><i>Lifemapper: Portable Infrastructure, Portable Interface</i>
-	    <br>
+        <br>
        <br>Karpjoo Jeong and Yongnan Wen
        <br><i>An IoT & Big Data System for Understanding-based Real-time Pet Care</i>
     </td>
@@ -322,7 +322,7 @@ short: program
   <tr>
     <td>17:50-21:30</td>
     <td><strong>Conference Dinner</strong><br>
-	    Tokyo River Cruise<br>
+        Tokyo River Cruise<br>
     </td>
   </tr>
 </table>
