@@ -99,7 +99,7 @@ short: program
   </tr>
   <tr>
     <td>9:10 - 10:00</td>
-    <td><strong>Keynote (Room 5B)</strong>
+    <td><strong>Keynote (Room 5B)</strong> Session Chair: Yoshiyuki Kido
         <br>Dr. Yasushi Yagi, Osaka University
         <br>Title: Gait Image Analysis for Person Authentication
         <br>Discussion following presentation
@@ -107,7 +107,7 @@ short: program
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
-    <td><strong>PRAGMA Update (Room 5B)</strong>
+    <td><strong>PRAGMA Update (Room 5B)</strong> Session Chair: Jason Haga
        <br>Dr. Phil Papadopoulos
        <br>Set context for the workshop and some updates from the working groups
     </td>
@@ -120,12 +120,13 @@ short: program
   <tr>
     <td>11:00 - 11:30</td>
     <td><strong>Working Group and Expedition Updates (Room 5B)</strong>
-       <br>6 talks of 5 minutes each) -- Chair ?
+       <br>6 talks of 5 minutes each) Session Chair: Weicheng Huang
     </td>
   </tr>
   <tr>
     <td>11:30 - 12:00</td>
-    <td><strong>Lightning Talks (Room 5B) -- Chair ?</strong></td>
+    <td><strong>Lightning Talks (Room 5B)</strong> Session Chair: Wassapon Watanakeesuntorn
+    </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -216,7 +217,7 @@ short: program
   </tr>
   <tr>
     <td>16:00 - 17:30</td>
-    <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B) -- Chair?</strong>
+    <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B)</strong> Session Chair: Nadya Williams
         <br>
       <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
       <br><i>An Optimized Information Service for High Performance Computing Environment</i>
@@ -258,7 +259,7 @@ short: program
   </tr>
   <tr>
     <td>9:00-10:00</td>
-     <td><strong>Keynote (Room 5B)</strong>
+     <td><strong>Keynote (Room 5B)</strong> Session Chair: Heru Suhartanto
         <br>Dr. Yoshiki Seo, Artificial Intelligence Research Center, AIST
         <br>Title: AI Research Activities at AI Research center, AIST
         <br>Discussion following presentation
@@ -276,7 +277,7 @@ short: program
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2, Applications (Room 5B) -- Chair=?</strong>
+    <td><strong>Demo Session 2, Applications (Room 5B)</strong> Session Chair: Kohei Ichikawa
         <br>
        <br>Angga Pradipta, Sri Chusri Haryanti and Ummi Azizah Rachmawati
        <br><i>Indonesian E-Health Grid Model Test Bed on LIPI Grid Machine</i>
@@ -316,11 +317,12 @@ short: program
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td><strong>Best Posters (Room 5B) -- chair?</strong></td>
+    <td><strong>Best Posters (Room 5B)</strong> Session Chair: Wassapon Watanakeesuntorn
+    </td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
-    <td><strong>PRAGMA-34 Wrap-up (Room 5B)</strong>
+    <td><strong>PRAGMA-34 Wrap-up (Room 5B)</strong> Session Chair: Jason Haga
       <br>Dr. Peter Arzberger
       <br>Working Group Summaries, Steering Committee Summaries
       <br>Invitation to PRAGMA 35
