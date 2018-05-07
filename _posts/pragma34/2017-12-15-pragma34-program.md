@@ -74,7 +74,11 @@ short: program
   </tr>
   <tr>
     <td>17:00 - 18:45</td>
-    <td>PRAGMA Welcome Reception</td>
+    <td><strong>PRAGMA Welcome Reception</strong> (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>)<br>
+      Darts UP（ダーツ アップ）<br>
+      川初ビル (Kawasho Building) 9F<br>
+      6 min walk, https://www.hotpepper.jp/strJ001026485/map/ <br>
+  </td>
   </tr>
 </table>
 <br>
@@ -234,8 +238,11 @@ short: program
     </td>
    </tr>
    <tr>
-    <td>18:00 - 20:30</td>
-    <td><strong>Conference Dinner</strong>
+    <td>18:30 - 20:30</td>
+    <td><strong>Conference Dinner</strong> (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>)<br>
+      yuyu (柚柚)<br>
+      ZIGZAG Building, 5F<br>
+      1 min walk, https://tabelog.com/en/tokyo/A1310/A131001/13120978/dtlmap/<br>
     </td>
    </tr>
 </table> 
@@ -323,6 +330,10 @@ short: program
     <td>17:50-21:30</td>
     <td><strong>Conference Dinner</strong><br>
         Tokyo River Cruise<br>
+        Location: Meet at 1F of Akihabara Convention Hall, will walk to bus pick-up location.<br>
+        Please be at the meeting area by 17:40.<br>
+        More details in (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>).<br>
+        Pre-registration is required.<br>
     </td>
   </tr>
 </table>
@@ -337,9 +348,12 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>8:00-18:00</td>
-    <td><strong>Engaging International Partners in Collaborative Education</strong><br>
-        Open to PRAGMA/CENTRA attendees<br>
+    <td>8:50-18:00</td>
+    <td><strong>Engaging International Partners in Collaborative Education</strong> <br>
+        Location: Meet at 1F of Akihabara Convention Hall, will walk to bus pick-up location.<br>
+        Please be at the meeting area by 8:50.<br>
+        More details in (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>).<br>
+        Pre-registration is required.<br>
     </td>
   </tr>
 </table>
