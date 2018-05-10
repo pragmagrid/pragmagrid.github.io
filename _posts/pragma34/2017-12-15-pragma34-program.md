@@ -239,7 +239,7 @@ short: program
     </td>
    </tr>
    <tr>
-    <td>18:30 - 20:30</td>
+    <td>18:00 - 20:00</td>
     <td><strong>Conference Dinner</strong> (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>)<br>
       yuyu (柚柚)<br>
       ZIGZAG Building, 5F<br>
