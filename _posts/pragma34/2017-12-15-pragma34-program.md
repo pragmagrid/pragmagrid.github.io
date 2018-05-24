@@ -192,7 +192,7 @@ short: program
         <br>Jutamas Teerarueangchaisri and Worawat Suraphanphairoj
         <br><i>Recommender Chatbot for Thailand Attraction</i> (<a href="/images/pragma34/Teerarueangchaisri.pdf">Poster</a>)
         <br>
-        <br>Wongsatorn Thongthaworn and Prapaporn Rattanathamrong
+        <br>Wongsatorn Thongthaworn and Prapaporn Rattanatamrong
         <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i> 
         <br>
         <br>Wisit Tipchuen
