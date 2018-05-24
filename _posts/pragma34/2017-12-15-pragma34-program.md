@@ -148,67 +148,67 @@ short: program
     <br>Poster Session Starts</strong>
         <br>
         <br>Nabylla Azahra, Sarah Syahwenni, Ummi Azizah Rachmawati, Sri Chusri Haryanti and Heru Suhartanto
-        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i>
+        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i> (<a href="/images/pragma34/Azahra.pdf">Poster</a>)
         <br>
         <br>Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
-        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i>
+        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i> (<a href="/images/pragma34/Chuang.pdf">Poster</a>)
         <br>
         <br>Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
-        <br><i>Toward image inbetweening using Latent Model</i>
+        <br><i>Toward image inbetweening using Latent Model</i> (<a href="/images/pragma34/Cristovao.pdf">Poster</a>)
         <br>
         <br>Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, Vahid Daneshmand and Kensworth Subratie
-        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i>
+        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i> (<a href="/images/pragma34/Farrell.pdf">Poster</a>)
         <br>
         <br>Qing Hong, Yusuke Tanimura and Hidemoto Nakada
-        <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
+        <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i> (<a href="/images/pragma34/Hong.pdf">Poster</a>)
         <br>
         <br>Yossapol Jearamanytwesin, Nantanapak Saranpattarawet and Wanida Putthividhya
-        <br><i>GIS with Crowdsourcing as a Service</i>
+        <br><i>GIS with Crowdsourcing as a Service</i> 
         <br>
         <br>Surapol Kunsarwat and Tanatorn Tanantorg
-        <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i>
+        <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i> (<a href="/images/pragma34/Kunsarwat.pdf">Poster</a>)
         <br>
     <br>Yu Luo, Quan Zhou, Kunalan Ratharanjan, Beth Plale, Ramil Mauleon, Jason Haga, Hsiu-Mei Chou
-    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i>
+    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i> 
         <br>
         <br>Suchanat Mangkhangjaroen
-        <br><i>ONE: Online Note Extraction to Music Cheat</i>
+        <br><i>ONE: Online Note Extraction to Music Cheat</i> (<a href="/images/pragma34/Mangkhangjaroen.pdf">Poster</a>)
         <br>
         <br>Yuki Matsui, Yasuhiro Watashiba, Susumu Date, Takashi Yoshikawa and Shinji Shimojo
-        <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i>
+        <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i> (<a href="/images/pragma34/Matsui.pdf">Poster</a>)
         <br>
         <br>Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
-        <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i>
+        <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i> (<a href="/images/pragma34/Nakasan.pdf">Poster</a>)
         <br>
         <br>Visaruth Punnium, Pasit Pongpojkasem, Prapaporn Rattanatamrong, Shava Smallen and Nadya Williams
         <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i>
         <br>
         <br>Tanakon Sawanglok, Tananya Thampairoj and Pokpong Songmuang
-        <br><i>Human Postural System with Kinect</i>
+        <br><i>Human Postural System with Kinect</i> (<a href="/images/pragma34/Sawanglok.pdf">Poster</a>)
         <br>
-        <br>Heru Suhartanto and Ari Wibisono
-        <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i>
+        <br>Dennis Pratama Kammah, Ari Wibisono and Heru Suhartanto
+        <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i> (<a href="/images/pragma34/Kammah.pdf">Poster</a>)
         <br>
         <br>Jutamas Teerarueangchaisri and Worawat Suraphanphairoj
-        <br><i>Recommender Chatbot for Thailand Attraction</i>
+        <br><i>Recommender Chatbot for Thailand Attraction</i> (<a href="/images/pragma34/Teerarueangchaisri.pdf">Poster</a>)
         <br>
         <br>Wongsatorn Thongthaworn and Prapaporn Rattanathamrong
-        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i>
+        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i> 
         <br>
         <br>Wisit Tipchuen
-        <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i>
+        <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i> (<a href="/images/pragma34/Tipchuen.pdf">Poster</a>)
         <br>
         <br>Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
         <br><i>The Status of Data Marketplace – on its way to the National Data Service</i>
         <br>
         <br>Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
-        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
+        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i> (<a href="/images/pragma34/Utari.pdf">Poster</a>)
         <br>
         <br>Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida and Putchong Uthayopas
-        <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i>
+        <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i> (<a href="/images/pragma34/Watanakeesuntorn.pdf">Poster</a>)
         <br>
         <br>Juan Sebastian Aguirre Zarraonandia
-        <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i>
+        <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i> (<a href="/images/pragma34/Zarraonandia.pdf">Poster</a>)
     </td>
   </tr>
   <tr>
