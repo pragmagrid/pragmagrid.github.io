@@ -163,7 +163,7 @@ short: program
         <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i> (<a href="/images/pragma34/Hong.pdf">Poster</a>)
         <br>
         <br>Yossapol Jearamanytwesin, Nantanapak Saranpattarawet and Wanida Putthividhya
-        <br><i>GIS with Crowdsourcing as a Service</i> 
+        <br><i>GIS with Crowdsourcing as a Service</i> (<a href="/images/pragma34/Jearamanytwesin.pdf">Poster</a>)
         <br>
         <br>Surapol Kunsarwat and Tanatorn Tanantorg
         <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i> (<a href="/images/pragma34/Kunsarwat.pdf">Poster</a>)
@@ -180,8 +180,8 @@ short: program
         <br>Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
         <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i> (<a href="/images/pragma34/Nakasan.pdf">Poster</a>)
         <br>
-        <br>Visaruth Punnium, Pasit Pongpojkasem, Prapaporn Rattanatamrong, Shava Smallen and Nadya Williams
-        <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i>
+        <br>Visaruth Punnium, Pasit Pongpojkasem, Shava Smallen, Nadya Williams, and Prapaporn Rattanatamrong
+        <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i> (<a href="/images/pragma34/Punnium.pdf">Poster</a>)
         <br>
         <br>Tanakon Sawanglok, Tananya Thampairoj and Pokpong Songmuang
         <br><i>Human Postural System with Kinect</i> (<a href="/images/pragma34/Sawanglok.pdf">Poster</a>)
@@ -193,7 +193,7 @@ short: program
         <br><i>Recommender Chatbot for Thailand Attraction</i> (<a href="/images/pragma34/Teerarueangchaisri.pdf">Poster</a>)
         <br>
         <br>Wongsatorn Thongthaworn and Prapaporn Rattanatamrong
-        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i> 
+        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i> (<a href="/images/pragma34/Thongthaworn.pdf">Poster</a>)
         <br>
         <br>Wisit Tipchuen
         <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i> (<a href="/images/pragma34/Tipchuen.pdf">Poster</a>)
