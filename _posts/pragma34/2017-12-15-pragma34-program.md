@@ -199,7 +199,7 @@ short: program
         <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i> (<a href="/images/pragma34/Tipchuen.pdf">Poster</a>)
         <br>
         <br>Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
-        <br><i>The Status of Data Marketplace – on its way to the National Data Service</i>
+        <br><i>The Status of Data Marketplace – on its way to the National Data Service</i> (<a href="/images/pragma34/Tsai.pdf">Poster</a>)
         <br>
         <br>Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
         <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i> (<a href="/images/pragma34/Utari.pdf">Poster</a>)
