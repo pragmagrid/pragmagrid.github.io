@@ -169,7 +169,7 @@ short: program
         <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i> (<a href="/images/pragma34/Kunsarwat.pdf">Poster</a>)
         <br>
     <br>Yu Luo, Quan Zhou, Kunalan Ratharanjan, Beth Plale, Ramil Mauleon, Jason Haga, Hsiu-Mei Chou
-    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i> 
+    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i> (<a href="/images/pragma34/Luo.pdf">Poster</a>)
         <br>
         <br>Suchanat Mangkhangjaroen
         <br><i>ONE: Online Note Extraction to Music Cheat</i> (<a href="/images/pragma34/Mangkhangjaroen.pdf">Poster</a>)
