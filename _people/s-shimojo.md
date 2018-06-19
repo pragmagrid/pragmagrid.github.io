@@ -1,7 +1,7 @@
 ---
 title: Shimojo
 firstname: Shinji
-affiliation: Vice Director, Osaka University
+affiliation:  Interim Chair, PRAGMA Steering Committee; Vice Director, Osaka University
 imagesrc: "s-shimojo.jpg"
 layout: person
 categories:

@@ -5,7 +5,7 @@ affiliation: Senior Research Fellow, National Center for High-performance Comput
 imagesrc: "wf-tsai.png "
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Steering Committee Member and Member of PRAGMA’s Telescience Working Group/Geoscience Working Group.

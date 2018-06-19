@@ -6,31 +6,18 @@ categories:
  - "ex-steering"
 ---
 
-<div class="border">
-<h4>{{page.title}}</h4>
-</div>
+{% assign pages = site.["people"] | sort: "title" %}
 
-<ul>
-  <li><strong><a href="/people/a-agarwal">Arun Agarwal</a></strong> - Professor, School of Computer and Information Services Chairman, ECCNF, University of Hyderabad</li>
-  <li><strong>Col (NS) Larry Ang</strong><br />Formerly employed by the Bionformatics Institute, Singapore</li>
-  <li><strong>Maxine Brown</strong><br />Director, EVL, Computer Science Department, University of Chicago (UIC)</li>
-  <li><strong>Royol Chitradon</strong><br />Director, Committee and
-  Secretariat<br />Hydro and Agro Informatics Institute<br />Ministry of
-  Sciences and Technology<br />Cloud Security Alliance - Thailand Chapter</li>
- <li><strong>Kejun (Kevin) Dong</strong><br />Researcher, CNNIC, Beijing City, China</li> 
- <li><strong>Jysoo Lee</strong><br />Supercomputing Director, KAUST (Saudi Arabia); Formerly - Principal Researcher, Division of Supercomputing, Korea Institute of Science and Technology Information (KISTI)</li>
-  <li><strong>Sangsan Lee</strong><br />President &amp; CEO, Handysoft, Seoul, Korea</li>
-  <li><strong>Satoshi Matsuoka</strong><br />Professor, Tokyo Institute of Technology</li>
-  <li><strong>Rick McMullen</strong><br />Director, Arkansas High Performance Computing Center, University of Arkansas</li>
- <li><strong>Kai Nan</strong><br />Software Architect, Global Vision Media Technology Company, Beijing City, China</li>
-  <li><strong><a href="/people/r-nandkumar">Radha Nandkumar</a></strong> - Emeritus Director of International Affiliations at NCSA, UIUC</li>
-  <li><strong>John O'Callaghan</strong><br />Emeritus Professor, The Australian National University<br />Principal, Lakeview Consulting</li>
-  <li><strong>Bernard Pailthorpe</strong><br />Professor of Physics (Honorary), University of Sydney, Australia<br />Director, Centre for Machine Learning Charles Sturt University</li>
- <li><strong>Beth Plale</strong><br />Data Insight Center, Indiana University; currently serving at the National Science Foundation</li>
-  <li><strong>Piyawut (Joe) Srichaikul</strong><br />Assistant Executive Director, Platform Technology Program<br />National Electronics and Computer Technology Center (NECTEC)</li>
-<li><strong>Vinh Quang Thai</strong><br />Professor, Institute of Information Technology (IOIT)<br />VAST</li>  
-<li><strong>Jim Williams</strong><br />Director, International Network Operations (Retired)<br />Indiana University and Internet2</li>
-  <li><strong>Baoping Yan</strong><br /> Computer Network Information Center (CNIC), Chinese Academy of Sciences (CAS) </li>
+<div class="border">
+  <h4>{{page.title}}</h4>
+</div>
+<ul class="posts">
+  {% for post in pages %}
+    {% if post.categories[0] == 'exsteering' %}
+      <li><a href="{{ post.url }}" title="{{ post.title }}">{{post.firstname}} {{ post.title }}</a> - {{post.affiliation}}
+      </li>
+    {% endif %}
+  {% endfor %}
 </ul>
 
 <br>

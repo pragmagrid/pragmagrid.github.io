@@ -5,7 +5,7 @@ affiliation: Chair, PRAGMA Steering Committee; Chief Technology Officer & Divisi
 imagesrc: "p-papadopoulos.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Steering Committee Member and Member of PRAGMA's Resources Working Group.

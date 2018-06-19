@@ -5,7 +5,7 @@ affiliation: Dean, School of Computer and Information Sciences, University of Hy
 imagesrc: "a-agarwal.png"
 layout: person
 categories:
- - "researcher"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Member since 2002; Co-advisor to PRAGMA students; Member,

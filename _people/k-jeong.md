@@ -5,7 +5,7 @@ affiliation: Professor, Konkuk University
 imagesrc: "k-jeong.png "
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Steering Committee Member and Telescience Working Group Member.
