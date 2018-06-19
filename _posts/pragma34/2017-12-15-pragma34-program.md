@@ -74,7 +74,11 @@ short: program
   </tr>
   <tr>
     <td>17:00 - 18:45</td>
-    <td>PRAGMA Welcome Reception</td>
+    <td><strong>PRAGMA Welcome Reception</strong> (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>)<br>
+      Darts UP（ダーツ アップ）<br>
+      川初ビル (Kawasho Building) 9F<br>
+      6 min walk, https://www.hotpepper.jp/strJ001026485/map/ <br>
+  </td>
   </tr>
 </table>
 <br>
@@ -95,7 +99,7 @@ short: program
   </tr>
   <tr>
     <td>9:10 - 10:00</td>
-    <td><strong>Keynote (Room 5B)</strong>
+    <td><strong>Keynote (Room 5B)</strong> Session Chair: Yoshiyuki Kido
         <br>Dr. Yasushi Yagi, Osaka University
         <br>Title: Gait Image Analysis for Person Authentication
         <br>Discussion following presentation
@@ -103,7 +107,7 @@ short: program
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
-    <td><strong>PRAGMA Update (Room 5B)</strong>
+    <td><strong>PRAGMA Update (Room 5B)</strong> Session Chair: Jason Haga
        <br>Dr. Phil Papadopoulos
        <br>Set context for the workshop and some updates from the working groups
     </td>
@@ -116,12 +120,13 @@ short: program
   <tr>
     <td>11:00 - 11:30</td>
     <td><strong>Working Group and Expedition Updates (Room 5B)</strong>
-       <br>6 talks of 5 minutes each) -- Chair ?
+       <br>6 talks of 5 minutes each) Session Chair: Weicheng Huang
     </td>
   </tr>
   <tr>
     <td>11:30 - 12:00</td>
-    <td><strong>Lightning Talks (Room 5B) -- Chair ?</strong></td>
+    <td><strong>Lightning Talks (Room 5B)</strong> Session Chair: Wassapon Watanakeesuntorn
+    </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -143,67 +148,67 @@ short: program
     <br>Poster Session Starts</strong>
         <br>
         <br>Nabylla Azahra, Sarah Syahwenni, Ummi Azizah Rachmawati, Sri Chusri Haryanti and Heru Suhartanto
-        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i>
+        <br><i>Indonesia E-Health Grid Link Bandwidth Recommendation</i> (<a href="/images/pragma34/Azahra.pdf">Poster</a>)
         <br>
         <br>Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
-        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i>
+        <br><i>Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications</i> (<a href="/images/pragma34/Chuang.pdf">Poster</a>)
         <br>
         <br>Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
-        <br><i>Toward image inbetweening using Latent Model</i>
+        <br><i>Toward image inbetweening using Latent Model</i> (<a href="/images/pragma34/Cristovao.pdf">Poster</a>)
         <br>
         <br>Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, Vahid Daneshmand and Kensworth Subratie
-        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i>
+        <br><i>GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling</i> (<a href="/images/pragma34/Farrell.pdf">Poster</a>)
         <br>
         <br>Qing Hong, Yusuke Tanimura and Hidemoto Nakada
-        <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i>
+        <br><i>Sub-policy pruning in Meta Learning Shared Hierarchies</i> (<a href="/images/pragma34/Hong.pdf">Poster</a>)
         <br>
         <br>Yossapol Jearamanytwesin, Nantanapak Saranpattarawet and Wanida Putthividhya
-        <br><i>GIS with Crowdsourcing as a Service</i>
+        <br><i>GIS with Crowdsourcing as a Service</i> (<a href="/images/pragma34/Jearamanytwesin.pdf">Poster</a>)
         <br>
         <br>Surapol Kunsarwat and Tanatorn Tanantorg
-        <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i>
+        <br><i>Automatic systems for 3D camera (Kinect) joint range of motion evaluation of physical fitness</i> (<a href="/images/pragma34/Kunsarwat.pdf">Poster</a>)
         <br>
     <br>Yu Luo, Quan Zhou, Kunalan Ratharanjan, Beth Plale, Ramil Mauleon, Jason Haga, Hsiu-Mei Chou
-    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i>
+    <br><i>Persistent IDs: Application to Workflow and Sensor Applications</i> (<a href="/images/pragma34/Luo.pdf">Poster</a>)
         <br>
         <br>Suchanat Mangkhangjaroen
-        <br><i>ONE: Online Note Extraction to Music Cheat</i>
+        <br><i>ONE: Online Note Extraction to Music Cheat</i> (<a href="/images/pragma34/Mangkhangjaroen.pdf">Poster</a>)
         <br>
         <br>Yuki Matsui, Yasuhiro Watashiba, Susumu Date, Takashi Yoshikawa and Shinji Shimojo
-        <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i>
+        <br><i>Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node</i> (<a href="/images/pragma34/Matsui.pdf">Poster</a>)
         <br>
         <br>Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
-        <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i>
+        <br><i>Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment</i> (<a href="/images/pragma34/Nakasan.pdf">Poster</a>)
         <br>
-        <br>Visaruth Punnium, Pasit Pongpojkasem, Prapaporn Rattanatamrong, Shava Smallen and Nadya Williams
-        <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i>
+        <br>Visaruth Punnium, Pasit Pongpojkasem, Shava Smallen, Nadya Williams, and Prapaporn Rattanatamrong
+        <br><i>Multi-site Cluster Reservation for PRAGMA cloud</i> (<a href="/images/pragma34/Punnium.pdf">Poster</a>)
         <br>
         <br>Tanakon Sawanglok, Tananya Thampairoj and Pokpong Songmuang
-        <br><i>Human Postural System with Kinect</i>
+        <br><i>Human Postural System with Kinect</i> (<a href="/images/pragma34/Sawanglok.pdf">Poster</a>)
         <br>
-        <br>Heru Suhartanto and Ari Wibisono
-        <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i>
+        <br>Dennis Pratama Kammah, Ari Wibisono and Heru Suhartanto
+        <br><i>Implementation of HPC Resource Management Portal with Load Balancer and Job Scheduler based on High Throughput Condor</i> (<a href="/images/pragma34/Kammah.pdf">Poster</a>)
         <br>
         <br>Jutamas Teerarueangchaisri and Worawat Suraphanphairoj
-        <br><i>Recommender Chatbot for Thailand Attraction</i>
+        <br><i>Recommender Chatbot for Thailand Attraction</i> (<a href="/images/pragma34/Teerarueangchaisri.pdf">Poster</a>)
         <br>
-        <br>Wongsatorn Thongthaworn and Prapaporn Rattanathamrong
-        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i>
+        <br>Wongsatorn Thongthaworn and Prapaporn Rattanatamrong
+        <br><i>Reducing Time of Application Migration Across Datacenters Using Load Balanced Parallel TCP</i> (<a href="/images/pragma34/Thongthaworn.pdf">Poster</a>)
         <br>
         <br>Wisit Tipchuen
-        <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i>
+        <br><i>APT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager</i> (<a href="/images/pragma34/Tipchuen.pdf">Poster</a>)
         <br>
         <br>Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
-        <br><i>The Status of Data Marketplace – on its way to the National Data Service</i>
+        <br><i>The Status of Data Marketplace – on its way to the National Data Service</i> (<a href="/images/pragma34/Tsai.pdf">Poster</a>)
         <br>
         <br>Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
-        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i>
+        <br><i>Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model</i> (<a href="/images/pragma34/Utari.pdf">Poster</a>)
         <br>
         <br>Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida and Putchong Uthayopas
-        <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i>
+        <br><i>A proposal of a real-time OpenFlow DDoS detection tool</i> (<a href="/images/pragma34/Watanakeesuntorn.pdf">Poster</a>)
         <br>
         <br>Juan Sebastian Aguirre Zarraonandia
-        <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i>
+        <br><i>Application Aware Traffic Engineering Functionality for an SDN Transit Network</i> (<a href="/images/pragma34/Zarraonandia.pdf">Poster</a>)
     </td>
   </tr>
   <tr>
@@ -212,7 +217,7 @@ short: program
   </tr>
   <tr>
     <td>16:00 - 17:30</td>
-    <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B) -- Chair?</strong>
+    <td><strong>Demo Session 1, Cyberinfrastructure (Room 5B)</strong> Session Chair: Nadya Williams
         <br>
       <br>Can Wu, Xiaoning Wang, Haili Xiao, Rongqiang Cao, Yining Zhao and Xuebin Chi
       <br><i>An Optimized Information Service for High Performance Computing Environment</i>
@@ -235,7 +240,10 @@ short: program
    </tr>
    <tr>
     <td>18:00 - 20:30</td>
-    <td><strong>Conference Dinner</strong>
+    <td><strong>Conference Dinner</strong> (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>)<br>
+      yuyu (柚柚)<br>
+      ZIGZAG Building, 5F<br>
+      1 min walk, https://tabelog.com/en/tokyo/A1310/A131001/13120978/dtlmap/<br>
     </td>
    </tr>
 </table> 
@@ -251,7 +259,7 @@ short: program
   </tr>
   <tr>
     <td>9:00-10:00</td>
-     <td><strong>Keynote (Room 5B)</strong>
+     <td><strong>Keynote (Room 5B)</strong> Session Chair: Heru Suhartanto
         <br>Dr. Yoshiki Seo, Artificial Intelligence Research Center, AIST
         <br>Title: AI Research Activities at AI Research center, AIST
         <br>Discussion following presentation
@@ -269,7 +277,7 @@ short: program
   </tr>
   <tr>
     <td>11:00-12:30</td>
-    <td><strong>Demo Session 2, Applications (Room 5B) -- Chair=?</strong>
+    <td><strong>Demo Session 2, Applications (Room 5B)</strong> Session Chair: Kohei Ichikawa
         <br>
        <br>Angga Pradipta, Sri Chusri Haryanti and Ummi Azizah Rachmawati
        <br><i>Indonesian E-Health Grid Model Test Bed on LIPI Grid Machine</i>
@@ -309,11 +317,12 @@ short: program
   </tr>
   <tr>
     <td>16:30-16:45</td>
-    <td><strong>Best Posters (Room 5B) -- chair?</strong></td>
+    <td><strong>Best Posters (Room 5B)</strong> Session Chair: Wassapon Watanakeesuntorn
+    </td>
   </tr>
   <tr>
     <td>16:45-17:30</td>
-    <td><strong>PRAGMA-34 Wrap-up (Room 5B)</strong>
+    <td><strong>PRAGMA-34 Wrap-up (Room 5B)</strong> Session Chair: Jason Haga
       <br>Dr. Peter Arzberger
       <br>Working Group Summaries, Steering Committee Summaries
       <br>Invitation to PRAGMA 35
@@ -323,6 +332,10 @@ short: program
     <td>17:50-21:30</td>
     <td><strong>Conference Dinner</strong><br>
         Tokyo River Cruise<br>
+        Location: Meet at 1F of Akihabara Convention Hall, will walk to bus pick-up location.<br>
+        Please be at the meeting area by 17:40.<br>
+        More details in (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>).<br>
+        Pre-registration is required.<br>
     </td>
   </tr>
 </table>
@@ -337,9 +350,12 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>8:00-18:00</td>
-    <td><strong>Engaging International Partners in Collaborative Education</strong><br>
-        Open to PRAGMA/CENTRA attendees<br>
+    <td>8:50-18:00</td>
+    <td><strong>Engaging International Partners in Collaborative Education</strong> <br>
+        Location: Meet at 1F of Akihabara Convention Hall, will walk to bus pick-up location.<br>
+        Please be at the meeting area by 8:50.<br>
+        More details in (<a href="/images/pragma34/EventInfo.pdf">Event Info</a>).<br>
+        Pre-registration is required.<br>
     </td>
   </tr>
 </table>
