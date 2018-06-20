@@ -1,13 +1,13 @@
 ---
 title: U-chupala
 firstname: Pongsakorn
-affiliation: Student (Ph.D. Candidate), Nara Institute of Science and Technology (NAIST)
+affiliation: Software Engineer at Sony
 imagesrc: "p-uchupala.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
-**PRAGMA Role:** PRAGMA Student Steering Committee Member.  
+**PRAGMA Role:** Former PRAGMA Student Steering Committee Member.  
 
 **Related Work:** Distributed computing, parallel computing, computer architecture.
 

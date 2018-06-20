@@ -1,13 +1,13 @@
 ---
 title: Nakasan
 firstname: Chawanat
-affiliation: Student (Ph.D. Candidate), Nara Institute of Science and Technology (NAIST)
+affiliation: Researcher at Kanasawa University, Japan
 imagesrc: "c-nakasan.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
-**PRAGMA Role:** PRAGMA Student Steering Committee Member.  
+**PRAGMA Role:** Former PRAGMA Student Steering Committee Member.  
 
 **Related Work:** Computer Security and Reliability, Distributed Computing, Computer Communications (Networks).
 
