@@ -5,7 +5,7 @@ affiliation: Ph.D. Student at Nara Institute of Science and Technology (NAIST)
 imagesrc: 
 layout: person
 categories:
- - "exsteering"
+ - "steering"
 ---
 
 **PRAGMA Role:** PRAGMA Student Steering Committee Member.
