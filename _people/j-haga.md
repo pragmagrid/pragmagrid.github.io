@@ -5,6 +5,7 @@ affiliation: Senior Research Scientist, Cyberphysical Cloud Research Group, Info
 imagesrc: "j-haga.png"
 layout: person
 categories:
+ - "steering"
  - "researcher"
 ---
 
