@@ -5,7 +5,7 @@ affiliation: Ph.D. Student at CNIC
 imagesrc: 
 layout: person
 categories:
- - "steering"
+ - "student"
 ---
 **PRAGMA Role:** PRAGMA Student Steering Committee Member.  
 
