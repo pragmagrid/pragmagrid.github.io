@@ -1,14 +1,14 @@
 ---
 title: Papadopoulos
 firstname: Phil
-affiliation: Chair, PRAGMA Steering Committee; Chief Technology Officer & Division Director, Cloud and Cluster Software Development, San Diego Supercomputer Center (SDSC), UC San Diego (UCSD); Associate Research Professor (Adjunct), Computer Science, UCSD 
+affiliation: Director of Research Cyberinfrastructure Center in the Office of Information Technology at the University of California, Irvine. Former Chair of PRAGMA Steering Committee 2017-2018 and founding member.
 imagesrc: "p-papadopoulos.png"
 layout: person
 categories:
  - "exsteering"
 ---
 
-**PRAGMA Role:** Steering Committee Member and Member of PRAGMA's Resources Working Group.
+**PRAGMA Role:** Retired Steering Committee Member and Member of PRAGMA's Resources Working Group.
 
 **Related Work:** Rocks HPC cluster tool kit, virtual and cloud computing, data-intensive, high speed networking, optical networks/OptiPuter; Prism@UCSD. As CSTNET director, developing advanced networks.
 
