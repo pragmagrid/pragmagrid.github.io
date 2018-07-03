@@ -8,7 +8,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Chair, Steering Committee; Co-advisor to PRAGMA Students, Co-lead in Biodiversity
-Expedition; Member since 2002.
+**PRAGMA Role:** Former Chair, Steering Committee 2002-2017; Co-advisor to PRAGMA Students, Co-lead in Biodiversity
+Expedition; Founding member.
 
 **Related Work:** Founding Co-director PRIME; founding GLEON Steering Committee.
