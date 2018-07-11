@@ -5,8 +5,8 @@ affiliation:  Principal Researcher, National Supercomputing Division, Korea Inst
 imagesrc: "r-lee.png"
 layout: person
 categories:
- - "researcher"
  - "steering"
+ - "researcher"
 ---
 
 **PRAGMA Role:** Steering Committee Member and Co-chair, Cyber-Learning Working Group.
