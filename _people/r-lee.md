@@ -9,7 +9,7 @@ categories:
  - "steering"
 ---
 
-**PRAGMA Role:** Co-chair, Cyber-Learning Working Group.
+**PRAGMA Role:** Steering Committee Member and Co-chair, Cyber-Learning Working Group.
 
 **Related Work:** Parallel computing and computer simulation, Simulation-based Cyber-Learning.
 
