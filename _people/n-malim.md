@@ -1,7 +1,7 @@
 ---
 title: Hashimah Ahamed Hassain Malim
 firstname: Nurul 
-affiliation: Senior Lecturer, School of Computer Sciences, Universiti Sains Malaysia
+affiliation: Senior Lecturer, School of Computer Sciences, Universiti Sains Malaysia (USM)
 imagesrc: "n-malim.png"
 layout: person
 categories:
