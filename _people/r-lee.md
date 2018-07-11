@@ -6,6 +6,7 @@ imagesrc: "r-lee.png"
 layout: person
 categories:
  - "researcher"
+  - "steering"
 ---
 
 **PRAGMA Role:** Co-chair, Cyber-Learning Working Group.
