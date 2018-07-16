@@ -23,7 +23,9 @@ layout: default
           <td>
             <span class="strongword">{{ service.title }} </span><br>
             {{ service.meeting_date }}<br>
-            {% if service.presentations %}
+            {% if service.nopresentations %}
+               &nbsp;
+            {% elsif service.presentations %}
                 <a href="{{ base }}" title="{{ service.title }} presentations">presentations </a>
             {% else %}
                 <a href="{{ service.url }}" title="{{ service.title }} presentations">presentations </a>
