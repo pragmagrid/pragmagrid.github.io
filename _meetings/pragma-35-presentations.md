@@ -1,6 +1,6 @@
 ---
 title: PRAGMA 35
-imagesrc: "pragma-banner.png"
+imagesrc: "workshop-1.png"
 layout: page
 meeting_date: October 3-5, 2018,  Penang, Malaysia
 meeting_url: /pragma35
