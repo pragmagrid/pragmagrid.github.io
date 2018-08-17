@@ -22,7 +22,7 @@ discussions next to the poster.
 
 <div class="border35">Where to Submit</div>
 All PRAGMA35 attendees, especially students, are welcome to submit the
-completed Word template through EasyChair
+completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma35).
 
 <div class="border35">Submission Instructions</div>
 
