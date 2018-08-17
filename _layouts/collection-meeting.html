@@ -8,39 +8,45 @@ layout: default
 
 {% assign base = 'https://github.com/pragmagrid/pragma-historic/tree/master/pragma-doc' %}
 
+<div class="container">
+  <br>Use links below to see past meetings websites, presentations, photos and
+  cultiral events. <br>
+  <br/>Presentations for PRAGMA meetings prior to the PRAGMA 24 are
+  linked to the archive in the <a href="{{ base }} ">git repository</a> <br/><br/>
+</div>
+
 <section id="services">
   <div class="container">
     <div class="row">
-      <!--{% for service in site.music %} {% endfor %} -->
       <table class="meeting">
         {% for service in site.[page.short] reversed %}
-        <tr>
-          <td>
-            {% if service.imagesrc %}
-               <img src="/images/workshops/{{service.imagesrc}}" alt="" class=""/>
-            {% endif %}
-          </td>
-          <td>
-            <span class="strongword">{{ service.title }} </span><br>
-            {{ service.meeting_date }}<br>
-            {% if service.nopresentations %}
-               &nbsp;
-            {% elsif service.presentations %}
-                <a href="{{ base }}" title="{{ service.title }} presentations">presentations </a>
-            {% else %}
-                <a href="{{ service.url }}" title="{{ service.title }} presentations">presentations </a>
-            {% endif %}
-            {% if service.meeting_url  %}
-               |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
-            {% endif %}
-            {% if service.photos  %}
-               |  <a href="{{ service.photos }}">photos</a> 
-            {% endif %}
-            {% if service.culture  %}
-               |  <a href="{{ service.culture }}">culture learning</a> 
-            {% endif %}
-          </td>
-        </tr>
+          {% if service.nopresentations == null %}
+            <tr>
+              <td>
+                {% if service.imagesrc %}
+                   <img src="/images/workshops/{{service.imagesrc}}" alt="" class=""/>
+                {% endif %}
+              </td>
+              <td>
+                <span class="strongword">{{ service.title }} </span><br>
+                {{ service.meeting_date }}<br>
+                {% if service.presentations %}
+                    <a href="{{ base }}/{{ service.presentations }}" title="{{ service.title }} presentations">presentations </a>
+                {% else %}
+                    <a href="{{ service.url }}" title="{{ service.title }} presentations">presentations </a>
+                {% endif %}
+                {% if service.meeting_url  %}
+                   |  <a href="{{ service.meeting_url }}" title="{{ service.title }}">website</a> 
+                {% endif %}
+                {% if service.photos  %}
+                   |  <a href="{{ service.photos }}">photos</a> 
+                {% endif %}
+                {% if service.culture  %}
+                   |  <a href="{{ service.culture }}">culture learning</a> 
+                {% endif %}
+              </td>
+            </tr>
+          {% endif %}
         {% endfor %}
       </table>
     </div>
@@ -48,13 +54,6 @@ layout: default
 
 </section>
 
-<div class="container">
-  <br/>Presentations for PRAGMA meeting prior to the PRAGMA 24 are
-  linked the archive in the git repository. <br/><br/>
-</div>
-
 <hr class="primary">
 <p> <a href="{{ page.url }}"> Back to top </a> </p>
-
-
 
