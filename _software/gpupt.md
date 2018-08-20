@@ -1,5 +1,5 @@
 ---
-title: gpupt
+title: Gpupt
 layout: software
 section: cloud
 link: https://github.com/pragmagrid/gpupt
