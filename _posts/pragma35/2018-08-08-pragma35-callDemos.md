@@ -36,7 +36,7 @@ If you haven''t registered to PRAGMA 35 workshop yet, please do so at the
 [Registration page](http://www.pragma-grid.net/pragma35-registration/). 
 
 <div class="border35">Where to Submit</div>
-All PRAGMA34 attendees are welcome to submit the completed Word template
+All PRAGMA35 attendees are welcome to submit the completed Word template
 through [EasyChair](https://easychair.org/conferences/?conf=pragma35).<br>
 
 
