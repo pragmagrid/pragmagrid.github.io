@@ -220,4 +220,5 @@ short: program
 
 <div class="border35">Day 4 - Saturday, 6rd October 2018</div>
 
-<b>PRAGMA Excursion Day:</b> Penang Heritage Trail & Penang Hill (PRAGMA members only)
+<b>PRAGMA Engaging International Partners in Collaborative Education:</b> Cross working group discussions 
+and Cultural learning at Penang Heritage Trail & Penang Hill (PRAGMA members only)
