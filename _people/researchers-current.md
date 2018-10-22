@@ -5,7 +5,7 @@ categories:
  - "researcher-list"
 ---
 
-{% assign pages = site.["people"] | sort: "title" %}
+{% assign pages = site["people"] | sort: "title" %}
 
 <div class="border">
   <h4>RESEARCHERS</h4>

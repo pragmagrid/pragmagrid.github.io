@@ -10,7 +10,7 @@ layout: default
   <div class="container">
     <div class="row">
       <table class="">
-        {% for service in site.[page.short] reversed %}
+        {% for service in site[page.short] reversed %}
           {% if service.categories[0] == "news" %}
             <tr>
               <td>
@@ -36,7 +36,7 @@ layout: default
   <div class="container">
     <div class="row">
       <table class="">
-        {% for service in site.[page.short] %}
+        {% for service in site[page.short] %}
           {% if service.categories[0] == "events" %}
             <tr>
               <td>
@@ -68,7 +68,7 @@ Please see <a href="/meetings">this link </a> for past PRAGMA meetings. <br/>
   <div class="container">
     <div class="row">
       <table class="">
-        {% for service in site.[page.short] reversed %}
+        {% for service in site[page.short] reversed %}
           {% if service.categories[0] == "highlight" %}
             <tr>
               <td>

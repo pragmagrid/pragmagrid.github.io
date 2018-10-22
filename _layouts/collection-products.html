@@ -6,7 +6,7 @@ layout: default
   <h2>{{ page.software }} {{ page.title }}</h2>
 </div>
 
- {% assign pages = site.[page.short] | sort: "order" %}
+ {% assign pages = site[page.short] | sort: "order" %}
 
 <div class="border">
   <h3>Cloud and Cluster Tools<div class="row"></h3>

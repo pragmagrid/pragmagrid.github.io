@@ -5,7 +5,7 @@ categories:
  - "steering-list"
 ---
 
-{% assign pages = site.["people"] | sort: "title" %}
+{% assign pages = site["people"] | sort: "title" %}
 
 <div class="border">
   <h4>STEERING COMMITTEE</h4>

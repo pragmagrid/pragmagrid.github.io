@@ -19,7 +19,7 @@ layout: default
   <div class="container">
     <div class="row">
       <table class="meeting">
-        {% for service in site.[page.short] reversed %}
+        {% for service in site[page.short] reversed %}
           {% if service.nopresentations == null %}
             <tr>
               <td>
