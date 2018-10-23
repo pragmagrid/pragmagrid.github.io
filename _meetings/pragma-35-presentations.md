@@ -206,7 +206,7 @@ date: 2018-07-14
     
 * <span class="strongword">16:45 - 17:30</span> <b>Closing Ceremony</b>
   * [PRAGMA Best Poster Award & Student Presentation][20]
-  * PRAGMA Working groups wrap-up: [Resources WG][21], [Telescences WG][22]
+  * PRAGMA Working groups wrap-up: [Biosciences WG][23], [Resources WG][21], [Telescences WG][22]
   * [PRAGMA 35 Wrap up by Shava ][19]
   * Video presentation by Grace
   * [Invitation to PRAGMA 36 in Korea][16]
@@ -239,6 +239,7 @@ date: 2018-07-14
 [20]: {{ base }}/05/student-awards.pdf
 [21]: {{ base }}/05/wg-resources-summary.pdf
 [22]: {{ base }}/05/wg-telesciences-summary.pdf
+[23]: {{ base }}/05/wg-biosciences-summary.pdf
 
 [PP01]: {{ base }}/posters/poster-01.pdf
 [PP02]: {{ base }}/posters/poster-02.pdf
