@@ -95,7 +95,7 @@ date: 2018-07-14
 
 #### <span class="strongword">October 4</span>
 
-* <span class="strongword">10:35 - 11:00</span> <b>PRAGMA Welcoming Statement</b> Shava Smallen
+* <span class="strongword">10:35 - 11:00</span> <b>[PRAGMA Welcoming Statement][24]</b> Shava Smallen
 * <span class="strongword">11:00 - 11:30</span> <b>Invited Talk 1: (PRAGMA)  [ABCI: An Open Innovation Platform for Advancing AI
   Research and Deployment][1]</b> Dr. Ryousei Takano, <i>National Institute of Advanced Industrial Science and Technology (AIST) Japan</i>
 * <span class="strongword">11:30 - 12:00</span> <b>Invited Talk 2: (PRAGMA) [On Lakes and Clouds: A Retrospective on the PRAGMA/GLEON Lake Expedition][2] </b>
@@ -240,6 +240,8 @@ date: 2018-07-14
 [21]: {{ base }}/05/wg-resources-summary.pdf
 [22]: {{ base }}/05/wg-telesciences-summary.pdf
 [23]: {{ base }}/05/wg-biosciences-summary.pdf
+
+[24]: {{ base }}/04/pragma35-updates.pdf
 
 [PP01]: {{ base }}/posters/poster-01.pdf
 [PP02]: {{ base }}/posters/poster-02.pdf
