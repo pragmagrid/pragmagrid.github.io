@@ -3,6 +3,10 @@ title: PRAGMA 36
 imagesrc: "workshop-1.png"
 layout: page
 meeting_date: April 25-27, 2019, Jeju, South Korea
-nopresentations: yes
-date: 2019-04-25
+meeting_url: /pragma36
+date: 2018-12-07
 ---
+
+
+TBA
+
