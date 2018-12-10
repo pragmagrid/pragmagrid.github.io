@@ -101,15 +101,14 @@ table.program36 { padding: 2px; margin: 0px; width: 100%; table-layout: auto; }
 .program36col tr,th { width: 10px; }
 
 
-/* for visa table */
-table.visa { padding: 2px; margin: 0px; width: 100%; table-layout: auto; } 
-.visa { padding: 2px; width: 90%; border: 1;}
-.visa th { font-weight: bold; color: $blue1;  font-size: 14px; background: white;}
-.visa tr { border: 2px solid white; }
-.visa tr:hover { background-color: $bgborder }
-.visa tr:nth-child(odd)  { background-color : $paleblue1; }
-.visa tr:nth-child(even) { background-color : $paleblue2; }
-.visa tr:nth-child(odd):hover  { background-color: $bgborder; }
-.visa tr:nth-child(even):hover { background-color: $bgborder; }
-.visa td { padding : 4px 4px 4px 4px; vertical-align: top;}
-.visa tr,th { width: 10px; }
+/* for travel table */
+table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; } 
+.travel th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.travel tr { border: 2px solid white; }
+.travel tr:hover { background-color: $bgborder }
+.travel tr:nth-child(odd)  { background-color : $paleblue1; }
+.travel tr:nth-child(even) { background-color : $paleblue2; }
+.travel tr:nth-child(odd):hover  { background-color: $bgborder; }
+.travel tr:nth-child(even):hover { background-color: $bgborder; }
+.travel td { padding : 4px 4px 4px 4px; vertical-align: top;}
+.travel tr,th { width: 10px; }
