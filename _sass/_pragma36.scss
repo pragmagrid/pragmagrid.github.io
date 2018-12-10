@@ -55,22 +55,20 @@ body.pragma36 .content-right {
 }
 body.pragma36 .menu-left ul { list-style:none; }
 
-$redtone1: #FD434B;
 $pearl: #dde9ff;
 $blue1: #3595d4;
 $navline: #6791CF;
 
 $paleblue2: lighten($pearl,5%);
 $paleblue1: lighten($blue1,42%);
-$paleredtone: lighten($redtone1,42%);
 
 /* for subsection title and background */
-$border: $redtone1; 
-$bgborder: #f9eae1; 
+$border: $blue1; 
+$bgborder: $pearl; 
 .border36 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 16px; }
 
 /* color for link hover */
-body.pragma36 a { &:hover {color: $redtone1;}}
+body.pragma36 a { &:hover {color: $blue1;}}
 
 body.pragma36 nav {
     width:100%;
@@ -81,7 +79,7 @@ body.pragma36 nav {
     line-height: 36px;
     .menu-icon { display: none; }
     .page-link {
-        color: $redtone1; &:visited { color: white; } &:hover { color: black; } line-height: $base-line-height; margin-left: 40px; }
+        color: $blue1; &:visited { color: white; } &:hover { color: black; } line-height: $base-line-height; margin-left: 40px; }
     @include media-query($on-palm) { min-width: 150px; }
 }
 
