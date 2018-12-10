@@ -6,7 +6,7 @@ workshop: pragma36
 short: abstract
 ---
 
-### Call for Demos [page](/pragma36-callDemos/)
+### [Call for Demos page](/pragma36-demos/)
 
-### Call for Posters [page](/pragma36-callPosters/)
+### [Call for Posters page](/pragma36-posters/)
 
