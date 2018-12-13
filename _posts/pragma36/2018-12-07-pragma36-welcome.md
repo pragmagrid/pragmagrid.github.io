@@ -25,7 +25,7 @@ wonderful gethering at the Korea's most beautiful Jeju Island.
 
 We really look forward to seeing you in Jeju on April 22nd - 27th, 2019.
 
-Thank you very much.
+Thank you very much. 
 
 President of KISTI, Hee-Youn Choi
 
