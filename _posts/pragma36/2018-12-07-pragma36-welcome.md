@@ -7,7 +7,7 @@ short: Welcome
 ---
 
 <p>
-<img src="/images/pragma36/president-kisti.png" style="width:250px;" align="right"/>
+<img src="/images/pragma36/president-kisti.png" style="width:150px;" align="right"/>
 </p>
 
 It is a great honor to host this upcoming joint event of the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly) which is colocated with the 4th CENTRA (Collaborations to ENable TRansnational cyberintrastructure Applications). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
