@@ -6,5 +6,5 @@ workshop: pragma36
 short: registration
 ---
 
-**Registration opens on 1st December 2018.**
+**Registration opens on 3rd January 2019.**
 
