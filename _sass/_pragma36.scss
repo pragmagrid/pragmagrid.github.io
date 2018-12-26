@@ -71,7 +71,7 @@ $bgborder: #f9eae1;
 .border36 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 16px; }
 
 /* color for link hover */
-body.pragma36 a { &:hover {color: $whitetone1;}}
+body.pragma36 a { &:hover {color: $redtone1;}}
 
 body.pragma36 nav {
     width:100%;
@@ -82,7 +82,7 @@ body.pragma36 nav {
     line-height: 36px;
     .menu-icon { display: none; }
     .page-link {
-        color: $whitetone1; &:visited { color: white; } &:hover { color: black; } line-height: $base-line-height; margin-left: 40px; }
+        color: $whitetone1; &:visited { color: white; } &:hover { color: red; } line-height: $base-line-height; margin-left: 40px; }
     @include media-query($on-palm) { min-width: 150px; }
 }
 
