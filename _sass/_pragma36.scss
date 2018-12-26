@@ -59,6 +59,7 @@ $redtone1: #FD434B;
 $pearl: #dde9ff;
 $blue1: #3595d4;
 $navline: #6791CF;
+$whitetone1: #ffffff;
 
 $paleblue2: lighten($pearl,5%);
 $paleblue1: lighten($blue1,42%);
@@ -81,7 +82,7 @@ body.pragma36 nav {
     line-height: 36px;
     .menu-icon { display: none; }
     .page-link {
-        color: $redtone1; &:visited { color: white; } &:hover { color: black; } line-height: $base-line-height; margin-left: 40px; }
+        color: $whitetone1; &:visited { color: white; } &:hover { color: black; } line-height: $base-line-height; margin-left: 40px; }
     @include media-query($on-palm) { min-width: 150px; }
 }
 
