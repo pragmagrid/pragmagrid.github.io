@@ -48,7 +48,7 @@ short: Committee
 </tr>
 <tr>
   <td><b>Weicheng Huang</b>, National Applied Research Laboratories, Taiwan</td>
-  <td><b>Beth Plale</b>, Indiana University, USA</td>
+  <td><b>Beth Plale</b>, Indiana University & National Science Foundation, USA</td>
 </tr>
 </table>
 <br>
