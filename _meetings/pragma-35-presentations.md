@@ -16,7 +16,7 @@ date: 2018-07-14
 * <span class="strongword">09:00 - 09:15</span> <b>Welcoming & Introduction to Big Data Summit 2</b> <br>
   * Dr. Nurul Hashimah Ahamed Hassain Malim, <i>Chair, Big Data Summit 2</i>
   * Dr. Gan Keng Hoon, <i>Chair, Big Data Summit 2</i>
-* <span class="strongword">09:15 - 09:30</span> <b>Introduction to PRAGMA</b> Shava Smallen, <i>Interim Co-Chair</i>, PRAGMA
+* <span class="strongword">09:15 - 09:30</span> <b>[Introduction to PRAGMA][25]</b> Shava Smallen, <i>Interim Co-Chair</i>, PRAGMA
 * <span class="strongword">09:30 - 10:10</span> <b>Keynote 1: Demorcratizing AI</b> Dr. Dzaharudin Mansor, <i>Microsoft Malaysia</i>
     
 * <span class="strongword">10:30 - 11:10</span> <b>Keynote 2: (PRAGMA) Immersive Visualization and Analytics for Understanding
@@ -242,6 +242,7 @@ date: 2018-07-14
 [23]: {{ base }}/05/wg-biosciences-summary.pdf
 
 [24]: {{ base }}/04/pragma35-updates.pdf
+[25]: {{ base }}/03/pragma-bigdatasummit2.pdf
 
 [PP01]: {{ base }}/posters/poster-01.pdf
 [PP02]: {{ base }}/posters/poster-02.pdf
