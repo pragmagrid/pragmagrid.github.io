@@ -1,7 +1,7 @@
 ---
 title: Smallen
 firstname: Shava
-affiliation:  Interim Chair, PRAGMA Steering Committee; Resources Working Group
+affiliation:  Co-chair, PRAGMA Steering Committee; Resources Working Group
 imagesrc: 
 layout: person
 categories:
