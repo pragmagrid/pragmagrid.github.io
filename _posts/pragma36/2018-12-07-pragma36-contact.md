@@ -1,7 +1,7 @@
 ---
 layout: pragma36
 title: "Contact"
-date: 2018-12-07
+date: 2019-01-05
 workshop: pragma36
 short: Contact
 ---
@@ -10,7 +10,7 @@ short: Contact
 **Logistics (travel, venue, etc.):**<br>
 
 - James Junghun Shin, shandy77@kisti.re.kr
-- Jongsang Park, jongsang.park@connect-comm.net
+- Dasom Yang, dsyang@connect-comm.net
 <br> <br>
 
 **Posters and Lightning Talks**<br>
