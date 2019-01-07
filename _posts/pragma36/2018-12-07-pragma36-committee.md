@@ -65,12 +65,12 @@ short: Committee
 <div class="border36">Local Committee</div>
 - **Buyoung Ahn**, Korea Institute of Science and Technology Information (KISTI), Korea
 - **Jaeou Chae**, CDSSE Co., Korea
-- **Jai-Ho Oh**, Pukyong National University, Korea
+- **Jaiho Oh**, Pukyong National University, Korea
 - **James Junghun Shin**, Korea Institute of Science and Technology Information (KISTI), Korea
 - **Jongseong Lee**, Korea Institute of Science and Technology Information (KISTI), Korea
 - **Karpjoo Jeong**, Konkuk University, Korea
-- **Soo-Hong Lee**, Yonsei University, Korea
+- **Soohong Lee**, Yonsei University, Korea
 - **Soonwook Hwang**, Korea Institute of Science and Technology Information (KISTI), Korea
 - **Sik Lee**, Korea Institute of Science and Technology Information (KISTI), Korea
-- **Sung-Ho Kim**, Konkuk University, Korea
+- **Sungho Kim**, Konkuk University, Korea
 - **Woojin Seok**, Korea Institute of Science and Technology Information (KISTI), Korea
