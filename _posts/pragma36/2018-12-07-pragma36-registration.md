@@ -17,6 +17,6 @@ If you need to change information on a submitted registration or change your pla
 
 ### PRAGMA 36 colocated with CENTRA 4 (Tentative)<br>
 March 22(Mon)~23(Tue): CENTRA 4 Workshop<br>
-March 24(Wed): Joint workshop with CENTRA 4 <br>
+March 24(Wed): Joint orkshop with CENTRA 4 <br>
 March 25(Thu)~26(Fri): PRAGMA 36 Workshop<br>
 March 27(Sat): Social Activity (Members only)
