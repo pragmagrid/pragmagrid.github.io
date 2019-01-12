@@ -31,6 +31,10 @@ short: Committee
   <td><b>Sri C. Haryanti</b>, Universitas YARSI, Indonesia</td>
 </tr>
 <tr>
+  <td><b>Nurul Hashimah Ahamed Hassain Malim</b>, Universiti Sains Malaysia, Malaysia</td>
+  <td><b>José Fortes</b>, University of Florida, USA</td>
+</tr>
+<tr>
   <td><b>Hongliang Li</b>, Jilin University, China</td>
   <td><b>Susumu Date</b>, Osaka University, Japan</td>
 </tr>
