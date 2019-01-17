@@ -48,7 +48,7 @@ short: Committee
 </tr>
 <tr>
   <td><b>Jelina Tetangco</b>, Advanced Science and Technology Institute, Philippine</td>
-  <td><b>Kumwon Cho</b>, Korea Institute of Science and Technology Information (KISTI), Korea</td>
+  <td><b>Kumwon Cho</b>, Korea Institute of Science and Technology Information, Korea</td>
 </tr>
 <tr>
   <td><b>Weicheng Huang</b>, National Applied Research Laboratories, Taiwan</td>
