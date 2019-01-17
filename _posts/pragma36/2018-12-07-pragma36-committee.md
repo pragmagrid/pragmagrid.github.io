@@ -54,6 +54,9 @@ short: Committee
   <td><b>Weicheng Huang</b>, National Applied Research Laboratories, Taiwan</td>
   <td><b>Beth Plale</b>, Indiana University & National Science Foundation (NSF), USA</td>
 </tr>
+<tr>
+  <td><b>Grace Hong</b>, University of Florida, USA</td>
+</tr>
 </table>
 <br>
 
