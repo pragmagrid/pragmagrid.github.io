@@ -23,7 +23,7 @@ short: Committee
   <td><b>Peter Azberger</b>, University of California, San Diego, USA</td>
 </tr>
 <tr>
-  <td><b>Habibah A. Wahab</b>, Professor, Universiti Sans Malaysia (USM)</td>
+  <td><b>Habibah A. Wahab</b>, Professor, Universiti Sans Malaysia</td>
   <td><b>Renato Fuigeredo</b>, University of Florida, USA</td>
 </tr>
 <tr>
@@ -43,7 +43,7 @@ short: Committee
   <td><b>Shinji Shimojo</b>, Osaka University, Japan</td>
 </tr>
 <tr>
-  <td><b>Jason Haga</b>, National Institute of Advanced Industrial Science and Technology (AIST), Japan</td>
+  <td><b>Jason Haga</b>, National Institute of Advanced Industrial Science and Technology, Japan</td>
   <td><b>Siddeswara Guru</b>, University of Queensland, Australia</td>
 </tr>
 <tr>
