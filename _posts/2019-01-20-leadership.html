@@ -11,10 +11,16 @@ title: "Leadership"
 
 {% for group in groups %}
 <p>
-  <ul>
-    <li><strong>{{ group.title | upcase }}</strong>: {{ group.tagline }}.  Co-leaders: 
-    <ul>
   {% assign leads = site["people"] | where: "groups", group.title | sort: "title" %}
+  {% assign numleads = leads | size %}
+  <ul>
+    <li><strong>{{ group.title | upcase }}</strong>: {{ group.tagline }}.  
+    {% if numleads > 1 %}
+      Co-leaders: 
+    {% else %}
+      Led by:
+    {% endif %}
+    <ul>
   {% for lead in leads%}
       <li><a href="{{ lead.url }}" title="{{ lead.title }}">{{lead.firstname}} {{ lead.title }}</a> - {{lead.affiliation}}</li>
   {% endfor %}
