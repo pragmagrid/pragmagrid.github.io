@@ -3,7 +3,7 @@ title: Limnology
 image_path: ""
 layout: page
 order: 2
-tagline: Predicting impact of eutrophication on lake ecosystem services
+tagline: Predicting lake eutrophication and training the next generation of lake scientists
 ---
 
 Scientists in the PRAGMA Lake Expedition are working to better understand and predict

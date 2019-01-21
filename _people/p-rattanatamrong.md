@@ -4,8 +4,11 @@ firstname: Prapaporn (Nan)
 affiliation: Lecturer; Department of Computer Science, Thammasat University
 imagesrc: "p-rattanatamrong.png"
 layout: person
+executivearea: Mentoring
+executiverole: Co-Chair
 categories:
  - "steering"
+ - "executive"
  - "researcher"
 ---
 

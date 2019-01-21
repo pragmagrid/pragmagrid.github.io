@@ -4,6 +4,7 @@ firstname: Weicheng
 affiliation: Research Fellow, Division Director of Software Technology Division, NCHC
 imagesrc: "w-huang.png"
 layout: person
+tech: ['IPOP']
 categories:
  - "steering"
  - "researcher"

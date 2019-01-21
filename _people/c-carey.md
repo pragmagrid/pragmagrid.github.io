@@ -4,8 +4,10 @@ firstname: Cayelan
 affiliation:  Assistant Professor of Biological Sciences, Virginia Tech
 imagesrc: "c-carey.jpg"
 layout: person
+projects: ['Limnology']
 categories:
  - "researcher"
+ - "nsf"
 ---
 
 **PRAGMA Role:** Lake Expedition Scientist

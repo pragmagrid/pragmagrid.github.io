@@ -1,11 +1,15 @@
 ---
 title: Lin
 firstname: Fang-Pang
-affiliation: Dr., Division Director of Cloud Technology and System Integration, National Center for High-performance Computing (NCHC)
+affiliation: Division Director of Cloud Technology and System Integration, National Center for High-performance Computing (NCHC)
 imagesrc: "fp-lin.png"
 layout: person
+executivearea: Membership
+executiverole: Chair
+groups: ['Telescience']
 categories:
  - "steering"
+ - "executive"
 ---
 
 **PRAGMA Role:** Steering Committee Member, Co-Chair/Member of Telescience Working Group.

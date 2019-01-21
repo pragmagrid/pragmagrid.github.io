@@ -4,8 +4,10 @@ firstname: Aimee
 affiliation: Research Architect, Lifemapper Lead Developer, KU Biodiversity Institute and Natural History Museum, University of Kansas
 imagesrc: 
 layout: person
+projects: ['Biodiversity']
 categories:
  - "researcher"
+ - "nsf"
 ---
 
 **PRAGMA Role:** Software application developer enabling Lifemapper deployment on PRAGMA resources and species distribution research on Mount Kinabalu, Sabah, Malaysia in the Virtual Biodiversity Expedition.

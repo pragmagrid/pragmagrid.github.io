@@ -1,11 +1,15 @@
 ---
 title: Shimojo
 firstname: Shinji
-affiliation:  Co-chair, PRAGMA Steering Committee; Vice Director, Osaka University
+affiliation:  Vice Director, Osaka University
 imagesrc: "s-shimojo.jpg"
 layout: person
+executivearea: Chairs
+executiverole: Co-Chair
+groups: ['Telescience']
 categories:
  - "steering"
+ - "executive"
 ---
 
 **PRAGMA Role:** Shinji Shimojo has served as a PRAGMA Steering Committee member,

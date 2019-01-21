@@ -3,7 +3,7 @@ title: ENT
 image_path: ""
 layout: page
 order: 3
-tagline: Expanding and Improving the PRAGMA Experimental Networking Testbed
+tagline: "Developing an experimental network testbed for experimenting with software-defined networks and monitoring impacts of choices"
 ---
 
 <span class="strongword">The PRAGMA Experimental Networking Testbed (ENT) expedition goals include:</span> 

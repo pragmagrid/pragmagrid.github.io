@@ -4,8 +4,13 @@ firstname: Kohei
 affiliation: Associate Professor, Nara Institute of Science and Technology (NAIST)
 imagesrc: "k-ichikawa.png"
 layout: person
+executivearea: "Workshop Engagement"
+executiverole: Chair
+projects: ['ENT']
+tech: ['IPOP']
 categories:
  - "steering"
+ - "executive"
  - "researcher"
 ---
 

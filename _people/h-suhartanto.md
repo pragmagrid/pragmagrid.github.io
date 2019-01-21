@@ -4,8 +4,11 @@ firstname: Heru
 affiliation: Professor, Computer Science, Universitas Indonesia
 imagesrc: "h-suhartanto.png"
 layout: person
+executivearea: Communication
+executiverole: Chair
 categories:
  - "steering"
+ - "executive"
 ---
 
 **PRAGMA Role:**  Steering Committee Member.  

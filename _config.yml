@@ -35,6 +35,10 @@ collections:
      output: true
   software:
      output: true
+  tech:
+     output: true
+  groups:
+     output: true
 
 
 exclude:

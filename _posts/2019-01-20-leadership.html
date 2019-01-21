@@ -1,0 +1,93 @@
+---
+layout: post
+title: "Leadership"
+---
+
+<div class="border">
+  <h4><a name="working"></a>Working Groups</h4>
+</div>
+
+{% assign groups = site["groups"] | sort: "order" %}
+
+{% for group in groups %}
+<p>
+  <ul>
+    <li><strong>{{ group.title | upcase }}</strong>: {{ group.tagline }}.  Co-leaders: 
+    <ul>
+  {% assign leads = site["people"] | where: "groups", group.title | sort: "title" %}
+  {% for lead in leads%}
+      <li><a href="{{ lead.url }}" title="{{ lead.title }}">{{lead.firstname}} {{ lead.title }}</a> - {{lead.affiliation}}</li>
+  {% endfor %}
+    </ul>
+    </li>
+  </ul>
+</p>
+{% endfor %}
+
+
+<div class="border">
+  <h4><a name="governance"></a>Governance</h4>
+</div>
+
+<p>PRAGMA is led by a Steering Committee, which operate according to the 
+<a href="/images/pdf/operating-principles.pdf" target="_blank">Operating Principles and Procedures</a> 
+document, which all PRAGMA members agree to abide by. The Steering Committee sets direction, reviews membership 
+applications and proposals to host PRAGMA workshops.  </p>
+
+
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
+{% assign executive = site["people"] | where: "categories", "executive" | group_by: "executivearea" | sort: "name" %}
+
+<p><strong>Executive Committee</strong>
+  <ul>
+  {% for area in executive %}
+    <li><strong>{{area.name}}</strong>
+    <ul>
+    {% for person in area.items %}
+      <li><a href="{{ person.url }}" title="{{ person.title }}">{{person.firstname}} {{ person.title }}</a> - {{person.executiverole}}</li>
+    {% endfor %}
+    </ul>
+    </li>
+  {% endfor %}
+  </ul>
+</p>
+
+{% assign steering = site["people"] | where: "categories", "steering" | sort: "title" %}
+
+<p><strong>Steering Committee</strong>
+<ul class="posts">
+  {% for member in steering %}
+    {% unless member.categories[0] == 'chair' %}
+      <li><a href="{{ member.url }}" title="{{ member.title }}">{{member.firstname}} {{ member.title }}</a> - {{member.affiliation}}
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
+</p>
+
+{% assign students = site["people"] | where: "categories", "studentcommittee" | sort: "title" %}
+<p><strong>PRAGMA Students Leads</strong>
+  <ul>
+  {% for student in students %}
+      <li><a href="{{ student.url }}" title="{{ student.title }}">{{student.firstname}} {{ student.title }}</a> - {{student.affiliation}}
+  {% endfor %}
+  </ul>
+</p>
+
+{% assign nsf = site["people"] | where: "categories", "nsf" | sort: "title" %}
+<p><strong>NSF PRAGMA Award Investigators</strong>
+  <ul>
+  {% for pi in nsf %}
+      <li><a href="{{ pi.url }}" title="{{ pi.title }}">{{pi.firstname}} {{ pi.title }}</a> - {{pi.affiliation}}
+  {% endfor %}
+  </ul>
+</p>
+

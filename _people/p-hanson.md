@@ -4,8 +4,10 @@ firstname: Paul
 affiliation: Distinguished Professor of Research, Center for Limnology, University of Wisconsin
 imagesrc: "p-hanson.png"
 layout: person
+projects: ['Limnology']
 categories:
  - "researcher"
+ - "nsf"
 ---
 
 **PRAGMA Role:** GLEON Expedition Leader

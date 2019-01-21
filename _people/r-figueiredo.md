@@ -4,9 +4,12 @@ firstname: Renato
 affiliation: Professor, Electrical and Computer Engineering, University of Florida
 imagesrc: "r-figueiredo.png"
 layout: person
+projects: ['Limnology']
+tech: ['IPOP']
 categories:
  - "steering"
  - "researcher"
+ - "nsf"
 ---
 
 **PRAGMA Role:** Steering Committee Member. Leading research and development of peer-to-peer virtual network overlays.

@@ -6,6 +6,7 @@ imagesrc:
 layout: person
 categories:
  - "steering"
+ - "studentcommittee"
 ---
 
 **PRAGMA Role:** PRAGMA Student Steering Committee Member.

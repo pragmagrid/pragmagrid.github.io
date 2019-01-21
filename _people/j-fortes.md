@@ -4,8 +4,10 @@ firstname: Jose
 affiliation: Professor and AT&T Eminent Scholar, University of Florida
 imagesrc: "j-fortes.png"
 layout: person
+tech: ['IPOP']
 categories:
  - "steering"
+ - "nsf"
  - "researcher"
 ---
 
