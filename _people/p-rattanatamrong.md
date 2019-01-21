@@ -12,7 +12,7 @@ categories:
  - "researcher"
 ---
 
-**PRAGMA Role:** Steering Committee Member.  
+**PRAGMA Role:** Co-chair of Mentoring on PRAGMA Executive Commitee and Steering Committee member.  
 
 **Related Work:** Distributed computing, operating systems, parallel computing.
 
