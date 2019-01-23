@@ -35,29 +35,25 @@ title: "Leadership"
   <h4><a name="governance"></a>Governance</h4>
 </div>
 
-<p>PRAGMA is led by an Executive Committee and  Steering Committee, which operate according to the 
+<p>PRAGMA is led by a Steering Committee and its Executive Committee, which operate according to the 
 <a href="/images/pdf/operating-principles.pdf" target="_blank">Operating Principles and Procedures</a> 
-document, which all PRAGMA members agree to abide by. The Executive and Steering Committee sets direction, reviews membership 
+document, which all PRAGMA members agree to abide by. The Steering Committee sets direction, reviews membership 
 applications and proposals to host PRAGMA workshops.  </p>
 
 
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+{% assign executive = site["executive"] | sort: "order" %}
 
-{% assign executive = site["people"] | where: "categories", "executive" | group_by: "executivearea" | sort: "name" %}
-
-<p><strong>Executive Committee</strong>
+<p><strong>Executive Committee Members and Roles</strong>
   <ul>
   {% for area in executive %}
-    <li><strong>{{area.name}}</strong>
+    {% if area.title == "Chairs" %}
+    <li><strong>{{area.tagline}}</strong>
+    {% else %}
+    <li><strong>{{area.title}}</strong>: {{area.tagline}}
+    {% endif %}
     <ul>
-    {% for person in area.items %}
+    {% assign chairs = site["people"] | where: "executivearea", area.title | sort: "executiverole" %}
+    {% for person in chairs %}
       <li><a href="{{ person.url }}" title="{{ person.title }}">{{person.firstname}} {{ person.title }}</a> - {{person.executiverole}}</li>
     {% endfor %}
     </ul>
@@ -65,6 +61,8 @@ applications and proposals to host PRAGMA workshops.  </p>
   {% endfor %}
   </ul>
 </p>
+
+<p>For more information about these roles, see the PRAGMA <a href="/images/pdf/operating-principles.pdf" target="_blank">Operating Principles and Procedures</a>.</p>
 
 {% assign steering = site["people"] | where: "categories", "steering" | sort: "title" %}
 

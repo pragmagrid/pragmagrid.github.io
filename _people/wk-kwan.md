@@ -5,7 +5,7 @@ affiliation: Assistant IT Director, The University of Hong Kong
 imagesrc: wk-kwan.png
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Steering Committee Member.

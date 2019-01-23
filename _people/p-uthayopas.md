@@ -5,7 +5,7 @@ affiliation: Acting Vice President for Information, Kasetsart University
 imagesrc: "p-uthayopas.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Steering Committee Member. I am a member of the Resources Working Group where I lead the team that engages in the building of PRAGMA resources infrastructure. 

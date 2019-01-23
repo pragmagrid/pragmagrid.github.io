@@ -39,6 +39,8 @@ collections:
      output: true
   groups:
      output: true
+  executive:
+     output: true
 
 
 exclude:
