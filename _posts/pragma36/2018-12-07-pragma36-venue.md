@@ -30,7 +30,7 @@ CENTRA4-PRAGMA36 secretariat is not responsible for reservations, confirmations,
 <tr>
   <td><b>Phoenix Jeju</b> *****<br>
   107, Seopjikoji-ro, Seongsan-eup, Seogwipo, Jeju Island <br>
-  Phone: +82-2-1577-0069(extension 1) <br>
+  Phone: +82-2-1577-0069(extension 1) <br> Fax: +82-2-2031-1490 <br>
   ※ Reservation is available from February 18, 2019.<br>
   <a href="http://www.myrgst.com/centra4-pragma36/Hotel%20Booking%20Form_Phoenix%20Jeju.docx">Download Hotel Booking Form </a><br>
   <a href="https://phoenixhnr.co.kr/jeju/global/en/accommodation/velraterrace">Accommodation Info </a><br>
