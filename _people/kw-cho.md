@@ -14,6 +14,7 @@ categories:
 projects are Supercomputing R&D, EDISON, HPC Education, and Virtual Wind
 Tunnel.
 
-[Website][1]
+[Website][1] or [Edison website][2]
 
-[1]: http://www.nisn.re.kr or https://www.edison.re.kr
+[1]: http://www.nisn.re.kr 
+[2]: https://www.edison.re.kr
