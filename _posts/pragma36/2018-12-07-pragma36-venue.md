@@ -32,8 +32,8 @@ CENTRA4-PRAGMA36 secretariat is not responsible for reservations, confirmations,
   107, Seopjikoji-ro, Seongsan-eup, Seogwipo, Jeju Island <br>
   Phone: +82-2-1577-0069(extension 1) <br> Fax: +82-2-2031-1490 <br>
   ※ Reservation is available from February 18, 2019.<br>
-    <li>Rooms <br><ul>: Royal Double Ondol<br>- 2 bedrooms, 2 bathrooms, 1 living room, 1 kitchen</ul><ul>: Royal Double Twin<br>- 1 bedroom, 2 bathrooms, 1 living room, 1 kitchen</ul></li>
-    <li>Capacity: 4 guests/room (may add up to 2 people)</li>
+    <li>Rooms <ul>: Royal Double Ondol<br>- 2 bedrooms, 2 bathrooms, 1 living room, 1 kitchen</ul><ul>: Royal Double Twin<br>- 1 bedroom, 2 bathrooms, 1 living room, 1 kitchen</ul></li>
+    <li>Capacity: 4 guests/room (may add up to 2 people)</li><br>
   <a href="http://www.myrgst.com/centra4-pragma36/Hotel%20Booking%20Form_Phoenix%20Jeju.docx">Download Hotel Booking Form </a><br>
   <a href="https://phoenixhnr.co.kr/en/static/jeju/room/detail-condo1">Accommodation Info </a><br>
   Distance to Venue(Phoenix Jeju): 10 m
