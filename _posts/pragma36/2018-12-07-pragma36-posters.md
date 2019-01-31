@@ -14,9 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border36">Important Dates</div>
-- Submission deadline: Mar. 11st, 2019.
-- Author notification: Mar. 18th, 2019.
-- Workshop registration deadline: Mar. 24th, 2019.
+- Submission deadline: March. 11th, 2019.
+- Author notification: March. 18th, 2019.
+- Workshop registration deadline: March. 24th, 2019.
 - Submitting files for poster printing: April. 1st, 2019
 
 <br>
