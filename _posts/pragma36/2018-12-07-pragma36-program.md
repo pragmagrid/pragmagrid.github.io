@@ -178,8 +178,20 @@ short: program
   </tr>
 </table>
 
+[Back to top](/pragma36-program)
+
 <br>
 
 <div class="border36" id="day4">Day 4 - Saturday, 27nd April 2019</div>
 - CENTRA & PRAGMA Networking and Collaboration Day 
 - (CENTRA and PRAGMA members only)
+
+* Pick-up point: Equatorial Hotel
+<li>07:30 Participants gather at Phoenix resort</li>
+<li>07:45 Bus Departure</li>
+<li>08:00 ~ 15:00 tbd</li>
+<li>16:00 Arriving Phoenix Resort</li>
+
+[Back to top](/pragma36-program)
+
+<br>
