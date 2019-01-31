@@ -187,10 +187,10 @@ short: program
 - (CENTRA and PRAGMA members only)
 
 * Pick-up point: Equatorial Hotel
-<li>07:30 Participants gather at Phoenix resort</li>
-<li>07:45 Bus Departure</li>
-<li>08:00 ~ 15:00 tbd</li>
-<li>16:00 Arriving Phoenix Resort</li><br>
+<ul>07:30 Participants gather at Phoenix resort</ul>
+<ul>07:45 Bus Departure</ul>
+<ul>08:00 ~ 15:00 tbd</ul>
+<ul>16:00 Arriving Phoenix Resort</ul><br>
 
 [Back to top](/pragma36-program)
 
