@@ -190,8 +190,8 @@ short: program
 <li>07:30 Participants gather at Phoenix resort</li>
 <li>07:45 Bus Departure</li>
 <li>08:00 ~ 15:00 tbd</li>
-<li>16:00 Arriving Phoenix Resort</li>
-<br>
+<li>16:00 Arriving Phoenix Resort</li><br>
+
 [Back to top](/pragma36-program)
 
 <br>
