@@ -65,7 +65,7 @@ short: program
 [Back to top](/pragma36-program)
 
 <br>
-
+<!--
 <div class="border36" id="day1">PRAGMA Student Workshop: Day 1 - 24th April, 2019</div>
 
 <table class="program36">
@@ -89,7 +89,7 @@ short: program
 
 [Back to top](/pragma36-program)
 
-<br>
+<br> -->
 
 <div class="border36" id="day2">PRAGMA 36 Workshop Day 2 - 25th April, 2019</div>
 
