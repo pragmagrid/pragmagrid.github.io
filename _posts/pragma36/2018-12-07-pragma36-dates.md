@@ -16,7 +16,7 @@ Registration Closes - 1st April, 2019 <br>
 Submission deadline: Mar. 11st, 2019<br>
 Author notification: Mar. 18th, 2019<br>
 Workshop registration deadline: Mar. 24th, 2019<br>
-Submitting files for poster printing: until April 1, 2019
+Submitting files for poster printing: until April 1, 2019<br>
 
 <div class="border36">Demo </div>
 Submission deadline: Mar. 11st, 2019<br>
