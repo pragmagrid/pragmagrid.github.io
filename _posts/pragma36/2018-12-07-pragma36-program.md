@@ -66,6 +66,31 @@ short: program
 
 <br>
 
+<div class="border36" id="day1">PRAGMA Student Workshop: Day 1 - 24th April, 2019</div>
+
+<table class="program36">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>13:00 - 15:00</td>
+    <td>tbd</td>
+  </tr>
+  <tr>
+    <td>15:00 - 16:00</td>
+    <td><b>Coffe break and Poster</b> </td>
+  </tr>
+  <tr>
+    <td>16:00 - 18:00</td>
+    <td>tbd</td>
+  </tr>
+</table>
+
+[Back to top](/pragma36-program)
+
+<br>
+
 <div class="border36" id="day2">PRAGMA 36 Workshop Day 2 - 25th April, 2019</div>
 
 <table class="program36">
