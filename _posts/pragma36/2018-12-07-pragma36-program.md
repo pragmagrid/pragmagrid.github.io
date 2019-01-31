@@ -6,7 +6,7 @@ workshop: pragma36
 short: program
 ---
 
-<a href="http://www.globalcentra.org/centra4/program.html">* For your information, the program of CENTRA 4 is seen HERE</a>
+* For your information, the program of CENTRA 4 is seen [HERE] (http://www.globalcentra.org/centra4/program.html)
 
 [Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
 [Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
