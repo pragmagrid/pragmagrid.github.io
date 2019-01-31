@@ -186,11 +186,12 @@ For your information, the program of CENTRA 4 is seen <a href="http://www.global
 - CENTRA & PRAGMA Networking and Collaboration Day 
 - (CENTRA and PRAGMA members only)
 
-* Pick-up point: Phoenix resort
-<ul>07:30 Participants gather at Phoenix resort</ul>
-<ul>07:45 Bus Departure</ul>
-<ul>08:00 ~ 15:00 tbd</ul>
-<ul>16:00 Arriving Phoenix Resort</ul><br>
+* Pick-up point: Phoenix Resort
+<ul>07:30 - Participants gather</ul>
+<ul>07:45 - Departure from Phoenix Resort by bus</ul>
+<ul>08:00 - tbd</ul>
+<ul>05:00 - tbd</ul>
+<ul>16:00 - Arriving at Phoenix Resort</ul><br>
 
 [Back to top](/pragma36-program)
 
