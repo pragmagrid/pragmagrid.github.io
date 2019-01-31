@@ -186,7 +186,7 @@ short: program
 - CENTRA & PRAGMA Networking and Collaboration Day 
 - (CENTRA and PRAGMA members only)
 
-* Pick-up point: Equatorial Hotel
+* Pick-up point: Phoenix resort
 <ul>07:30 Participants gather at Phoenix resort</ul>
 <ul>07:45 Bus Departure</ul>
 <ul>08:00 ~ 15:00 tbd</ul>
