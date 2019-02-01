@@ -87,8 +87,8 @@ The standard electricity supply is 220 volts AC/60 cycles. Most hotels may provi
 
 <div class="border36" id="ground">Ground Transportation</div><br>
 <img src="/images/pragma36/air-3.png"/><br><br>
-by Taxi: 50 minutes from airport (If you exit through Gate 3 and cross the crosswalk you will be at the taxi stand.)<br>
-Distance : 45Km, Fare : About 37,000 Korean won (USD 30~35)<br><br>
+by Taxi : 50 minutes from airport (If you exit through Gate 3 and cross the crosswalk you will be at the taxi stand.)<br>
+Distance: 45 Km, Fare: About 37,000 Korean won (USD 30~35)<br><br>
   
 <img src="/images/pragma36/bus-1.png"/><br><br>
 <img src="/images/pragma36/shuttle1.png"/><br>
