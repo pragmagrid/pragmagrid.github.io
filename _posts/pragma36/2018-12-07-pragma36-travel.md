@@ -126,6 +126,7 @@ Distance: 45 Km, Fare: About 37,000 Korean won (USD 30~35)<br><br>
   <td>Thailand</td>
 </tr>
 </table>
+
 <br>
 **B. Incheon Int'l Airport -> Gimpo Airport (Domestic) -> Jeju Int'l Airport**
 
