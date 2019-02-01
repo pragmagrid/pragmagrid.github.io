@@ -101,7 +101,7 @@ Distance: 45 Km, Fare: About 37,000 Korean won (USD 30~35)<br><br>
 <img src="/images/pragma36/air-1.jpg" />
 
 **A. Direct Int'l Flight to Jeju Int'l Airport<br>**
-<table class="travel" >
+<table class="program36">
 <tr>
   <th colspan="2">Flight Routes</th>
 </tr>
