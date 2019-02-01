@@ -36,6 +36,7 @@ CENTRA4-PRAGMA36 secretariat is not responsible for reservations, confirmations,
     <li>Capacity: 4 guests/room (may add up to 2 people)</li><br>
   > <a href="http://www.myrgst.com/centra4-pragma36/Hotel%20Booking%20Form_Phoenix%20Jeju.docx">Download Hotel Booking Form </a><br>
   > <a href="https://phoenixhnr.co.kr/en/static/jeju/room/detail-condo1">Accommodation Info </a><br>
+  > <a href="http://www.myrgst.com/centra4-pragma36/phoenix-facility.pdf">Phoenix Facility Informations</a><br>    
   > Distance to Venue(Phoenix Jeju): 10 m
   </td>
   <td><b>Sunrise Hotel Seopjikoji </b> ***<br>
