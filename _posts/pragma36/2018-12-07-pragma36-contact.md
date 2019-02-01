@@ -9,8 +9,8 @@ short: Contact
 
 **Logistics (travel, venue, etc.):**<br>
 
-- James Junghun Shin, shandy77@kisti.re.kr
-- Dasom Yang, dsyang@connect-comm.net
+- James Junghun Shin, [shandy77@kisti.re.kr] (mailto:shandy77@kisti.re.kr)
+- Dasom Yang, [dsyang@connect-comm.net] (mailto:dsyang@connect-comm.net)
 <br> <br>
 
 **Posters and Lightning Talks**<br>
@@ -20,7 +20,7 @@ short: Contact
 
 **Demo Presentations:**<br>
 
-- Kohei Ichikawa, ichikawa@is.naist.jp
-- Yoshiyuki Kido, kido@cmc.osaka-u.ac.jp
+- Kohei Ichikawa, [ichikawa@is.naist.jp] (mailto:ichikawa@is.naist.jp)
+- Yoshiyuki Kido, [kido@cmc.osaka-u.ac.jp] (mailto:kido@cmc.osaka-u.ac.jp)
 
 
