@@ -48,7 +48,6 @@ through [EasyChair](https://easychair.org/conferences/?conf=pragma36).<br>
 
 If you have any questions regarding the demo abstract submission, please
 contact our demo chairs:
-- Kohei Ichikawa, ichikawa (at) is (dot) naist (dot) jp
-- Yoshiyuki Kido, kido (at) cmc (dot) osaka-u (dot) ac (dot) jp
+- Kohei Ichikawa, ichikawa@is.naist.jp
 
 
