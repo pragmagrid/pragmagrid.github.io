@@ -24,7 +24,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 12:00</td>
-    <td><b></b> Student Workshop <br> </td>
+    <td><b>Student Workshop</b>  <br> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -57,20 +57,22 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Opening Ceremony <br>
+    <td><b>Opening Ceremony</b> <br>
       Speech by President, KISTI, Dr. Heeyoon Choi <br> 
-      Speech by PRAGMA Founder, Dr. Peter Azberger </b></td>
+      Speech by PRAGMA Founder, Dr. Peter Azberger </td>
   </tr>
   <tr>
-    <td>10:00 - 10:20</td>
-    <td><b>TBA</b></td>
+    <td>09:20 - 10:00</td>
+    <td><b>PRAGMA Welcoming Statement</b> <br>
+      Speech by PRAGMA Chair <br> 
+      TBD </td>
   </tr>
   <tr>
-    <td>10:20 - 10:40</td>
-    <td class="break"><b>Coffee Break</b></td>
+    <td>10:00 - 10:30</td>
+    <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
-    <td>10:40 - 12:10</td>
+    <td>10:30 - 12:00</td>
     <td><b>TBA</b></td>
   </tr>
   <tr>
