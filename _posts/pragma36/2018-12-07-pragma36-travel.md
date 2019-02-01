@@ -86,20 +86,18 @@ The standard electricity supply is 220 volts AC/60 cycles. Most hotels may provi
 [Back to top](/pragma36-travel)
 
 <div class="border36" id="ground">Ground Transportation</div>
-From Jeju Int'l Airport to Phoenix JEJU
 
 <img src="/images/pragma36/air-3.png"/>
 
-- by Taxi: 50 minutes from airport<br>
+* by Taxi: 50 minutes from airport<br>
   (If you exit through Gate 3 and cross the crosswalk you will be at the taxi stand.)
   * Distance : 45 Km,
-  * Fare : About 37,000 Korean won (USD 30~35)
-- by Bus : 90 minutes from airport<br>
+  * Fare : About 37,000 Korean won (USD 30~35)<br>
+* by Bus : 90 minutes from airport<br>
   Express Bus (101, 111), Boarding at Airport Gate 1(front)<br>
-  (Jeju Int'l Airport -> Intercity Bus Terminal -> Use Ilju Ave. Bus Line)
-  <img src="/images/pragma36/air-4.png"/>
+  (Jeju Int'l Airport -> Intercity Bus Terminal -> Use Ilju Ave. Bus Line)<br>
 
-- Airport Shuttle Service<br>
+* Airport Shuttle Service<br>
   <img src="/images/pragma36/air-5.png"/><br>
   <img src="/images/pragma36/shuttle1.png"/>
 
