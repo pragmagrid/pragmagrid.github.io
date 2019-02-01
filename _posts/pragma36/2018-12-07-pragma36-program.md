@@ -185,6 +185,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <div class="border36" id="day4">Day 4 - Saturday, 27nd April 2019</div>
 - CENTRA & PRAGMA Networking and Collaboration Day 
 - (CENTRA and PRAGMA members only)
+- The course options will be announced soon
 
 * Pick-up point: Phoenix Resort
 <ul>07:30 - Participants gather</ul>
