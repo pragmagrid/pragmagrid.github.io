@@ -17,7 +17,7 @@ discussions next to the poster.
 - Submission deadline: March. 11th, 2019.
 - Author notification: March. 18th, 2019.
 - Workshop registration deadline: March. 24th, 2019.
-- Submitting files for poster printing: April. 1st, 2019
+- File submission for poster printing: April. 1st, 2019
 
 <br>
 
