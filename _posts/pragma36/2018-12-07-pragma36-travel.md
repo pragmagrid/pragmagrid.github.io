@@ -75,7 +75,7 @@ The standard electricity supply is 220 volts AC/60 cycles. Most hotels may provi
 
 - [Jeju Special Self-Governing Province](http://webtrans.wordia.co.kr:7000/etgi/)
 - [HiKorea e-Government for Foreigner](https://www.hikorea.go.kr/pt/main_en.pt)
-- [Phoenix Jeju](http://phoenixhnr.co.kr/jeju/global/en/index)
+- [Phoenix Jeju](https://phoenixhnr.co.kr/en/page/main/jeju)
 - [Jeju International Airport](http://www.airport.co.kr/jejueng/main.do)
 - [Jeju Tourism Organization](http://www.ijto.or.kr/english/)
 - [Kimpo International Airport](http://www.airport.co.kr/wwweng/main.do)
@@ -100,13 +100,8 @@ From Jeju Int'l Airport to Phoenix JEJU
   <img src="/images/pragma36/air-4.png"/>
 
 - Airport Shuttle Service<br>
-  <img src="/images/pragma36/air-5.png"/>
-  - From Jeju Int'l Airport to Phoenix Jeju <br>
-    (Suttle stops:  Zone C parking lots 9, 10, 11, Jeju Int'l Airport)
-    <img src="/images/pragma36/shuttle1.png"/>
-  - From  Jeju to Jeju Int'l Airport<br>
-    (Suttle stops: Bella Terrace Orange, phoenix JEJU)<br>
-    <img src="/images/pragma36/shuttle2.png"/>
+  <img src="/images/pragma36/air-5.png"/><br>
+  <img src="/images/pragma36/shuttle1.png"/>
 
 [Back to top](/pragma36-travel)
 
