@@ -12,7 +12,7 @@ short: dates
 <li>Registration Opens - 1st February, 2019</li>
 <li>Registration Closes - 1st April, 2019</li><br>
 
-<div class="border36">Poster (Chair: Jason Haga and Wassapon Watanakeesuntorn) </div>
+<div class="border36">Poster (Chair: Jason Haga and Wassapon "Boom" Watanakeesuntorn) </div>
 <li>Deadline for abstract submission: March 11th, 2019</li>
 <li>Author notification: March 18th, 2019</li>
 <li>File submission for free poster printing: April 1st, 2019</li><br>
