@@ -11,7 +11,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 [Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
 [Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
 
-<div class="border36" id="day1">Day 1 (24/April, Wed.) : PRAGMA Student/Pre-Workshop </div>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop & Pre-Workshop </div>
 
 <table class="program36">
   <tr>
@@ -44,7 +44,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 
 <br>
 
-<div class="border36" id="day2">Day 2 (25/April, Thu.) : PRAGMA Workshop</div>
+<div class="border36" id="day2">Day 2 (April 25, Thu.) : PRAGMA Workshop</div>
 
 <table class="program36">
   <tr>
@@ -118,7 +118,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 
 <br>
 
-<div class="border36" id="day3">Day 3 (26/April, Fri.) : PRAGMA Workshop</div>
+<div class="border36" id="day3">Day 3 (April 26, Fri.) : PRAGMA Workshop</div>
 
 <table class="program36">
   <tr>
@@ -184,9 +184,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 
 <br>
 
-<div class="border36" id="day4">Day 3 (27/April, Sat.) </div>
-- CENTRA & PRAGMA Networking and Collaboration Day 
-- (CENTRA and PRAGMA members only)
+<div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div>
 - The considered spots: Seongsan Sunrise Peak, Manjanggul Lava Tube, Seongup Folk Village, Bijarim Forest, et cetera.
 
 * Pick-up point: Phoenix Resort
