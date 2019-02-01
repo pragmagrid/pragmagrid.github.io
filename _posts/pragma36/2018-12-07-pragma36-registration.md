@@ -15,7 +15,7 @@ If you have any questions or concerns, please do not hesitate to contact us at [
 
 If you need to change information on a submitted registration or change your plan, <br>please contact PRAGMA36 Meetings 2019 organizing team by sending an e-mail to [dsyang@connect-comm.net](mailto:dsyang@connect-comm.net) no later than April 10, 2019.
 
-### PRAGMA 36 colocated with CENTRA 4 (Tentative)<br>
+### PRAGMA 36 colocated with CENTRA 4 <br>
 April 24(Wed): PRAGMA 36 Student Workshop & Pre-Workshop <br>
 April 25(Thu): PRAGMA 36 Workshop<br>
 April 26(Fri): PRAGMA 36 Workshop<br>
