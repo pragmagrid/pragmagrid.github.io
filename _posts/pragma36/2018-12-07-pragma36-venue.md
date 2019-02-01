@@ -40,22 +40,22 @@ CENTRA4-PRAGMA36 secretariat is not responsible for reservations, confirmations,
   </td>
   <td><b>Sunrise Hotel Seopjikoji </b> ***<br>
   83, Sinyang-ro, Seongsan-eup, Seogwipo, Jeju Island<br>
-  <a
+ > <a
   href="https://www.hotels.com/ho675747/?as-srs-report=HomePage%7CAutoS%7CHOTEL%7CSunrise%20Hotel%20Seopjikoji%7C0%7C0%7C0%7C1%7C1%7C1%7C675747&q-check-out=2018-11-24&tab=description&q-room-0-adults=2&YGF=1&q-check-in=2018-11-23&MGT=1&WOE=6&WOD=5&ZSX=0&SYE=3&q-room-0-children=0">Hotel info & Reservation</a><br>
-  Distance to Venue(Phoenix Jeju): 1.5 km (20minutes on foot)
+ > Distance to Venue(Phoenix Jeju): 1.5 km (20minutes on foot)
   </td>
 </tr>
 
 <tr>
   <td><b> Jeju Stay in Seongsan Hotel </b> ***<br>
    11, Singo-ro Seongsan-eup, Seogwipo, Jeju Island<br>
-   <a href="https://www.hotels.com/ho617933/?as-srs-report=HomePage%7CAutoS%7CHOTEL%7CJeju%20Stay%20in%20Seongsan%20Hotel%7C0%7C0%7C0%7C1%7C1%7C1%7C617933&q-check-out=2018-11-24&tab=description&q-room-0-adults=2&YGF=1&q-check-in=2018-11-23&MGT=1&WOE=6&WOD=5&ZSX=0&SYE=3&q-room-0-children=0">Hotel info & Reservation</a><br>
-   Distance to Venue(Phoenix Jeju): 1.7 km (25minutes on foot)
+  > <a href="https://www.hotels.com/ho617933/?as-srs-report=HomePage%7CAutoS%7CHOTEL%7CJeju%20Stay%20in%20Seongsan%20Hotel%7C0%7C0%7C0%7C1%7C1%7C1%7C617933&q-check-out=2018-11-24&tab=description&q-room-0-adults=2&YGF=1&q-check-in=2018-11-23&MGT=1&WOE=6&WOD=5&ZSX=0&SYE=3&q-room-0-children=0">Hotel info & Reservation</a><br>
+  > Distance to Venue(Phoenix Jeju): 1.7 km (25minutes on foot)
   </td>
   <td><b> Thira Hotel</b> **<br>
   41, Seopjikoji-ro 25beon-gil, Seongsan-eup, Seogwipo, Jeju Island<br>
-  <a href="https://www.hotels.com/ho626202848/?pos=HCOM_US&locale=en_US&MGT=c..Jb-ZqR0dTeI.&SYE=c..aM_c5lgGlzg.&WOD=c..K8UJ1BdwwHA.&WOE=c..eo7naQTTJG8.&YGF=c..Jb-ZqR0dTeI.&ZSX=c..Bl5c-QXvGIs.&as-srs-report=c..ikFuCX1wgin6ZOy5XohQ3EFd688EX2OqoTmtq7tIQP9lEFu0j56O_VCPvcB8zl6PhbHpDH1A_qE.&q-check-in=c..nXwIcxCnHTVDOimyVio4Yw..&q-check-out=c..nXwIcxCnHTXWaNBcPdpjoQ..&q-room-0-adults=c..oII3BFxCQ5Y.&q-room-0-children=c..Bl5c-QXvGIs.&tab=c..0oxtl6uEjo5vz5Z-VQJp4w..">Hotel info & Reservation</a><br>
-  Distance to Venue(Phoenix Jeju): 1.7 km (25minutes on foot)
+ > <a href="https://www.hotels.com/ho626202848/?pos=HCOM_US&locale=en_US&MGT=c..Jb-ZqR0dTeI.&SYE=c..aM_c5lgGlzg.&WOD=c..K8UJ1BdwwHA.&WOE=c..eo7naQTTJG8.&YGF=c..Jb-ZqR0dTeI.&ZSX=c..Bl5c-QXvGIs.&as-srs-report=c..ikFuCX1wgin6ZOy5XohQ3EFd688EX2OqoTmtq7tIQP9lEFu0j56O_VCPvcB8zl6PhbHpDH1A_qE.&q-check-in=c..nXwIcxCnHTVDOimyVio4Yw..&q-check-out=c..nXwIcxCnHTXWaNBcPdpjoQ..&q-room-0-adults=c..oII3BFxCQ5Y.&q-room-0-children=c..Bl5c-QXvGIs.&tab=c..0oxtl6uEjo5vz5Z-VQJp4w..">Hotel info & Reservation</a><br>
+ > Distance to Venue(Phoenix Jeju): 1.7 km (25minutes on foot)
   </td>
 </tr>
 
