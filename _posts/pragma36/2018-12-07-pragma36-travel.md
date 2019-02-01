@@ -143,7 +143,7 @@ Distance: 45 Km, Fare: About 37,000 Korean won (USD 30~35)<br><br>
 * From Gimpo Airport (Domestic) to Jeju Int'l Airport<br>
   From Gimpo to Jeju, several domestic airlines operate regular flights daily.
   
-<table class="travel" >
+<table class="program36">
 <tr>
   <th>Guide to available flights</th>
   <th>Website</th>
@@ -181,7 +181,7 @@ Distance: 45 Km, Fare: About 37,000 Korean won (USD 30~35)<br><br>
 <br>
 **C. From Gimpo Int'l Airport -> Jeju Int'l Airport** <br>
 Flight to Gimpo Int'l Airport is available from countries' main cities: Japan, China and Taiwan
-<table class="travel" >
+<table class="program36">
 <tr>
   <th colspan="2">Flight Routes</th>
 </tr>
@@ -203,7 +203,7 @@ Flight to Gimpo Int'l Airport is available from countries' main cities: Japan, C
 **D. From Gimhae Int'l Airport -> Jeju Int'l Airport**<br>
 Flight to Gimhae Int'l Airport is available from countries' main cities: 10 countries
 
-<table class="travel" >
+<table class="program36">
 <tr>
   <th colspan="2">Flight Routes</th>
 </tr>
