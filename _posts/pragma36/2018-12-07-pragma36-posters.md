@@ -14,10 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border36">Important Dates</div>
-- Submission deadline: March. 11th, 2019.
-- Author notification: March. 18th, 2019.
-- Workshop registration deadline: March. 24th, 2019.
-- File submission for poster printing: April. 1st, 2019
+- Submission deadline: March 11th, 2019.
+- Author notification: March 18th, 2019.
+- File submission for free poster printing: April 1st, 2019
 
 <br>
 
@@ -74,6 +73,5 @@ converting to PDF)
 
 If you have any questions, please contact our Poster and Student Presentations
 Chair:
-Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0 (at) is (dot)
-naist (dot) jp
+Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0@is.naist.jp
 
