@@ -96,7 +96,6 @@ The standard electricity supply is 220 volts AC/60 cycles. Most hotels may provi
   - Fare : About 37,000 Korean won (USD 30~35)<br><br>
 
 <img src="/images/pragma36/shuttle1.png"/><br>
-> Stations : Jeju Airport C-Zone(#9, #10, #11) Parking Lot<br>
 <img src="/images/pragma36/air-5.png"/><br>
 
 [Back to top](/pragma36-travel)
