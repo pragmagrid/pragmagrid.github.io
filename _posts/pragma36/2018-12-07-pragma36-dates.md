@@ -16,7 +16,7 @@ short: dates
 <li>Submission deadline: March. 11th, 2019</li>
 <li>Author notification: March. 18th, 2019</li>
 <li>Workshop registration deadline: March. 24th, 2019</li>
-<li>Submitting files for poster printing: April. 1st, 2019</li><br>
+<li>File submission for poster printing: April. 1st, 2019</li><br>
 
 <div class="border36">Demo </div>
 <li>Submission deadline: March. 11th, 2019</li>
