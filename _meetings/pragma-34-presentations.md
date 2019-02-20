@@ -58,7 +58,7 @@ date: 2017-12-15
   * Chiao-Ning Chuang, Chien-Heng Wu, Wen-Yi Chang and Whey-Fone Tsai
     [Implementation of Deep Learning Algorithm on Personal Big Data Platform for Engineering Applications][p2]
   * Paulino Cristovao, Hidemoto Nakada, Yusuke Tanimura and Hideki Asoh
-    [oward image inbetweening using Latent Model][p3]
+    [Toward image inbetweening using Latent Model][p3]
   * Kaitlin J. Farrell, Cayelan C. Carey, Arianna I. Krinos, Nicole K. Ward, Paul C. Hanson, Renato J. Figueiredo, 
     Vahid Daneshmand and Kensworth Subratie [GRAPLEr Platform Accelerates Whole-Ecosystem Simulation Modeling to 
 	Increase Understanding of Climate Change Impacts on Lake Nutrient Cycling][p4]
@@ -73,7 +73,7 @@ date: 2017-12-15
   * Suchanat Mangkhangjaroen
     [ONE: Online Note Extraction to Music Cheat][p9]
   * Yuki Matsui, Yasuhiro Watashiba, Susumu Date, Takashi Yoshikawa and Shinji Shimojo
-    Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node][p10]
+    [Architecture of Job Scheduling Simulator for Evaluating Mapping Between Queue and Computing Node][p10]
   * Chawanat Nakasan, Kohei Ichikawa and Hajimu Iida
     [Performance Evaluation of Simple Multipath OpenFlow Controller in a Ceph Distributed Storage System Environment][p11]
   * Visaruth Punnium, Pasit Pongpojkasem, Shava Smallen, Nadya Williams, and Prapaporn Rattanatamrong
@@ -89,7 +89,7 @@ date: 2017-12-15
   * Wisit Tipchuen
     [PT-IPFS: Development of software using The InterPlantary File System for enhancing features of Linux package manager][p17]
   * Thomas Tsai, Ceasar Sun, Steven Shiau, Yen-Wei Huang and Weicheng Huang
-    he Status of Data Marketplace – on its way to the National Data Service][p18]
+    [The Status of Data Marketplace - on its way to the National Data Service][p18]
   * Sarah Syahwenni Utari, Sri Chusri Haryanti, Ummi Azizah Rachmawati, Sri Puji Utami Atmoko and Heru Suhartanto
     [Implementation of Virtual Firewall Mechanism for Security of Indonesian E-Health Cloud Model][p19]
   * Wassapon Watanakeesuntorn, Kohei Ichikawa, Hajimu Iida and Putchong Uthayopas
