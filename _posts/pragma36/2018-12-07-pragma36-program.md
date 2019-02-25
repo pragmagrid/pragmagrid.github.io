@@ -42,7 +42,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop(1)- PRAGMA Session : </b> <br>
       Speaker(1) (30 min) <br> 
-      Speaker(2)~(4) (20 min) </td>
+      Speaker(2)~(4) (20 min respectively) </td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
@@ -52,7 +52,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>15:30 - 18:00</td>
     <td><b>PRAGMA Pre-Workshop(2) - Local Session : </b> <br>
       Speaker(1) (30 min) <br> 
-      Speaker(2)~(7) (20 min) </td>
+      Speaker(2)~(7) (20 min respectively) </td>
   </tr>
   <tr>
     <td>18:00 - 20:00</td>
