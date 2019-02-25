@@ -80,13 +80,13 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
-      Speech by President, KISTI, Dr. Heeyoon Choi <br> 
-      Speech by PRAGMA Founder, Dr. Peter Azberger </td>
+      Speech by Dr. Heeyoon Choi, President, KISTI <br> 
+      Speech by Dr. Peter Azberger, PRAGMA Founder </td>
   </tr>
   <tr>
     <td>09:20 - 10:00</td>
     <td><b>PRAGMA Welcoming Statement</b> <br>
-      Speech by PRAGMA Chair <br> 
+      Speech by Dr. Shava Smallen, PRAGMA Chair <br> 
       TBD </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 14:00</td>
-    <td><b>TBA</b></td>
+    <td><b>Keynote Speech</b> (Local speaker)</td>
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
@@ -149,11 +149,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Invited Talk</b></td>
+    <td><b>Invited Talk</b> (Local speaker)</td>
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Invited Talk</b></td>
+    <td><b>Invited Talk</b> (PRAGMA speaker)</td>
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
@@ -172,28 +172,28 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
   </tr>
   <tr>
-    <td>14:00 - 15:30</td>
+    <td>14:00 - 15:20</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
       Resource WG <br> 
       Telescience WG <br> 
       Geoscience WG <br>
       Bioscience WG <br>
       Cyber Learning WG </td>
-  </tr>
+  </tr> 
   <tr>
-    <td>15:30 - 17:00</td>
-    <td><b>PRAGMA Demo Session 2</b></td>
-  </tr>  
-  <tr>
-    <td>17:00 - 17:20</td>
+    <td>15:20 - 15:40</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
-    <td>17:20 - 17:40</td>
+    <td>15:40 - 17:00</td>
+    <td><b>PRAGMA Demo Session 2</b></td>
+  </tr> 
+  <tr>
+    <td>17:00 - 17:30</td>
     <td><b>Best Poster Award Ceremony for PRAGMA posters</b></td>
   </tr>
   <tr>
-    <td>17:40 - 18:00</td>
+    <td>17:30 - 18:00</td>
     <td><b>Wrap up & Closing Ceremony</b></td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <br>
 
 <div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div>
-- The considered spots: Seongsan Sunrise Peak, Manjanggul Lava Tube, Seongup Folk Village, Bijarim Forest, et cetera.
+- The considered visiting spots: Seongsan Sunrise Peak, Manjanggul Lava Tube, Seongup Folk Village, Bijarim Forest, et cetera.
 
 * Pick-up point: Phoenix Resort
 <ul>07:30 - Participants gather</ul>
