@@ -29,35 +29,35 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>11:00 - 11:20</td>
-    <td class="break">Coffee Break </td>
+    <td colspan="2" class="break">Coffee Break </td>
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
-    <td><b>CENTRA Post-Workshop 2</b> <br> </td>
+    <td colspan="2"><b>CENTRA Post-Workshop 2</b> <br> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td class="break">Lunch </td>
+    <td  colspan="2" class="break">Lunch </td>
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers : </b> <br>
+    <td colspan="2"><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(4) (20 min respectively) </td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
-    <td class="break">Coffee Break  + NETWORKING </td>
+    <td colspan="2" class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
-    <td><b>PRAGMA Pre-Workshop 2 - Local Speakers : </b> <br>
+    <td colspan="2" ><b>PRAGMA Pre-Workshop 2 - Local Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(7) (20 min respectively) </td>
   </tr>
   <tr>
     <td>18:00 - 20:00</td>
-    <td><b>Dinner</b> </td>
+    <td colspan="2"><b>Dinner</b> </td>
   </tr>
 </table>
 
