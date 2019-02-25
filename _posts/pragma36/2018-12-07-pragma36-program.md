@@ -34,7 +34,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>11:20 - 12:00</td>
     <td> <b>CENTRA Post-Workshop 2</b> </td>
-    <td> <b>Student Workshop 1</b> </td>
+    <td> <b>Student Workshop 2</b> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
