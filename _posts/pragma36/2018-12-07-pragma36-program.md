@@ -207,7 +207,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <br>
 
 <div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div>
-- The considered visiting spots: Seongsan Sunrise Peak, Manjanggul Lava Tube, Seongup Folk Village, Bijarim Forest, et cetera.
+- The considered visiting spots: Seongsan Sunrise Peak, Manjanggul Lava Tube, Seongup Folk Village, Bijarim Forest, etc.
 
 * Pick-up point: Phoenix Resort
 <ul>07:30 - Participants gather</ul>
