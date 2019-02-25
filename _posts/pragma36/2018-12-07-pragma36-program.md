@@ -11,7 +11,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 [Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
 [Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
 
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop & Pre-Workshop </div>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop & Pre-Workshop after CENTRA Post-Workshop</div>
 
 <table class="program36">
   <tr>
@@ -23,16 +23,36 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td class="break"><b>Registration</b></td>
   </tr>
   <tr>
-    <td>09:00 - 12:00</td>
-    <td><b>Student Workshop</b> <br> </td>
+    <td>09:00 - 11:00</td>
+    <td><b>CETRA Post-Workshop (1)</b> <br> </td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:20</td>
+    <td class="break">Coffee Break </td>
+  </tr>
+  <tr>
+    <td>11:20 - 12:00</td>
+    <td><b>CETRA Post-Workshop (2)</b> <br> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
     <td class="break">Lunch </td>
   </tr>
   <tr>
-    <td>13:30 - 18:00</td>
-    <td><b>PRAGMA Pre-Workshop</b> </td>
+    <td>13:30 - 15:00</td>
+    <td><b>PRAGMA Pre-Workshop(1)- PRAGMA Session : </b> <br>
+      Speaker(1) (30 min) <br> 
+      Speaker(2)~(4) (20 min) </td>
+  </tr>
+  <tr>
+    <td>15:00 - 15:30</td>
+    <td class="break">Coffee Break  + NETWORKING </td>
+  </tr>
+  <tr>
+    <td>15:30 - 18:00</td>
+    <td><b>PRAGMA Pre-Workshop(2) - Local Session : </b> <br>
+      Speaker(1) (30 min) <br> 
+      Speaker(2)~(7) (20 min) </td>
   </tr>
   <tr>
     <td>18:00 - 20:00</td>
