@@ -24,7 +24,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 11:00</td>
-    <td><b>CENTRA Post-Workshop (1)</b> <br> </td>
+    <td><b>CENTRA Post-Workshop 1</b> <br> </td>
   </tr>
   <tr>
     <td>11:00 - 11:20</td>
@@ -32,7 +32,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
-    <td><b>CENTRA Post-Workshop (2)</b> <br> </td>
+    <td><b>CENTRA Post-Workshop 2</b> <br> </td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
@@ -40,7 +40,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop(1) - PRAGMA Speakers : </b> <br>
+    <td><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(4) (20 min respectively) </td>
   </tr>
@@ -50,7 +50,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
-    <td><b>PRAGMA Pre-Workshop(2) - Local Speakers : </b> <br>
+    <td><b>PRAGMA Pre-Workshop 2 - Local Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(7) (20 min respectively) </td>
   </tr>
