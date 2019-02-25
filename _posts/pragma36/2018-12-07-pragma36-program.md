@@ -16,14 +16,15 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <table class="program36">
   <tr>
     <th>Time</th>
-    <th>Activity</th>
+    <th colspan="2">Activity</th>
   </tr>
   <tr>
     <td>08:30 - 09:00</td>
-    <td class="break"><b>Registration</b></td>
+    <td colspan="2" class="break"><b>Registration</b></td>
   </tr>
   <tr>
     <td>09:00 - 11:00</td>
+    <td> <b>CENTRA Post-Workshop 1</b> </td>
     <td> <b>CENTRA Post-Workshop 1</b> </td>
   </tr>
   <tr>
