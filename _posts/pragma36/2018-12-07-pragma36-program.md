@@ -11,7 +11,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 [Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
 [Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
 
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop & Pre-Workshop after CENTRA Post-Workshop</div>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop & Pre-Workshop followed by CENTRA Post-Workshop</div>
 
 <table class="program36">
   <tr>
@@ -40,7 +40,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop(1)- PRAGMA Session : </b> <br>
+    <td><b>PRAGMA Pre-Workshop(1) - PRAGMA Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(4) (20 min respectively) </td>
   </tr>
@@ -50,7 +50,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
-    <td><b>PRAGMA Pre-Workshop(2) - Local Session : </b> <br>
+    <td><b>PRAGMA Pre-Workshop(2) - Local Speakers : </b> <br>
       Speaker(1) (30 min) <br> 
       Speaker(2)~(7) (20 min respectively) </td>
   </tr>
