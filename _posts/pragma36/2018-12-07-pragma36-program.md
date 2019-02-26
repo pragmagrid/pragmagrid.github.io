@@ -207,13 +207,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <br>
 
 <div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
-* The considered visiting spots: <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new">Seongsan Sunrise Peak</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281&menuId=DOM_000001817000000001#p1" target="new">Saryeoni Forest Path</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new">Seongup Folk Village</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new">Bijarim Forest</a>, etc.
 
-* Pick-up point: Phoenix Resort
-<ul>07:30 - Participants gather</ul>
-<ul>07:45 - Departure from Phoenix Resort by bus</ul>
-<ul>08:00~16:00 - tbd</ul>
-<ul>16:00 - Arriving at Phoenix Resort</ul><br>
+* Pick-up point: 1F, Bella Terrace Orange, Phoenix Resort
+<ul>07:30 : Participants gather</ul>
+<ul>07:40 : Departure from Phoenix Resort to Seongsan Ilchulbong Peak</ul>
+<ul>08:00-09:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new">Seongsan Sunrise Peak</a> (UNESCO World Natural Heritage)</ul>
+<ul>09:30 : Departure from Seongsan Ilchulbong Peak to Bijarim Forest </ul>
+<ul>10:00-12:00 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new">Bijarim Forest</a></ul>
+<ul>12:00 : Departure from Bijarim Forest to Seongeup Folk Village</ul>
+<ul>12:30-13:30 : Lunch</ul>
+<ul>13:30-15:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new">Seongup Folk Village</a></ul>
+<ul>15:30 : Departure from Seongeup Folk Village to Phoenix Resort</ul>
+<ul>16:00 : Arriving at Phoenix Resort</ul><br>
 
 [Back to top](/pragma36-program)
 
