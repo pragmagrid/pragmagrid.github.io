@@ -209,16 +209,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 <div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
 
 Pick-up point: 1F, Bella Terrace Orange, Phoenix Resort<br>
-<ul>07:30 : Participants gather</ul>
-<ul>07:40 : Departure from Phoenix Resort to Seongsan Ilchulbong Peak</ul>
-<ul>08:00-09:30(90') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new"><b>Seongsan Sunrise Peak</b></a> (UNESCO World Natural Heritage)</ul>
-<ul>09:30 : Departure from Seongsan Ilchulbong Peak to Bijarim Forest </ul>
-<ul>10:00-12:00(120') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new"><b>Bijarim Forest</b></a></ul>
-<ul>12:00 : Departure from Bijarim Forest to Seongeup Folk Village</ul>
-<ul>12:30-13:30(60') : Lunch</ul>
-<ul>13:30-15:30(120') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new"><b>Seongup Folk Village</b></a></ul>
-<ul>15:30 : Departure from Seongeup Folk Village to Phoenix Resort</ul>
-<ul>16:00 : Arriving at Phoenix Resort</ul><br>
+<ul>
+<li>07:30 : Participants gather</li>
+<li>07:40 : Departure from Phoenix Resort to Seongsan Ilchulbong Peak</li>
+<li>08:00-09:30(90') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new"><b>Seongsan Sunrise Peak</b></a> (UNESCO World Natural Heritage)</li>
+<li>09:30 : Departure from Seongsan Ilchulbong Peak to Bijarim Forest </li>
+<li>10:00-12:00(120') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new"><b>Bijarim Forest</b></a></li>
+<li>12:00 : Departure from Bijarim Forest to Seongeup Folk Village</li>
+<li>12:30-13:30(60') : Lunch</li>
+<li>13:30-15:30(120') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new"><b>Seongup Folk Village</b></a></li>
+<li>15:30 : Departure from Seongeup Folk Village to Phoenix Resort</li>
+<li>16:00 : Arriving at Phoenix Resort</li>
+</ul><br>
 
 [Back to top](/pragma36-program)
 
