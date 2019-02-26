@@ -206,8 +206,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 
 <br>
 
-<div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div>
-- The considered visiting spots: <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new">Seongsan Sunrise Peak</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281&menuId=DOM_000001817000000001#p1" target="new">Saryeoni Forest Path</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new">Seongup Folk Village</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new">Bijarim Forest</a>, etc.
+<div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
+* The considered visiting spots: <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new">Seongsan Sunrise Peak</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500281&menuId=DOM_000001817000000001#p1" target="new">Saryeoni Forest Path</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new">Seongup Folk Village</a>, <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new">Bijarim Forest</a>, etc.
 
 * Pick-up point: Phoenix Resort
 <ul>07:30 - Participants gather</ul>
