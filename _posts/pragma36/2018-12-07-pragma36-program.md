@@ -217,7 +217,7 @@ Pick-up point : 1F, Bella Terrace Orange, Phoenix Resort<br>
 <li class="break">10:00-12:00(120') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new"><b>Bijarim Forest</b></a></li>
 <li>12:00 : Departure from Bijarim Forest to Seongeup Folk Village</li>
 <li>12:30-13:30(60') : Lunch</li>
-<li>13:30-15:30(120') : <b>[Seongup Folk Village](https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7)</b></li>
+<li>13:30-15:30(120') : [Seongup Folk Village](https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7)</li>
 <li>15:30 : Departure from Seongeup Folk Village to Phoenix Resort</li>
 <li>16:00 : Arriving at Phoenix Resort</li>
 </ul><br>
