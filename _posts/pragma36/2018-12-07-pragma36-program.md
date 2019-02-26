@@ -208,7 +208,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 
 <div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
 
-* Pick-up point: 1F, Bella Terrace Orange, Phoenix Resort
+- Pick-up point: 1F, Bella Terrace Orange, Phoenix Resort
 <ul>07:30 : Participants gather</ul>
 <ul>07:40 : Departure from Phoenix Resort to Seongsan Ilchulbong Peak</ul>
 <ul>08:00-09:30(90') : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new"><b>Seongsan Sunrise Peak</b></a> (UNESCO World Natural Heritage)</ul>
