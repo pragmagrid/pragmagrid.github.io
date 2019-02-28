@@ -240,7 +240,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Best Poster & Best Presentation Award Ceremony </b></td>
   </tr>
   <tr>
-    <td>17:20 - 18:00</td>
+    <td>17:20 - 18:30</td>
     <td><b>Wrap up & Closing Ceremony</b><br>
       - Steering Committee Report <br> 
       - Working Group Summary <br> 
