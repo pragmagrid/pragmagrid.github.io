@@ -63,7 +63,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-     <td class="break">Lunch </td>
+    <td class="break">Lunch </td>
   </tr>
 </table>
 <br>
@@ -75,7 +75,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers</b><br>
+    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>
     1. Speaker (30min)<br>
     2. Speaker (20min)<br>
     3. Speaker (20min)<br>
@@ -88,7 +88,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
-    <td><b>PRAGMA Pre-Workshop 2 - Local Speakers</b><br>
+    <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
     1. Speaker (30min)<br>
     2. Speaker (20min)<br>
     3. Speaker (20min)<br>
@@ -101,6 +101,105 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>18:00 - 20:00</td>
      <td class="break">CENTRA Farewell & PRAGMA Welcome Dinner</td>
+  </tr>
+</table>
+
+[Back to top](/pragma36-program)
+
+<br>
+
+<div class="border36" id="day2">Day 2 (April 25, Thu.) : PRAGMA Workshop</div>
+
+<table class="program36">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>08:30 - 09:00</td>
+    <td><b>Registration</b></td>
+  </tr>
+  <tr>
+    <td>09:00 - 09:20</td>
+    <td><b>Opening Ceremony</b> <br>
+      <ul>
+      <li>Speech by Dr. Heeyoon Choi, President of KISTI</li> 
+      <li>Speech by Dr. Peter Azberger, PRAGMA Founder</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>09:20 - 09:50</td>
+    <td><b>PRAGMA Welcoming Statement</b> <br>
+      <ul>
+      <li>Speech by Dr. Shava Smallen, PRAGMA Chair </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>09:50 - 10:20</td>
+    <td><b>Working Group Update </b> <br>
+      <ul>
+        <li>Resource/Cyber Learning WG, Telescience WG, Bioscience WG </li>
+      </ul>
+    </td>
+  </tr>  
+  <tr>
+    <td>10:20 - 10:50</td>
+    <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
+  </tr>
+  <tr>
+    <td>10:50 - 11:20</td>
+    <td><b>Keynote Speech</b> (Local Speaker) </td>
+  </tr>
+  <tr>
+    <td>11:20 - 12:00</td>
+    <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
+      <ul>
+      <li>CENTRA, José Fortes (20 min) </li> 
+      <li>NSF, Beth Plale (20 min) </li>
+      </ul>
+    </td>
+  </tr>  
+  <tr>
+    <td>12:00 - 13:00</td>
+     <td class="break">Lunch </td>
+  </tr>
+  <tr>
+    <td>13:30 - 14:30</td>
+    <td><b>Invited Talks</b> (Local Speaker) <br>
+      <ul>
+      <li>TBD (20 min) </li>
+      <li>TBD (20 min) </li>
+      <li>TBD (20 min) </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>14:30 - 16:00</td>
+    <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
+      <ul>
+      <li>Resource & Cyber Learning WG </li>
+      <li>Telescience WG </li> 
+      <li>Bioscience WG </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>16:00 - 16:30</td>
+    <td class="break">Coffee Break  + NETWORKING </td>
+  </tr>
+  <tr>
+    <td>16:30 - 17:00</td>
+    <td><b>PRAGMA Lightening Talks </b></td>
+  </tr>  
+  <tr>
+    <td>17:00 - 18:00</td>
+    <td><b>PRAGMA Poster Session</b></td>
+  </tr>
+  <tr>
+    <td>18:30 - 20:00</td>
+    <td class="break"><b>Dinner</b></td>
   </tr>
 </table>
 
