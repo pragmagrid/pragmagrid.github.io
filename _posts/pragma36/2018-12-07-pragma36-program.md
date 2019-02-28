@@ -122,52 +122,59 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
-      Speech by Dr. Heeyoon Choi, President, KISTI <br> 
+      Speech by Dr. Heeyoon Choi, President of KISTI <br> 
       Speech by Dr. Peter Azberger, PRAGMA Founder </td>
   </tr>
   <tr>
-    <td>09:20 - 10:00</td>
+    <td>09:20 - 09:50</td>
     <td><b>PRAGMA Welcoming Statement</b> <br>
-      Speech by Dr. Shava Smallen, PRAGMA Chair <br> 
-      TBD </td>
+      Speech by Dr. Shava Smallen, PRAGMA Chair </td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
+    <td>09:50 - 10:20</td>
+    <td><b>Working Group Update </b> <br>
+      Resource/Cyber Learning WG, Telescience WG, Bioscience WG </td>
+  </tr>  
+  <tr>
+    <td>10:20 - 10:50</td>
     <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
-    <td>10:30 - 12:00</td>
-    <td><b>Invited Talks</b> <br>
-      CENTRA, José Fortes <br> 
-      KISTI, TBD <br> 
-      NSF, Beth Plale <br>
-      NRF, TBD</td>
+    <td>10:50 - 11:20</td>
+    <td><b>Keynote Speech</b> (Local Speaker) </td>
   </tr>
+  <tr>
+    <td>11:20 - 12:00</td>
+    <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
+      CENTRA, José Fortes (20 min) <br> 
+      NSF, Beth Plale (20 min) </td>
+  </tr>  
   <tr>
     <td>12:00 - 13:00</td>
      <td class="break">Lunch </td>
   </tr>
   <tr>
-    <td>13:30 - 14:00</td>
-    <td><b>Keynote Speech</b> (Local speaker)</td>
+    <td>13:30 - 14:30</td>
+    <td><b>Invited Talks</b> (Local Speaker) <br>
+      TBD (20 min) <br>
+      TBD (20 min) <br>
+      TBD (20 min) </td>
   </tr>
   <tr>
-    <td>14:00 - 15:30</td>
-    <td><b>PRAGMA Working Groups (WG) Breakouts Session 1: </b> <br>
-      Resource WG <br> 
+    <td>14:30 - 16:00</td>
+    <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
+      Resource & Cyber Learning WG <br> 
       Telescience WG <br> 
-      Geoscience WG <br>
-      Bioscience WG <br>
-      Cyber Learning WG </td>
+      Bioscience WG </td>
   </tr>
   <tr>
-    <td>15:30 - 16:30</td>
-    <td><b>PRAGMA Lightening Talks </b></td>
+    <td>16:00 - 16:30</td>
+    <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td class="break">Coffee Break  + NETWORKING </td>
-  </tr>
+    <td><b>PRAGMA Lightening Talks </b></td>
+  </tr>  
   <tr>
     <td>17:00 - 18:00</td>
     <td><b>PRAGMA Poster Session</b></td>
