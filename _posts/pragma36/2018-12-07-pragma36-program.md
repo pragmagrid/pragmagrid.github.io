@@ -122,7 +122,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
-      <li>Speech by Dr. Heeyoon Choi, President of KISTI</li><br> 
+      <li>Speech by Dr. Heeyoon Choi, President of KISTI</li> 
       <li>Speech by Dr. Peter Azberger, PRAGMA Founder </td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
-      <li>CENTRA, José Fortes (20 min) </li><br> 
+      <li>CENTRA, José Fortes (20 min) </li> 
       <li>NSF, Beth Plale (20 min) </li></td>
   </tr>  
   <tr>
@@ -156,15 +156,15 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
-      <li>TBD (20 min) </li><br>
-      <li>TBD (20 min) </li><br>
+      <li>TBD (20 min) </li>
+      <li>TBD (20 min) </li>
       <li>TBD (20 min) </li></td>
   </tr>
   <tr>
     <td>14:30 - 16:00</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
-      <li> Resource & Cyber Learning WG <br> 
-      <li> Telescience WG </li><br> 
+      <li> Resource & Cyber Learning WG </li>
+      <li> Telescience WG </li> 
       <li> Bioscience WG </li></td>
   </tr>
   <tr>
@@ -223,8 +223,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
-      <li>Resource & Cyber Learning WG </li><br> 
-      <li>Telescience WG </li><br> 
+      <li>Resource & Cyber Learning WG </li>> 
+      <li>Telescience WG </li> 
       <li>Bioscience WG </li></td>
   </tr> 
   <tr>
@@ -242,8 +242,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>17:20 - 18:30</td>
     <td><b>Wrap up & Closing Ceremony</b><br>
-      <li>Steering Committee Report </li><br> 
-      <li>Working Group Summary </li><br> 
+      <li>Steering Committee Report </li> 
+      <li>Working Group Summary </li> 
       <li>Introduction of Next PRAGMA </li></td>
   </tr>
   <tr>
