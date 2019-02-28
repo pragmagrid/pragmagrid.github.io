@@ -15,7 +15,7 @@ short: dates
 <div class="border36">Poster (Chair: Jason Haga and Wassapon "Boom" Watanakeesuntorn) </div>
 <li>Deadline for abstract submission: March 11th, 2019</li>
 <li>Author notification: March 18th, 2019</li>
-<li>File submission for free poster printing: April 1st, 2019</li><br>
+<li>File submission for free poster printing: April 11th, 2019</li><br>
 
 <div class="border36">Demo (Chair: Kohei Ichikawa) </div>
 <li>Deadline for abstract submission: March 11th, 2019</li>
