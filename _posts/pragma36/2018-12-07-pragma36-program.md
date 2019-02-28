@@ -163,9 +163,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>14:30 - 16:00</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
-      <li> Resource & Cyber Learning WG </li>
-      <li> Telescience WG </li> 
-      <li> Bioscience WG </li></td>
+      <li>Resource & Cyber Learning WG </li>
+      <li>Telescience WG </li> 
+      <li>Bioscience WG </li></td>
   </tr>
   <tr>
     <td>16:00 - 16:30</td>
@@ -223,7 +223,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
-      <li>Resource & Cyber Learning WG </li>> 
+      <li>Resource & Cyber Learning WG </li>
       <li>Telescience WG </li> 
       <li>Bioscience WG </li></td>
   </tr> 
