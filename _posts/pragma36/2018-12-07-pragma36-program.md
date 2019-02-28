@@ -38,7 +38,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
      <td class="break">Lunch </td>
   </tr>
 </table>
-
+<br>
 <div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop</div>
 <table class="program36">
   <tr>
@@ -66,8 +66,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
      <td class="break">Lunch </td>
   </tr>
 </table>
-
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop<br>Theme : Inspiring Insight for Data Eco-system with AI + Big Data + HPC</div>
+<br>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop, Theme : Inspiring Insight for Data Eco-system with AI + Big Data + HPC</div>
 <table class="program36">
   <tr>
     <th>Time</th>
