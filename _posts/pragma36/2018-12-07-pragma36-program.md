@@ -209,11 +209,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>PRAGMA Wide Mentoring Update </b></td>
   </tr>
   <tr>
-    <td>10:00 - 10:20</td>
-    <td class="break"><b>Coffee Break</b></td>
+    <td>10:00 - 10:30</td>
+    <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
-    <td>10:20 - 12:00</td>
+    <td>10:30 - 12:00</td>
     <td><b>PRAGMA Demo Session 1</b></td>
   </tr>
   <tr>
@@ -221,33 +221,34 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
   </tr>
   <tr>
-    <td>14:00 - 15:20</td>
+    <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
-      Resource WG <br> 
+      Resource & Cyber Learning WG <br> 
       Telescience WG <br> 
-      Geoscience WG <br>
-      Bioscience WG <br>
-      Cyber Learning WG </td>
+      Bioscience WG </td>
   </tr> 
   <tr>
-    <td>15:20 - 15:40</td>
+    <td>15:15 - 15:30</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
-    <td>15:40 - 17:00</td>
+    <td>15:30 - 16:50</td>
     <td><b>PRAGMA Demo Session 2</b></td>
   </tr> 
   <tr>
-    <td>17:00 - 17:30</td>
-    <td><b>Best Poster Award Ceremony for PRAGMA posters</b></td>
+    <td>16:50 - 17:20</td>
+    <td><b>Best Poster & Best Presentation Award Ceremony </b></td>
   </tr>
   <tr>
-    <td>17:30 - 18:00</td>
-    <td><b>Wrap up & Closing Ceremony</b></td>
+    <td>17:20 - 18:00</td>
+    <td><b>Wrap up & Closing Ceremony</b><br>
+      - Steering Committee Report <br> 
+      - Working Group Summary <br> 
+      - Introduction of Next PRAGMA </td>
   </tr>
   <tr>
     <td>18:30 - 20:00</td>
-    <td class="break"><b>Dinner</b></td>
+    <td class="break"><b>Farewell Dinner</b></td>
   </tr>
 </table>
 
