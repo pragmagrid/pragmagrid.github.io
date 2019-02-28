@@ -11,54 +11,96 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
 [Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
 [Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
 
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : CENTRA Post-Workshop, PRAGMA Student Workshop, PRAGMA Pre-Workshop</div>
-
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : CENTRA Post-Workshop</div>
 <table class="program36">
   <tr>
     <th>Time</th>
-    <th colspan="2">Activity</th>
+    <th>Activity</th>
   </tr>
   <tr>
     <td>08:30 - 09:00</td>
-    <td colspan="2" class="break"><b>Registration</b></td>
+    <td><b>Registration</b></td>
   </tr>
   <tr>
     <td>09:00 - 11:00</td>
-    <td> <b>CENTRA Post-Workshop 1</b> </td>
-    <td> <b>PRAGMA Student Workshop 1</b> </td>
+    <td><b>CENTRA Post-Workshop 1</b></td>
   </tr>
   <tr>
     <td>11:00 - 11:20</td>
-    <td colspan="2" class="break">Coffee Break </td>
+    <td class="break"><b>Coffee Break</b></td>
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
-    <td> <b>CENTRA Post-Workshop 2</b> </td>
-    <td> <b>PRAGMA Student Workshop 2</b> </td>
+    <td><b>CENTRA Post-Workshop 2</b></td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td  colspan="2" class="break">Lunch </td>
+     <td class="break">Lunch </td>
+  </tr>
+</table>
+
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop</div>
+<table class="program36">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
+  </tr>
+  <tr>
+    <td>08:30 - 09:00</td>
+    <td><b>Registration</b></td>
+  </tr>
+  <tr>
+    <td>09:00 - 11:00</td>
+    <td><b>PRAGMA Student Workshop 1</b></td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:20</td>
+    <td class="break"><b>Coffee Break</b></td>
+  </tr>
+  <tr>
+    <td>11:20 - 12:00</td>
+    <td><b>PRAGMA Student Workshop 2</b></td>
+  </tr>
+  <tr>
+    <td>12:00 - 13:00</td>
+     <td class="break">Lunch </td>
+  </tr>
+</table>
+
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop<br>Theme : Inspiring Insight for Data Eco-system with AI + Big Data + HPC</div>
+<table class="program36">
+  <tr>
+    <th>Time</th>
+    <th>Activity</th>
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td colspan="2"><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers : </b> <br>
-      Speaker(1) (30 min) <br> 
-      Speaker(2)~(4) (20 min respectively) </td>
+    <td><b>PRAGMA Pre-Workshop 1 - PRAGMA Speakers</b><br>
+    1. Speaker (30min)<br>
+    2. Speaker (20min)<br>
+    3. Speaker (20min)<br>
+    4. Speaker (20min)<br>    
+    </td>
   </tr>
   <tr>
     <td>15:00 - 15:30</td>
-    <td colspan="2" class="break">Coffee Break  + NETWORKING </td>
+    <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
     <td>15:30 - 18:00</td>
-    <td colspan="2" ><b>PRAGMA Pre-Workshop 2 - Local Speakers : </b> <br>
-      Speaker(1) (30 min) <br> 
-      Speaker(2)~(7) (20 min respectively) </td>
+    <td><b>PRAGMA Pre-Workshop 2 - Local Speakers</b><br>
+    1. Speaker (30min)<br>
+    2. Speaker (20min)<br>
+    3. Speaker (20min)<br>
+    4. Speaker (20min)<br>    
+    5. Speaker (20min)<br>    
+    6. Speaker (20min)<br>    
+    7. Speaker (20min)<br>        
+    </td>
   </tr>
   <tr>
     <td>18:00 - 20:00</td>
-    <td colspan="2"><b>Dinner</b> </td>
+     <td class="break">CENTRA Farewell & PRAGMA Welcome Dinner</td>
   </tr>
 </table>
 
