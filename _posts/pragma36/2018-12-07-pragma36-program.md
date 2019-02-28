@@ -122,18 +122,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
-      - Speech by Dr. Heeyoon Choi, President of KISTI <br> 
-      - Speech by Dr. Peter Azberger, PRAGMA Founder </td>
+      <li>Speech by Dr. Heeyoon Choi, President of KISTI</li><br> 
+      <li>Speech by Dr. Peter Azberger, PRAGMA Founder </td>
   </tr>
   <tr>
     <td>09:20 - 09:50</td>
     <td><b>PRAGMA Welcoming Statement</b> <br>
-      - Speech by Dr. Shava Smallen, PRAGMA Chair </td>
+      <li>Speech by Dr. Shava Smallen, PRAGMA Chair </li></td>
   </tr>
   <tr>
     <td>09:50 - 10:20</td>
     <td><b>Working Group Update </b> <br>
-      - Resource/Cyber Learning WG, Telescience WG, Bioscience WG </td>
+      <li>Resource/Cyber Learning WG, Telescience WG, Bioscience WG </li></td>
   </tr>  
   <tr>
     <td>10:20 - 10:50</td>
@@ -146,8 +146,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
-      - CENTRA, José Fortes (20 min) <br> 
-      - NSF, Beth Plale (20 min) </td>
+      <li>CENTRA, José Fortes (20 min) </li><br> 
+      <li>NSF, Beth Plale (20 min) </li></td>
   </tr>  
   <tr>
     <td>12:00 - 13:00</td>
@@ -156,16 +156,16 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
-      - TBD (20 min) <br>
-      - TBD (20 min) <br>
-      - TBD (20 min) </td>
+      <li>TBD (20 min) </li><br>
+      <li>TBD (20 min) </li><br>
+      <li>TBD (20 min) </li></td>
   </tr>
   <tr>
     <td>14:30 - 16:00</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
-      - Resource & Cyber Learning WG <br> 
-      - Telescience WG <br> 
-      - Bioscience WG </td>
+      <li> Resource & Cyber Learning WG <br> 
+      <li> Telescience WG </li><br> 
+      <li> Bioscience WG </li></td>
   </tr>
   <tr>
     <td>16:00 - 16:30</td>
@@ -223,9 +223,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
-      - Resource & Cyber Learning WG <br> 
-      - Telescience WG <br> 
-      - Bioscience WG </td>
+      <li>Resource & Cyber Learning WG </li><br> 
+      <li>Telescience WG </li><br> 
+      <li>Bioscience WG </li></td>
   </tr> 
   <tr>
     <td>15:15 - 15:30</td>
@@ -242,9 +242,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>17:20 - 18:30</td>
     <td><b>Wrap up & Closing Ceremony</b><br>
-      - Steering Committee Report <br> 
-      - Working Group Summary <br> 
-      - Introduction of Next PRAGMA </td>
+      <li>Steering Committee Report </li><br> 
+      <li>Working Group Summary </li><br> 
+      <li>Introduction of Next PRAGMA </li></td>
   </tr>
   <tr>
     <td>18:30 - 20:00</td>
