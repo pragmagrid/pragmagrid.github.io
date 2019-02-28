@@ -123,8 +123,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
       <ul>
-      <li>Speech by Dr. Heeyoon Choi, President of KISTI</li> 
-      <li>Speech by Dr. Peter Azberger, PRAGMA Founder</li>
+        <li>Speech by Dr. Heeyoon Choi, <i>President of KISTI</i></li> 
+      <li>Speech by Dr. Peter Azberger, <i>PRAGMA Founder</i></li>
       </ul>
     </td>
   </tr>
@@ -132,7 +132,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:20 - 09:50</td>
     <td><b>PRAGMA Welcoming Statement</b> <br>
       <ul>
-      <li>Speech by Dr. Shava Smallen, PRAGMA Chair </li>
+      <li>Speech by Dr. Shava Smallen, <i>PRAGMA Chair</i></li>
       </ul>
     </td>
   </tr>
