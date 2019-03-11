@@ -14,9 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border36">Important Dates</div>
-- Submission deadline: March 11th, 2019.
-- Author notification: March 18th, 2019.
-- File submission for free poster printing: April 1st, 2019
+- Submission deadline: March 18th, 2019.
+- Author notification: March 25th, 2019.
+- File submission for free poster printing: April 11th, 2019
 
 <br>
 
