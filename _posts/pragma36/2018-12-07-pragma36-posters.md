@@ -52,12 +52,12 @@ All accepted posters will also need to prepare a 1 min lightning talk (one
 slide) of their work to be presented during the conference.<br>
 
 
-We are arranging to have accepted posters printed in Malaysia and available at
+We are arranging to have accepted posters printed in Korea and available at
 the venue.<br>
 
 <b>Please note the following</b>
 
-1.	Digital file MUST be received by 10th September 2019 to ensure printing.
+1.	Digital file MUST be received by 11th April 2019 to ensure printing.
 If you miss this deadline you may still participate, however you are
 responsible for printing and transporting your poster.
 2.	Files must be in PDF format
