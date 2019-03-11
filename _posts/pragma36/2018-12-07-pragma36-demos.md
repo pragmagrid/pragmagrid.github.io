@@ -41,8 +41,8 @@ through [EasyChair](https://easychair.org/conferences/?conf=pragma36).<br>
 
 
 <div class="border36">Important Dates</div>
-- **Submission deadline: March 11th, 2019**
-- **Author notification: March 18th, 2019**
+- **Submission deadline: March 18th, 2019**
+- **Author notification: March 25th, 2019**
 
 
 If you have any questions regarding the demo abstract submission, please
