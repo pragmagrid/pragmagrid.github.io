@@ -16,7 +16,7 @@ discussions next to the poster.
 <div class="border36">Important Dates</div>
 - Submission deadline: March 18th, 2019.
 - Author notification: March 25th, 2019.
-- File submission for free poster printing: April 11th, 2019
+- File submission for free poster printing: April 8th, 2019
 
 <br>
 
@@ -57,7 +57,7 @@ the venue.<br>
 
 <b>Please note the following</b>
 
-1.	Digital file MUST be received by 11th April 2019 to ensure printing.
+1.	Digital file MUST be received by 8th April 2019 to ensure printing.
 If you miss this deadline you may still participate, however you are
 responsible for printing and transporting your poster.
 2.	Files must be in PDF format
