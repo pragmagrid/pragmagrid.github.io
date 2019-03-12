@@ -224,7 +224,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
-    <td><b>PRAGMA Wide Mentoring Update </b></td>
+    <td><b>iDigBio</b> (Annika Smith, PhD student)</td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
