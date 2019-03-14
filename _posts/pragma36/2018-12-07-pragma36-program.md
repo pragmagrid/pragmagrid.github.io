@@ -76,10 +76,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>
-      13:30 - 14:00 (30min) : <b>Society 5.0</b> (Shinji Shimojo, Osaka University, Japan)<br>
-      14:00 - 14:20 (20min) : <b>Pacific Research Platform</b> (Nadya Williams,  University of California San Diego, USA)<br>
-      14:20 - 14:40 (20min) : <b>Lifemapper</b> (Aimee Stewart,  KU Biodiversity Institute, USA)<br>
-      14:40 - 15:00 (20min) : <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, Renato Figueiredo(University of Florida, USA), Paul Hanson)<br>    
+      13:30 - 14:00 (30min) : <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)<br>
+      14:00 - 14:20 (20min) : <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)<br>
+      14:20 - 14:40 (20min) : <b>Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)<br>
+      14:40 - 15:00 (20min) : <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, Renato Figueiredo(<i>University of Florida, USA</i>), Paul Hanson)<br>    
     </td>
   </tr>
   <tr>
