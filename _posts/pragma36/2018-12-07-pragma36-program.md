@@ -220,7 +220,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Taiwania 2</b> (Weicheng Huang, National Applied Research Laboratories, Taiwan)</td>
+    <td><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</td>
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
