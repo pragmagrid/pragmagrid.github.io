@@ -67,7 +67,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
 </table>
 <br>
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop, Theme : Inspiring Insight for Data Eco-system with AI + Big Data + HPC</div>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop</div>
 <table class="program36">
   <tr>
     <th>Time</th>
@@ -76,10 +76,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>
-    1. Speaker (30min)<br>
-    2. Speaker (20min)<br>
-    3. Speaker (20min)<br>
-    4. Speaker (20min)<br>    
+      13:30 - 14:00 (30min) : <b>Society 5.0</b> (Shinji Shimojo, Osaka University, Japan)<br>
+    14:00 - 14:20 (20min) : <b>Pacific Research Platform</b (Nadya Williams,  University of California San Diego, USA)<br>
+    14:20 - 14:40 (20min) : <b>Lifemapper</b (Aimee Stewart,  KU Biodiversity Institute, USA)<br>
+    14:40 - 15:00 (20min) : <b>Novel test case of PRAGMA-enabled water quality forecasting</b (Cayelan Carey, Renato Figueiredo(University of Florida, USA), Paul Hanson)<br>    
     </td>
   </tr>
   <tr>
@@ -220,7 +220,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Invited Talk</b> (PRAGMA speaker)</td>
+    <td><b>Taiwania 2</b> (Weicheng Huang, National Applied Research Laboratories, Taiwan)</td>
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
