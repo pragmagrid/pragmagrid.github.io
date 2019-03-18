@@ -41,7 +41,7 @@ The submission should cover the following information:
 
 <br>
 We strongly recommend all submissions use the word template 
-<a href="/images/pragma34/PRAGMA34_Poster_Abstract_Template2.dotx">here</a>.<br>
+<a href="/images/pragma36/PRAGMA36_Poster_Abstract_Template2.dotx">here</a>.<br>
 
 All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
