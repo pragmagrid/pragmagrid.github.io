@@ -23,7 +23,7 @@ information:
 4.	**Requirements for the demo** (e.g. time, network, etc.)
 
 We strongly recommend all submissions use the Word template 
-<a href="/images/pragma34/PRAGMA34_Demo_Abstract_Template2.dotx">here</a>.<br>
+<a href="/images/pragma36/PRAGMA36_Demo_Abstract_Template2.dotx">here</a>.<br>
 
 All accepted demo submissions will be presented during the workshop.
 Each demo will be 15mins with 5min for questions.
