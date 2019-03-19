@@ -90,7 +90,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>15:30 - 18:00</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
     1. TBD (Dohyeun Kim, <i>Jeju National University, South Korea</i>)<br>
-    2. TBD (Jeonghoon Moon, <i>KISTI, South Korea</i>) (20min)<br>
+    2. TBD (Jeonghoon Moon, <i>KISTI, South Korea</i>)<br>
     3. <b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)<br>
     4. <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)<br>    
     5. <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)<br>    
