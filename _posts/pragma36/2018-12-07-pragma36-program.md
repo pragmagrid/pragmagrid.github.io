@@ -171,6 +171,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
+      <ul>
+        <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</i>)</li>
+        <li>TBD (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
+        <li>TBD (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
+      </ul>      
     </td>
   </tr>
   <tr>
