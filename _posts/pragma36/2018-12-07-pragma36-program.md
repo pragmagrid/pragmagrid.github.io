@@ -89,13 +89,14 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>15:30 - 18:00</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
-    1. Speaker (30min)<br>
-    2. Speaker (20min)<br>
-    3. Speaker (20min)<br>
-    4. Speaker (20min)<br>    
-    5. Speaker (20min)<br>    
-    6. Speaker (20min)<br>    
-    7. Speaker (20min)<br>        
+    1. TBD (Dohyeun Kim, <i>Jeju National University, South Korea</i>)<br>
+    2. TBD (Jeonghoon Moon, <i>KISTI, South Korea</i>) (20min)<br>
+    3. <b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)<br>
+    4. <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)<br>    
+    5. <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)<br>    
+    6. <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)<br>    
+    7. TBD (Junnhawk Lee, <i>KISTI, South Korea</i>)<br>       
+    8. <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)<br> 
     </td>
   </tr>
   <tr>
@@ -150,7 +151,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:50 - 11:20</td>
-    <td><b>Keynote Speech</b> (Local Speaker) </td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
@@ -169,9 +170,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
       <ul>
-      <li>TBD (20 min) </li>
-      <li>TBD (20 min) </li>
-      <li>TBD (20 min) </li>
+        <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</>)</li>
+      <li>TBD (Jeongcheol Lee, <i>KISTI, South Korea</>)</li>
+      <li>TBD (Cheolho Choi, <i>Kyungpook National University, South Korea</>)</li>
       </ul>
     </td>
   </tr>
@@ -216,7 +217,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Invited Talk</b> (Local speaker)</td>
+    <td><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</td>
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
