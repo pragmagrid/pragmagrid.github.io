@@ -219,15 +219,27 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</td>
+    <td><b>Invited Talk 1</b><br>
+      <ul>
+      <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
+      </ul>    
+    </td>
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</td>
+    <td><b>Invited Talk 2</b><br>
+      <ul>
+        <li><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
+      </ul>
+     </td>
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
-    <td><b>iDigBio</b> (Annika Smith, PhD student)</td>
+    <td><b>PRAGMA Wide Mentoring Update</b><br>
+      <ul>
+        <li><b>iDigBio</b> (Annika Smith, <i>PhD student</i>)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
