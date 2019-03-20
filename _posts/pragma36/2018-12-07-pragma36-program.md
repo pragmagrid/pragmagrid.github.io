@@ -97,7 +97,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     4. <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)<br>    
     5. <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)<br>    
     6. <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)<br>    
-    7. TBD (Junnhawk Lee, <i>KISTI, South Korea</i>)<br>       
+    7. TBD (Junehawk Lee, <i>KISTI, South Korea</i>)<br>       
     8. <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)<br> 
     </td>
   </tr>
