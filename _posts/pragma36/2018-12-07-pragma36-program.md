@@ -268,11 +268,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
-    <td>15:30 - 16:50</td>
+    <td>15:30 - 17:00</td>
     <td><b>PRAGMA Demo Session 2</b></td>
   </tr> 
   <tr>
-    <td>16:50 - 17:20</td>
+    <td>17:00 - 17:20</td>
     <td><b>Best Poster & Best Presentation Award Ceremony </b></td>
   </tr>
   <tr>
