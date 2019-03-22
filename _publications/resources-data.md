@@ -5,7 +5,13 @@ menu: Resources and Data WG
 category: res-wg
 ---
 
+<div class="border">2019</div>
+
+Lee GJ, Fortes JA. Improving Data-Analytics Performance Via Autonomic Control of Concurrency and Resource Units. ACM Transactions on Autonomous and Adaptive Systems (TAAS). 2019 Mar 15;13(3):13.
+
 <div class="border">2017</div>
+
+Huang C, Nakasan C, Ichikawa K, Watashiba Y, Iida H. A Multipath OpenFlow Controller for Multiple TCP Stream Applications. Journal of Information Processing. 2017;25:924-33.
 
 U-chupala P, Watashiba Y, Ichikawa K, Date S, Iida H. 2017. Container Rebalancing: Towards
 Proactive Linux Containers Placement Optimization in a Data Center. The 41th IEEE Computer
