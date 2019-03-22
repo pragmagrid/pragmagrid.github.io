@@ -19,11 +19,13 @@ Ma J, Lee JSR, Cho KW, Park MJ. 2016. Analysis System Design for Knowledge Visua
 Based on Manufacturing Data. ICIC Express Letters (An International Journal of Research and 
 Surveys). ISSN 1881-803X. 10(4), pp. 871-876.
 
-<div class="border">2014</div>
+<div class="border">2015</div>
 
 Gyu KN, Yu JS, On NR, Lee JSR, Nam D, Cho KW. 2014. An Empirical Analysis of the User 
 Acceptance of Computer Simulations Utilized for Higher Education in Science and Engineering. 
-ICIC Express Letters, Part B:Applications. ISSN 2185-2766. 6(4), pp.1197-1203, 2014. 
+ICIC express letters. Part B, Applications: an international journal of research and surveys. 2015 Apr;6(4):1197-203.
+
+<div class="border">2014</div>
 
 Park S-R, Jin DS, Cho KW, Lee K-C. 2014. Interactive Mobile Learning Environment for 
 Processing Computational Science Simulation Task. Computer Science and its Applications. 
