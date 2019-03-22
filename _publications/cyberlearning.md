@@ -13,6 +13,8 @@ AND INFORMATION SYSTEMS. 11(2), pp. 1089-1104.
 
 <div class="border">2016</div>
 
+Park SR, Lee JR, Cho K. Effectiveness of Online Simulation-Based E-Learning for Computational Science and Engineering in Higher Education. Advanced Science Letters. 2016 Sep 1;22(9):2257-61.
+
 Ma J, Lee JSR, Cho KW, Park MJ. 2016. Analysis System Design for Knowledge Visualization 
 Based on Manufacturing Data. ICIC Express Letters (An International Journal of Research and 
 Surveys). ISSN 1881-803X. 10(4), pp. 871-876.
