@@ -163,7 +163,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
       <ul>
-      <li><b>TBD</b>, (José Fortes, <i>University of Florida, USA</i>) </li> 
+      <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
       <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
       </ul>
     </td>
