@@ -153,7 +153,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:50 - 11:20</td>
-    <td>TBD</td>
+    <td><b>Keynote Talk</b> <br>
+      <ul>
+        <li>TBD </li> 
+      </ul>
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
@@ -173,7 +176,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Invited Talks</b> (Local Speaker) <br>
       <ul>
         <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</i>)</li>
-        <li>TBD (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
+        <li>AI Platform Trends: Challenges or Services? (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
         <li><b>Modulization of Quantum Theories for Web Platform</b> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
       </ul>      
     </td>
