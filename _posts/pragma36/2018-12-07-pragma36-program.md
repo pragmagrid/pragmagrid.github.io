@@ -91,14 +91,16 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>15:30 - 18:00</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
-    1. <b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)<br>
-    2. <b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)<br>
-    3. <b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)<br>
-    4. <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)<br>    
-    5. <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)<br>    
-    6. <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)<br>    
-    7. <b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)<br>       
-    8. <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)<br> 
+      <ul>
+        <li><b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
+        <li><b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
+        <li><b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
+        <li><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
+        <li><b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -127,7 +129,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Opening Ceremony</b> <br>
       <ul>
         <li>Speech by Dr. Heeyoon Choi, <i>President of KISTI</i></li> 
-      <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
+        <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
       </ul>
     </td>
   </tr>
