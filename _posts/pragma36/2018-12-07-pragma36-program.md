@@ -85,17 +85,28 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     </td>
   </tr>
   <tr>
-    <td>15:00 - 15:30</td>
+    <td>15:00 - 15:20</td>
     <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
-    <td>15:30 - 18:00</td>
+    <td>15:20 - 16:40</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
       <ul>
         <li><b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
         <li><b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
         <li><b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
-        <li><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>16:40 - 17:00</td>
+    <td class="break"><b>Coffee Break + NETWORKING</b></td>
+  </tr>
+  <tr>    
+    <td>17:00 - 18:20</td>
+    <td><b>PRAGMA Pre-Workshop 3</b> (Local Speakers)<br>
+      <ul>
         <li><b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
         <li><b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
         <li><b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
@@ -104,7 +115,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     </td>
   </tr>
   <tr>
-    <td>18:00 - 20:00</td>
+    <td>18:30 - 20:00</td>
      <td class="break">CENTRA Farewell & PRAGMA Welcome Dinner</td>
   </tr>
 </table>
