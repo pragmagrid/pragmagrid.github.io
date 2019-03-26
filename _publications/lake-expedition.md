@@ -5,10 +5,11 @@ menu: Lake Expedition
 category: lake-exp
 ---
 
-<div class="border">In Review</div>
+<div class="border">2018</div>
 
-Carey CC, Hanson PC, Doubek JP, McClure RP. Oxygen dynamics control the burial of organic
-carbon in a eutrophic reservoir. In review at Limnology and Oceanography-Letters.
+Farrell KJ, Carey CC. Power, pitfalls, and potential for integrating computational literacy into undergraduate ecology courses. Ecology and evolution. 2018 Aug;8(16):7744-51.
+
+Carey CC, Doubek JP, McClure RP, Hanson PC. Oxygen dynamics control the burial of organic carbon in a eutrophic reservoir. Limnology and Oceanography Letters. 2018 Jun;3(3):293-301.
 
 <div class="border">2017</div>
 

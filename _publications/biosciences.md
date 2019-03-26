@@ -5,6 +5,14 @@ menu: Biosciences WG
 category: bio-wg
 ---
 
+<div class="border">2018</div>
+
+Suhartanto H, Yanuar A, Wibisono A, Hermawan D, Bustamam A. The Performance of a Molecular Dynamics Simulation for the Plasmodium falciparum Enoyl-acyl carrier-protein Reductase Enzyme using Amber and GTX 780 and 970 Double Graphical Processing Units. International Journal of Technology. 2018 Jan 1;9(1):150-8. http://ijtech.eng.ui.ac.id/article/view/1186
+
+Juanillas VM, Dereeper A, Beaume N, Droc G, Dizon J, Mendoza JR, Perdon JP, Mansueto L, Triplett L, Lang J, Zhou G, Ratharanjan K, Plale B, Haga J, Leach JE, Ruiz M, Thomson M, Alexandrov N, Larmande P, Kretzschmar T, Mauleon RP. Rice Galaxy: an open resource for plant science. bioRxiv. 2018 Jan 1:358754. https://doi.org/10.1101/358754 
+
+Huang PC, Huang CH, Yu HE, Huang WC, Chen CT, Chen JH, Chou CY, Hsu CH. A Flexible and Precise Batch-mode Technique for Multi-threaded GATE Simulation. InProceedings of the International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA) 2017 (pp. 123-126). The Steering Committee of The World Congress in Computer Science, Computer Engineering and Applied Computing (WorldComp).
+
 <div class="border">2016</div>
 
 Sera C, Matlock S, Watashiba Y, Ichikawa K, Haga JH. 2016. Hydra: A High-throughput Virtual 

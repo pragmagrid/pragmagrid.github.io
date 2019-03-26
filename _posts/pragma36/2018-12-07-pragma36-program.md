@@ -76,30 +76,46 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   <tr>
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>
-      13:30 - 14:00 (30min) : <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)<br>
-      14:00 - 14:20 (20min) : <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)<br>
-      14:20 - 14:40 (20min) : <b>Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)<br>
-      14:40 - 15:00 (20min) : <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, Renato Figueiredo(<i>University of Florida, USA</i>), Paul Hanson)<br>    
+      <ul>
+        <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
+        <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
+        <li>(20min) <b>Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)</li>
+        <li>(20min) <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, Renato Figueiredo(<i>University of Florida, USA</i>), Paul Hanson)</li>    
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>15:00 - 15:30</td>
+    <td>15:00 - 15:20</td>
     <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
-    <td>15:30 - 18:00</td>
+    <td>15:20 - 16:40</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
-    1. Speaker (30min)<br>
-    2. Speaker (20min)<br>
-    3. Speaker (20min)<br>
-    4. Speaker (20min)<br>    
-    5. Speaker (20min)<br>    
-    6. Speaker (20min)<br>    
-    7. Speaker (20min)<br>        
+      <ul>
+        <li><b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
+        <li><b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
+        <li><b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
+        <li><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
+      </ul>
     </td>
   </tr>
   <tr>
-    <td>18:00 - 20:00</td>
+    <td>16:40 - 17:00</td>
+    <td class="break"><b>Coffee Break + NETWORKING</b></td>
+  </tr>
+  <tr>    
+    <td>17:00 - 18:20</td>
+    <td><b>PRAGMA Pre-Workshop 3</b> (Local Speakers)<br>
+      <ul>
+        <li><b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
+        <li><b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
+        <li><b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>18:30 - 20:00</td>
      <td class="break">CENTRA Farewell & PRAGMA Welcome Dinner</td>
   </tr>
 </table>
@@ -124,7 +140,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td><b>Opening Ceremony</b> <br>
       <ul>
         <li>Speech by Dr. Heeyoon Choi, <i>President of KISTI</i></li> 
-      <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
+        <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
       </ul>
     </td>
   </tr>
@@ -150,14 +166,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:50 - 11:20</td>
-    <td><b>Keynote Speech</b> (Local Speaker) </td>
+    <td><b>Keynote Talk</b> <br>
+      <ul>
+        <li>TBD </li> 
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
       <ul>
-      <li>CENTRA, José Fortes (20 min) </li> 
-      <li>NSF, Beth Plale (20 min) </li>
+      <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
+      <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
       </ul>
     </td>
   </tr>  
@@ -169,10 +189,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
       <ul>
-      <li>TBD (20 min) </li>
-      <li>TBD (20 min) </li>
-      <li>TBD (20 min) </li>
-      </ul>
+        <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</i>)</li>
+        <li><b>AI Platform Trends: Challenges or Services?</b> (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
+        <li><b>Modulization of Quantum Theories for Web Platform</b> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
+      </ul>      
     </td>
   </tr>
   <tr>
@@ -216,15 +236,27 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Invited Talk</b> (Local speaker)</td>
+    <td><b>Invited Talk 1</b><br>
+      <ul>
+      <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
+      </ul>    
+    </td>
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</td>
+    <td><b>Invited Talk 2</b><br>
+      <ul>
+        <li><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
+      </ul>
+     </td>
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
-    <td><b>iDigBio</b> (Annika Smith, PhD student)</td>
+    <td><b>PRAGMA Wide Mentoring Update</b><br>
+      <ul>
+        <li><b>iDigBio</b> (Annika Smith, <i>PhD student</i>)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -253,11 +285,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
-    <td>15:30 - 16:50</td>
+    <td>15:30 - 17:00</td>
     <td><b>PRAGMA Demo Session 2</b></td>
   </tr> 
   <tr>
-    <td>16:50 - 17:20</td>
+    <td>17:00 - 17:20</td>
     <td><b>Best Poster & Best Presentation Award Ceremony </b></td>
   </tr>
   <tr>
