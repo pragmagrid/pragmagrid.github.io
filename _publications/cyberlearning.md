@@ -21,10 +21,8 @@ Surveys). ISSN 1881-803X. 10(4), pp. 871-876.
 
 <div class="border">2015</div>
 
-Gyu KN, Yu JS, On NR, Lee JSR, Nam D, Cho KW. 2014. An Empirical Analysis of the User 
-Acceptance of Computer Simulations Utilized for Higher Education in Science and Engineering. 
-ICIC express letters. Part B, Applications: an international journal of research and surveys. 2015 Apr;6(4):1197-203.
-
+Kim N, On NR, Lee JS, Nam D, Cho K, Choe KT, Yu J. An Empirical Analysis of the User Acceptance of Computer Simulations Utilized for Higher Education in Science and Engineering, ICIC Express Letters, Part B: Applications, vol. 6, no. 4, pp. 1197-1203, Apr. 2015.
+ 
 <div class="border">2014</div>
 
 Park S-R, Jin DS, Cho KW, Lee K-C. 2014. Interactive Mobile Learning Environment for 
@@ -33,8 +31,8 @@ ISSN 1876-1100. pp. 731-735.
 
 Kim HG, Yu LJ, Jin DS, Ryu H, Lee JSR. 2014. A Design and Implementation of a Lightweight 
 Scientific Workflow System for Higher Education and Advanced Research of Computational 
-Science and Engineering. Information: An International Interdisciplinary Journal, ISSN 1343-
-4500. Vol 17, No 11(B), pp 5927-5932.
+Science and Engineering. Information: An International Interdisciplinary Journal, 
+ISSN 1343-4500. Vol 17, No 11(B), pp 5927-5932.
 
 Jin D-S, Yu J-L, Lee JSR, Ryu H. 2014. Design of an Efficient Data Management Framework 
 for e-Learning services in High Performance Computers. Information: An International 
