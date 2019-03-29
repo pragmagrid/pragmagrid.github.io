@@ -209,14 +209,14 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>16:00 - 16:30</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
-  <tr>
-    <td>16:30 - 17:00</td>
-    <td><b>PRAGMA Lightening Talks </b></td>
-  </tr>  
-  <tr>
-    <td>17:00 - 18:00</td>
+    <tr>
+    <td>16:30 - 17:30</td>
     <td><b>PRAGMA Poster Session</b></td>
   </tr>
+  <tr>
+    <td>17:30 - 18:15</td>
+    <td><b>PRAGMA Lightening Talks </b></td>
+  </tr>  
   <tr>
     <td>18:30 - 20:00</td>
     <td class="break"><b>Dinner</b></td>
