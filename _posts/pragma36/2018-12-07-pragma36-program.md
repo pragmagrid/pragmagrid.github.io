@@ -39,7 +39,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
 </table>
 <br>
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop</div>
+<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop - Session Chair : Wassapon Watanakeesuntorn, Nara Institute of Science and Technology, Japan </div>
 <table class="program36">
   <tr>
     <th>Time</th>
