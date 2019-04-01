@@ -80,7 +80,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) Chair - Shava Smallen (<i>University of California, San Diego</i>) <br>
+    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) (Chair - Shava Smallen,<i>UC San Diego</i>) <br>
       <ul>   
         <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
@@ -142,10 +142,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Opening Ceremony</b> <br>Session Chair - <b>Ruth Jongsuk Lee</b> (<i>KISTI, Korea</i>)<br>
+    <td><b>Opening Ceremony</b> (Chair - Ruth Jongsuk Lee, <i>KISTI</i>)<br>
       <ul>        
-        <li>Speech by Dr. Heeyoon Choi, <i>President of KISTI</i></li> 
-        <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
+        <li>Speech by <b>Dr. Heeyoon Choi</b>, <i>President of KISTI</i></li> 
+        <li>Speech by <b>Dr. Peter Arzberger</b>, <i>PRAGMA Founder</i></li>
       </ul>
     </td>
   </tr>
