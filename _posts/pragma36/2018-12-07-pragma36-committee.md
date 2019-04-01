@@ -61,8 +61,8 @@ short: Committee
 <br>
 
 <div class="border36">Demo committee</div>
-- **Kohei Ichikawa**, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- **Yoshiyuki Kido**, Osaka University, Japan
+- **Kohei Ichikawa**, National Institute of Advanced Industrial Science and Technology (NAIST), Japan
+- **Sri C. Haryanti**, Universitas YARSI, Indonesia
 <br><br>
 
 <div class="border36">Student Poster and Lightning Talks</div>
