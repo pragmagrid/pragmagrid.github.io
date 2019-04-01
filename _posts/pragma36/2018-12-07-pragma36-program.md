@@ -47,7 +47,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td></td>
-    <td> Chair - Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology</i> 
+    <td> Chair - Wassapon Watanakeesuntorn, <i>NIST</i> 
 </td>
   </tr>  
   <tr>
@@ -171,7 +171,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:50 - 11:20</td>
-    <td><b>Keynote Talk</b> (Chair - Nadya Williams, <i>University of California San Diego</i>)<br>
+    <td><b>Keynote Talk</b> (Chair - Nadya Williams, <i>UC San Diego</i>)<br>
       <ul>
         <li>TBD </li> 
       </ul>
@@ -179,7 +179,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
-    <td><b>Invited Talks</b> (PRAGMA Speaker) (Chair - Nadya Williams, <i>University of California San Diego</i>) <br>
+    <td><b>Invited Talks</b> (PRAGMA Speaker) (Chair - Nadya Williams, <i>UC San Diego</i>) <br>
       <ul>
         <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
         <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
@@ -216,7 +216,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
     <tr>
     <td>16:30 - 17:30</td>
-    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology</i>)</td>  
+    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>  
   </tr>
   <tr>
     <td>17:30 - 18:15</td>
@@ -241,7 +241,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Invited Talk 1</b> (Chair - Fang Pang Lin, <i>National Center for High-performance Computing</i>) <br>
+    <td><b>Invited Talk 1</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
         <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
       </ul>    
@@ -249,7 +249,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:20 - 09:40</td>
-    <td><b>Invited Talk 2</b> (Chair - Fang Pang Lin, <i>National Center for High-performance Computing</i>) <br>
+    <td><b>Invited Talk 2</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
         <li><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
       </ul>
@@ -257,7 +257,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:40 - 10:00</td>
-    <td><b>Invited Talk 3</b> (Chair - Fang Pang Lin, <i>National Center for High-performance Computing</i>) <br>
+    <td><b>Invited Talk 3</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
         <li><b>iDigBio</b> (Annika Smith, <i>PhD student</i>)</li>
       </ul>
