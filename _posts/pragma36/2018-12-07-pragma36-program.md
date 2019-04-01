@@ -98,10 +98,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>15:20 - 16:40</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers)<br>
       <ul>
-        <li><b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
-        <li><b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
-        <li><b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
-        <li><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
+        <li>Session Chair - <b>Weicheng Huang</b> (<i>National Applied Research Laboratories, Taiwan</i>)</li>        
+        <li>(20min) <b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
+        <li>(20min) <b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
+        <li>(20min) <b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
+        <li>(20min) <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
       </ul>
     </td>
   </tr>
@@ -113,10 +114,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>17:00 - 18:20</td>
     <td><b>PRAGMA Pre-Workshop 3</b> (Local Speakers)<br>
       <ul>
-        <li><b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
-        <li><b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
-        <li><b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
-        <li><b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
+        <li>Session Chair - <b>Heru Suhartanto</b> (<i>Universitas Indonesia, Indonesia</i>)</li>           
+        <li>(20min) <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
+        <li>(20min) <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
+        <li>(20min) <b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
+        <li>(20min) <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
       </ul>
     </td>
   </tr>
@@ -145,6 +147,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:00 - 09:20</td>
     <td><b>Opening Ceremony</b> <br>
       <ul>
+        <li>Session Chair - <b>Ruth Jongsuk Lee</b> (<i>KISTI, Korea</i>)</li>           
         <li>Speech by Dr. Heeyoon Choi, <i>President of KISTI</i></li> 
         <li>Speech by Dr. Peter Arzberger, <i>PRAGMA Founder</i></li>
       </ul>
@@ -154,7 +157,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:20 - 09:50</td>
     <td><b>PRAGMA Welcoming Statement</b> <br>
       <ul>
-      <li>Speech by Dr. Shava Smallen, <i>PRAGMA Chair</i></li>
+        <li>Session Chair - <b>Ruth Jongsuk Lee</b> (<i>KISTI, Korea</i>)</li>          
+        <li>Speech by Dr. Shava Smallen, <i>PRAGMA Chair</i></li>
       </ul>
     </td>
   </tr>
@@ -162,6 +166,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:50 - 10:20</td>
     <td><b>Working Group Update </b> <br>
       <ul>
+        <li>Session Chair - <b>James Junghun Shin</b> (<i>KISTI, Korea</i>)</li>           
         <li>Resource/Cyber Learning WG, Telescience WG, Bioscience WG </li>
       </ul>
     </td>
@@ -174,6 +179,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>10:50 - 11:20</td>
     <td><b>Keynote Talk</b> <br>
       <ul>
+        <li>Session Chair - <b>Nadya Williams</b> (<i>University of California San Diego, USA</i>)</li>         
         <li>TBD </li> 
       </ul>
     </td>
@@ -182,8 +188,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) <br>
       <ul>
-      <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
-      <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
+        <li>Session Chair - <b>Nadya Williams</b> (<i>University of California San Diego, USA</i>)</li>           
+        <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
+        <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
       </ul>
     </td>
   </tr>  
@@ -195,6 +202,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) <br>
       <ul>
+        <li>Session Chair - <b>Beth Plale</b> (<i>Indiana University & National Science Foundation (NSF), USA</i>)</li>         
         <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</i>)</li>
         <li><b>AI Platform Trends: Challenges or Services?</b> (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
         <li><b>Modulization of Quantum Theories for Web Platform</b> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
@@ -211,18 +219,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
       </ul>
     </td>
   </tr>
-    <tr>
-    <td>16:00 - 16:45</td>
-    <td><b>PRAGMA Lightening Talks </b></td>
-  </tr> 
   <tr>
-    <td>16:45 - 17:15</td>
+    <td>16:00 - 16:30</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
     <tr>
-    <td>17:15 - 18:00</td>
-    <td><b>PRAGMA Poster Session</b></td>
-  </tr> 
+    <td>16:30 - 17:30</td>
+    <td><b>PRAGMA Poster Session</b></td>  
+  </tr>
+  <tr>
+    <td>17:30 - 18:15</td>
+    <td><b>PRAGMA Lightening Talks </b></td>
+  </tr>  
   <tr>
     <td>18:30 - 20:00</td>
     <td class="break"><b>Dinner</b></td>
@@ -244,7 +252,8 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:00 - 09:20</td>
     <td><b>Invited Talk 1</b><br>
       <ul>
-      <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
+        <li>Session Chair - <b>Fang Pang Lin</b> (<i>National Center for High-performance Computing, Taiwan</i>)</li>          
+        <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
       </ul>    
     </td>
   </tr>
@@ -252,6 +261,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:20 - 09:40</td>
     <td><b>Invited Talk 2</b><br>
       <ul>
+        <li>Session Chair - <b>Fang Pang Lin</b> (<i>National Center for High-performance Computing, Taiwan</i>)</li> 
         <li><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
       </ul>
      </td>
@@ -260,6 +270,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>09:40 - 10:00</td>
     <td><b>Invited Talk 3</b><br>
       <ul>
+        <li>Session Chair - <b>Fang Pang Lin</b> (<i>National Center for High-performance Computing, Taiwan</i>)</li> 
         <li><b>iDigBio</b> (Annika Smith, <i>PhD student</i>)</li>
       </ul>
     </td>
@@ -270,7 +281,12 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td><b>PRAGMA Demo Session 1</b></td>
+    <td><b>PRAGMA Demo Session 1</b><br>
+      <ul>
+        <li>Session Chair - <b>Kohei Ichikaw</b> (<i>National Institute of Advanced Industrial Science and Technology (AIST), Japan</i>)</li> 
+        <li>Session Chair - <b>Sri C. Haryanti</b> (<i>Universitas YARSI, Indonesia</i>)</li> 
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>12:00 - 14:00</td>
@@ -292,7 +308,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td><b>PRAGMA Demo Session 2</b></td>
+    <td><b>PRAGMA Demo Session 2</b><br>
+      <ul>
+        <li>Session Chair - <b>Kohei Ichikaw</b> (<i>National Institute of Advanced Industrial Science and Technology (AIST), Japan</i>)</li> 
+        <li>Session Chair - <b>Sri C. Haryanti</b> (<i>Universitas YARSI, Indonesia</i>)</li> 
+      </ul></td>
   </tr> 
   <tr>
     <td>17:00 - 17:20</td>
@@ -302,9 +322,10 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>17:20 - 18:30</td>
     <td><b>Wrap up & Closing Ceremony</b><br>
       <ul>
-      <li>Steering Committee Report </li> 
-      <li>Working Group Summary </li> 
-      <li>Introduction of Next PRAGMA </li>
+        <li>Session Chair - <b>Jason Haga</b> (<i>National Institute of Advanced Industrial Science and Technology, Japan</i>)</li> 
+        <li>Steering Committee Report </li> 
+        <li>Working Group Summary </li> 
+        <li>Introduction of Next PRAGMA </li>
       </ul>
     </td>
   </tr>
