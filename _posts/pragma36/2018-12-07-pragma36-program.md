@@ -46,21 +46,61 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <th>Activity</th>
   </tr>
   <tr>
+    <td></td>
+    <td>Chair - Wassapon Watanakeesuntorn, <i>NIST</i>,  Chiao-Ning Chuang, <i>NCTU</i>,  Kundjanasith Thonglek, <i>NIST</i></td>
+  </tr>  
+  <tr>
     <td>08:30 - 09:00</td>
     <td><b>Registration</b></td>
   </tr>
-  <tr>
-    <td>09:00 - 11:00</td>
-    <td><b>PRAGMA Student Workshop 1</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>
+   <tr>
+    <td>09:00 - 09:10</td>
+    <td><b>Introduction</b></td>
   </tr>
+   <tr>
+    <td>09:10 - 09:25</td>
+    <td>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers (Juan Sebastian Aguirre)</td>
+  </tr>  
+   <tr>
+    <td>09:25 - 09:40</td>
+    <td>IoT-based Agricultural Care System for Farmers (Novian Gilang Bujana)</td>
+  </tr>   
+   <tr>
+    <td>09:40 - 09:55</td>
+    <td>Visual DGLIM (Michael Elliott)</td>
+  </tr>    
+   <tr>
+    <td>09:55 - 10:10</td>
+    <td>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training (Toto Haryanto)</td>
+  </tr>  
+   <tr>
+    <td>10:10 - 10:25</td>
+    <td>Secure Data Collaborations Using GFFS (Courtney Hill)</td>
+  </tr>    
   <tr>
-    <td>11:00 - 11:20</td>
+    <td>10:25 - 10:45</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
-  <tr>
-    <td>11:20 - 12:00</td>
-    <td><b>PRAGMA Student Workshop 2</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>
-  </tr>
+   <tr>
+    <td>10:45 - 11:00</td>
+    <td>The Study of Applying Edge Computing to Music Recognition (Suchanat Mangkhangjaroen)</td>
+  </tr>  
+   <tr>
+    <td>11:00 - 11:15</td>
+    <td>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud (Arie Surachman)</td>
+  </tr>  
+   <tr>
+    <td>11:15 - 11:30</td>
+    <td>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory (Kundjanasith Thonglek)</td>
+  </tr>  
+   <tr>
+    <td>11:30 - 11:45</td>
+    <td>Enabling Smart Agriculture Applications with Edge Computing and Deep Learning (Hsin-Hung Tseng)</td>
+  </tr>  
+   <tr>
+    <td>11:45 - 12:00</td>
+    <td>Wrap-Up</td>
+  </tr>    
   <tr>
     <td>12:00 - 13:00</td>
     <td class="break">Lunch </td>
