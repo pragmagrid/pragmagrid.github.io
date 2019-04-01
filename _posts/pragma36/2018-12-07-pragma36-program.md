@@ -142,7 +142,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:00 - 09:20</td>
-    <td><b>Opening Ceremony</b> (Chair - Ruth Jongsuk Lee, <i>KISTI</i>)<br>
+    <td><b>Opening Ceremony</b> (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>        
         <li>Speech by <b>Dr. Heeyoon Choi</b>, <i>President of KISTI</i></li> 
         <li>Speech by <b>Dr. Peter Arzberger</b>, <i>PRAGMA Founder</i></li>
@@ -151,7 +151,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:20 - 09:50</td>
-    <td><b>PRAGMA Welcoming Statement</b>  (Chair - Ruth Jongsuk Lee, <i>KISTI</i>)<br>
+    <td><b>PRAGMA Welcoming Statement</b>  (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>        
         <li>Speech by <b>Dr. Shava Smallen</b>, <i>PRAGMA Chair</i></li>
       </ul>
@@ -159,7 +159,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>09:50 - 10:20</td>
-    <td><b>Working Group Update </b>  (Chair - Ruth Jongsuk Lee, <i>KISTI</i>)<br>
+    <td><b>Working Group Update </b>  (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>
         <li>Resource/Cyber Learning WG, Telescience WG, Bioscience WG </li>
       </ul>
