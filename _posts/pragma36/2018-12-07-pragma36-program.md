@@ -225,7 +225,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
     <tr>
     <td>16:30 - 17:30</td>
-    <td><b>PRAGMA Poster Session</b></td>  
+    <td><b>PRAGMA Poster Session</b><br>Session Chair - <b>Wassapon Watanakeesuntorn</b> (<i>Nara Institute of Science and Technology, Japan</i>)</td>  
   </tr>
   <tr>
     <td>17:30 - 18:15</td>
