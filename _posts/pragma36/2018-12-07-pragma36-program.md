@@ -47,15 +47,15 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td></td>
-    <td>Chair - Wassapon Watanakeesuntorn, <i>NIST</i>,  Chiao-Ning Chuang, <i>NCTU</i>,  Kundjanasith Thonglek, <i>NIST</i></td>
+    <td>Chair - Wassapon Watanakeesuntorn (<i>NIST</i>),  Chiao-Ning Chuang (<i>NCTU</i>),  Kundjanasith Thonglek (<i>NIST</i>)</td>
   </tr>  
   <tr>
     <td>08:30 - 09:00</td>
-    <td><b>Registration</b></td>
+    <td>Registration</td>
   </tr>
    <tr>
     <td>09:00 - 09:10</td>
-    <td><b>Introduction</b></td>
+    <td>Introduction</td>
   </tr>
    <tr>
     <td>09:10 - 09:25</td>
