@@ -8,6 +8,6 @@ short: Sponsors and Partners
 
 ### Thank you to our generous sponsors:<br>
 
-TBA
+<img src="/images/pragma36/pragma36-sponsors.png" alt="" style="width:100%;">
 
 
