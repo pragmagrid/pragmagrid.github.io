@@ -80,7 +80,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>Session Chair - <b>Shava Smallen</b> (<i>University of California, San Diego, USA</i>) <br>
+    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) Chair - Shava Smallen (<i>University of California, San Diego</i>) <br>
       <ul>   
         <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
