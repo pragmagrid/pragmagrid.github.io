@@ -211,18 +211,18 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
       </ul>
     </td>
   </tr>
+    <tr>
+    <td>16:00 - 16:45</td>
+    <td><b>PRAGMA Lightening Talks </b></td>
+  </tr> 
   <tr>
-    <td>16:00 - 16:30</td>
+    <td>16:45 - 17:15</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
     <tr>
-    <td>16:30 - 17:30</td>
+    <td>17:15 - 18:00</td>
     <td><b>PRAGMA Poster Session</b></td>
-  </tr>
-  <tr>
-    <td>17:30 - 18:15</td>
-    <td><b>PRAGMA Lightening Talks </b></td>
-  </tr>  
+  </tr> 
   <tr>
     <td>18:30 - 20:00</td>
     <td class="break"><b>Dinner</b></td>
