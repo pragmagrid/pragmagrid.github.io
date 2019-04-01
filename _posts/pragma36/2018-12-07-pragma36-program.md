@@ -80,7 +80,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>13:30 - 15:00</td>
-    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) (Chair - Shava Smallen,<i>UC San Diego</i>) <br>
+    <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) (Chair - Shava Smallen, <i>UC San Diego</i>) <br>
       <ul>   
         <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
@@ -269,8 +269,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td><b>PRAGMA Demo Session 1</b><br>
-        Chair - Kohei Ichikaw, <i>National Institute of Advanced Industrial Science and Technology</i>, Sri C. Haryanti, <i>Universitas YARSI</i> 
+    <td><b>PRAGMA Demo Session 1</b> Chair - Kohei Ichikaw, <i>National Institute of Advanced Industrial Science and Technology</i>, Sri C. Haryanti, <i>Universitas YARSI</i> 
     </td>
   </tr>
   <tr>
@@ -293,8 +292,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td><b>PRAGMA Demo Session 2</b><br>
-        Chair - Kohei Ichikaw, <i>National Institute of Advanced Industrial Science and Technology</i>, Sri C. Haryanti, <i>Universitas YARSI</i>  
+    <td><b>PRAGMA Demo Session 2</b> Chair - Kohei Ichikaw, <i>National Institute of Advanced Industrial Science and Technology</i>, Sri C. Haryanti, <i>Universitas YARSI</i>  
     </td>
   </tr> 
   <tr>
