@@ -46,17 +46,12 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <th>Activity</th>
   </tr>
   <tr>
-    <td></td>
-    <td> Chair - Wassapon Watanakeesuntorn, <i>NIST</i> 
-</td>
-  </tr>  
-  <tr>
     <td>08:30 - 09:00</td>
     <td><b>Registration</b></td>
   </tr>
   <tr>
     <td>09:00 - 11:00</td>
-    <td><b>PRAGMA Student Workshop 1</b></td>
+    <td><b>PRAGMA Student Workshop 1</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>
   </tr>
   <tr>
     <td>11:00 - 11:20</td>
@@ -64,7 +59,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>11:20 - 12:00</td>
-    <td><b>PRAGMA Student Workshop 2</b></td>
+    <td><b>PRAGMA Student Workshop 2</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
