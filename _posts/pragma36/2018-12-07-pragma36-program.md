@@ -47,7 +47,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td></td>
-    <td> Session Chair - <b>Wassapon Watanakeesuntorn</b>, Nara Institute of Science and Technology, Japan 
+    <td> Session Chair - <b>Wassapon Watanakeesuntorn</b> (<i>Nara Institute of Science and Technology, Japan</i>) 
 </td>
   </tr>  
   <tr>
@@ -82,6 +82,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers)<br>
       <ul>
+        <li>Session Chair - <b>Shava Smallen</b> (<i>University of California, San Diego, USA</i>)</li>        
         <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
         <li>(20min) <b>Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)</li>
