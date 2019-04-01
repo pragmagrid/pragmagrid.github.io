@@ -329,12 +329,12 @@ Pick-up point : 1F, Bella Terrace Orange, Phoenix Resort<br>
 <ul>
 <li>07:00~07:30 : Participants gather</li>
 <li>07:30~07:40 : Departure from Phoenix Resort to Seongsan Ilchulbong Peak</li>
-<li>08:00-09:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new"><b>Seongsan Sunrise Peak</b></a> (90')</li>
+<li>08:00~09:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000001#p1" target="new"><b>Seongsan Sunrise Peak</b></a> (90')</li>
 <li>09:30~10:00 : Departure from Seongsan Ilchulbong Peak to Bijarim Forest </li>
-<li>10:00-12:00 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new"><b>Bijarim Forest</b></a> (120')</li>
+<li>10:00~12:00 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500270&menuId=DOM_000001817000000001#p2" target="new"><b>Bijarim Forest</b></a> (120')</li>
 <li>12:00~12:30 : Departure from Bijarim Forest to Seongeup Folk Village</li>
-<li>12:30-13:30 : Lunch</li>
-<li>13:30-15:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new"><b>Seongup Folk Village</b></a> (120')</li>
+<li>12:30~13:30 : Lunch</li>
+<li>13:30~15:30 : <a href="https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500351&menuId=DOM_000001817000000001#p7" target="new"><b>Seongup Folk Village</b></a> (120')</li>
 <li>15:30~16:00 : Departure from Seongeup Folk Village to Phoenix Resort</li>
 </ul><br>
 
