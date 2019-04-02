@@ -304,7 +304,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td><b>PRAGMA Demo Session 1</b> (Chair - Kohei Ichikaw, <i>NAIST</i>, Sri C. Haryanti, <i>Universitas YARSI</i>) 
+    <td><b>PRAGMA Demo Session 1</b> (Chair - Sri C. Haryanti, <i>Universitas YARSI</i>) 
     </td>
   </tr>
   <tr>
@@ -327,7 +327,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikaw, <i>NAIST</i>, Sri C. Haryanti, <i>Universitas YARSI</i>)  
+    <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikaw, <i>NAIST</i>)  
     </td>
   </tr> 
   <tr>
