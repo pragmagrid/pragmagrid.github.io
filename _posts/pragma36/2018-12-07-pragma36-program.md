@@ -247,7 +247,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>16:00 - 16:45</td>
-    <td><b>PRAGMA Lightening Talks (Chair - Chiao-Ning Chuang, <i>NCTU</i></b></td>
+    <td><b>PRAGMA Lightening Talks</b> (Chair - Chiao-Ning Chuang, <i>NCTU</i>)</td>
   </tr>  
   <tr>
     <td>16:45 - 17:15</td>
