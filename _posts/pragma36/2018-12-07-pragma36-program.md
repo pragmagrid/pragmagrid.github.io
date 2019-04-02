@@ -47,7 +47,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td></td>
-    <td>Chair - Wassapon Watanakeesuntorn (<i>NIST</i>),  Chiao-Ning Chuang (<i>NCTU</i>),  Kundjanasith Thonglek (<i>NIST</i>)</td>
+    <td>Chair - Wassapon Watanakeesuntorn, <i>NAIST</i> </td>
   </tr>  
   <tr>
     <td>08:30 - 09:00</td>
@@ -251,11 +251,11 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
     <tr>
     <td>16:30 - 17:30</td>
-    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NIST</i>)</td>  
+    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>  
   </tr>
   <tr>
     <td>17:30 - 18:15</td>
-    <td><b>PRAGMA Lightening Talks </b></td>
+    <td><b>PRAGMA Lightening Talks (Chair - Chiao-Ning Chuang, <i>NCTU</i></b></td>
   </tr>  
   <tr>
     <td>18:30 - 20:00</td>
@@ -332,7 +332,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr> 
   <tr>
     <td>17:00 - 17:20</td>
-    <td><b>Best Poster & Best Presentation Award Ceremony </b></td>
+    <td><b>Best Poster & Best Presentation Award Ceremony </b> (Chair - Kundjanasith Thonglek, <i>NAIST</i>)</td>
   </tr>
   <tr>
     <td>17:20 - 18:30</td>
