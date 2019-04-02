@@ -246,17 +246,17 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     </td>
   </tr>
   <tr>
-    <td>16:00 - 16:30</td>
+    <td>16:00 - 16:45</td>
+    <td><b>PRAGMA Lightening Talks (Chair - Chiao-Ning Chuang, <i>NCTU</i></b></td>
+  </tr>  
+  <tr>
+    <td>16:45 - 17:15</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
     <tr>
-    <td>16:30 - 17:30</td>
+    <td>17:15 - 18:00</td>
     <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>  
   </tr>
-  <tr>
-    <td>17:30 - 18:15</td>
-    <td><b>PRAGMA Lightening Talks (Chair - Chiao-Ning Chuang, <i>NCTU</i></b></td>
-  </tr>  
   <tr>
     <td>18:30 - 20:00</td>
     <td class="break"><b>Dinner</b></td>
@@ -327,7 +327,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>15:30 - 17:00</td>
-    <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikaw, <i>NAIST</i>)  
+    <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikawa, <i>NAIST</i>)  
     </td>
   </tr> 
   <tr>
@@ -336,7 +336,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
   </tr>
   <tr>
     <td>17:20 - 18:30</td>
-    <td><b>Wrap up & Closing Ceremony</b> (Chair - Jason Haga, <i>NAIST</i>)<br>
+    <td><b>Wrap up & Closing Ceremony</b> (Chair - Jason Haga, <i>AIST</i>)<br>
       <ul>
         <li>Steering Committee Report </li> 
         <li>Working Group Summary </li> 
