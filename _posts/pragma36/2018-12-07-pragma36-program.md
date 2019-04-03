@@ -229,7 +229,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) (Chair - Beth Plale, <i>Indiana University & National Science Foundation</i>)<br>
       <ul>
-        <li><b>Digital Twin by CAD Education and Research in KAIST</b> (Soonheung Han, <i>KAIST, South Korea</i>)</li>
+        <li><b>Digital Twin for Design Education and Research in KAIST</b> (Soonhung Han, <i>KAIST, South Korea</i>)</li>
         <li><b>AI Platform Trends: Challenges or Services?</b> (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
         <li><b>Modulization of Quantum Theories for Web Platform</b> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
       </ul>      
