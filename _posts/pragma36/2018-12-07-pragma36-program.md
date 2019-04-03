@@ -147,7 +147,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>17:00 - 18:20</td>
     <td><b>PRAGMA Pre-Workshop 3</b> (Local Speakers) (Chair - Heru Suhartanto, <i>Universitas Indonesia</i>) <br>
       <ul>          
-        <li>(20min) <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (Taeyoung Hong, <i>KISTI, South Korea</i>)</li>    
+        <li>(20min) <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (JunWeon Yoon, <i>KISTI, South Korea</i>)</li>    
         <li>(20min) <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
         <li>(20min) <b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
         <li>(20min) <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
