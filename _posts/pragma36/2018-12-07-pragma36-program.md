@@ -119,7 +119,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
       <ul>   
         <li>(30min) <b>Smart Campus</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
-        <li>(20min) <b>Visualizing Biodiversity Analyses with Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)</li>
+        <li>(20min) <b>Visualizing Biodiversity Analyses with Lifemapper</b> (Aimee Stewart, <i>University of Kansas Biodiversity Institute, USA</i>)</li>
         <li>(20min) <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, <i>University of Florida, USA</i>)</li>    
       </ul>
     </td>
