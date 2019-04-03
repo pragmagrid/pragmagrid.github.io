@@ -117,9 +117,9 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) (Chair - Shava Smallen, <i>UC San Diego</i>) <br>
       <ul>   
-        <li>(30min) <b>Society 5.0</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
+        <li>(30min) <b>Smart Campus</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
         <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
-        <li>(20min) <b>Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)</li>
+        <li>(20min) <b>Visualizing Biodiversity Analyses with Lifemapper</b> (Aimee Stewart,  <i>KU Biodiversity Institute, USA</i>)</li>
         <li>(20min) <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, Renato Figueiredo(<i>University of Florida, USA</i>), Paul Hanson)</li>    
       </ul>
     </td>
@@ -134,7 +134,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
       <ul>       
         <li>(20min) <b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
         <li>(20min) <b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
-        <li>(20min) <b>Deep Learning and Urban Traffic Congestion Prediction</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
+        <li>(20min) <b>Urban Traffic Congestion Prediction using Deep Learning for Smart City</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
         <li>(20min) <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
       </ul>
     </td>
@@ -149,7 +149,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
       <ul>          
         <li>(20min) <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (JunWeon Yoon, <i>KISTI, South Korea</i>)</li>    
         <li>(20min) <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
-        <li>(20min) <b>Parallel distributed genome analysis pipeline and large scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
+        <li>(20min) <b>Parallel distributed genome analysis pipeline and large-scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>   
         <li>(20min) <b>Massively Scalable Matrix-Vector Multiplications in KNL-based NURION System</b> (Hoon Ryu, <i>KISTI, South Korea</i>)</li>
       </ul>
     </td>
