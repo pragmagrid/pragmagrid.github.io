@@ -10,7 +10,7 @@ short: Welcome
 <img src="/images/pragma36/president-kisti.png" style="width:150px;" align="right"/>
 </p>
 
-It is a great honor to host this upcoming joint event of the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly) which is colocated with the 4th [CENTRA](http://www.globalcentra.org/) (Collaborations to ENable TRansnational cyberintrastructure Applications). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
+It is a great honor to host this upcoming joint event of the 36th PRAGMA (Pacific Rim Applications and Grid Middleware Assembly): Inspiring Insight for Data Economy with AI & Big Data & High Performance Computing which is colocated with the 4th [CENTRA](http://www.globalcentra.org/) (Collaborations to ENable TRansnational cyberintrastructure Applications). On behalf of the Organizing Committee, my great colleagues in [KISTI](https://www.kisti.re.kr/eng/) (Korea Institute of Science and Technology Information) and I would like to more than welcome everyone to Korea.
 
 For the past more than 50 years, KISTI has been contributed to many sectors of Korea's science, technology and 
 industry to get great achievements by providing the world-class supercomputing service, the global cooperative 
