@@ -180,7 +180,7 @@ For your information, the program of CENTRA 4 can be seen <a href="http://www.gl
     <td>10:50 - 11:20</td>
     <td><b>Keynote Talk</b> (Chair - Nadya Williams, <i>UC San Diego</i>)<br>
       <ul>
-        <li>TBD </li> 
+        <li><b>Opportunities and Challenges of Ecological Observation in East Asia-Pacific Region</b> (Eunshik Kim, <i>Kookmin University, South Korea</i>)   </li> 
       </ul>
     </td>
   </tr>
