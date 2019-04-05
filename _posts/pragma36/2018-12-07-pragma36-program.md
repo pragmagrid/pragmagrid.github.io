@@ -31,23 +31,23 @@ For your information, the program of <b>CENTRA 4</b> can be seen <a href="http:/
   </tr>
    <tr>
     <td>09:10 - 09:25</td>
-    <td>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers (Juan Sebastian Aguirre)</td>
+     <td><b>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers</b> (Juan Sebastian Aguirre, <i>Osaka University, Japan</i>)</td>
   </tr>  
    <tr>
     <td>09:25 - 09:40</td>
-    <td>IoT-based Agricultural Care System for Farmers (Novian Gilang Bujana)</td>
+     <td><b>IoT-based Agricultural Care System for Farmers</b> (Novian Gilang Bujana, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>   
    <tr>
     <td>09:40 - 09:55</td>
-    <td>Visual DGLIM (Michael Elliott)</td>
+     <td><b>Visual DGLIM</b> (Michael Elliott, <i>ACIS, USA</i>)</td>
   </tr>    
    <tr>
     <td>09:55 - 10:10</td>
-    <td>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training (Toto Haryanto)</td>
+    <td><b>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training</b> (Toto Haryanto, <i>Universitas Indonesia, Indonesia</i>)</td>
   </tr>  
    <tr>
     <td>10:10 - 10:25</td>
-    <td>Secure Data Collaborations Using GFFS (Courtney Hill)</td>
+    <td><b>Secure Data Collaborations Using GFFS</b> (Courtney Hill, <i>University of Virginia, USA</i>)</td>
   </tr>    
   <tr>
     <td>10:25 - 10:45</td>
@@ -55,19 +55,19 @@ For your information, the program of <b>CENTRA 4</b> can be seen <a href="http:/
   </tr>
    <tr>
     <td>10:45 - 11:00</td>
-    <td>The Study of Applying Edge Computing to Music Recognition (Suchanat Mangkhangjaroen)</td>
+    <td><b>The Study of Applying Edge Computing to Music Recognition</b> (Suchanat Mangkhangjaroen, <i>Thammasat, Thailand</i>)</td>
   </tr>  
    <tr>
     <td>11:00 - 11:15</td>
-    <td>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud (Arie Surachman)</td>
+    <td><b>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud</b> (Arie Surachman, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>  
    <tr>
     <td>11:15 - 11:30</td>
-    <td>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory (Kundjanasith Thonglek)</td>
+    <td><b>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory</b> (Kundjanasith Thonglek, <i>NAIST, Japan</i>)</td>
   </tr>  
    <tr>
     <td>11:30 - 11:45</td>
-    <td>Enabling Smart Agriculture Applications with Edge Computing and Deep Learning (Hsin-Hung Tseng)</td>
+    <td><b>Enabling Smart Agriculture Applications with Edge Computing and Deep Learning</b> (Hsin-Hung Tseng, <i>NCHU, Taiwan</i>)</td>
   </tr>  
    <tr>
     <td>11:45 - 12:00</td>
