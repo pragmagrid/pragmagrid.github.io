@@ -5,7 +5,7 @@ date: 2018-12-07
 workshop: pragma36
 short: program
 ---
-* PRAGMA36 Meeting 2019 Agenda be available in PDF in NOW, <a href="http://myrgst.com/centra4-pragma36/PRAGMA36-AGANDA.pdf" target="new">Download Here</a><br>
+* PRAGMA36 Meeting 2019 Agenda be available in PDF in now, <a href="http://myrgst.com/centra4-pragma36/PRAGMA36-AGANDA.pdf" target="new">Download Here</a><br>
 
 For your information, the program of <b>CENTRA 4</b> can be seen <a href="http://www.globalcentra.org/centra4/program.html" target="new">HERE</a>
 
