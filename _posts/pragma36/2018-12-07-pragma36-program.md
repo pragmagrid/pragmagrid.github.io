@@ -1,6 +1,6 @@
 ---
 layout: pragma36
-title: "PRAGMA 36 Program (tentative)"
+title: "PRAGMA 36 Program"
 date: 2018-12-07
 workshop: pragma36
 short: program
