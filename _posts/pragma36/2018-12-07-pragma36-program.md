@@ -179,7 +179,7 @@ short: program
   </tr>
   <tr>
     <td>10:50 - 11:20</td>
-    <td><b>Keynote Talk</b> (Chair - Nadya Williams, <i>UC San Diego</i>)<br>
+    <td><b>Keynote Talk</b> (Chair - Bill Chang, <i>University of Hawaii</i>)<br>
       <ul>
         <li><b>Opportunities and Challenges of Ecological Observation in East Asia-Pacific Region</b> (Eunshik Kim, <i>Kookmin University, South Korea</i>)   </li> 
       </ul>
