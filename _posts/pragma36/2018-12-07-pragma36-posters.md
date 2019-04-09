@@ -16,7 +16,7 @@ discussions next to the poster.
 <div class="border36">Important Dates</div>
 - Submission deadline: March 18th, 2019.
 - Author notification: March 25th, 2019.
-- File submission for free poster printing: April 8th, 2019
+- File submission for free poster printing: April 10th, 2019
 
 <br>
 
