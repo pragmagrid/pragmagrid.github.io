@@ -5,7 +5,7 @@ date: 2018-12-07
 workshop: pragma36
 short: Call for Demos
 ---
-
+* <b>PRAGMA 36</b> Demo Session is available in PDF, <a href="http://myrgst.com/centra4-pragma36/PRAGMA36-DEMO-Session.pdf" target="new">Download Here</a><br>
 On behalf of the PRAGMA 36 Program Committee, we are soliciting demos for the
 PRAGMA 36 workshop. The demo session offers opportunities to showcase
 applications/test-bed developed under PRAGMA for the potential broader use by
