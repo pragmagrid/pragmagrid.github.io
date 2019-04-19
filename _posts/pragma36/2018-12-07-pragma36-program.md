@@ -284,7 +284,7 @@ short: program
       <li><b>Registration and simulation the Science application that solves computational science and engineering problem application on EDISON platform</b> <br>(Yejin Kwon, Inho Jeon, Huiseung Chae, Jerry Seo and Jongsuk Lee)</li>
       <li><b>GRAPLEr, GLEON, and gateways: Updates from the PRAGMA lake expedition</b> <br>(Cayelan Carey, Renato Figueiredo and Paul Hanson)</li>
       <li><b>A real-time performance monitoring system for distributed cloud applications</b> <br>(Ayuth Mangmesap, Nitipat Wuttisasiwat and Prapaporn Rattanatamrong)</li> 
-      <li><b>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2.</b> <br>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen)</li>        
+      <li><b>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding</b> <br>(Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong)</li>        
       </ul>      
     </td>
   </tr>
@@ -314,7 +314,7 @@ short: program
         <li><b>DOTPly: Semi-automatic Framework for Semantic Annotation of 3D Point Cloud</b> <br>(Jun Lee, Chen-Yu Hao and Kyoung-Sook Kim)</li> 
         <li><b>GLOVE, Massive Simulation Data Visualization Tool</b> <br>(Min Ah Kim and Sehoon Lee)</li>
         <li><b>Visual DGLIM</b> <br>(Parth Patel, Michael Elliot and José Fortes)</li> 
-        <li><b>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding</b> <br>(Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong)</li>        
+        <li><b>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2.</b> <br>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen)</li>        
       </ul>      
     </td>
   </tr> 
