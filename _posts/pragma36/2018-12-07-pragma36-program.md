@@ -279,12 +279,12 @@ short: program
     <td>10:30 - 12:00</td>
     <td><b>PRAGMA Demo Session 1</b> (Chair - Sri C. Haryanti, <i>Universitas YARSI</i>) 
       <ul>
-      <li>View Designer, Building Extensible and Customizable Presentation for Computational Science Data in EDISON-DATA Platform <br>(<i>Jaesung Kim, Jeongcheol Lee, Sunil Ahn and Jongsuk Ruth Lee</i>)</li>
-        <li>Register and execute simulations on the PRAGMA through EDISON platform <br>(<i>Huiseung Chae, Jerry H. Seo, Inho Jeon, Yejin Kwon, Hangi Kim and Jong Suk Ruth Lee</i>)</li> 
-      <li>Registration and simulation the Science application that solves computational science and engineering problem application on EDISON platform <br>(<i>Yejin Kwon, Inho Jeon, Huiseung Chae, Jerry Seo and Jongsuk Lee</i>)</li>
-      <li>GRAPLEr, GLEON, and gateways: Updates from the PRAGMA lake expedition <br>(<i>Cayelan Carey, Renato Figueiredo and Paul Hanson</i>)</li>
-      <li>A real-time performance monitoring system for distributed cloud applications <br>(<i>Ayuth Mangmesap, Nitipat Wuttisasiwat and Prapaporn Rattanatamrong</i>)</li> 
-      <li>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2. <br>(<i>Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen</i>)</li>        
+      <li><b>View Designer, Building Extensible and Customizable Presentation for Computational Science Data in EDISON-DATA Platform</b> <br>(<i>Jaesung Kim, Jeongcheol Lee, Sunil Ahn and Jongsuk Ruth Lee</i>)</li>
+        <li><b>Register and execute simulations on the PRAGMA through EDISON platform</b> <br>(<i>Huiseung Chae, Jerry H. Seo, Inho Jeon, Yejin Kwon, Hangi Kim and Jong Suk Ruth Lee</i>)</li> 
+      <li><b>Registration and simulation the Science application that solves computational science and engineering problem application on EDISON platform</b> <br>(<i>Yejin Kwon, Inho Jeon, Huiseung Chae, Jerry Seo and Jongsuk Lee</i>)</li>
+      <li><b>GRAPLEr, GLEON, and gateways: Updates from the PRAGMA lake expedition</b> <br>(<i>Cayelan Carey, Renato Figueiredo and Paul Hanson</i>)</li>
+      <li><b>A real-time performance monitoring system for distributed cloud applications</b> <br>(<i>Ayuth Mangmesap, Nitipat Wuttisasiwat and Prapaporn Rattanatamrong</i>)</li> 
+      <li><b>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2.</b> <br>(<i>Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen</i>)</li>        
       </ul>      
     </td>
   </tr>
@@ -310,11 +310,11 @@ short: program
     <td>15:30 - 17:00</td>
     <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikawa, <i>NAIST</i>)  
       <ul>
-        <li>IoT-based Agricultural Care for Farmers <br>(<i>Novian Gilang Bujana, Mochamad Radika, Jagat Prayogo, Eresha Tirtan, Chairul Anwar, Siti Sarah, Nurul Amalia and Inda Dwi Lestantri</i>)</li>
-        <li>DOTPly: Semi-automatic Framework for Semantic Annotation of 3D Point Cloud <br>(<i>Jun Lee, Chen-Yu Hao and Kyoung-Sook Kim</i>)</li> 
-        <li>GLOVE, Massive Simulation Data Visualization Tool <br>(<i>Min Ah Kim and Sehoon Lee</i>)</li>
-        <li>Visual DGLIM <br>(<i>Parth Patel, Michael Elliot and José Fortes</i>)</li> 
-        <li>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding <br>(<i>Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong</i>)</li>        
+        <li><b>IoT-based Agricultural Care for Farmers</b> <br>(<i>Novian Gilang Bujana, Mochamad Radika, Jagat Prayogo, Eresha Tirtan, Chairul Anwar, Siti Sarah, Nurul Amalia and Inda Dwi Lestantri</i>)</li>
+        <li><b>DOTPly: Semi-automatic Framework for Semantic Annotation of 3D Point Cloud</b> <br>(<i>Jun Lee, Chen-Yu Hao and Kyoung-Sook Kim</i>)</li> 
+        <li><b>GLOVE, Massive Simulation Data Visualization Tool</b> <br>(<i>Min Ah Kim and Sehoon Lee</i>)</li>
+        <li><b>Visual DGLIM</b> <br>(<i>Parth Patel, Michael Elliot and José Fortes</i>)</li> 
+        <li><b>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding</b> <br>(<i>Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong</i>)</li>        
       </ul>      
     </td>
   </tr> 
