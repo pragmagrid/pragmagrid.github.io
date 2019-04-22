@@ -6,7 +6,7 @@ workshop: pragma36
 short: pragma36
 ---
 
-#### Resources working group Brakout session
+#### Resources working group Breakout session
 
 
 Please follow these links  to the Google doc pages for each Session
