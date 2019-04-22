@@ -8,8 +8,14 @@ short: pragma36
 
 #### Resources working group Breakout session
 
-
 Please follow these links  to the Google doc pages for each Session
+
+Examples of topics (not limited to these):
+- edge computing
+- DTN
+- Students projects
+- AI
+
 
 
 [Session 1][s5]
