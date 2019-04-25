@@ -210,7 +210,7 @@ short: program
   </tr>
   <tr>
     <td>14:30 - 16:00</td>
-    <td><b>PRAGMA Working Groups (WG) Breakouts Session 1 </b> <br>
+    <td><b>PRAGMA Working Groups (WG) Breakouts <a href="/pragma36-resources/">Session 1</a> </b> <br>
       <ul>
       <li>Resource & Cyber Learning WG </li>
       <li>Telescience WG </li> 
