@@ -7,6 +7,5 @@ meeting_url: /pragma36
 date: 2018-12-07
 ---
 
-
-TBA
+All available presentations are linked to the <a href="/pragma36-program/">PRAGMA 36 program</a> page
 
