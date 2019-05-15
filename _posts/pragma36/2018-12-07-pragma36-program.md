@@ -5,14 +5,14 @@ date: 2018-12-07
 workshop: pragma36
 short: program
 ---
-* <b>PRAGMA 36</b> Agenda is available in PDF, <a href="http://myrgst.com/centra4-pragma36/PRAGMA36-AGANDA.pdf" target="new">Download Here</a><br>
 
-* For your information, the program of <b>CENTRA 4</b> can be seen <a href="http://www.globalcentra.org/centra4/program.html" target="new">HERE</a>
+Please see  the program of <b><a href="http://www.globalcentra.org/centra4/program.html" target="new">CENTRA 4</a></b>
 
-[Day 1](#day1) &nbsp;&nbsp; [Day 2](#day2) &nbsp;&nbsp;
-[Day 3](#day3) &nbsp;&nbsp;[Day 4](#day4)
+[Day 1](#day1)&nbsp;&nbsp; [Day 2](#day2)&nbsp;&nbsp;
+[Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Student Workshop</div>
+
+<div class="border36" id="day1">Day 1 (April 24, We) : PRAGMA Student Workshop</div>
 <table class="program36">
   <tr>
     <th>Time</th>
@@ -80,7 +80,7 @@ short: program
   </tr>
 </table>
 <br>
-<div class="border36" id="day1">Day 1 (April 24, Wed.) : PRAGMA Pre-Workshop</div>
+<div class="border36" id="day1">Day 1 (April 24, We) : PRAGMA Pre-Workshop</div>
 <table class="program36">
   <tr>
     <th>Time</th>
@@ -90,10 +90,10 @@ short: program
     <td>13:30 - 15:00</td>
     <td><b>PRAGMA Pre-Workshop 1</b> (PRAGMA Speakers) (Chair - Shava Smallen, <i>UC San Diego</i>) <br>
       <ul>   
-        <li>(30min) <b>Smart Campus</b> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
-        <li>(20min) <b>Pacific Research Platform</b> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
-        <li>(20min) <b>Visualizing Biodiversity Analyses with Lifemapper</b> (Aimee Stewart, <i>University of Kansas Biodiversity Institute, USA</i>)</li>
-        <li>(20min) <b>Novel test case of PRAGMA-enabled water quality forecasting</b> (Cayelan Carey, <i>Virginia Tech, USA</i>)</li>    
+        <li>(30min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk1-smart-campus.pdf"><b>Smart Campus</b></a> (Shinji Shimojo, <i>Osaka University, Japan</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk2-prp.pdf"><b>Pacific Research Platform</b></a> (Nadya Williams,  <i>University of California San Diego, USA</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk3-lifemapper.pdf"><b>Visualizing Biodiversity Analyses with Lifemapper</b></a> (Aimee Stewart, <i>University of Kansas Biodiversity Institute, USA</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk4-water-quality.pdf"><b>Novel test case of PRAGMA-enabled water quality forecasting</b></a> (Cayelan Carey, <i>Virginia Tech, USA</i>)</li>    
       </ul>
     </td>
   </tr>
@@ -105,10 +105,10 @@ short: program
     <td>15:20 - 16:40</td>
     <td><b>PRAGMA Pre-Workshop 2</b> (Local Speakers) (Chair - Weicheng Huang, <i>National Applied Research Laboratories</i>) <br>
       <ul>       
-        <li>(20min) <b>IoT Technology and Service for Smart World</b> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
-        <li>(20min) <b>Introduction of KREONET based on ScienceDMZ and activities</b> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
-        <li>(20min) <b>Urban Traffic Congestion Prediction using Deep Learning for Smart City</b> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
-        <li>(20min) <b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk5-smart-world.pdf"><b>IoT Technology and Service for Smart World</b></a> (Dohyeun Kim, <i>Jeju National University, South Korea</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk6-kreonet.pdf"><b>Introduction of KREONET based on ScienceDMZ and activities</b></a> (Jeonghoon Moon, <i>KISTI, South Korea</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk7-urban-traffic.pdf"><b>Urban Traffic Congestion Prediction using Deep Learning for Smart City</b></a> (Hongsuk Yi, <i>KISTI, South Korea</i>)</li>
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk8-next-gen.pdf"><b>Challenges and Oportunities of Next-Generation Sequencing: a High Performance Computing Perspective</b></a> (Hyojin Kang, <i>KISTI, South Korea</i>)</li>  
       </ul>
     </td>
   </tr>
@@ -120,10 +120,10 @@ short: program
     <td>17:00 - 18:20</td>
     <td><b>PRAGMA Pre-Workshop 3</b> (Local Speakers) (Chair - Heru Suhartanto, <i>Universitas Indonesia</i>) <br>
       <ul>          
-        <li>(20min) <b>Introduction to KISTI-5 Supercomputer, Nurion</b> (JunWeon Yoon, <i>KISTI, South Korea</i>)</li>    
-        <li>(20min) <b>Korean Research Data Platform</b> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
-        <li>(20min) <b>Parallel distributed genome analysis pipeline and large-scale genome data researches in KISTI</b> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>  
-        <li>(20min) <b>Open Programmable Networks:  Microservices, Infrastructure and Coordination</b> (Martin Swany, <i>Indiana University, USA</i>)</li>        
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk9-nurion.pdf"><b>Introduction to KISTI-5 Supercomputer, Nurion</b></a> (JunWeon Yoon, <i>KISTI, South Korea</i>)</li>    
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk10-krdp.pdf"><b>Korean Research Data Platform</b></a> (Sakwang Song, <i>KISTI, South Korea</i>)</li>   
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk11-genome.pdf"><b>Parallel distributed genome analysis pipeline and large-scale genome data researches in KISTI</b></a> (Junehawk Lee, <i>KISTI, South Korea</i>)</li>  
+        <li>(20min) <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/24/talk12-openmic.pdf"><b>Open Programmable Networks:  Microservices, Infrastructure and Coordination</b></a> (Martin Swany, <i>Indiana University, USA</i>)</li>
       </ul>
     </td>
   </tr>
@@ -137,7 +137,7 @@ short: program
 
 <br>
 
-<div class="border36" id="day2">Day 2 (April 25, Thu.) : PRAGMA Workshop</div>
+<div class="border36" id="day2">Day 2 (April 25, Th) : PRAGMA Workshop</div>
 
 <table class="program36">
   <tr>
@@ -161,15 +161,17 @@ short: program
     <td>09:20 - 09:50</td>
     <td><b>PRAGMA Welcoming Statement</b>  (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>        
-        <li>Speech by <b>Dr. Shava Smallen</b>, <i>PRAGMA Chair</i></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/pragma36-updates.pdf"><b>Speech by Shava Smallen</b></a>, <i>PRAGMA Chair</i></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>09:50 - 10:20</td>
-    <td><b>Working Group Update </b>  (Chair - Ruth Lee, <i>KISTI</i>)<br>
+    <td><b>Working Groups Update </b>  (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>
-        <li>Resource/Cyber Learning WG, Telescience WG, Bioscience WG </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/wg-resources-update.pdf">Resources/Cyber Learning</a></li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/wg-tele-update.pdf">Telesciences</a></li> 
+		<li>Biosciences</li>
       </ul>
     </td>
   </tr>  
@@ -181,7 +183,7 @@ short: program
     <td>10:50 - 11:20</td>
     <td><b>Keynote Talk</b> (Chair - Bill Chang, <i>University of Hawaii</i>)<br>
       <ul>
-        <li><b>Opportunities and Challenges of Ecological Observation in East Asia-Pacific Region</b> (Eunshik Kim, <i>Kookmin University, South Korea</i>)   </li> 
+        <li><A href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/keynote-eun-shik-kim.pdf"><b>Opportunities and Challenges of Ecological Observation in East Asia-Pacific Region</b></a> (Eunshik Kim, <i>Kookmin University, South Korea</i>)   </li> 
       </ul>
     </td>
   </tr>
@@ -189,8 +191,8 @@ short: program
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) (Chair - Nadya Williams, <i>UC San Diego</i>) <br>
       <ul>
-        <li><b>Introduction to CENTRA Activities</b> (José Fortes, <i>University of Florida, USA</i>) </li> 
-        <li><b>Open Science, FAIR data, and Cyberinfrastructure</b> (Beth Plale, <i>NSF, USA</i>) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/invited-talk1-centra.pdf"><b>Introduction to CENTRA Activities</b></a> (José Fortes, <i>University of Florida, USA</i>) </li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/invited-talk2-data.pdf"><b>Open Science, FAIR data, and Cyberinfrastructure</b></a> (Beth Plale, <i>NSF, USA</i>) </li>
       </ul>
     </td>
   </tr>  
@@ -202,19 +204,19 @@ short: program
     <td>13:30 - 14:30</td>
     <td><b>Invited Talks</b> (Local Speaker) (Chair - Beth Plale, <i>Indiana University & National Science Foundation</i>)<br>
       <ul>
-        <li><b>Digital Twin for Design Education and Research in KAIST</b> (Soonhung Han, <i>KAIST, South Korea</i>)</li>
-        <li><b>AI Platform Trends: Challenges or Services?</b> (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
-        <li><b>Modulization of Quantum Theories for Web Platform</b> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/invited-talk3-twin.pdf"><b>Digital Twin for Design Education and Research in KAIST</b></a> (Soonhung Han, <i>KAIST, South Korea</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/invited-talk4-ai.pdf"><b>AI Platform Trends: Challenges or Services?</b></a> (Jeongcheol Lee, <i>KISTI, South Korea</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/invited-talk5-webplatform.pdf"><b>Modulization of Quantum Theories for Web Platform</b></a> (Cheolho Choi, <i>Kyungpook National University, South Korea</i>)</li>
       </ul>      
     </td>
   </tr>
   <tr>
     <td>14:30 - 16:00</td>
-    <td><b>PRAGMA Working Groups (WG) Breakouts <a href="/pragma36-resources/">Session 1</a> </b> <br>
+    <td><b>PRAGMA Working Groups Breakouts</b> <br>
       <ul>
-      <li>Resource & Cyber Learning WG </li>
-      <li>Telescience WG </li> 
-      <li>Bioscience WG </li>
+      <li>Resources & <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-cyber.pdf">Cyber Learning</a> </li>
+      <li>Telesciences</li> 
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-biosciences.pdf">Biosciences</a> </li>
       </ul>
     </td>
   </tr>
@@ -240,7 +242,7 @@ short: program
 
 <br>
 
-<div class="border36" id="day3">Day 3 (April 26, Fri.) : PRAGMA Workshop</div>
+<div class="border36" id="day3">Day 3 (April 26, Fr) : PRAGMA Workshop</div>
 
 <table class="program36">
   <tr>
@@ -251,7 +253,7 @@ short: program
     <td>09:00 - 09:20</td>
     <td><b>Invited Talk 1</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
-        <li><b>GSDC: Datacenter for Data-Intensive Research</b> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/invited-talk-1-gsdc.pdf"><b>GSDC: Datacenter for Data-Intensive Research</b></a> (Sangun Ahn, <i>KISTI, South Korea</i>)</li> 
       </ul>    
     </td>
   </tr>
@@ -259,7 +261,7 @@ short: program
     <td>09:20 - 09:40</td>
     <td><b>Invited Talk 2</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
-        <li><b>Taiwania 2</b> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/invited-talk2-nchc.pdf"><b>Taiwania 2</b></a> (Weicheng Huang, <i>National Applied Research Laboratories, Taiwan</i>)</li>
       </ul>
      </td>
   </tr>
@@ -267,7 +269,7 @@ short: program
     <td>09:40 - 10:00</td>
     <td><b>Invited Talk 3</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
-        <li><b>iDigBio</b> (Annika Smith, <i>PhD student</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/invited-talk3-idigbio.png"><b>iDigBio</b></a> (Annika Smith, <i>PhD student</i>)</li>
       </ul>
     </td>
   </tr>
@@ -279,12 +281,12 @@ short: program
     <td>10:30 - 12:00</td>
     <td><b>PRAGMA Demo Session 1</b> (Chair - Sri C. Haryanti, <i>Universitas YARSI</i>) 
       <ul>
-      <li><b>View Designer, Building Extensible and Customizable Presentation for Computational Science Data in EDISON-DATA Platform</b> <br>(Jaesung Kim, Jeongcheol Lee, Sunil Ahn and Jongsuk Ruth Lee)</li>
-        <li><b>Register and execute simulations on the PRAGMA through EDISON platform</b> <br>(Huiseung Chae, Jerry H. Seo, Inho Jeon, Yejin Kwon, Hangi Kim and Jong Suk Ruth Lee)</li> 
-      <li><b>Registration and simulation the Science application that solves computational science and engineering problem application on EDISON platform</b> <br>(Yejin Kwon, Inho Jeon, Huiseung Chae, Jerry Seo and Jongsuk Lee)</li>
-      <li><b>GRAPLEr, GLEON, and gateways: Updates from the PRAGMA lake expedition</b> <br>(Cayelan Carey, Renato Figueiredo and Paul Hanson)</li>
-      <li><b>A real-time performance monitoring system for distributed cloud applications</b> <br>(Ayuth Mangmesap, Nitipat Wuttisasiwat and Prapaporn Rattanatamrong)</li> 
-      <li><b>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding</b> <br>(Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong)</li>        
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-1-chae.pdf"><b>View Designer, Building Extensible and Customizable Presentation for Computational Science Data in EDISON-DATA Platform</b></a> <br>(Jaesung Kim, Jeongcheol Lee, Sunil Ahn and Jongsuk Ruth Lee)</li>
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-2-registration.pdf"><b>Register and execute simulations on the PRAGMA through EDISON platform</b></a> <br>(Huiseung Chae, Jerry H. Seo, Inho Jeon, Yejin Kwon, Hangi Kim and Jong Suk Ruth Lee)</li> 
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-3-reg-sim.pdf"><b>Registration and simulation the Science application that solves computational science and engineering problem application on EDISON platform</b></a> <br>(Yejin Kwon, Inho Jeon, Huiseung Chae, Jerry Seo and Jongsuk Lee)</li>
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-4-grapler.pdf"><b>GRAPLEr, GLEON, and gateways: Updates from the PRAGMA lake expedition</b></a> <br>(Cayelan Carey, Renato Figueiredo and Paul Hanson)</li>
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-5-monitoring.pdf"><b>A real-time performance monitoring system for distributed cloud applications</b></a> <br>(Ayuth Mangmesap, Nitipat Wuttisasiwat and Prapaporn Rattanatamrong)</li> 
+      <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-1-6-viz.pdf"><b>Software Defined Switching on a Structured P2P Overlay Topology using Bounded Flooding</b></a> <br>(Kensworth Subratie, Renato Figueiredo and Prapaporn Rattanatamrong)</li>
       </ul>      
     </td>
   </tr>
@@ -294,11 +296,11 @@ short: program
   </tr>
   <tr>
     <td>14:00 - 15:15</td>
-    <td><b>PRAGMA Working Groups (WG) Breakouts Session 2: </b> <br>
+    <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
       <ul>
-      <li>Resource & Cyber Learning WG </li>
-      <li>Telescience WG </li> 
-      <li>Bioscience WG </li>
+      <li>Resources and Cyber Learning </li>
+      <li>Telesciences </li> 
+      <li>Biosciences </li>
       </ul>
     </td>
   </tr> 
@@ -311,10 +313,10 @@ short: program
     <td><b>PRAGMA Demo Session 2</b> (Chair - Kohei Ichikawa, <i>NAIST</i>)  
       <ul>
         <li><b>IoT-based Agricultural Care for Farmers</b> <br>(Novian Gilang Bujana, Mochamad Radika, Jagat Prayogo, Eresha Tirtan, Chairul Anwar, Siti Sarah, Nurul Amalia and Inda Dwi Lestantri)</li>
-        <li><b>DOTPly: Semi-automatic Framework for Semantic Annotation of 3D Point Cloud</b> <br>(Jun Lee, Chen-Yu Hao and Kyoung-Sook Kim)</li> 
-        <li><b>GLOVE, Massive Simulation Data Visualization Tool</b> <br>(Min Ah Kim and Sehoon Lee)</li>
-        <li><b>Visual DGLIM</b> <br>(Parth Patel, Michael Elliot and José Fortes)</li> 
-        <li><b>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2.</b> <br>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen)</li>        
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-2-2-pointcloud.pdf"><b>DOTPly: Semi-automatic Framework for Semantic Annotation of 3D Point Cloud</b></a> <br>(Jun Lee, Chen-Yu Hao and Kyoung-Sook Kim)</li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-2-3-glove.pdf"><b>GLOVE, Massive Simulation Data Visualization Tool</b></a> <br>(Min Ah Kim and Sehoon Lee)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-2-4-dglim.pdf"><b>Visual DGLIM</b></a> <br>(Parth Patel, Michael Elliot and José Fortes)</li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/demo-2-5-abci-nchc.pdf"><b>Japan-Taiwan Data AI Module Platform  for Analyzing Remote Sensing data, Part 2.</b></a> <br>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryousei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Chun Hung Huang, Weicheng Huang and Bo Chen)</li>        
       </ul>      
     </td>
   </tr> 
@@ -326,9 +328,20 @@ short: program
     <td>17:20 - 18:30</td>
     <td><b>Wrap up & Closing Ceremony</b> (Chair - Jason Haga, <i>AIST</i>)<br>
       <ul>
-        <li>Steering Committee Report </li> 
-        <li>Working Group Summary </li> 
-        <li>Introduction of Next PRAGMA </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/sc-meeting.pdf">Steering Committee Report</a> </li> 
+        <li>Working Groups Summaries 
+		  <ul>
+            <li>Resources and Cyber Learning: <br>
+	          <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-resources-ai.pdf">AI focus group</a><br>
+		      <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-resources-data.pdf">DTN and dat transfer focus group </a><br>
+		      <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-resources-edge.pdf">Edge computing focus grup </a><br>
+		      <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-resources-edison.pdf">EDISON focus group </a>
+	        </li>
+            <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-telesciences.pdf">Telesciences</a> </li> 
+            <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/wg-biosciences.pdf">Biosciences</a> </li>
+		  </ul>
+		</li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/sandiego_pragma.pdf">Introduction of Next PRAGMA</a> </li>
       </ul>
     </td>
   </tr>
@@ -342,7 +355,7 @@ short: program
 
 <br>
 
-<div class="border36" id="day4">Day 4 (April 27, Sat.) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
+<div class="border36" id="day4">Day 4 (April 27, Sa) : CENTRA & PRAGMA Networking and Collaboration Day  </div><br>
 
 Pick-up point : 1F, Bella Terrace Orange, Phoenix Resort<br>
 <ul>
@@ -360,3 +373,4 @@ Pick-up point : 1F, Bella Terrace Orange, Phoenix Resort<br>
 [Back to top](/pragma36-program)
 
 <br>
+
