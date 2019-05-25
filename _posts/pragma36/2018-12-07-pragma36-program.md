@@ -271,7 +271,8 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
     <td>09:40 - 10:00</td>
     <td><b>Invited Talk 3</b> (Chair - Fang Pang Lin, <i>NCHC</i>) <br>
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/invited-talk3-idigbio.png"><b>iDigBio</b></a> (Annika Smith, <i>PhD student</i>)</li>
+        <li><a
+		href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/invited-talk3-idigbio.pdf"><b>iDigBio</b></a> (Annika Smith, <i>PhD student</i>)</li>
       </ul>
     </td>
   </tr>
