@@ -28,27 +28,27 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr>
    <tr>
     <td>09:00 - 09:10</td>
-    <td>Introduction</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/students-introduction.pdf"><b>Introduction</b></a></td>
   </tr>
    <tr>
     <td>09:10 - 09:25</td>
-     <td><b>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers</b> (Juan Sebastian Aguirre, <i>Osaka University, Japan</i>)</td>
+     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-01.pdf"><b>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers</b></a> (Juan Sebastian Aguirre, <i>Osaka University, Japan</i>)</td>
   </tr>  
    <tr>
     <td>09:25 - 09:40</td>
-     <td><b>IoT-based Agricultural Care System for Farmers</b> (Novian Gilang Bujana, <i>Universitas YARSI, Indonesia</i>)</td>
+     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-02.pdf"><b>IoT-based Agricultural Care System for Farmers</b></a> (Novian Gilang Bujana, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>   
    <tr>
     <td>09:40 - 09:55</td>
-     <td><b>Visual DGLIM</b> (Michael Elliott, <i>ACIS, USA</i>)</td>
+     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-03.pdf"><b>Visual DGLIM</b></a> (Michael Elliott, <i>ACIS, USA</i>)</td>
   </tr>    
    <tr>
     <td>09:55 - 10:10</td>
-    <td><b>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training</b> (Toto Haryanto, <i>Universitas Indonesia, Indonesia</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-04.pdf"><b>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training</b></b> (Toto Haryanto, <i>Universitas Indonesia, Indonesia</i>)</td>
   </tr>  
    <tr>
     <td>10:10 - 10:25</td>
-    <td><b>Secure Data Collaborations Using GFFS</b> (Courtney Hill, <i>University of Virginia, USA</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-05.pdf"><b>Secure Data Collaborations Using GFFS</b></a> (Courtney Hill, <i>University of Virginia, USA</i>)</td>
   </tr>    
   <tr>
     <td>10:25 - 10:45</td>
@@ -56,15 +56,15 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr>
    <tr>
     <td>10:45 - 11:00</td>
-    <td><b>The Study of Applying Edge Computing to Music Recognition</b> (Suchanat Mangkhangjaroen, <i>Thammasat, Thailand</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-06.pdf"><b>The Study of Applying Edge Computing to Music Recognition</b></a> (Suchanat Mangkhangjaroen, <i>Thammasat, Thailand</i>)</td>
   </tr>  
    <tr>
     <td>11:00 - 11:15</td>
-    <td><b>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud</b> (Arie Surachman, <i>Universitas YARSI, Indonesia</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-07.pdf"><b>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud</b></a> (Arie Surachman, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>  
    <tr>
     <td>11:15 - 11:30</td>
-    <td><b>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory</b> (Kundjanasith Thonglek, <i>NAIST, Japan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-08.pdf"><b>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory</b></a> (Kundjanasith Thonglek, <i>NAIST, Japan</i>)</td>
   </tr>  
    <tr>
     <td>11:30 - 11:45</td>
@@ -222,7 +222,7 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr>
   <tr>
     <td>16:00 - 16:45</td>
-    <td><b>PRAGMA Lightening Talks</b> (Chair - Chiao-Ning Chuang, <i>NCTU</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/lightning-talks.pdf"><b>PRAGMA Lightening Talks</b></a> (Chair - Chiao-Ning Chuang, <i>NCTU</i>)</td>
   </tr>  
   <tr>
     <td>16:45 - 17:15</td>
@@ -230,7 +230,9 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr>
     <tr>
     <td>17:15 - 18:00</td>
-    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>  
+    <td><b>PRAGMA Poster Session</b> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)<br>
+         See available posters in this <a href="https://github.com/pragmagrid/pragma-meetings/tree/master/pragma36/posters">repository</a>
+	</td>  
   </tr>
   <tr>
     <td>18:30 - 20:00</td>
@@ -322,7 +324,7 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr> 
   <tr>
     <td>17:00 - 17:20</td>
-    <td><b>Best Poster & Best Presentation Award Ceremony </b> (Chair - Kundjanasith Thonglek, <i>NAIST</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/26/student-awards.pdf"><b>Best Poster & Best Presentation Award Ceremony</b></a> (Chair - Kundjanasith Thonglek, <i>NAIST</i>)</td>
   </tr>
   <tr>
     <td>17:20 - 18:30</td>
