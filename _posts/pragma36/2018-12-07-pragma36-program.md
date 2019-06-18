@@ -19,7 +19,7 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
     <th>Activity</th>
   </tr>
   <tr>
-    <td></td>
+    <td> </td>
     <td>Chair - Wassapon Watanakeesuntorn, <i>NAIST</i> </td>
   </tr>  
   <tr>
@@ -32,21 +32,21 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
   </tr>
    <tr>
     <td>09:10 - 09:25</td>
-     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-01.pdf"><b>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers</b></a> (Juan Sebastian Aguirre, <i>Osaka University, Japan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-01.pdf"><b>Architecture of Traffic Engineering Module for Programmable Data-Plane Routers</b></a> (Juan Sebastian Aguirre, <i>Osaka University, Japan</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>09:25 - 09:40</td>
-     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-02.pdf"><b>IoT-based Agricultural Care System for Farmers</b></a> (Novian Gilang Bujana, <i>Universitas YARSI, Indonesia</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-02.pdf"><b>IoT-based Agricultural Care System for Farmers</b></a> (Novian Gilang Bujana, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>   
-   <tr>
+  <tr>
     <td>09:40 - 09:55</td>
-     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-03.pdf"><b>Visual DGLIM</b></a> (Michael Elliott, <i>ACIS, USA</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-03.pdf"><b>Visual DGLIM</b></a> (Michael Elliott, <i>ACIS, USA</i>)</td>
   </tr>    
-   <tr>
+  <tr>
     <td>09:55 - 10:10</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-04.pdf"><b>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training</b></b> (Toto Haryanto, <i>Universitas Indonesia, Indonesia</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-04.pdf"><b>Sliding Windows Alghorithm As Data Augmentation On Histopathology Images For Convolutional Neural Network Training</b></a> (Toto Haryanto, <i>Universitas Indonesia, Indonesia</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>10:10 - 10:25</td>
     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-05.pdf"><b>Secure Data Collaborations Using GFFS</b></a> (Courtney Hill, <i>University of Virginia, USA</i>)</td>
   </tr>    
@@ -54,23 +54,23 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
     <td>10:25 - 10:45</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
-   <tr>
+  <tr>
     <td>10:45 - 11:00</td>
     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-06.pdf"><b>The Study of Applying Edge Computing to Music Recognition</b></a> (Suchanat Mangkhangjaroen, <i>Thammasat, Thailand</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>11:00 - 11:15</td>
     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-07.pdf"><b>Security Test of Indonesian E-Health Community Cloud Model, Test Bed on PRAGMA Cloud</b></a> (Arie Surachman, <i>Universitas YARSI, Indonesia</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>11:15 - 11:30</td>
     <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/student-workshop/presentation-08.pdf"><b>Towards Optimal Resource Utilization in Data Centers using Long Short-Term Memory</b></a> (Kundjanasith Thonglek, <i>NAIST, Japan</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>11:30 - 11:45</td>
     <td><b>Enabling Smart Agriculture Applications with Edge Computing and Deep Learning</b> (Hsin-Hung Tseng, <i>NCHU, Taiwan</i>)</td>
   </tr>  
-   <tr>
+  <tr>
     <td>11:45 - 12:00</td>
     <td>Wrap-Up</td>
   </tr>    
@@ -79,6 +79,7 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
     <td class="break">Lunch </td>
   </tr>
 </table>
+
 <br>
 <div class="border36" id="day1">Day 1 (April 24, We) : PRAGMA Pre-Workshop</div>
 <table class="program36">
@@ -153,7 +154,7 @@ Please see  the program of <b><a href="http://www.globalcentra.org/centra4/progr
     <td><b>Opening Ceremony</b> (Chair - Ruth Lee, <i>KISTI</i>)<br>
       <ul>        
         <li>Speech by <b>Dr. Hee-Yoon Choi</b>, <i>President of KISTI</i></li> 
-        <li>Speech by <b>Dr. Peter Arzberger</b>, <i>PRAGMA Founder</i></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma36/25/opening-ceremony.pdf"><b>Speech by Dr. Peter Arzberger</b></a>, <i>PRAGMA Founder</i></li>
       </ul>
     </td>
   </tr>
