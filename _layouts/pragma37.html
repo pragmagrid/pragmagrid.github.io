@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="pragma37">
+    {% include header-workshop.html %}
+    <div class="wrapper-menu-left">
+      <nav>
+           <a class="page-link" href="/pragma37">Home</a>
+           <a class="page-link" href="/pragma37-registration">Registration</a>
+           <a class="page-link" href="/pragma37-submission">Abstract Submission</a>
+           <a class="page-link" href="/pragma37-contact">Help and Questions</a>
+           <!--<a class="page-link" href="/meetings/pragma-37-presentations">Presentations</a>-->
+
+      </nav>
+    </div>
+    <div style="clear: both;" > </div>
+    <div class="page-content">
+      <div class="wrapper-menu-left">
+          <div class="menu-left">{% include menu-pragma37.html %} </div>
+          <div class="content-right"> 
+            <header class="post-header">
+              <h1 class="post-title">{{ page.title }}</h1>
+            </header>
+            {{ content }} 
+          </div>
+          <div style="clear: both;" > </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
