@@ -17,6 +17,6 @@ is the home of <a href="http://qi.ucsd.edu/">Qualcomm Institute-Calit2</a>.
 <div class="border37">Accommodations</div>
 
 We have a room block at the <a
-href="https://www.marriott.com/hotels/travel/sanjs-sheraton-la-jolla-hotel/">Sheraton La Jolla Hotel</a> for $160/night.
+href="https://www.marriott.com/hotels/travel/sanjs-sheraton-la-jolla-hotel/">Sheraton La Jolla Hotel</a> for $160/night.  Details for reserving at the special rate will be available soon.
 
 
