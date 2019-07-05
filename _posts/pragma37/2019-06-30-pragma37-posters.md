@@ -14,9 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border37">Important Dates</div>
-- Submission deadline: TBD <!--March 18th, 2019-->.
-- Author notification: TBD <!--March 25th, 2019.-->
-- File submission for free poster printing: TBD <!--April 10th, 2019-->
+- Submission deadline: August 6th, 2019.
+- Author notification: August 16th, 2019.
+- File submission for free poster printing: September 3rd, 2019
 
 <br>
 

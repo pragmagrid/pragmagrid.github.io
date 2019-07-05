@@ -12,6 +12,11 @@ applications/test-bed developed under PRAGMA for the potential broader use by
 the community. All PRAGMA 37 attendees are encouraged to submit abstracts to
 the demo sessions.
 
+<div class="border37">Important Dates</div>
+- Submission deadline: August 6th, 2019.
+- Author notification: August 16th, 2019.
+
+<br>
 <div class="border37">Submission Instructions</div>
 
 The abstract should be less than 450 words and include the following
@@ -39,11 +44,6 @@ If you haven't registered to PRAGMA 37 workshop yet, please do so at the
 All PRAGMA 37 attendees are welcome to submit the completed Word template
 through [EasyChair](https://easychair.org/conferences/?conf=pragma37).  Please
 select the Demo track.<br>
-
-
-<div class="border37">Important Dates</div>
-<!--- **Submission deadline: March 18th, 2019**-->
-<!--- **Author notification: March 25th, 2019**-->
 
 
 If you have any questions regarding the demo abstract submission, please
