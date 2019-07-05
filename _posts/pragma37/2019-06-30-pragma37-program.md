@@ -108,7 +108,7 @@ short: program
   </tr>
   <tr>
     <td>09:50 - 10:20</td>
-    <td><b>Working Groups Update </b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
+    <td><b>Working Groups Update</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Cyber Learning<!--</a>--></li> 
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-tele-update.pdf">-->Telesciences<!--</a>--></li> 
@@ -131,36 +131,36 @@ short: program
     <td>11:20 - 12:00</td>
     <td><b>Invited Talks</b> (PRAGMA Speaker) (Chair - TBD, <i>University</i>) <br>
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
-        <li>...</li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Campus Infrastructure</b><!--</a>--> (Philip Papadopoulos, <i>UC Irvine, USA</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Pacific Research Platform</b><!--</a>--> (Tom Defanti, <i>UC San Diego, USA</i>) </li> 
       </ul>
     </td>
   </tr>  
   <tr>
     <td>12:00 - 13:00</td>
-     <td class="break">Lunch </td>
+     <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:30 - 14:30</td>
-    <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
+    <td>13:00 - 14:30</td>
+    <td><b>PRAGMA Working Groups Breakouts Session 1:</b> <br>
+    </td>
+  </tr>
+  <tr>
+    <td>14:30 - 15:00</td>
+    <td class="break">Coffee Break  + NETWORKING </td>
+  </tr>
+  <tr>
+    <td>15:00 - 16:00</td>
+    <td><b>PRAGMA Demo Session 1</b> (Chair - TBD, <i>University</i>) 
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
         <li>...</li>
       </ul>      
     </td>
-  </tr>
-  <tr>
-    <td>14:30 - 16:00</td>
-    <td><b>PRAGMA Working Groups Breakouts</b> <br>
-    </td>
-  </tr>
-  <tr>
-    <td>16:00 - 16:45</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightening Talks</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
   </tr>  
   <tr>
-    <td>16:45 - 17:15</td>
-    <td class="break">Coffee Break  + NETWORKING </td>
+    <td>16:00 - 17:15</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightening Talks</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
   </tr>
     <tr>
     <td>17:15 - 18:15</td>
@@ -196,11 +196,10 @@ short: program
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
-    <td><b>PRAGMA Demo Session 1</b> (Chair - TBD, <i>University</i>) 
+    <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
-        <li>...</li>
-      </ul>      
+      <li>...</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -208,38 +207,36 @@ short: program
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
   </tr>
   <tr>
-    <td>14:00 - 15:15</td>
-    <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
-      <ul>
-      <li>...</li>
-      </ul>
-    </td>
-  </tr> 
-  <tr>
-    <td>15:15 - 15:30</td>
-    <td class="break">Coffee Break  + NETWORKING </td>
-  </tr>
-  <tr>
-    <td>15:30 - 17:00</td>
+    <td>14:00 - 15:30</td>
     <td><b>PRAGMA Demo Session 2</b> (Chair - TBD, <i>University</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
         <li>...</li>
       </ul>      
+    </td>
+  </tr> 
+  <tr>
+    <td>15:30 - 15:45</td>
+    <td class="break">Coffee Break  + NETWORKING </td>
+  </tr>
+  <tr>
+    <td>15:45- 16:30</td>
+    <td><b>Working Group Summaries and Cross-group discussion</b><br>
+      <ul>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
+        <li>...</li>
       </ul>      
     </td>
   </tr> 
   <tr>
-    <td>17:00 - 17:20</td>
+    <td>16:30 - 16:45</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/26/student-awards.pdf">--><b>Best Poster & Best Presentation Award Ceremony</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
   </tr>
   <tr>
-    <td>17:20 - 18:30</td>
+    <td>16:45 - 17:30</td>
     <td><b>Wrap up & Closing Ceremony</b> (Chair - TBD, <i>University</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/13/sc-meeting.pdf">-->Steering Committee Report<!--</a>--> </li> 
-        <li>Working Groups Summaries 
-		</li> 
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/13/next_pragma.pdf">-->Introduction of Next PRAGMA<!--</a>--> </li>
       </ul>
     </td>
