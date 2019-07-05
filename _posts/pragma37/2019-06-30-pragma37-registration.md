@@ -6,11 +6,9 @@ workshop: pragma37
 short: registration
 ---
 
-Registration will open soon. Please check back later.<br>
+Registration is now open!
 
-<!--Registration is now open!-->
-
-<!--Please register <a href="https://www.myrgst.com:5007/centra4-pragma36/" target="new">HERE</a> -->
+Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdF-uEy-DQVd-hPpn4q0BCtBBNaT2FA76nEOqDhalxseeRiYQ/viewform" target="new">HERE</a> 
 
 Please register by August 30th, 2019 so that accurate head counts are in place for meals and events.<br>
 <br>
