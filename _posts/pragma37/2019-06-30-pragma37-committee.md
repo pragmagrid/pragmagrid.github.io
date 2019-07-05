@@ -12,53 +12,20 @@ short: Committee
 <br>
 
 <div class="border37">Program Committee</div>
-<table class="visa">
-<!--
-<tr>
-  <td><b>Aimee Stewart</b>, KU Biodiversity Institute, USA</td>
-  <td><b>Nadya Williams</b>, University of California San Diego, USA</td>
-</tr>
-<tr>
-  <td><b>Fang Pang Lin</b>, National Center for High-performance Computing, Taiwan</td>
-  <td><b>Peter Azberger</b>, University of California, San Diego, USA</td>
-</tr>
-<tr>
-  <td><b>Habibah A. Wahab</b>, Professor, Universiti Sans Malaysia</td>
-  <td><b>Renato Fuigeredo</b>, University of Florida, USA</td>
-</tr>
-<tr>
-  <td><b>Heru Suhartanto</b>, Universitas Indonesia, Indonesia</td>
-  <td><b>Sri C. Haryanti</b>, Universitas YARSI, Indonesia</td>
-</tr>
-<tr>
-  <td><b>Nurul Hashimah Ahamed Hassain Malim</b>, Universiti Sains Malaysia, Malaysia</td>
-  <td><b>José Fortes</b>, University of Florida, USA</td>
-</tr>
-<tr>
-  <td><b>Hongliang Li</b>, Jilin University, China</td>
-  <td><b>Susumu Date</b>, Osaka University, Japan</td>
-</tr>
-<tr>
-  <td><b>Hsiu-Mei Chou</b>, National Center for High-performance Computing, Taiwan</td>
-  <td><b>Shinji Shimojo</b>, Osaka University, Japan</td>
-</tr>
-<tr>
-  <td><b>Jason Haga</b>, National Institute of Advanced Industrial Science and Technology, Japan</td>
-  <td><b>Siddeswara Guru</b>, University of Queensland, Australia</td>
-</tr>
-<tr>
-  <td><b>Jelina Tetangco</b>, Advanced Science and Technology Institute, Philippine</td>
-  <td><b>Kumwon Cho</b>, Korea Institute of Science and Technology Information, Korea</td>
-</tr>
-<tr>
-  <td><b>Weicheng Huang</b>, National Applied Research Laboratories, Taiwan</td>
-  <td><b>Beth Plale</b>, Indiana University & National Science Foundation (NSF), USA</td>
-</tr>
-<tr>
-  <td><b>Grace Hong</b>, University of Florida, USA</td>
-</tr>
--->
-</table>
+- **Lilian Chan**, University of Hong Kong, Hong Kong
+- **Hsiu-Mei Chou**, National Center for High-performance Computing, Taiwan
+- **Renato Fuigeredo**, University of Florida, USA
+- **Jason Haga**, National Institute of Advanced Industrial Science and Technology, Japan
+- **Sri C. Haryanti**, Universitas YARSI, Indonesia
+- **Weicheng Huang**, National Applied Research Laboratories, Taiwan
+- **Kohei Ichikawa**, Nara Institute of Science and Technology (NAIST), Japan
+- **JongSuk Lee**, Korean Institute of Science and Technology Information (KISTI), South Korea
+- **Hongliang Li**, Jilin University, China
+- **Fang-Pang Lin**, National Center for High-performance Computing, Taiwan
+- **Prapaporn Rattanatamrong**, Thammasat University, Thailand
+- **Yoshio Tanaka**, National Institute of Advanced Industrial Science and Technology, Japan
+- **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan 
+
 <br>
 
 <div class="border37">Demo committee</div>
