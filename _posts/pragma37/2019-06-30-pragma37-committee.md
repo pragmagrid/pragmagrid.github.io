@@ -28,12 +28,11 @@ short: Committee
 
 <br>
 
-<div class="border37">Demo committee</div>
-<!--
-- **Kohei Ichikawa**, National Institute of Advanced Industrial Science and Technology (NAIST), Japan
+<div class="border37">Demo Chairs</div>
 - **Sri C. Haryanti**, Universitas YARSI, Indonesia
--->
-<br><br>
+- **Hsiu-Mei Chou**, National Center for High-performance Computing, Taiwan
+
+<br>
 
 <div class="border37">Student Poster and Lightning Talks</div>
 - **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology, Japan

@@ -48,6 +48,7 @@ select the Demo track.<br>
 
 If you have any questions regarding the demo abstract submission, please
 contact our demo chairs:
-<!--- Kohei Ichikawa, ichikawa@is.naist.jp-->
+
+<a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a>
 
 
