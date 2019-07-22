@@ -185,7 +185,7 @@ short: program
     <td>09:00 - 10:00</td>
     <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) </li> 
         <li>...</li>
       </ul>      
     </td>
