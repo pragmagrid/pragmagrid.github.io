@@ -34,7 +34,7 @@ The submission should cover the following information:
 
 <br/>
 We strongly recommend all submissions use the word template 
-<a href="/images/pragma37/PRAGMA37\ Student\ Presentation\ Abstract\ Template.docx">here</a>.<br>
+<a href="/images/pragma37/PRAGMA37%20Student%20Presentation%20Abstract%20Template.docx">here</a>.<br>
 
 Please submit the completed Word template through
 [EasyChair](https://easychair.org/conferences/?conf=pragma37). Please select
