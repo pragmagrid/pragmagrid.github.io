@@ -27,8 +27,9 @@ information:
 3.	**A brief abstract describing the demo**
 4.	**Requirements for the demo** (e.g. time, network, etc.)
 
+<br/>
 We strongly recommend all submissions use the Word template 
-<a href="/images/PRAGMA_Demo_Abstract_Template_v1.docx">here</a>.<br>
+<a href="/images/pragma37/PRAGMA37_Demo_Abstract_Template_v1.docx">here</a>.<br>
 
 All accepted demo submissions will be presented during the workshop.
 Each demo will be 15mins with 5min for questions.

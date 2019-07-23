@@ -41,7 +41,7 @@ The submission should cover the following information:
 
 <br>
 We strongly recommend all submissions use the word template 
-<a href="/images/PRAGMA_Poster_Abstract_Template_v1.dotx">here</a>.<br>
+<a href="/images/pragma37/PRAGMA37_Poster_Abstract_Template_v1.dotx">here</a>.<br>
 
 All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
@@ -57,7 +57,7 @@ the venue.<br>
 
 <b>Please note the following</b>
 
-1.	Digital file MUST be received by TBD <!--8th April 2019--> to ensure printing.
+1.	Digital file MUST be received by 3rd September 2019 to ensure printing.
 If you miss this deadline you may still participate, however you are
 responsible for printing and transporting your poster.
 2.	Files must be in PDF format
