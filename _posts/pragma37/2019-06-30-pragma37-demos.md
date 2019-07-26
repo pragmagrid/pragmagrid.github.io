@@ -52,4 +52,15 @@ contact our demo chairs:
 
 <a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a>
 
+<div class="border37">Proceedings</div>
+After the workshop, all presenters will be invited to submit a paper, about
+four pages maximum length, related to your demo presentation.  The papers will
+be collected and published on line as the first PRAGMA proceeding and will be
+available at the end of the year 2019.  The proceeding will give broader
+audiences an understanding of how you through PRAGMA are advancing science
+through your works, and for some, it provides a proof for your sponsor that
+your presentation is published in a proceeding.
+
+
+
 
