@@ -113,3 +113,24 @@ table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; }
 .travel tr:nth-child(even):hover { background-color: $bgborder; }
 .travel td { padding : 4px 4px 4px 4px; vertical-align: top;}
 .travel tr,th { width: 10px; }
+
+/* for alert banner */
+.alert {
+  padding: 20px;
+  background-color: #4CAF50;
+  color: white;
+  margin-bottom: 15px;
+  font-weight: bold; 
+  font-size: 125%;
+}
+
+.alert  a:link {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
+
+/* visited link */
+.alert a:visited {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
