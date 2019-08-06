@@ -13,10 +13,14 @@ short: dates
 <li>Registration Closes - August 30, 2019</li><br>
 
 <div class="border37">Poster <!--(Chair: Jason Haga and Wassapon "Boom" Watanakeesuntorn) --></div>
-<li>Deadline for abstract submission: August 6th, 2019</li>
+<li>Deadline for abstract submission: August 9th, 2019</li>
 <li>Author notification: August 16th, 2019</li>
 <li>File submission for free poster printing: September 3rd, 2019</li><br>
 
 <div class="border37">Demo <!--(Chair: Kohei Ichikawa)--> </div>
-<li>Deadline for abstract submission: August 6th, 2019</li>
+<li>Deadline for abstract submission: August 9th, 2019</li>
+<li>Author notification: August 16th, 2019</li>
+
+<div class="border37">Student Workshop Presentations<!--(Chair: Kohei Ichikawa)--> </div>
+<li>Deadline for abstract submission: August 9th, 2019</li>
 <li>Author notification: August 16th, 2019</li>
