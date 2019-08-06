@@ -19,7 +19,7 @@ short: dates
 
 <div class="border37">Demo <!--(Chair: Kohei Ichikawa)--> </div>
 <li>Deadline for abstract submission: August 9th, 2019</li>
-<li>Author notification: August 16th, 2019</li>
+<li>Author notification: August 16th, 2019</li><br>
 
 <div class="border37">Student Workshop Presentations<!--(Chair: Kohei Ichikawa)--> </div>
 <li>Deadline for abstract submission: August 9th, 2019</li>
