@@ -17,7 +17,7 @@ one-minute lightning talk session</a>.
 
 
 <div class="border37">Important Dates</div>
-- Submission deadline: August 6th, 2019.
+- Submission deadline: August 9th, 2019.
 - Author notification: August 16th, 2019.
 - Workshop registration deadline: Aug. 30th, 2019. 
 

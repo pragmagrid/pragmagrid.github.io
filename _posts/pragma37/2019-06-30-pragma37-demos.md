@@ -13,7 +13,7 @@ the community. All PRAGMA 37 attendees are encouraged to submit abstracts to
 the demo sessions.
 
 <div class="border37">Important Dates</div>
-- Submission deadline: August 6th, 2019.
+- Submission deadline: August 9th, 2019.
 - Author notification: August 16th, 2019.
 
 <br>
