@@ -17,22 +17,19 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td> </td>
-    <td>Chair - Jason Haga, <i>AIST</i> </td>
-  </tr>  
-  <tr>
     <td>08:30 - 09:30</td>
     <td>Breakfast + Registration</td>
   </tr>
   <tr>
-    <td>9:30am - 11:30am</td>
-    <td><b>Introduction to SAGE2</b>
+    <td> </td>
+    <td>Chairs - Jason Haga (<i>AIST</i>) and Prapaporn Rattanatamrong
+    (<i>Thammasat University</i>)</td>
+  </tr>  
+  <tr>
+    <td>9:30 - 12:00</td>
+    <td><b><a href="/pragma37-sage2">CyberCANOE and SAGE2 Training Workshop</a></b>
     </td>
   </tr>
-  <tr>
-    <td>11:45 - 12:00</td>
-    <td>Wrap-Up</td>
-  </tr>    
   <tr>
     <td>12:00 - 13:00</td>
     <td class="break">Lunch </td>
