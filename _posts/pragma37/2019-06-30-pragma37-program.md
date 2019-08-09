@@ -10,7 +10,7 @@ short: program
 [Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
 <br>
-<div class="border37" id="day1">Day 1 (September 11, Wednesday) : SAGE2 Tutorial</div>
+<div class="border37" id="day1">Day 1 (September 11, Wednesday) : CyberCANOE and SAGE2 Training Workshop</div>
 <table class="program37">
   <tr>
     <th>Time</th>
