@@ -22,7 +22,7 @@ href="https://www.marriott.com/hotels/travel/sanjs-sheraton-la-jolla-hotel/">She
 The hotel block is full so you can no longer use the website directly but we
 can still make the reservation for you if you send us your arrival and departure
 dates.  Click <a
-href="mailto:jnguyen@eng.ucsd.edu?subject=pragma37%20hotel%20reservation&cc=ssmallen@ucsd.edu">here to send us email</a>.
+href="mailto:jnguyen@eng.ucsd.edu?subject=pragma37%20hotel%20reservation&cc=ssmallen@ucsd.edu">here to send us email</a> <b>no later than August 16</b> to secure your rate.
 
 <!--
 Click
