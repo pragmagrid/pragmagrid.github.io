@@ -19,12 +19,17 @@ is the home of <a href="http://qi.ucsd.edu/">Qualcomm Institute-Calit2</a>.
 We have a room block at the <a
 href="https://www.marriott.com/hotels/travel/sanjs-sheraton-la-jolla-hotel/">Sheraton La Jolla Hotel</a> for $164/night.
 
+The hotel block is full so you can no longer use the website directly but we
+can still make the reservation for you if you send us your arrival and departure
+dates.  Click <a
+href="mailto:jnguyen@eng.ucsd.edu?subject=pragma37%20hotel%20reservation&cc=ssmallen@ucsd.edu">here to send us email</a>.
 
+<!--
 Click
 <a
 href="https://www.marriott.com/events/start.mi?id=1564094185230&key=GRP">here
 to book your group rate for PRAGMA 37</a> or call the hotel
 directly at 1-800-325-3535 and ask for the PRAGMA 37 group rate <b>no later than
 August 16</b> to secure your rate.
-
+-->
 
