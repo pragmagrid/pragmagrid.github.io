@@ -104,7 +104,7 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>09:50 - 10:20</td>
+    <td>09:50 - 10:10</td>
     <td><b>Working Groups Update</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Cyber Learning<!--</a>--></li> 
@@ -113,32 +113,29 @@ short: program
     </td>
   </tr>  
   <tr>
-    <td>10:20 - 10:50</td>
+    <td>10:10 - 10:40</td>
     <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
-    <td>10:50 - 11:20</td>
-    <td><b>Keynote Talk</b> (Chair - TBD, <i>University</i>)<br>
-      <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>)   </li> 
-      </ul>
-    </td>
+    <td>&nbsp;</td>
+    <td><b>Invited Talks</b> (Chair - TBD, <i>University</i>)</td>
   </tr>
   <tr>
-    <td>11:20 - 12:00</td>
-    <td><b>Invited Talks</b> (PRAGMA Speaker) (Chair - TBD, <i>University</i>) <br>
-      <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Campus Infrastructure</b><!--</a>--> (Philip Papadopoulos, <i>UC Irvine, USA</i>) </li> 
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Pacific Research Platform</b><!--</a>--> (Tom Defanti, <i>UC San Diego, USA</i>) </li> 
-      </ul>
-    </td>
-  </tr>  
+    <td>10:40 - 11:10</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">-->The Maritime Alliance, BlueTech and International Collaboration <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>) </td>
+  </tr> <tr>
+    <td>11:10 - 11:40</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Campus Infrastructure<!--</a>--> (Philip Papadopoulos, <i>UC Irvine, USA</i>) </td>
+  </tr><tr>
+    <td>11:40 - 12:10</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Pacific Research Platform<!--</a>--> (Tom Defanti, <i>UC San Diego, USA</i>) </td>
+  </tr>
   <tr>
-    <td>12:00 - 13:00</td>
+    <td>12:10 - 13:10</td>
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:00 - 14:30</td>
+    <td>13:10 - 14:30</td>
     <td><b>PRAGMA Working Groups Breakouts Session 1:</b> <br>
     </td>
   </tr>
