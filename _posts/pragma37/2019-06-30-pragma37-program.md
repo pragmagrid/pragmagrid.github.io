@@ -180,7 +180,7 @@ short: program
     <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) </li> 
-        <li>...</li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
       </ul>      
     </td>
   </tr>
