@@ -145,10 +145,11 @@ short: program
   </tr>
   <tr>
     <td>15:00 - 16:00</td>
-    <td><b>PRAGMA Demo Session 1</b> (Chair - TBD, <i>University</i>) 
+    <td><b>PRAGMA Demo Session 1</b> (Sri C. Haryanti, <i>Universitas YARSI</i>) 
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
-        <li>...</li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b><!--</a>--> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
+        <li><b>Lifemapper on SAGE2</b> (Michael Elliott and Jose Fortes)</li>
+        <li><b>Near Real-time Failover Model for Continuous Inter-Domain Communication</b> <br/>(Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa and Atsuko Takefusa)</li>
       </ul>      
     </td>
   </tr>  
@@ -202,10 +203,12 @@ short: program
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
-    <td><b>PRAGMA Demo Session 2</b> (Chair - TBD, <i>University</i>) 
+    <td><b>PRAGMA Demo Session 2</b> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>) 
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
-        <li>...</li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Scalable Layer 2 Topology and Forwarding for the Fog</b><!--</a>--> <br/>(Kensworth Subratie, Renato Figueiredo, Prapaporn Rattanatamrong, Yutthana Boonpalit and Siwakorn Suwannajinda) </li> 
+        <li><b>Open science and smart and connected communities: an
+        architectural investigation</b> <br/> (Yu Luo, Beth Plale, Martin
+        Swany and Jeremy Musser)</li>
       </ul>      
     </td>
   </tr> 
