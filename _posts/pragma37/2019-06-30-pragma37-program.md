@@ -52,22 +52,37 @@ short: program
   </tr>
    <tr>
     <td>13:00 - 13:10</td>
-    <td><!-- <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/students-introduction.pdf">--><b>Introduction</b><!--</a>--></td>
+    <td><!-- <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/students-introduction.pdf">--><b>Introduction</b> (each talk below is 15 minutes + 5 mins questions/comments)<!--</a>--></td>
   </tr>
    <tr>
-    <td>13:10 - 13:25</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Title</b></a> (Speaker, <i>University, Country</i>)</td>
-  </tr>  
+    <td>13:10 - 13:30</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Lifemapper on SAGE2</b></a> (Michael Elliott, <i>University of Florida, USA</i>)</td>
+   </tr><tr>
+    <td>13:30 - 13:50</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Integrated Application and Performance Monitoring at the IoT Edge</b></a> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
+    </tr><tr>
+    <td>13:50 - 14:10</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices</b></a> (Vahid Daneshmand <i>University of Florida, USA</i>)</td>
+    </tr><tr>
   <tr>
-    <td>15:25 - 15:45</td>
+    <td>14:10 - 14:30</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
-   <tr>
-    <td>15:45 - 16:00</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Title</b></a> (Speaker, <i>University, Country</i>)</td>
+    <td>14:30 - 14:50</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Punica Granatum Floral Pattern Vector Graphics Synthesis</b></a> (Pinyi Wu	<i>National Taipei University of Technology, Taiwan</i>)</td>
+    </tr><tr>
+    <td>14:50 - 15:10</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Application of Deep Learning Technique to Real-time Crop Classification and Rice Lodging Identification</b></a> (Hsin-Hung Tseng <i>National Chung Hsing University, Taiwan</i>)</td>
+    </tr><tr>
+    <td>15:10 - 15:40</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>An Interactive Monitoring Tool for OpenFlow Networks</b></a> (Wassapon Watanakeesuntorn <i>Nara Institute of Science and Technology, Japan</i>)</td>
   </tr>  
+</table>
+
+<div class="border37" id="day1">Day 1 (September 11, Wednesday) : PRAGMA Welcome Reception</div>
+<table class="program37">
   <tr>
-    <td>18:30 - 20:00</td>
+    <td>18:00 - 20:00</td>
      <td class="break">PRAGMA Welcome Reception</td>
   </tr>
 </table>
@@ -148,18 +163,25 @@ short: program
     <td><b>PRAGMA Demo Session 1</b> (Sri C. Haryanti, <i>Universitas YARSI</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b><!--</a>--> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
-        <li><b>Lifemapper on SAGE2</b> (Michael Elliott and Jose Fortes)</li>
+        <li><b>Lifemapper on SAGE2</b> <br/>(Michael Elliott and Jose Fortes)</li>
         <li><b>Near Real-time Failover Model for Continuous Inter-Domain Communication</b> <br/>(Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa and Atsuko Takefusa)</li>
       </ul>      
     </td>
   </tr>  
   <tr>
-    <td>16:00 - 17:15</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightening Talks</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
+    <td>16:00 - 16:20</td>
+    <td><b>Invited talk:</b> <b>The Open Science Grid</b> (Igor Sfiligoi, <i>University of California, San Diego, USA</i>)</td>
+  </tr>
+  <tr>
+    <td>16:00 - 16:25</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>
+Nara Institute of Science and Technology</td>
   </tr>
     <tr>
-    <td>17:15 - 18:15</td>
-    <td><b>PRAGMA Poster Session</b> (Chair - TBD, <i>University</i>)<br>
+    <td>16:25 - 18:00</td>
+    <td><b>PRAGMA Poster Session + Hors d'oeuvres</b> (Wassapon Watanakeesuntorn, <i>NAIST</i>)<br>
+         Click <a href="/pragma37-program-posters">here</a> for the
+         list of posters.
          <!--See available posters in this <a href="https://github.com/pragmagrid/pragma-meetings/tree/master/pragma37/posters">repository</a>-->
 	</td>  
   </tr>
