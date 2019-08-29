@@ -175,7 +175,6 @@ short: program
   <tr>
     <td>16:00 - 16:25</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>
-Nara Institute of Science and Technology</td>
   </tr>
     <tr>
     <td>16:25 - 18:00</td>
@@ -199,7 +198,7 @@ Nara Institute of Science and Technology</td>
     <th>Activity</th>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
+    <td>08:30 - 09:30</td>
     <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) </li> 
@@ -208,11 +207,15 @@ Nara Institute of Science and Technology</td>
     </td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
+    <td>09:30 - 10:30</td>
+    <td><b>Tentative Panel</b></td>
+  </tr>
+  <tr>
+    <td>10:30 - 11:00</td>
     <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
-    <td>10:30 - 12:00</td>
+    <td>11:00 - 12:30</td>
     <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
       <ul>
       <li>...</li>
@@ -220,11 +223,11 @@ Nara Institute of Science and Technology</td>
     </td>
   </tr>
   <tr>
-    <td>12:00 - 14:00</td>
+    <td>12:30 - 14:30</td>
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
   </tr>
   <tr>
-    <td>14:00 - 15:30</td>
+    <td>14:30 - 15:30</td>
     <td><b>PRAGMA Demo Session 2</b> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Scalable Layer 2 Topology and Forwarding for the Fog</b><!--</a>--> <br/>(Kensworth Subratie, Renato Figueiredo, Prapaporn Rattanatamrong, Yutthana Boonpalit and Siwakorn Suwannajinda) </li> 
