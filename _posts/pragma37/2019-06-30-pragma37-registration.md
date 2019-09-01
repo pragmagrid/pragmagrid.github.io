@@ -6,11 +6,8 @@ workshop: pragma37
 short: registration
 ---
 
-Registration is now open!
+Registration is now closed.  
 
-Please register <a href="https://docs.google.com/forms/d/e/1FAIpQLSdF-uEy-DQVd-hPpn4q0BCtBBNaT2FA76nEOqDhalxseeRiYQ/viewform" target="new">HERE</a> 
-
-Please register by August 30th, 2019 so that accurate head counts are in place for meals and events.<br>
 <br>
 Please contact Johnny Nguyen at <a href="mailto:jnguyen@eng.ucsd.edu">[jnguyen@eng.ucsd.edu]</a>: <br>
 <ul>
