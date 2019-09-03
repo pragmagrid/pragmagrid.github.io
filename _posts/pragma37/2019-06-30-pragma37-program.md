@@ -32,7 +32,7 @@ short: program
   </tr>
   <tr>
     <td>12:00 - 13:00</td>
-    <td class="break">Lunch </td>
+    <td class="break">Lunch</td>
   </tr>
 </table>
 
@@ -198,11 +198,14 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>08:30 - 09:30</td>
+    <td>08:00 - 09:00</td>
+    <td><b>Breakfast</b></td>
+  </tr>
+  <tr>
+    <td>09:00 - 09:30</td>
     <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) </li> 
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
       </ul>      
     </td>
   </tr>
@@ -215,7 +218,20 @@ short: program
     <td class="break"><b>Coffee Break + NETWORKING</b></td>
   </tr>
   <tr>
-    <td>11:00 - 12:30</td>
+    <td>11:00 - 12:00</td>
+    <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
+      <ul>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The Open Science Grid</b><!--</a>--> (<i>University of California, San Diego, USA</i>) </li> 
+      </ul>      
+    </td>
+  </tr>
+  <tr>
+    <td>12:00 - 14:00</td>
+    <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
+  </tr>
+  <tr>
+    <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
       <ul>
       <li>...</li>
@@ -223,26 +239,21 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>12:30 - 14:30</td>
-    <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
+    <td>15:15 - 15:45</td>
+    <td class="break">Coffee Break  + NETWORKING</td>
   </tr>
   <tr>
-    <td>14:30 - 15:30</td>
+    <td>15:45 - 16:45</td>
     <td><b>PRAGMA Demo Session 2</b> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Scalable Layer 2 Topology and Forwarding for the Fog</b><!--</a>--> <br/>(Kensworth Subratie, Renato Figueiredo, Prapaporn Rattanatamrong, Yutthana Boonpalit and Siwakorn Suwannajinda) </li> 
         <li><b>Open science and smart and connected communities: an
-        architectural investigation</b> <br/> (Yu Luo, Beth Plale, Martin
-        Swany and Jeremy Musser)</li>
+        architectural investigation</b> <br/> (Yu Luo, Beth Plale, Martin Swany and Jeremy Musser)</li>
       </ul>      
     </td>
   </tr> 
   <tr>
-    <td>15:30 - 15:45</td>
-    <td class="break">Coffee Break  + NETWORKING </td>
-  </tr>
-  <tr>
-    <td>15:45- 16:30</td>
+    <td>16:45 - 17:30</td>
     <td><b>Working Group Summaries and Cross-group discussion</b><br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
@@ -251,11 +262,11 @@ short: program
     </td>
   </tr> 
   <tr>
-    <td>16:30 - 16:45</td>
+    <td>17:30 - 17:45</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/26/student-awards.pdf">--><b>Best Poster & Best Presentation Award Ceremony</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
   </tr>
   <tr>
-    <td>16:45 - 17:30</td>
+    <td>17:45 - 18:15</td>
     <td><b>Wrap up & Closing Ceremony</b> (Chair - TBD, <i>University</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/13/sc-meeting.pdf">-->Steering Committee Report<!--</a>--> </li> 
@@ -264,7 +275,7 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>18:30 - 20:00</td>
+    <td>18:15 - 20:00</td>
     <td class="break"><b>Farewell Dinner</b></td>
   </tr>
 </table>
