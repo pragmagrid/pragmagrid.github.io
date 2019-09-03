@@ -103,7 +103,7 @@ short: program
     <td><b>Breakfast + Registration</b></td>
   </tr>
   <tr>
-    <td>09:00 - 09:20</td>
+    <td>09:00 - 09:10</td>
     <td><b>Opening Ceremony</b> (Chair - Shava Smallen, <i>UCSD</i>)<br>
       <ul>        
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>Speech by Dr. Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
@@ -111,7 +111,7 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>09:20 - 09:50</td>
+    <td>09:10 - 09:40</td>
     <td><b>PRAGMA Welcoming Statement</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
       <ul>        
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/pragma37-updates.pdf">--><b>Speech by Shava Smallen</b><!--</a>-->, <i>PRAGMA Co-Chair</i></li>
@@ -119,7 +119,7 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>09:50 - 10:10</td>
+    <td>09:40 - 10:00</td>
     <td><b>Working Groups Update</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Cyber Learning<!--</a>--></li> 
@@ -128,7 +128,7 @@ short: program
     </td>
   </tr>  
   <tr>
-    <td>10:10 - 10:40</td>
+    <td>10:00 - 10:30</td>
     <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
@@ -136,21 +136,21 @@ short: program
     <td><b>Invited Talks</b> (Chair - TBD, <i>University</i>)</td>
   </tr>
   <tr>
-    <td>10:40 - 11:10</td>
+    <td>10:30 - 11:00</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">-->The Maritime Alliance, BlueTech and International Collaboration <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>) </td>
   </tr> <tr>
-    <td>11:10 - 11:40</td>
+    <td>11:00 - 11:30</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Campus Infrastructure<!--</a>--> (Philip Papadopoulos, <i>UC Irvine, USA</i>) </td>
   </tr><tr>
-    <td>11:40 - 12:10</td>
+    <td>11:30 - 12:00</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Pacific Research Platform<!--</a>--> (Tom Defanti, <i>UC San Diego, USA</i>) </td>
   </tr>
   <tr>
-    <td>12:10 - 13:10</td>
+    <td>12:00 - 13:00</td>
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:10 - 14:30</td>
+    <td>13:40 - 14:30</td>
     <td><b>PRAGMA Working Groups Breakouts Session 1:</b> <br>
     </td>
   </tr>
@@ -168,10 +168,6 @@ short: program
       </ul>      
     </td>
   </tr>  
-  <tr>
-    <td>16:00 - 16:20</td>
-    <td><b>Invited talk:</b> <b>The Open Science Grid</b> (Igor Sfiligoi, <i>University of California, San Diego, USA</i>)</td>
-  </tr>
   <tr>
     <td>16:00 - 16:25</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>
