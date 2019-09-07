@@ -199,15 +199,21 @@ short: program
   </tr>
   <tr>
     <td>09:00 - 09:30</td>
-    <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
-      <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) </li> 
-      </ul>      
+    <td>
+        <!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Invited Talk: Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) 
     </td>
   </tr>
   <tr>
     <td>09:30 - 10:30</td>
-    <td><b>Tentative Panel</b></td>
+    <td><b>Panel: PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</b> (Moderated by Beth Plale, <i>Indiana University, USA</i>)<br/>
+      <ul>
+        <li>Yoshio Tanaka (<i>National Institute of Advanced Industrial Science
+        and Technology, Japan)</i></li>
+        <li>Ruth Lee (<i>Korea Institute of Science and Technology Information, South Korea</i>)</li>
+        <li>Paul Hanson (<i>University of Wisconsin, USA</i>)</li>
+        <li>Renato Figueiredo (<i>University of Florida, USA</i>)</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
