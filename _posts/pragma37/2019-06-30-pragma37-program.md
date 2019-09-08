@@ -22,8 +22,8 @@ short: program
   </tr>
   <tr>
     <td> </td>
-    <td>Chairs - Jason Haga (<i>AIST</i>) and Prapaporn Rattanatamrong
-    (<i>Thammasat University</i>)</td>
+    <td>Chairs - Jason Haga (<i>National Institute of Advanced Industrial Science and Technology, Japan</i>) and Prapaporn Rattanatamrong
+    (<i>Thammasat University, Thailand</i>)</td>
   </tr>  
   <tr>
     <td>9:30 - 12:00</td>
@@ -44,7 +44,7 @@ short: program
   </tr>
   <tr>
     <td> </td>
-    <td>Chair - Wassapon Watanakeesuntorn, <i>NAIST</i> </td>
+    <td>Chair - Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i> </td>
   </tr>  
   <tr>
     <td>12:00 - 13:00</td>
@@ -56,26 +56,29 @@ short: program
   </tr>
    <tr>
     <td>13:10 - 13:30</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Lifemapper on SAGE2</b></a> (Michael Elliott, <i>University of Florida, USA</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>An Interactive Monitoring Tool for OpenFlow Networks</b><!--</a>--> (Wassapon Watanakeesuntorn <i>Nara Institute of Science and Technology, Japan</i>)</td>
    </tr><tr>
     <td>13:30 - 13:50</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Integrated Application and Performance Monitoring at the IoT Edge</b></a> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Integrated Application and Performance Monitoring at the IoT Edge</b><!--</a>--> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
     </tr><tr>
     <td>13:50 - 14:10</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices</b></a> (Vahid Daneshmand <i>University of Florida, USA</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices</b><!--</a>--> (Vahid Daneshmand <i>University of Florida, USA</i>)</td>
     </tr><tr>
   <tr>
     <td>14:10 - 14:30</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
     <td>14:30 - 14:50</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Punica Granatum Floral Pattern Vector Graphics Synthesis</b></a> (Pinyi Wu	<i>National Taipei University of Technology, Taiwan</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Lifemapper on SAGE2</b><!--</a>--> (Michael Elliott, <i>University of Florida, USA</i>)</td>
     </tr><tr>
     <td>14:50 - 15:10</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>Application of Deep Learning Technique to Real-time Crop Classification and Rice Lodging Identification</b></a> (Hsin-Hung Tseng <i>National Chung Hsing University, Taiwan</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Application of Deep Learning Technique to Real-time Crop Classification and Rice Lodging Identification</b><!--</a>--> (Hsin-Hung Tseng <i>National Chung Hsing University, Taiwan</i>)</td>
     </tr><tr>
-    <td>15:10 - 15:40</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf"><b>An Interactive Monitoring Tool for OpenFlow Networks</b></a> (Wassapon Watanakeesuntorn <i>Nara Institute of Science and Technology, Japan</i>)</td>
+    <td>15:10 - 15:30</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Punica Granatum Floral Pattern Vector Graphics Synthesis</b><!--</a>--> (Pinyi Wu	<i>National Taipei University of Technology, Taiwan</i>)</td>
+    </tr><tr>
+    <td>15:30 - 15:50</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>5G Mobile Platform with P4-enabled Network Slicing and MEC</b><!--</a>--> (YiHsuan Huang <i>National Chung Hsing University, Taiwan</i>)</td>
   </tr>  
 </table>
 
@@ -170,11 +173,11 @@ short: program
   </tr>  
   <tr>
     <td>16:00 - 16:25</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Wassapon Watanakeesuntorn, <i>NAIST</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Michael Elliott, <i>University of Florida, USA</i>)</td>
   </tr>
     <tr>
     <td>16:25 - 18:00</td>
-    <td><b>PRAGMA Poster Session + Hors d'oeuvres</b> (Wassapon Watanakeesuntorn, <i>NAIST</i>)<br>
+    <td><b>PRAGMA Poster Session + Hors d'oeuvres</b> (Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)<br>
          Click <a href="/pragma37-program-posters">here</a> for the
          list of posters.
          <!--See available posters in this <a href="https://github.com/pragmagrid/pragma-meetings/tree/master/pragma37/posters">repository</a>-->
@@ -265,7 +268,7 @@ short: program
   </tr> 
   <tr>
     <td>17:30 - 17:45</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/26/student-awards.pdf">--><b>Best Poster & Best Presentation Award Ceremony</b><!--</a>--> (Chair - TBD, <i>University</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/26/student-awards.pdf">--><b>Best Poster & Best Presentation Award Ceremony</b><!--</a>--> (Chairs - Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
   </tr>
   <tr>
     <td>17:45 - 18:15</td>
