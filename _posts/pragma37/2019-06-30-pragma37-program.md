@@ -10,6 +10,12 @@ short: program
 [Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
 <br>
+<div class="alert">
+  <center>
+    <b>The PRAGMA 37 workshop will be hosted at: <a href="https://www.google.com/maps/place/Qualcomm+Institute/@32.8825629,-117.2355407,19z/data=!4m5!3m4!1s0x0:0x60abc1fb2e4a4991!8m2!3d32.8824851!4d-117.2347041">QI/CalIT/Atkinson</a> Theater (VRoom)</b>
+  </center>
+</div>
+
 <div class="border37" id="day1">Day 1 (September 11, Wednesday) : CyberCANOE and SAGE2 Training Workshop</div>
 <table class="program37">
   <tr>
@@ -21,13 +27,13 @@ short: program
     <td>Breakfast + Registration</td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Chairs - Jason Haga (<i>National Institute of Advanced Industrial Science and Technology, Japan</i>) and Prapaporn Rattanatamrong
-    (<i>Thammasat University, Thailand</i>)</td>
-  </tr>  
-  <tr>
     <td>9:30 - 12:00</td>
-    <td><b><a href="/pragma37-sage2">CyberCANOE and SAGE2 Training Workshop</a></b>
+    <td><b><a href="/pragma37-sage2">CyberCANOE and SAGE2 Training Workshop</a></b> <br/>
+        <b>Presented by:</b> 
+        <ul>
+          <li><b>Jason Haga</b> (<i>National Institute of Advanced Industrial Science and Technology, Japan</i>)</li>
+          <li><b>Prapaporn Rattanatamrong</b> (<i>Thammasat University, Thailand</i>)</li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -56,7 +62,7 @@ short: program
   </tr>
    <tr>
     <td>13:10 - 13:30</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>An Interactive Monitoring Tool for OpenFlow Networks</b><!--</a>--> (Wassapon Watanakeesuntorn <i>Nara Institute of Science and Technology, Japan</i>)</td>
+    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>An Interactive Monitoring Tool for OpenFlow Networks</b><!--</a>--> (Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)</td>
    </tr><tr>
     <td>13:30 - 13:50</td>
     <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Integrated Application and Performance Monitoring at the IoT Edge</b><!--</a>--> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
@@ -86,7 +92,7 @@ short: program
 <table class="program37">
   <tr>
     <td>18:00 - 20:00</td>
-     <td class="break">PRAGMA Welcome Reception</td>
+     <td class="break">PRAGMA Welcome Reception at <a href="https://www.bellavistacaffe.com/">Bella Vista Social Club & Caffe</a></td>
   </tr>
 </table>
 
@@ -106,55 +112,51 @@ short: program
     <td><b>Breakfast + Registration</b></td>
   </tr>
   <tr>
-    <td>09:00 - 09:10</td>
-    <td><b>Opening Ceremony</b> (Chair - Shava Smallen, <i>UCSD</i>)<br>
+    <td>09:00 - 10:00</td>
+    <td><b>Opening Ceremony</b> (Chair - Shava Smallen, <i>University of California, San Diego, USA</i>)<br>
       <ul>        
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>Speech by Dr. Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>(10m) Speech by Dr. Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/pragma37-updates.pdf">--><b>(30m) PRAGMA 37: Overview and Updates</b> (Shava Smallen, <i>PRAGMA Co-Chair</i>)</li>
+        <li><b>(20m) Working Groups Update</b><br>
+          <ul>
+            <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Data/Cyberlearning<!--</a>--> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>)</li> 
+            <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-tele-update.pdf">-->Telesciences<!--</a>--> (Shinji Shimojo <i>Osaka University, Japan</i>)</li> 
+          </ul>
+        </li>
       </ul>
     </td>
   </tr>
-  <tr>
-    <td>09:10 - 09:40</td>
-    <td><b>PRAGMA Welcoming Statement</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
-      <ul>        
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/pragma37-updates.pdf">--><b>Speech by Shava Smallen</b><!--</a>-->, <i>PRAGMA Co-Chair</i></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>09:40 - 10:00</td>
-    <td><b>Working Groups Update</b>  (Chair - Shava Smallen, <i>UCSD</i>)<br>
-      <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Cyber Learning<!--</a>--></li> 
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-tele-update.pdf">-->Telesciences<!--</a>--></li> 
-      </ul>
-    </td>
-  </tr>  
   <tr>
     <td>10:00 - 10:30</td>
     <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
-    <td>&nbsp;</td>
-    <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)</td>
-  </tr>
-  <tr>
-    <td>10:30 - 11:00</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">-->The Maritime Alliance, BlueTech and International Collaboration <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>) </td>
-  </tr> <tr>
-    <td>11:00 - 11:30</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Campus Infrastructure<!--</a>--> (Philip Papadopoulos, <i>UC Irvine, USA</i>) </td>
-  </tr><tr>
-    <td>11:30 - 12:00</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">-->Pacific Research Platform<!--</a>--> (Tom Defanti, <i>UC San Diego, USA</i>) </td>
-  </tr>
+    <td>10:30 - 12:00</td>
+    <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)<
+      <ul>
+        <li> <!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">--><b>(30m) The Maritime Alliance, BlueTech and International Collaboration</b> <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>)</li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Campus Infrastructure</b><!--</a>--> (Philip Papadopoulos, <i>University of California, Irvine, USA</i>) </li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Pacific Research Platform</b><!--</a>--> (Tom Defanti, <i>University of California, San Diego, USA</i>) </li>
+      </ul>
+    </td>
+  </tr> 
   <tr>
     <td>12:00 - 13:00</td>
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:40 - 14:30</td>
-    <td><b>PRAGMA Working Groups Breakouts Session 1:</b> <br>
+    <td>13:00 - 14:30</td>
+    <td><b>PRAGMA Working Groups Breakouts Session 1</b> 
+      <ul>
+        <li>Resources/Data/Cyberlearning
+          <ul>
+            <li>AI Focus Group - Auditorium</li>
+            <li>DTN and data transfer focus group - Room 4004</li>
+            <li>Edge computing focus group - Room 5004</li>
+            <li>EDISON focus group - Auditorium</li>
+          </ul></li>
+        <li>Telescience - Auditorium</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -163,7 +165,7 @@ short: program
   </tr>
   <tr>
     <td>15:00 - 16:00</td>
-    <td><b>PRAGMA Demo Session 1</b> (Sri C. Haryanti, <i>Universitas YARSI</i>) 
+    <td><b>PRAGMA Demo Session 1</b> (Chair: Sri C. Haryanti, <i>Universitas YARSI, Indonesia</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b><!--</a>--> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
         <li><b>Lifemapper on SAGE2</b> <br/>(Michael Elliott and Jose Fortes)</li>
@@ -177,7 +179,7 @@ short: program
   </tr>
     <tr>
     <td>16:25 - 18:00</td>
-    <td><b>PRAGMA Poster Session + Hors d'oeuvres</b> (Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)<br>
+    <td><b>PRAGMA Poster Session + Hors d'oeuvres</b> (Chair: Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)<br>
          Click <a href="/pragma37-program-posters">here</a> for the
          list of posters.
          <!--See available posters in this <a href="https://github.com/pragmagrid/pragma-meetings/tree/master/pragma37/posters">repository</a>-->
@@ -201,20 +203,18 @@ short: program
     <td><b>Breakfast</b></td>
   </tr>
   <tr>
-    <td>09:00 - 09:30</td>
-    <td>
-        <!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Invited Talk: Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>) 
-    </td>
-  </tr>
-  <tr>
-    <td>09:30 - 10:30</td>
-    <td><b>Panel: PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</b> (Moderated by Beth Plale, <i>Indiana University, USA</i>)<br/>
+    <td>09:00 - 10:00</td>
+    <td><b>Morning Session</b> (Chair and Moderator: Beth Plale, <i>Indiana University, USA</i>)
+      <ul>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Invited Talk: Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>)</li> 
+       <li><b>(60m) Panel: PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</b>
       <ul>
         <li>Yoshio Tanaka (<i>National Institute of Advanced Industrial Science
         and Technology, Japan)</i></li>
         <li>Ruth Lee (<i>Korea Institute of Science and Technology Information, South Korea</i>)</li>
         <li>Paul Hanson (<i>University of Wisconsin, USA</i>)</li>
         <li>Renato Figueiredo (<i>University of Florida, USA</i>)</li>
+      </ul></li>
       </ul>
     </td>
   </tr>
@@ -226,8 +226,8 @@ short: program
     <td>11:00 - 12:00</td>
     <td><b>Invited Talks</b> (Chair: Prapaporn Rattanatamrong, <i>Thammasat University, Thailand</i>)<br>
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The Open Science Grid</b><!--</a>--> (<i>University of California, San Diego, USA</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(20m) The Open Science Grid</b><!--</a>--> (<i>University of California, San Diego, USA</i>) </li> 
       </ul>      
     </td>
   </tr>
@@ -239,7 +239,14 @@ short: program
     <td>14:00 - 15:15</td>
     <td><b>PRAGMA Working Groups Breakouts Session 2: </b> <br>
       <ul>
-      <li>...</li>
+        <li>Resources/Data/Cyberlearning
+          <ul>
+            <li>AI focus group</li>
+            <li>DTN and data transfer focus group</li>
+            <li>Edge computing focus group</li>
+            <li>EDISON focus group</li>
+          </ul></li>
+        <li>Telescience</li>
       </ul>
     </td>
   </tr>
@@ -260,11 +267,7 @@ short: program
   <tr>
     <td>16:45 - 17:30</td>
     <td><b>Working Group Summaries and Cross-group discussion</b> (Chair: Kohei
-    Ichikawa <i>Nara Institute of Science and Technology, Japan</i><br>
-      <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
-        <li>...</li>
-      </ul>      
+    Ichikawa, <i>Nara Institute of Science and Technology, Japan</i><br>
     </td>
   </tr> 
   <tr>
@@ -290,7 +293,7 @@ short: program
 
 <br>
 
-<div class="border37" id="day4">Day 4 (September 14, Saturday) : Networking and Collaboration Day  </div><br>
+<div class="border37" id="day4">Day 4 (September 14, Saturday) : Networking and Collaboration Day  </div>
 
 <table class="program37">
 <tr><td>
@@ -311,7 +314,7 @@ directly to the airport afterwards. Once at Balboa park, guests are welcome to t
 park, do some short hikes, visit some of the museums, or simply relax and
 enjoy the scenery. Johnny will be collecting museum preferences during the
 workshop and will purchase tickets for those who are interested.  We will
-reconvene for a picnic lunch ~12pm.  After lunch, we can coordinate rides to
+reconvene for a picnic lunch ~12pm.  After lunch, we will coordinate rides to
 the airport or back to the Sheraton.  Guests who have more time, may want to
 visit Old Town, Coronado, or Downtown afterwards.  </p>
 
