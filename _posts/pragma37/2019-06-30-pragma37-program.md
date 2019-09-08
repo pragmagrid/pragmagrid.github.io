@@ -288,7 +288,41 @@ short: program
 
 <div class="border37" id="day4">Day 4 (September 14, Saturday) : Networking and Collaboration Day  </div><br>
 
-TBD
+<table class="program37">
+<tr><td>
+<b>09:00 - 13:30</b>
+<br>(flexible)
+</td><td>
+<p><b><a href="https://www.balboapark.org/">Balboa Park</a></b> </p>
+
+<p>"Balboa Park is a 1,200-acre urban cultural park in San Diego, California,
+United States. In addition to open space areas, natural vegetation zones,
+green belts, gardens, and walking paths, it contains museums, several
+theaters, and the world-famous San Diego Zoo."</p>
+
+<p>We will be departing from the Sheraton Hotel 9:00am.  We will
+be using Lyft rideshare vans as transportation so the time is a bit flexible.
+A few of us will drive and will be able to carry and store luggage for those going
+directly to the airport afterwards. Once at Balboa park, guests are welcome to tour the
+park, do some short hikes, visit some of the museums, or simply relax and
+enjoy the scenery. Johnny will be collecting museum preferences during the
+workshop and will purchase tickets for those who are interested.  We will
+reconvene for a picnic lunch ~12pm.  After lunch, we can coordinate rides to
+the airport or back to the Sheraton.  Guests who have more time, may want to
+visit Old Town, Coronado, or Downtown afterwards.  </p>
+
+<p><b>If anyone needs to leave earlier, just let us know and we will give you a Lyft code to get you to
+your destination.</b></p>
+
+<p>We recommend you download the following apps before Saturday:</p>
+
+<a href="https://www.balboapark.org/mobile-apps"><img src="/images/pragma37/balboa-park-app-logo.png" height="100px"></a>
+&nbsp;
+<a href="https://www.lyft.com/app?type=rider"><img src="/images/pragma37/lyft-app-logo.png" height="100px"></a>
+
+</td></tr>
+</table>
+
 
 [Back to top](/pragma37-program)
 
