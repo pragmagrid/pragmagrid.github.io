@@ -136,7 +136,7 @@ short: program
   </tr>
   <tr>
     <td>&nbsp;</td>
-    <td><b>Invited Talks</b> (Chair - TBD, <i>University</i>)</td>
+    <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)</td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
@@ -224,7 +224,7 @@ short: program
   </tr>
   <tr>
     <td>11:00 - 12:00</td>
-    <td><b>Invited Talks</b> (Local Speaker) (Chair - TBD, <i>University</i>)<br>
+    <td><b>Invited Talks</b> (Chair: Prapaporn Rattanatamrong, <i>Thammasat University, Thailand</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>The Open Science Grid</b><!--</a>--> (<i>University of California, San Diego, USA</i>) </li> 
@@ -259,7 +259,8 @@ short: program
   </tr> 
   <tr>
     <td>16:45 - 17:30</td>
-    <td><b>Working Group Summaries and Cross-group discussion</b><br>
+    <td><b>Working Group Summaries and Cross-group discussion</b> (Chair: Kohei
+    Ichikawa <i>Nara Institute of Science and Technology, Japan</i><br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>Talk</b><!--</a>--> (Speaker, <i>University, Country</i>) </li> 
         <li>...</li>
@@ -272,7 +273,7 @@ short: program
   </tr>
   <tr>
     <td>17:45 - 18:15</td>
-    <td><b>Wrap up & Closing Ceremony</b> (Chair - TBD, <i>University</i>)<br>
+    <td><b>Wrap up & Closing Ceremony</b> (Chair - Lilian Chan, <i>University of Hong Kong, Hong Kong</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/13/sc-meeting.pdf">-->Steering Committee Report<!--</a>--> </li> 
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/13/next_pragma.pdf">-->Introduction of Next PRAGMA<!--</a>--> </li>
