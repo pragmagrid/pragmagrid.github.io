@@ -227,7 +227,7 @@ short: program
     <td><b>Invited Talks</b> (Chair: Prapaporn Rattanatamrong, <i>Thammasat University, Thailand</i>)<br>
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) The WIFIRE project</b><!--</a>--> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(20m) The Open Science Grid</b><!--</a>--> (<i>University of California, San Diego, USA</i>) </li> 
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(20m) The Open Science Grid</b><!--</a>--> (Igor Sfiligoi, (<i>University of California, San Diego, USA</i>) </li> 
       </ul>      
     </td>
   </tr>
