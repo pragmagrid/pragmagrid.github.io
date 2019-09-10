@@ -92,7 +92,9 @@ short: program
 <table class="program37">
   <tr>
     <td>18:00 - 20:00</td>
-     <td class="break">PRAGMA Welcome Reception at <a href="https://www.bellavistacaffe.com/">Bella Vista Social Club & Caffe</a></td>
+    <td><b>PRAGMA Welcome Reception</b> at <a href="https://www.bellavistacaffe.com/">Bella Vista Social Club & Caffe</a><br/><br/>
+    <b>Note</b>: Bella Vista is <a href="https://goo.gl/maps/dQWPZPBRijy1Dxp88">~40min walk</a> from the Sheraton.  If you want to walk together, please meet in Sheraton lobby at 16:45.  This will include a short campus walking tour + SDSC machine tour.
+     </td>
   </tr>
 </table>
 
