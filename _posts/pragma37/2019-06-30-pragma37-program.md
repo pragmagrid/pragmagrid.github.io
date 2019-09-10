@@ -235,7 +235,7 @@ short: program
   </tr>
   <tr>
     <td>12:00 - 14:00</td>
-    <td><b>Lunch and PRAGMA Steering Committee Meeting</b></td>
+    <td><b>Lunch and PRAGMA Steering Committee Meeting (Room 4004)</b></td>
   </tr>
   <tr>
     <td>14:00 - 15:15</td>
@@ -243,10 +243,10 @@ short: program
       <ul>
         <li>Resources/Data/Cyberlearning
           <ul>
-            <li>AI focus group</li>
-            <li>DTN and data transfer focus group</li>
-            <li>Edge computing focus group</li>
-            <li>EDISON focus group</li>
+            <li>AI Focus Group - Auditorium</li>
+            <li>DTN and data transfer focus group - Room 4004</li>
+            <li>Edge computing focus group - Room 5004</li>
+            <li>EDISON focus group - Room 2006</li>
           </ul></li>
         <li>Telescience</li>
       </ul>
