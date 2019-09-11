@@ -206,7 +206,7 @@ short: program
     <td><b>Breakfast</b></td>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
+    <td>09:00 - 10:30</td>
     <td><b>Morning Session</b> (Chair and Moderator: Beth Plale, <i>Indiana University, USA</i>)
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Invited Talk: Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b><!--</a>--> (Manish Parashar, <i>National Science Foundation, USA</i>)</li> 
