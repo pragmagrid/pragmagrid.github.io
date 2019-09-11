@@ -153,7 +153,7 @@ short: program
       <ul>
         <li>Resources/Data/Cyberlearning
           <ul>
-            <li>AI Focus Group - Auditorium</li>
+            <li>AI Focus Group - Room 2006</li>
             <li>DTN and data transfer focus group - Room 4004</li>
             <li>Edge computing focus group - Room 5004</li>
             <li>EDISON focus group - Auditorium</li>
