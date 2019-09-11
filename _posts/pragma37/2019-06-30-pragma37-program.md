@@ -114,10 +114,11 @@ short: program
     <td><b>Breakfast + Registration</b></td>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
+    <td>09:00 - 10:10</td>
     <td><b>Opening Ceremony</b> (Chair - Shava Smallen, <i>University of California, San Diego, USA</i>)<br>
       <ul>        
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>(10m) Speech by Dr. Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
+        <li><b>(10m) Welcome by Larry Smarr</b>, <i>University of California, San Diego, USA</i></li>
+        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>(10m) Speech by Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/pragma37-updates.pdf">--><b>(30m) PRAGMA 37: Overview and Updates</b> (Shava Smallen, <i>PRAGMA Co-Chair</i>)</li>
         <li><b>(20m) Working Groups Update</b><br>
           <ul>
@@ -129,12 +130,12 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
+    <td>10:10 - 10:40</td>
     <td class="break"><b>Coffee Break (Group photo + Networking)</b></td>
   </tr>
   <tr>
-    <td>10:30 - 12:00</td>
-    <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)<
+    <td>10:40 - 12:10</td>
+    <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)
       <ul>
         <li> <!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">--><b>(30m) The Maritime Alliance, BlueTech and International Collaboration</b> <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>)</li>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Campus Infrastructure</b><!--</a>--> (Philip Papadopoulos, <i>University of California, Irvine, USA</i>) </li>
@@ -143,11 +144,11 @@ short: program
     </td>
   </tr> 
   <tr>
-    <td>12:00 - 13:00</td>
+    <td>12:10 - 13:10</td>
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:00 - 14:30</td>
+    <td>13:10 - 14:40</td>
     <td><b>PRAGMA Working Groups Breakouts Session 1</b> 
       <ul>
         <li>Resources/Data/Cyberlearning
@@ -162,7 +163,7 @@ short: program
     </td>
   </tr>
   <tr>
-    <td>14:30 - 15:00</td>
+    <td>14:40 - 15:00</td>
     <td class="break">Coffee Break  + NETWORKING </td>
   </tr>
   <tr>
