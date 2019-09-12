@@ -23,6 +23,7 @@ short: Committee
 - **Hongliang Li**, Jilin University, China
 - **Fang-Pang Lin**, National Center for High-performance Computing, Taiwan
 - **Prapaporn Rattanatamrong**, Thammasat University, Thailand
+- **Shinji Shimojo**, Osaka University, Japan
 - **Yoshio Tanaka**, National Institute of Advanced Industrial Science and Technology, Japan
 - **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan 
 
