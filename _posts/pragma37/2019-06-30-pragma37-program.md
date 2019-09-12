@@ -156,7 +156,7 @@ short: program
             <li>AI Focus Group - Auditorium</li>
             <li>DTN and data transfer focus group - Room 4004</li>
             <li>Edge computing focus group - Room 5004</li>
-            <li>EDISON focus group - Auditorium</li>
+            <li>EDISON focus group - See Shava</li>
           </ul></li>
         <li>Telescience - Auditorium</li>
       </ul>
