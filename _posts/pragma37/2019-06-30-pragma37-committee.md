@@ -14,7 +14,7 @@ short: Committee
 <div class="border37">Program Committee</div>
 - **Lilian Chan**, University of Hong Kong, Hong Kong
 - **Hsiu-Mei Chou**, National Center for High-performance Computing, Taiwan
-- **Renato Fuigeredo**, University of Florida, USA
+- **Renato Figueiredo**, University of Florida, USA
 - **Jason Haga**, National Institute of Advanced Industrial Science and Technology, Japan
 - **Sri C. Haryanti**, Universitas YARSI, Indonesia
 - **Weicheng Huang**, National Applied Research Laboratories, Taiwan
@@ -23,6 +23,7 @@ short: Committee
 - **Hongliang Li**, Jilin University, China
 - **Fang-Pang Lin**, National Center for High-performance Computing, Taiwan
 - **Prapaporn Rattanatamrong**, Thammasat University, Thailand
+- **Shinji Shimojo**, Osaka University, Japan
 - **Yoshio Tanaka**, National Institute of Advanced Industrial Science and Technology, Japan
 - **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan 
 
