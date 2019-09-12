@@ -144,11 +144,11 @@ short: program
     </td>
   </tr> 
   <tr>
-    <td>12:10 - 13:10</td>
+    <td>12:20 - 13:20</td>
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:10 - 14:40</td>
+    <td>13:20 - 14:40</td>
     <td><b>PRAGMA Working Groups Breakouts Session 1</b> 
       <ul>
         <li>Resources/Data/Cyberlearning
