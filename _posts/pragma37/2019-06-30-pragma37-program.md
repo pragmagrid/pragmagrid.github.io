@@ -330,6 +330,8 @@ your destination.</b></p>
 &nbsp;
 <a href="https://www.lyft.com/app?type=rider"><img src="/images/pragma37/lyft-app-logo.png" height="100px"></a>
 
+<p>Our meeting point at Balboa Park will be at <a href="https://goo.gl/maps/rpDT868MMcYbeEhN6">Alcazar Garden Parking Lot</a> at 625 Pan American Rd E, San Diego, CA 92101.  We should arrive between 9:30 - 10:00.</p>
+
 </td></tr>
 </table>
 
