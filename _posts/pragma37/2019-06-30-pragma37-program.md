@@ -280,7 +280,7 @@ short: program
     <td>17:45 - 18:15</td>
     <td><b>Wrap up & Closing Ceremony</b> (Chair - Lilian Chan, <i>University of Hong Kong, Hong Kong</i>)<br>
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/sc-meeting.pdf">Steering Committee Report (Shava Smallen, <i>University of California, San Diego, USA)</i><!--</a>--> </li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/sc-meeting.pdf">Steering Committee Report</a> (Shava Smallen, <i>University of California, San Diego, USA)</i><!--</a>--> </li> 
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/intro_to_pragma38.pdf">Introduction of Next PRAGMA</a> (Wing Keung Kwan, <i>University of Hong Kong, Hong Kong)</i><!--</a>--> </li>
       </ul>
     </td>
