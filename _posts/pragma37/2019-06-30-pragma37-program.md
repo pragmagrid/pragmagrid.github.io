@@ -212,7 +212,7 @@ short: program
         <li>Invited Talk: <a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk1-nsf.pdf"><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b></a> (Manish Parashar, <i>National Science Foundation, USA</i>)</li> 
        <li><b>Panel: <a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-questions.pdf">PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</a></b>
       <ul>
-        <li>Yoshio Tanaka (<i>National Institute of Advanced Industrial Science
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-response-1.pdf">Yoshio Tanaka</a> (<i>National Institute of Advanced Industrial Science
         and Technology, Japan)</i></li>
         <li>Ruth Lee (<i>Korea Institute of Science and Technology Information, South Korea</i>)</li>
         <li>Paul Hanson (<i>University of Wisconsin, USA</i>)</li>
@@ -229,7 +229,7 @@ short: program
     <td>11:00 - 12:00</td>
     <td><b>Invited Talks</b> (Chair: Prapaporn Rattanatamrong, <i>Thammasat University, Thailand</i>)<br>
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk2-osg.pdf"><b>The Open Science Grid</b><</a> (Igor Sfiligoi, (<i>University of California, San Diego, USA</i>) </li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk2-osg.pdf"><b>The Open Science Grid</b></a> (Igor Sfiligoi, (<i>University of California, San Diego, USA</i>) </li> 
 	<li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk3-wifire.pdf"><b>The WIFIRE project</b></a> (Ilkay Altintas, <i>University of California, San Diego, USA</i>) </li> 
       </ul>      
     </td>
