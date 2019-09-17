@@ -274,7 +274,7 @@ short: program
   </tr> 
   <tr>
     <td>17:30 - 17:45</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/26/student-awards.pdf">--><b>Best Poster & Best Presentation Award Ceremony</b><!--</a>--> (Chairs - Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/student-awards.pdf"><b>Best Poster & Best Presentation Award Ceremony</b></a> (Chairs - Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
   </tr>
   <tr>
     <td>17:45 - 18:15</td>
