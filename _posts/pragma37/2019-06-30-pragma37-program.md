@@ -137,9 +137,9 @@ short: program
     <td>10:40 - 12:10</td>
     <td><b>Invited Talks</b> (Chair - Fang-Pang Lin, <i>National Center for High-Performance Computing, Taiwan</i>)
       <ul>
-        <li> <!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/keynote.pdf">--><b>(30m) The Maritime Alliance, BlueTech and International Collaboration</b> <!--</a>--> (Michael Jones, <i>The Maritime Alliance, USA</i>)</li>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Campus Infrastructure</b><!--</a>--> (Philip Papadopoulos, <i>University of California, Irvine, USA</i>) </li>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/invited-talk1.pdf">--><b>(30m) Pacific Research Platform</b><!--</a>--> (Tom Defanti, <i>University of California, San Diego, USA</i>) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/invited-talk1-blue.pdf"><b>The Maritime Alliance, BlueTech and International Collaboration</b></a> (Michael Jones, <i>The Maritime Alliance, USA</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/invited-talk2-prp.pdf"><b>Pacific Research Platform</b></a> (Tom Defanti, <i>University of California, San Diego, USA</i>) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/invited-talk3-yaml2rpm.pdf"><b>YAML2RPM - Another Attempt at Taming Scientific Software</b></a> (Philip Papadopoulos, <i>University of California, Irvine, USA</i>) </li>
       </ul>
     </td>
   </tr> 
