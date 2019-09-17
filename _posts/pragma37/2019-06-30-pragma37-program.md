@@ -171,8 +171,8 @@ short: program
     <td><b>PRAGMA Demo Session 1</b> (Chair: Sri C. Haryanti, <i>Universitas YARSI, Indonesia</i>) 
       <ul>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b><!--</a>--> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
-        <li><b>Lifemapper on SAGE2</b> <br/>(Michael Elliott and Jose Fortes)</li>
-        <li><b>Near Real-time Failover Model for Continuous Inter-Domain Communication</b> <br/>(Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa and Atsuko Takefusa)</li>
+        <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/demo-1-2-lifemapper.pdf">Lifemapper on SAGE2</a></b> <br/>(Michael Elliott and Jose Fortes)</li>
+        <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/demo-1-3-failover.pdf">Near Real-time Failover Model for Continuous Inter-Domain Communication</a></b> <br/>(Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa and Atsuko Takefusa)</li>
       </ul>      
     </td>
   </tr>  
