@@ -261,9 +261,8 @@ short: program
     <td>15:45 - 16:45</td>
     <td><b>PRAGMA Demo Session 2</b> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>) 
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Scalable Layer 2 Topology and Forwarding for the Fog</b><!--</a>--> <br/>(Kensworth Subratie, Renato Figueiredo, Prapaporn Rattanatamrong, Yutthana Boonpalit and Siwakorn Suwannajinda) </li> 
-        <li><b>Open science and smart and connected communities: an
-        architectural investigation</b> <br/> (Yu Luo, Beth Plale, Martin Swany and Jeremy Musser)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/demo-2-1-fog.pdf"><b>Scalable Layer 2 Topology and Forwarding for the Fog</b></a> <br/>(Kensworth Subratie, Renato Figueiredo, Prapaporn Rattanatamrong, Yutthana Boonpalit and Siwakorn Suwannajinda) </li> 
+        <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/demo-2-2-open.pdf">Open science and smart and connected communities: an architectural investigation</a></b> <br/> (Yu Luo, Beth Plale, Martin Swany and Jeremy Musser)</li>
       </ul>      
     </td>
   </tr> 
