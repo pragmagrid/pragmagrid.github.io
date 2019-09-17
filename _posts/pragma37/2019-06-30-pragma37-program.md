@@ -209,8 +209,8 @@ short: program
     <td>09:00 - 10:30</td>
     <td><b>Morning Session</b> (Chair and Moderator: Beth Plale, <i>Indiana University, USA</i>)
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk1-nsf.pdf"><b>(30m) Invited Talk: Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b></a> (Manish Parashar, <i>National Science Foundation, USA</i>)</li> 
-       <li><b>(60m) Panel: PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</b>
+        <li>Invited Talk: <a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/invited-talk1-nsf.pdf"><b>Transforming Science in the 21st Century: NSF’s Vision for a National Cyberinfrastructure Ecosystem</b></a> (Manish Parashar, <i>National Science Foundation, USA</i>)</li> 
+       <li><b>Panel: <a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-questions.pdf">PRAGMA perspective on AI, Data Cyberinfrastructure, and Training</a></b>
       <ul>
         <li>Yoshio Tanaka (<i>National Institute of Advanced Industrial Science
         and Technology, Japan)</i></li>
