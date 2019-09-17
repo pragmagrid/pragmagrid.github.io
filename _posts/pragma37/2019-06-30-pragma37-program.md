@@ -270,6 +270,11 @@ short: program
     <td>16:45 - 17:30</td>
     <td><b>Working Group Summaries and Cross-group discussion</b> (Chair: Kohei
     Ichikawa, <i>Nara Institute of Science and Technology, Japan</i><br>
+      <ul>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-resources-data.pdf">DTN and data transfer focus group</a></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-resources-edison.pdf">EDISON focus group</a></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-telescience-ai.pdf">Telescience and AI focus group</a></li>
+      </ul>
     </td>
   </tr> 
   <tr>
