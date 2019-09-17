@@ -215,8 +215,8 @@ short: program
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-response-1.pdf">Yoshio Tanaka</a> (<i>National Institute of Advanced Industrial Science
         and Technology, Japan)</i></li>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-response-2.pdf">Ruth Lee</a> (<i>Korea Institute of Science and Technology Information, South Korea</i>)</li>
-        <li>Paul Hanson (<i>University of Wisconsin, USA</i>)</li>
-        <li>Renato Figueiredo (<i>University of Florida, USA</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-response-3.pdf">Paul Hanson</a> (<i>University of Wisconsin, USA</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/panel-response-4.pdf">Renato Figueiredo</a>(<i>University of Florida, USA</i>)</li>
       </ul></li>
       </ul>
     </td>
