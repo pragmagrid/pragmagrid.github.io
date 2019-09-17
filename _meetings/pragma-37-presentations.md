@@ -4,7 +4,6 @@ imagesrc: "workshop-37.png"
 layout: page
 meeting_date: September 11 - 14, 2019, San Diego, CA USA
 meeting_url: /pragma37
-nopresentations: yes
 date: 2019-07-05
 ---
 
