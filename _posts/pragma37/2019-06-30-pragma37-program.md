@@ -119,7 +119,7 @@ short: program
       <ul>        
         <li><b>(10m) Welcome by Larry Smarr</b>, <i>University of California, San Diego, USA</i></li>
         <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>(10m) Speech by Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/pragma37-updates.pdf">--><b>(30m) PRAGMA 37: Overview and Updates</b> (Shava Smallen, <i>PRAGMA Co-Chair</i>)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/pragma37-updates.pdf"><b>PRAGMA 37: Overview and Updates</b></a> (Shava Smallen, <i>PRAGMA Co-Chair</i>)</li>
         <li><b>(20m) Working Groups Update</b><br>
           <ul>
             <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Data/Cyberlearning<!--</a>--> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>)</li> 
