@@ -178,7 +178,7 @@ short: program
   </tr>  
   <tr>
     <td>16:00 - 16:25</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/25/lightning-talks.pdf">--><b>PRAGMA Lightning Talks</b><!--</a>--> (Chair - Michael Elliott, <i>University of Florida, USA</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/lightning-talks.pdf"><b>PRAGMA Lightning Talks</b></a> (Chair - Michael Elliott, <i>University of Florida, USA</i>)</td>
   </tr>
     <tr>
     <td>16:25 - 18:00</td>
