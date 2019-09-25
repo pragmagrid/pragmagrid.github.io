@@ -58,33 +58,33 @@ short: program
   </tr>
    <tr>
     <td>13:00 - 13:10</td>
-    <td><!-- <a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/students-introduction.pdf">--><b>Introduction</b> (each talk below is 15 minutes + 5 mins questions/comments)<!--</a>--></td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-intro.pdf"><b>Introduction</b></a> (each talk below is 15 minutes + 5 mins questions/comments)</td>
   </tr>
    <tr>
     <td>13:10 - 13:30</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>An Interactive Monitoring Tool for OpenFlow Networks</b><!--</a>--> (Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk1.pdf"><b>An Interactive Monitoring Tool for OpenFlow Networks</b></a> (Wassapon Watanakeesuntorn, <i>Nara Institute of Science and Technology, Japan</i>)</td>
    </tr><tr>
     <td>13:30 - 13:50</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Integrated Application and Performance Monitoring at the IoT Edge</b><!--</a>--> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk2.pdf"><b>Integrated Application and Performance Monitoring at the IoT Edge</b></a> (Yutthana Boonpalit, Siwakorn Suwanjinda, <i>Thammasat University, Thailand</i>)</td>
     </tr><tr>
     <td>13:50 - 14:10</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices</b><!--</a>--> (Vahid Daneshmand <i>University of Florida, USA</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk3.pdf"><b>Investigating the Performance and Scalability of Kubernetes on Distributed Cluster of Resource-Constrained Edge Devices</b></a> (Vahid Daneshmand <i>University of Florida, USA</i>)</td>
     </tr><tr>
   <tr>
     <td>14:10 - 14:30</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
     <td>14:30 - 14:50</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Lifemapper on SAGE2</b><!--</a>--> (Michael Elliott, <i>University of Florida, USA</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk4.pdf"><b>Lifemapper on SAGE2</b></a> (Michael Elliott, <i>University of Florida, USA</i>)</td>
     </tr><tr>
     <td>14:50 - 15:10</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Application of Deep Learning Technique to Real-time Crop Classification and Rice Lodging Identification</b><!--</a>--> (Hsin-Hung Tseng <i>National Chung Hsing University, Taiwan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk5.pdf"><b>Application of Deep Learning Technique to Real-time Crop Classification and Rice Lodging Identification</b></a> (Hsin-Hung Tseng <i>National Chung Hsing University, Taiwan</i>)</td>
     </tr><tr>
     <td>15:10 - 15:30</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>Punica Granatum Floral Pattern Vector Graphics Synthesis</b><!--</a>--> (Pinyi Wu	<i>National Taipei University of Technology, Taiwan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk6.pdf"><b>Punica Granatum Floral Pattern Vector Graphics Synthesis</b></a> (Pinyi Wu	<i>National Taipei University of Technology, Taiwan</i>)</td>
     </tr><tr>
     <td>15:30 - 15:50</td>
-    <td><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/student-workshop/presentation-01.pdf">--><b>5G Mobile Platform with P4-enabled Network Slicing and MEC</b><!--</a>--> (YiHsuan Huang <i>National Chung Hsing University, Taiwan</i>)</td>
+    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/11/student-talk7.pdf"><b>5G Mobile Platform with P4-enabled Network Slicing and MEC</b></a> (YiHsuan Huang <i>National Chung Hsing University, Taiwan</i>)</td>
   </tr>  
 </table>
 
@@ -117,13 +117,13 @@ short: program
     <td>09:00 - 10:10</td>
     <td><b>Opening Ceremony</b> (Chair - Shava Smallen, <i>University of California, San Diego, USA</i>)<br>
       <ul>        
-        <li><b>(10m) Welcome by Larry Smarr</b>, <i>University of California, San Diego, USA</i></li>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/opening-ceremony.pdf">--><b>(10m) Speech by Peter Arzberger</b><!--</a>-->, <i>PRAGMA Founder</i></li>
+        <li><b>Welcome by Larry Smarr</b>, <i>University of California, San Diego, USA</i></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/opening-ceremony.pdf"><b>Speech by Peter Arzberger</b></a>, <i>PRAGMA Founder</i></li>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/pragma37-updates.pdf"><b>PRAGMA 37: Overview and Updates</b></a> (Shava Smallen, <i>PRAGMA Co-Chair</i>)</li>
         <li><b>(20m) Working Groups Update</b><br>
           <ul>
-            <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-resources-update.pdf">-->Resources/Data/Cyberlearning<!--</a>--> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>)</li> 
-            <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/wg-tele-update.pdf">-->Telesciences<!--</a>--> (Shinji Shimojo <i>Osaka University, Japan</i>)</li> 
+            <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/wg-resources-update.pdf">Resources/Data/Cyberlearning</a> (Hsiu-Mei Chou, <i>National Center for High-performance Computing, Taiwan</i>)</li> 
+            <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/wg-tele-update.pdf">Telescience</a> (Shinji Shimojo <i>Osaka University, Japan</i>)</li> 
           </ul>
         </li>
       </ul>
@@ -170,7 +170,7 @@ short: program
     <td>15:00 - 16:00</td>
     <td><b>PRAGMA Demo Session 1</b> (Chair: Sri C. Haryanti, <i>Universitas YARSI, Indonesia</i>) 
       <ul>
-        <li><!--<a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma37/12/demo-talk1.pdf">--><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b><!--</a>--> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/demo-1-1-ai.pdf"><b>Japan-Taiwan Data AI Module Platform for Analyzing Remote Sensing data, Part 3</b></a> <br/>(Hidemoto Nakada, Ryosuke Nakamura, Kyoung-Sook Kim, Jason Haga, Yusuke Tanimura, Ryosei Takano, Yoshio Tanaka, Hsiu-Mei Chou, Hsi-En Yu, Yu-Chin Tsai, Jimmy Chung, Weicheng Huang and Bo Chen) </li> 
         <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/demo-1-2-lifemapper.pdf">Lifemapper on SAGE2</a></b> <br/>(Michael Elliott and Jose Fortes)</li>
         <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/12/demo-1-3-failover.pdf">Near Real-time Failover Model for Continuous Inter-Domain Communication</a></b> <br/>(Juan Sebastian Aguirre, Yoshiyuki Kido, Susumu Date, Shinji Shimojo, Kohei Ichikawa and Atsuko Takefusa)</li>
       </ul>      
