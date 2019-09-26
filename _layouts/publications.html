@@ -1,8 +1,18 @@
 ---
-layout: default-left
+layout: default
 ---
 
-<div class="column-menu-left">
+<div class="text-center">
+  <h2>{{ page.title }}</h2>
+</div>
+
+
+<div class="border">
+  <h3>Collaborative Overviews</h3>
+</div>
+
+        {{ content }}
+
     {% assign navurl = page.url | remove: 'index.html' %}
     {% assign docs_by_category = site.publications | group_by: "category" %}
     {% assign category_order =
@@ -19,12 +29,4 @@ layout: default-left
         {% endif %}
     {% endfor %}
     {% endfor %}
-</div>
-
-<div class="column-content-right">
-        <h2>{{ page.title | escape }}</h2>
-    <section>
-        {{ content }}
-    </section>
-</div>
 
