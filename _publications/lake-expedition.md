@@ -5,6 +5,14 @@ menu: Lake Expedition
 category: lake-exp
 ---
 
+<div class="border">2019</div>
+
+Carey, C. C., Ward, N. K., Farrell, K. J., Lofton, M. E., Krinos, A. I., McClure, R. P., Subratie, K. C., Figueiredo, R. J., Doubek, J. P., Hanson, P. C., Papadopoulos, P., and Arzberger, P. (2019). Enhancing collaboration between ecologists and computer scientists: lessons learned and recommendations forward. Ecosphere 10(5): e02753.10.1002/ecs2.2753
+
+Farrell, K. J., Ward, N. K., Krinos, A. I., Hanson, P. C., Daneshmand, V., Figueiredo, R. J., Carey, C. C. Ecosystem-scale nutrient cycling responses to increasing air temperatures vary with lake trophic state. In preparation for Ecological Modeling
+
+Krinos, A.I., K.J. Farrell, V. Daneshmand, K.C. Subratie, R.J. Figueiredo, and C.C. Carey. Including variability in air temperature warming scenarios in a lake simulation model highlights uncertainty in predictions of cyanobacteria. bioRxiv 734285; DOI: 10.1101/734285
+
 <div class="border">2018</div>
 
 Farrell KJ, Carey CC. Power, pitfalls, and potential for integrating computational literacy into undergraduate ecology courses. Ecology and evolution. 2018 Aug;8(16):7744-51.
