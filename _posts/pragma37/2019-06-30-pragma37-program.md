@@ -272,6 +272,7 @@ short: program
     Ichikawa, <i>Nara Institute of Science and Technology, Japan</i><br>
       <ul>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-resources-data.pdf">DTN and data transfer focus group</a></li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-resources-edge.pdf">Edge focus group</a></li>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-resources-edison.pdf">EDISON focus group</a></li>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma37/13/wg-telescience-ai.pdf">Telescience and AI focus group</a></li>
       </ul>
