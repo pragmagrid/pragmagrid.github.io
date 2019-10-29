@@ -3,7 +3,7 @@ title: GRAPLEr
 imagesrc: 
 layout: software
 section: expeditions
-link: http://graple.org/GRAPLEr
+link: http://graple.org/
 ---
 
 GRAPLEr is a distributed computing system that integrates and applies overlay
@@ -13,9 +13,7 @@ simulations, runs these lake model simulations efficiently, and retrieves
 model output. GRAPLEr image includes a new R package developed as part of the
 lake expedition. 
 
-Virtual Images of GRAPLEr are available from [PRAGMA Boot
-Google Drive Virtual Cluster Image repository][1].
+Github repository: <a href="http://github.com/GRAPLE">http://github.com/GRAPLE</a>
 
-[1]: https://drive.google.com/drive/u/0/folders/0B3cw7uKWQ3fXcmdfRHBCTV9KaUU
-
+GRAPLEr project site: 
 
