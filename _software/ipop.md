@@ -12,3 +12,7 @@ allowing end users to define and create their own virtual private networks
 over *TinCan* links setup and managed through a control API to create various
 software-defined VPN overlays.
 
+Github repository: <a href="http://github.com/ipop-project">http://github.com/ipop-project</a>
+
+IPOP project site:
+
