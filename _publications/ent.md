@@ -5,12 +5,11 @@ menu: ENT
 category: ent
 ---
 
-<div class="border">In Pres</div>
-
-Huang C, Nakasan C, Ichikawa K, Watashiba Y, Iida H. 2017. A Multipath OpenFlow
-Controller for Multiple TCP Stream Applications. Journal of Information Processing. (in press)
 
 <div class="border">2017</div>
+
+Huang C, Nakasan C, Ichikawa K, Watashiba Y, Iida H. 2017. A Multipath OpenFlow
+Controller for Multiple TCP Stream Applications.  Journal of Information Processing. 25. 924-933. 10.2197/ipsjjip.25.924.
 
 Subratie K, Aditya S, Sabogal S, Theegala T, Figueiredo RJ. 2017. Towards Dynamic, Isolated
 Work-groups for Distributed IoT and Cloud Systems with Peer-to-Peer Virtual Private Networks,
