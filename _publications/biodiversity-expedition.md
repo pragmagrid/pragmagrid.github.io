@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Biodiversity Expedition Publications
 menu: Biodiversity Expedition
 category: bio-exp

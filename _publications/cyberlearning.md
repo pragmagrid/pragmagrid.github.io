@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Cyberlearning  Working Group Publications
 menu: Cyberlearning WG
 category: cyberl-wg

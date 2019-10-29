@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Special Issue Publications 
 menu: Special Issue CCPE
 category: ccpe

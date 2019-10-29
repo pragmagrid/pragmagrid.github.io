@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Biosciences Working Group Publications
 menu: Biosciences WG
 category: bio-wg

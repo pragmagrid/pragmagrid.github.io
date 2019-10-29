@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Lake Expedition Publications 
 menu: Lake Expedition
 category: lake-exp

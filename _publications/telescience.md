@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Telescience Working Group Publications
 menu: Telescience WG
 category: tele-wg

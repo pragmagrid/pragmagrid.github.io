@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: Resources and Data Working Group Publications
 menu: Resources and Data WG
 category: res-wg

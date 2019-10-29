@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: PRIME Publications 
 menu: PRIME
 category: students

@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 title: ENT Publications
 menu: ENT
 category: ent
