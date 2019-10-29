@@ -6,19 +6,21 @@ section: expeditions
 link: https://github.com/lifemapper
 ---
 
-A software toolkit, now includes tools for installing and
-configuring Lifemapper third party dependencies, configuration and
-installation for local hardware, and bootstrapping the database with default
-or user data. PRAGMA GitHub repositories contain code for installation
-of the two primary components of the Lifemapper, a server and a compute
-component. These components may be installed on the same or distributed
-compute infrastructures. 
+[Lifemapper][3], an open-source modeling environment created at the University of Kansas, allows researchers to pursue species distribution and macroecological modeling for biogeographic and biodiversity analyses of terrestrial species. 
 
-Currently, we distribute rocks cluster images for the Lifemapper installation
-from ISO due to varying data sets used for the Lifemapper installation.
+The Virtual Biodiversity Expedition (VBE) is utilizing unique Lifemapper installations for PRAGMA sites using species occurrence data of local interest or specified by a researcher, and phylogenetic (evolutionary) data derived from DNA sequencing studies to explain the ecological and evolutionary contributions to observed spatial patterns of species diversity.
 
-[Lifemapper Web Site][3]<br>
-PRAGMA GitHub repositories:  [lifemapper-server][1] and [lifemapper-compute][2]<br>
+PRAGMA-Lifemapper tools for installing and configuring Lifemapper third party dependencies, configuring installation for local hardware, and bootstrapping the database with default or user data. 
+
+GitHub repositories contain code for installation of the two primary components (server and compute) of Lifemapper:
+
+[lifemapper-server][1] 
+
+[lifemapper-compute][2]
+
+
+The core Lifemapper code is available at:
+
 
 [1]: https://github.com/pragmagrid/lifemapper-server
 [2]: https://github.com/pragmagrid/lifemapper-compute
