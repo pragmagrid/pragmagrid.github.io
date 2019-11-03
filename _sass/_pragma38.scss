@@ -1,0 +1,136 @@
+@mixin pragma38-media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+$pragma38-large: 1200px;
+$pragma38-medium: 992px;
+$pragma38-small: 768px;
+
+/* Base class for layout */
+body.pragma38 {
+    
+}
+
+body.pragma38 header img { width: 100% }
+
+/* page with  menu left and content right */
+body.pragma38 .wrapper-menu-left {
+    border: 0px solid black; /*for debugging change px*/
+    position: relative;
+    margin: 0 auto;
+    @include pragma38-media-query($pragma38-small) { width: 750px; }
+    @include pragma38-media-query($pragma38-medium) { width: 970px; }
+    @include pragma38-media-query($pragma38-large) { width: 1170px; }
+    @include media-query($on-palm) {
+    }
+}
+body.pragma38 .menu-left {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid blue;
+  float:left;
+  line-height:18px;
+  padding-top: 2px;
+  overflow:hidden;
+  min-height: 400px;
+  min-width: 150px;
+  margin-left: -35px;
+}
+body.pragma38 .content-right {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid red;
+  min-width:200px;
+  line-height:18px;
+  padding-top: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  overflow:hidden;
+  min-height:200px;
+}
+body.pragma38 .menu-left ul { list-style:none; }
+
+$redtone1: #7B4338;
+$pearl: #dde9ff;
+$blue1: #3595d4;
+$navline: #34495E;
+$whitetone1: #ffffff;
+
+$paleblue2: lighten($pearl,5%);
+$paleblue1: lighten($blue1,42%);
+$paleredtone: lighten($redtone1,42%);
+
+/* for subsection title and background */
+$border: $redtone1; 
+$bgborder: #f9eae1; 
+.border38 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 16px; }
+
+/* color for link hover */
+body.pragma38 a { &:hover {color: $redtone1;}}
+
+body.pragma38 nav {
+    width:100%;
+    background-color: $navline;
+    float: right;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 36px;
+    .menu-icon { display: none; }
+    .page-link {
+        color: $whitetone1; &:visited { color: white; } &:hover { color: red; } line-height: $base-line-height; margin-left: 40px; }
+    @include media-query($on-palm) { min-width: 150px; }
+}
+
+/* for program table */
+.break { color: $navline; font-weight: bold; font-size: 13px;}
+
+table.program38 { padding: 2px; margin: 0px; width: 100%; table-layout: auto; } 
+.program38 th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.program38 tr { border: 2px solid white; }
+.program38 tr:nth-child(odd)  { background-color: $paleblue1; }
+.program38 tr:nth-child(even) { background-color: $paleblue2; }
+.program38 tr:nth-child(odd):hover  { background-color: $bgborder; }
+.program38 tr:nth-child(even):hover { background-color: $bgborder; }
+.program38 tr td:nth-child(1) {font-weight: bold; width: 13% !important; color: $blue-dark; font-size: 13px; text-align:center;}
+.program38 tr td:nlast-child { width: 100% ; }
+.program38 td { padding : 4px 4px 4px 14px; vertical-align: top;}
+.program38col tr,th { width: 10px; }
+
+
+/* for travel table */
+table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; } 
+.travel th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.travel tr { border: 2px solid white; }
+.travel tr:hover { background-color: $bgborder }
+.travel tr:nth-child(odd)  { background-color : $paleblue1; }
+.travel tr:nth-child(even) { background-color : $paleblue2; }
+.travel tr:nth-child(odd):hover  { background-color: $bgborder; }
+.travel tr:nth-child(even):hover { background-color: $bgborder; }
+.travel td { padding : 4px 4px 4px 4px; vertical-align: top;}
+.travel tr,th { width: 10px; }
+
+/* for alert banner */
+.alert {
+  padding: 20px;
+  background-color: #4CAF50;
+  color: white;
+  margin-bottom: 15px;
+  font-weight: bold; 
+  font-size: 125%;
+}
+
+.alert  a:link {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
+
+/* visited link */
+.alert a:visited {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
