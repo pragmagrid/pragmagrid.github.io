@@ -25,6 +25,8 @@ Kim N, On NR, Lee JS, Nam D, Cho K, Choe KT, Yu J. An Empirical Analysis of the 
  
 <div class="border">2014</div>
 
+Ryu, H., Yu, J. L., Jin, D., Lee, J. H., Nam, D., Lee, J. S., Cho, K., Byun, H. J., and Byeon, O. (2014). EDISON science gateway: A cyber-environment for domain-neutral scientific computing, IEICE Transactions on Information and Systems, E97-D(8), pp.1953–1964.
+
 Park S-R, Jin DS, Cho KW, Lee K-C. 2014. Interactive Mobile Learning Environment for 
 Processing Computational Science Simulation Task. Computer Science and its Applications. 
 ISSN 1876-1100. pp. 731-735. 
@@ -42,10 +44,6 @@ Yu J-L, Choi C-H, Jin D-S, Lee JSR, Byun H-J. 2014. A Dynamic Virtual Machine Al
 Technique Using Network Resource Contention for a High- performance Virtualized Computing 
 Cloud. International Journal of Software Engineering and Its Application. ISSN 1738-9984. 8(9), 
 pp. 17-28.
-
-Ryu H, Yu J, Jin D, Lee J, Nam D, Lee J, Cho K, Byeon O. 2014. EDISON Science Gateway; A 
-Cyber-environment for Domain-neutral Scientific Computing. IEICE TRANSACTIONS ON  
-INFORMATION AND SYSTEMS. ISSN 0916-1963. 97(8), pp. 1953-1963.
 
 Kim WH, Lee JSR, Cho KW, Lee BY. 2014. Study of the Factors Effecting Customer Loyalty- 
 Focusing on Korean Cyber-Learning. IJITCS (International Journal of Information Technology 
