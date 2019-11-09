@@ -5,6 +5,9 @@ menu: Cyberlearning WG
 category: cyberl-wg
 ---
 
+<div class="border">2018</div>
+Ma J, Park SC, Shin JH, Kim NG, Seo JH, Lee JS, Sa JH. AI based intelligent system on the EDISON platform. InProceedings of the 2018 Artificial Intelligence and Cloud Computing Conference 2018 Dec 21 (pp. 106-114). ACM.
+
 <div class="border">2017</div>
 
 Ma J, Cho KW, Park MJ, Lee JSR. 2017. Design and Implementation of Information 
