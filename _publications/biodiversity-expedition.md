@@ -22,12 +22,9 @@ Stewart, A.M, Beach, J.H.  (29 March 2017) “Harvesting Value from 300 Years of
 <div class="border">2018</div>
 
 Grady, C.J., Stewart, A.M (22 July 2018) Training in “Using Digitized
-Her barium Data in Research: Applications for Ecology, Phylogenetics, and Bio geography” [Workshop]. Held at Botany 2018, Rochester,
-MN, 20-26 July 2018. www.2018.botanyconference.org/engine/search/
-index.php?func= detail&aid=55
+Herbarium Data in Research: Applications for Ecology, Phylogenetics, and Biogeography” [Workshop]. Held at Botany 2018, Rochester, MN, 20-26 July 2018. 
 
-Stewart, A.M, Grady, C.J. (4 May 2018) Lifemapper Workshop. Full day
-workshop hosted by NCHC, Hsinchu, Taiwan.
+Stewart, A.M, Grady, C.J. (4 May 2018) Lifemapper Workshop. Full day workshop hosted by NCHC, Hsinchu, Taiwan.
 
 <div class="border">2017</div>
 
