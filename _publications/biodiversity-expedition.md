@@ -19,6 +19,16 @@ Stewart, A.M, Grady, C.J, 2018. PRAGMA-CENTRA Lifemapper Workshop.  Full day wor
 
 Stewart, A.M, Beach, J.H.  (29 March 2017) “Harvesting Value from 300 Years of Biological Inventory with the Lifemapper Platform” [Webinar]. For CECEA/CENTRA at https://www.cecea.tw/e_index.php?HEAD_CONTENT_ID=3, hosted by NCHC, Hsinchu, Taiwan.
 
+<div class="border">2018</div>
+
+Grady, C.J., Stewart, A.M (22 July 2018) Training in “Using Digitized
+Her barium Data in Research: Applications for Ecology, Phylogenetics, and Bio geography” [Workshop]. Held at Botany 2018, Rochester,
+MN, 20-26 July 2018. www.2018.botanyconference.org/engine/search/
+index.php?func= detail&aid=55
+
+Stewart, A.M, Grady, C.J. (4 May 2018) Lifemapper Workshop. Full day
+workshop hosted by NCHC, Hsinchu, Taiwan.
+
 <div class="border">2017</div>
 
 Williams, N., Stewart, A., Papadopoulos, P, 2017.  Virtualizing Lifemapper Software Infrastructure for Biodiversity Expedition. Concurrency and Computation: Practice and Experience, Article DOI: 10.1002/cpe.4137.
