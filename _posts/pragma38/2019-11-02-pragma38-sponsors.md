@@ -8,6 +8,6 @@ short: Sponsors and Partners
 
 TBD
 
-<!-- ### Thank you to our generous sponsors:<br> //-->
+<!-- ### Thank you to our generous sponsors:<br> -->
 
-<!-- <img src="/images/logos/nsf_logo.png" alt="" style="width:20%;"> //-->
+<!-- <img src="/images/logos/nsf_logo.png" alt="" style="width:20%;"> -->
