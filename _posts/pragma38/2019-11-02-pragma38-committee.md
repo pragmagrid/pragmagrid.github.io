@@ -40,4 +40,4 @@ short: Committee
 <br><br>
 
 <div class="border38">Local Committee</div>
-- **Johnny Nguyen**, University of California, San Diego, USA
+- **Lilian Chan**, University of Hong Kong, Hong Kong

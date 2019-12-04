@@ -6,7 +6,10 @@ workshop: pragma38
 short: Contact
 ---
 
+**Secretrait**<br/>
+- <a href="mailto:pragma38@hku.hk">pragma38@hku.hk</a>
 
+<!--
 **Logistics (travel, venue, etc.):**<br>
 
 - Johnny Nguyen, <a href="mailto:jnguyen@eng.ucsd.edu">jnguyen@eng.ucsd.edu</a>
@@ -22,5 +25,4 @@ short: Contact
 - Hsiu-Mei Chou 
 
 Send email to <a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a> for any questions.
-
-
+//-->

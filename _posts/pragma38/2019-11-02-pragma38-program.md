@@ -10,6 +10,7 @@ short: program
 [Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
 <br>
+<--
 <div class="alert">
   <center>
     <b>The PRAGMA 38 workshop will be hosted at: <a href="https://www.google.com/maps/place/Qualcomm+Institute/@32.8825629,-117.2355407,19z/data=!4m5!3m4!1s0x0:0x60abc1fb2e4a4991!8m2!3d32.8824851!4d-117.2347041">QI/CalIT/Atkinson</a> Theater (VRoom)</b>
@@ -336,4 +337,4 @@ your destination.</b></p>
 [Back to top](/pragma38-program)
 
 <br>
-
+//-->

@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Posters"
-date: 2019-11-02
+date: 2019-12-04
 workshop: pragma38
 short: Call for Posters
 ---
@@ -14,9 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border38">Important Dates</div>
-- Submission deadline: August 9th, 2019.
-- Author notification: August 16th, 2019.
-- File submission for free poster printing: September 3rd, 2019
+- Submission deadline: TBD.
+- Author notification: TBD.
+- File submission for free poster printing: TBD
 
 <br>
 
@@ -57,7 +57,7 @@ the venue.<br>
 
 <b>Please note the following</b>
 
-1.	Digital file MUST be received by 3rd September 2019 to ensure printing.
+1.	Digital file MUST be received by TBD to ensure printing.
 If you miss this deadline you may still participate, however you are
 responsible for printing and transporting your poster.
 2.	Files must be in PDF format
@@ -79,7 +79,7 @@ Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0@is.naist.jp
 After the workshop, all poster authors will be invited to submit a paper,
 about four pages maximum length, related to your demo presentation.  The
 papers will be collected and published on line as the first PRAGMA proceeding
-and will be available at the end of the year 2019.  The proceeding will give
+and will be available in the second half of 2020.  The proceeding will give
 broader audiences an understanding of how you through PRAGMA are advancing
 science through your works, and for some, it provides a proof for your sponsor
 that your presentation is published in a proceeding.
