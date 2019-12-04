@@ -6,7 +6,7 @@ workshop: pragma38
 short: Contact
 ---
 
-**Secretrait<br/>
+**Secretrait**<br/>
 - <a href="mailto:pragma38@hku.hk">pragma38@hku.hk</a>
 
 <!--

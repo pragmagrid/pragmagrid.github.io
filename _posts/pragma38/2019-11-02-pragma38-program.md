@@ -10,6 +10,7 @@ short: program
 [Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
 <br>
+<div style="visibility:hidden;">
 <!--
 <div class="alert">
   <center>
@@ -332,7 +333,7 @@ your destination.</b></p>
 
 </td></tr>
 </table>
-
+</div>
 
 [Back to top](/pragma38-program)
 
