@@ -73,7 +73,7 @@ converting to PDF)
 
 If you have any questions, please contact our Poster and Student Presentations
 Chair:
-Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0@is.naist.jp
+<!-- Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0@is.naist.jp -->
 
 <div class="border38">Proceedings</div>
 After the workshop, all poster authors will be invited to submit a paper,

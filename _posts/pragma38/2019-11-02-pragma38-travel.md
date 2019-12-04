@@ -7,7 +7,7 @@ short: Travel
 ---
 
 <div class="border38">Air Travel</div>
-Hong Kong has one international airport (<a href="https://www.hongkongairport.com">Hong Kong International Airport</a>, USA). For most worldwide destinations there would be direct flight.
+Hong Kong has one international airport (<a href="https://www.hongkongairport.com">Hong Kong International Airport</a>). For most worldwide destinations there would be direct flight.
 
 <div class="border38">Accommodation</div>
 Please see the [Venue/Lodging](http://www.pragma-grid.net/pragma38-venue/) page for more details.
