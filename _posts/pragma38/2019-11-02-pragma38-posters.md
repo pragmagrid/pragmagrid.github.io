@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Posters"
-date: 2019-12-04
+date: 2020-01-02
 workshop: pragma38
 short: Call for Posters
 ---
@@ -14,8 +14,8 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border38">Important Dates</div>
-- Submission deadline: TBD.
-- Author notification: TBD.
+- Submission deadline: Jan 31, 2020.
+- Author notification: Feb 10, 2020.
 - File submission for free poster printing: TBD
 
 <br>
@@ -72,8 +72,7 @@ converting to PDF)
 <div class="border38">Contact</div>
 
 If you have any questions, please contact our Poster and Student Presentations
-Chair:
-<!-- Wassapon "Boom" Watanakeesuntorn, wassapon.watanakeesuntorn.wq0@is.naist.jp -->
+Chair: Kundjanasith Thonglek, thonglek.kundjanasith.ti7@is.naist.jp
 
 <div class="border38">Proceedings</div>
 After the workshop, all poster authors will be invited to submit a paper,

@@ -1,13 +1,13 @@
 ---
 layout: pragma38
 title: "Call for Student Presentations"
-date: 2019-12-04
+date: 2020-01-02
 workshop: pragma38
 short: Call for Student Presentations
 ---
 
 All PRAGMA 38 student attendees are invited to present during the PRAGMA 38 Student
-Workshop held in the afternoon of TBD.
+Workshop held in the afternoon of March 11, 2020.
 
 Each student will make a 15-minute presentation and 5-minute Q&A.
 
@@ -17,9 +17,9 @@ one-minute lightning talk session</a>.
 
 
 <div class="border38">Important Dates</div>
-- Submission deadline: TBD.
-- Author notification: TBD.
-- Workshop registration deadline: TBD.
+- Submission deadline: Jan 31, 2020.
+- Author notification: Feb 10, 2020.
+- Workshop registration deadline: Feb 20, 2020.
 
 &nbsp;
 

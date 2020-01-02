@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Important Dates"
-date: 2019-12-04
+date: 2020-01-02
 workshop: pragma38
 short: dates
 ---
@@ -10,17 +10,17 @@ short: dates
 
 <li><strong>March 11-13, 2020</strong></li>
 <li>Registration Opens - TBD</li>
-<li>Registration Closes - TBD</li><br>
+<li>Registration Closes - Feb 20, 2020</li><br>
 
 <div class="border38">Poster <!--(Chair: TBD) --></div>
-<li>Deadline for abstract submission: TBD</li>
-<li>Author notification: TBD</li>
+<li>Deadline for abstract submission: Jan 31, 2020</li>
+<li>Author notification: Feb 10, 2020</li>
 <li>File submission for free poster printing: TBD</li><br>
 
 <div class="border38">Demo <!--(Chair: TBD)--> </div>
-<li>Deadline for abstract submission: TBD</li>
-<li>Author notification: TBD</li><br>
+<li>Deadline for abstract submission: Jan 31, 2020</li>
+<li>Author notification: Feb 10, 2020</li><br>
 
 <div class="border38">Student Workshop Presentations<!--(Chair: TBD)--> </div>
-<li>Deadline for abstract submission: TBD</li>
-<li>Author notification: TBD</li>
+<li>Deadline for abstract submission: Jan 31, 2020</li>
+<li>Author notification: Feb 10, 2020</li>
