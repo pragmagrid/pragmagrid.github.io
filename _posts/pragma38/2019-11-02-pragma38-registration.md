@@ -6,13 +6,14 @@ workshop: pragma38
 short: registration
 ---
 
-Registration has not yet open.
-
+Registration is going to start soon.
+<br>
+<a href="https://www.its.hku.hk/sites/default/files/services/research/PRAGMA38-SafetyInformation.pdf"><div>Special Notes from the PRAGMA38 local Committee<br>Concerning the Current Situation in Hong Kong</div></a>
 <br>
 Please contact the secretariat at <a href="mailto:pragma38@hku.hk">[pragma38@hku.hk]</a>: <br>
 <ul>
   <li>If you need to change information on a submitted registration or change your plan.</li>
-  <li>If you have any questions or concerns</li>
+  <li>If you have any questions or concerns.</li>
 </ul>
 
 <br>
