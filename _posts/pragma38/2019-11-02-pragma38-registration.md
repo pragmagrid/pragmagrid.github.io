@@ -1,14 +1,14 @@
 ---
 layout: pragma38
 title: "PRAGMA 38 Registration"
-date: 2019-11-02
+date: 2020-01-03
 workshop: pragma38
 short: registration
 ---
 
-Registration is going to start soon.
+Registration link: <a href="https://hku.au1.qualtrics.com/jfe/form/SV_3Jg3GKVfkw6bIjj">https://hku.au1.qualtrics.com/jfe/form/SV_3Jg3GKVfkw6bIjj</a>
 <br>
-<a href="https://www.its.hku.hk/sites/default/files/services/research/PRAGMA38-SafetyInformation.pdf"><div>Special Notes from the PRAGMA38 local Committee<br>Concerning the Current Situation in Hong Kong</div></a>
+<a href="https://www.its.hku.hk/sites/default/files/services/research/PRAGMA38-SafetyInformation.pdf">Special Notes from the PRAGMA38 local Committee<br>Concerning the Current Situation in Hong Kong</a>
 <br>
 Please contact the secretariat at <a href="mailto:pragma38@hku.hk">[pragma38@hku.hk]</a>: <br>
 <ul>

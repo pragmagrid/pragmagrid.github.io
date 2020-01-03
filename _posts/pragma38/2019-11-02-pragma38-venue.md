@@ -11,8 +11,8 @@ short: Venue
 <br/>
 PRAGMA 38 will be held in the Centennial campus of HKU.
 
-[Map and Directions](https://goo.gl/maps/RBuq1oVmSQRW9i2EA)
-
+[Map and Directions]
+<img src="/images/pragma38/PRAGMA38_MAP.JPG"></img>
 
 <div class="border38">Accommodations</div>
 

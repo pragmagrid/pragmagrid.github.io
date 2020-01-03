@@ -19,7 +19,7 @@ the demo sessions.
 <br>
 <div class="border38">Submission Instructions</div>
 
-The abstract should be less than 450 words and include the following
+Please prepare a 2-4 page abstract and include the following
 information: 
 
 1.	**Title of the demo**
