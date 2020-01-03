@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Venue and Accommodations"
-date: 2019-12-04
+date: 2020-01-03
 workshop: pragma38
 short: Venue
 ---
@@ -11,8 +11,8 @@ short: Venue
 <br/>
 PRAGMA 38 will be held in the Centennial campus of HKU.
 
-[Map and Directions]
-<img src="/images/pragma38/PRAGMA38_MAP.JPG"></img>
+<div class="border38">Map and Directions</div>
+<img src="/images/pragma38/PRAGMA38_Map.JPG">
 
 <div class="border38">Accommodations</div>
 

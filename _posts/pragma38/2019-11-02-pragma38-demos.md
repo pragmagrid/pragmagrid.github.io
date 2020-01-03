@@ -13,8 +13,8 @@ the community. All PRAGMA 38 attendees are encouraged to submit abstracts to
 the demo sessions.
 
 <div class="border38">Important Dates</div>
-- Submission deadline: TBD
-- Author notification: TBD
+- Submission deadline: Jan 31, 2020.
+- Author notification: Feb 10, 2020.
 
 <br>
 <div class="border38">Submission Instructions</div>
