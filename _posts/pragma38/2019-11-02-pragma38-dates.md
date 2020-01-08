@@ -14,12 +14,12 @@ short: dates
 
 <div class="border38">Poster <!--(Chair: TBD) --></div>
 <li>Deadline for abstract submission: Jan 31, 2020</li>
-<li>Author notification: Feb 10, 2020</li>
+<li>Author notification: Feb 10, 2020</li><br>
 
 <div class="border38">Demo <!--(Chair: TBD)--> </div>
 <li>Deadline for abstract submission: Jan 31, 2020</li>
 <li>Author notification: Feb 10, 2020</li><br>
 
-<div class="border38">Student Workshop Presentations<!--(Chair: TBD)--> </div>
+<div class="border38">Student Workshop Presentations<!--(Chair: TBD)--></div>
 <li>Deadline for abstract submission: Jan 31, 2020</li>
 <li>Author notification: Feb 10, 2020</li>

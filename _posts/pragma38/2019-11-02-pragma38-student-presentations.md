@@ -43,4 +43,4 @@ the "Student Workshop Presentations" track.
 
 <div class="border38">Contact</div>
 
-If you have any questions regarding the presentation abstract submission, please contact our Student Presentations Chair: TBD (e-mail: TBD)
+If you have any questions regarding the presentation abstract submission, please contact our Student Presentations Chair: Yoottana Boonpalit (e-mail: oatyootna@gmail.com)

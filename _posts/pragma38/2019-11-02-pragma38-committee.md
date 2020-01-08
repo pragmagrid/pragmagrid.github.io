@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Committees"
-date: 2019-12-20
+date: 2020-01-08
 workshop: pragma38
 short: Committee
 ---
@@ -35,7 +35,9 @@ short: Committee
 <div class="border38">Student Poster and Lightning Talks</div>
 - **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan
 - **Kundjanasith Thonglek**, Nara Institute of Science and Technology (NAIST), Japan
-<br><br>
+- **Siwakorn Suwanjinda**, Thammasat University, Thailand
+- **Yoottana Boonpalit**, Thammasat University, Thailand
+<br>
 
 <div class="border38">Local Committee</div>
 - **Yuk-Lin (Lilian) Chan**, University of Hong Kong, Hong Kong
