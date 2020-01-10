@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Demos"
-date: 2019-12-04
+date: 2020-01-10
 workshop: pragma38
 short: Call for Demos
 ---
@@ -19,7 +19,7 @@ the demo sessions.
 <br>
 <div class="border38">Submission Instructions</div>
 
-Please prepare a 2-4 page abstract and include the following
+The abstract should be less than 450 words and include the following
 information: 
 
 1.	**Title of the demo**
