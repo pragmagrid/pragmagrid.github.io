@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "PRAGMA 38 Program"
-date: 2019-11-02
+date: 2020-01-10
 workshop: pragma38
 short: program
 ---
@@ -25,7 +25,7 @@ short: program
   </center>
 </div>
 
-<div class="border38" id="day1">Day 1 (March 11, Wednesday) : TBD Workshop</div>
+<div class="border38" id="day1">Day 1 (March 11, Wednesday) : SAGE2 Workshop</div>
 <table class="program38">
   <tbody><tr>
     <th>Time</th>

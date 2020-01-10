@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "PRAGMA 38 Registration"
-date: 2020-01-03
+date: 2020-01-10
 workshop: pragma38
 short: registration
 ---
@@ -19,7 +19,7 @@ Please contact the secretariat at <a href="mailto:pragma38@hku.hk">[pragma38@hku
 <br>
 
 ### PRAGMA 38 <br>
-March 11(Wed): TBD and PRAGMA 38 Student Workshop<br>
+March 11(Wed): SAGE2 Workshop and PRAGMA 38 Student Workshop<br>
 March 12(Thu): PRAGMA 38 Workshop<br>
 March 13(Fri): PRAGMA 38 Workshop<br>
 March 14(Sat): Networking and Collaboration Day
