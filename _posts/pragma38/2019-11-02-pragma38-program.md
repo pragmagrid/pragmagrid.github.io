@@ -68,7 +68,7 @@ short: program
     
 </tbody></table>
 
-<div class="border38" id="day1">Day 1 (September 11, Wednesday) : PRAGMA Welcome Reception</div>
+<div class="border38" id="day1">Day 1 (March 11, Wednesday) : PRAGMA Welcome Reception</div>
 <table class="program38">
   <tbody><tr>
     <td>18:00 - 20:00</td>
