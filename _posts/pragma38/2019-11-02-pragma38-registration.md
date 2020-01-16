@@ -1,24 +1,25 @@
 ---
 layout: pragma38
 title: "PRAGMA 38 Registration"
-date: 2019-11-02
+date: 2020-01-10
 workshop: pragma38
 short: registration
 ---
 
-Registration is now closed.  
-
+Registration link: <a href="https://tiny.cc/pragma38-reg">https://tiny.cc/pragma38-reg</a>
 <br>
-Please contact Johnny Nguyen at <a href="mailto:jnguyen@eng.ucsd.edu">[jnguyen@eng.ucsd.edu]</a>: <br>
+<a href="https://www.its.hku.hk/sites/default/files/services/research/PRAGMA38-SafetyInformation.pdf">Special Notes from the PRAGMA38 local Committee<br>Concerning the Current Situation in Hong Kong</a>
+<br>
+Please contact the secretariat at <a href="mailto:pragma38@hku.hk">[pragma38@hku.hk]</a>: <br>
 <ul>
-  <li>If you need to change information on a submitted registration or change your plan no later than September 6, 2019.</li>
-  <li>If you have any questions or concerns</li>
+  <li>If you need to change information on a submitted registration or change your plan.</li>
+  <li>If you have any questions or concerns.</li>
 </ul>
 
 <br>
 
 ### PRAGMA 38 <br>
-September 11(Wed): SAGE2 Tutorial and PRAGMA 38 Student Workshop<br>
-September 12(Thu): PRAGMA 38 Workshop<br>
-September 13(Fri): PRAGMA 38 Workshop<br>
-September 14(Sat): Networking and Collaboration Day
+March 11(Wed): SAGE2 Training Workshop and PRAGMA 38 Student Workshop<br>
+March 12(Thu): PRAGMA 38 Workshop<br>
+March 13(Fri): PRAGMA 38 Workshop<br>
+March 14(Sat): Networking and Collaboration Day

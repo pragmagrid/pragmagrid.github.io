@@ -1,43 +1,45 @@
 ---
 layout: pragma38
 title: "Committees"
-date: 2019-11-02
+date: 2020-01-08
 workshop: pragma38
 short: Committee
 ---
 
-<div class="border38">Program Chair</div>
+<div class="border38">General Chairs</div>
+- **Pui Tak Ho**, University of Hong Kong, Hong Kong
 - **Shava Smallen**, University of California, San Diego, USA
-
 <br>
 
-<div class="border38">Program Committee</div>
-- **Lilian Chan**, University of Hong Kong, Hong Kong
-- **Hsiu-Mei Chou**, National Center for High-performance Computing, Taiwan
-- **Renato Figueiredo**, University of Florida, USA
-- **Jason Haga**, National Institute of Advanced Industrial Science and Technology, Japan
-- **Sri C. Haryanti**, Universitas YARSI, Indonesia
-- **Weicheng Huang**, National Applied Research Laboratories, Taiwan
-- **Kohei Ichikawa**, Nara Institute of Science and Technology (NAIST), Japan
-- **JongSuk Lee**, Korean Institute of Science and Technology Information (KISTI), South Korea
-- **Hongliang Li**, Jilin University, China
-- **Fang-Pang Lin**, National Center for High-performance Computing, Taiwan
-- **Prapaporn Rattanatamrong**, Thammasat University, Thailand
-- **Shinji Shimojo**, Osaka University, Japan
+<div class="border38">International Program Committee</div>
+- **Pui Tak Ho**, University of Hong Kong, Hong Kong
+- **Shava Smallen**, University of California, San Diego, USA
 - **Yoshio Tanaka**, National Institute of Advanced Industrial Science and Technology, Japan
-- **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan 
-
+- **Renato Figueiredo**, University of Florida, USA
+- **Hongliang Li**, Jilin University, China
+- **Jason Haga**, National Institute of Advanced Industrial Science and Technology, Japan
+- **Prapaporn Rattanatamrong**, Thammasat University, Thailand
+- **Weicheng Huang**, National Applied Research Laboratories, Taiwan
+- **Ruth Jongsuk Lee**, Korea Institute of Science and Technology Information, Korea
+- **Kohei Ichikawa**, Nara Institute of Science and Technology (NAIST), Japan
+- **Habibah Wahab**, Universiti Sains Malaysia, Malaysia
+- **Heru Suhartanto**, Universitas Indonesia, Indonesia
+- **Sri Chusri Haryanti**, Universitas YARSI, Indonesia
 <br>
 
-<div class="border38">Demo Chairs</div>
-- **Sri C. Haryanti**, Universitas YARSI, Indonesia
+<div class="border38">Demo Committee</div>
 - **Hsiu-Mei Chou**, National Center for High-performance Computing, Taiwan
-
+- **Kohei Ichikawa**, Nara Institute of Science and Technology (NAIST), Japan
 <br>
 
 <div class="border38">Student Poster and Lightning Talks</div>
-- **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology, Japan
-<br><br>
+- **Wassapon Watanakeesuntorn**, Nara Institute of Science and Technology (NAIST), Japan
+- **Kundjanasith Thonglek**, Nara Institute of Science and Technology (NAIST), Japan
+- **Siwakorn Suwanjinda**, Thammasat University, Thailand
+- **Yoottana Boonpalit**, Thammasat University, Thailand
+<br>
 
 <div class="border38">Local Committee</div>
-- **Johnny Nguyen**, University of California, San Diego, USA
+- **Yuk-Lin (Lilian) Chan**, University of Hong Kong, Hong Kong
+- **Wing Keung Kwan**, University of Hong Kong, Hong Kong
+- **Hing Tuen (Bill) Yau**, University of Hong Kong, Hong Kong

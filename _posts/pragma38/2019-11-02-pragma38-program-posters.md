@@ -6,6 +6,7 @@ workshop: pragma38
 short: program-posters
 ---
 
+<!--
 <ul>
 <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma38/posters/PRAGMA38%20poster%20file%201.pdf">Compressing Recurrent Neural Network Models using Vector Quantization</a></b> (<i>Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan and Hajimu Iida</i>)</li>
 <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma38/posters/PRAGMA38%20poster%20file%203.pdf">Realizing robust and secure IoT services with microservices</a></b> (<i>Kazuki Miyagoshi</i>)</li>
@@ -31,3 +32,4 @@ short: program-posters
 <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma38/posters/PRAGMA38%20poster%20file%2033.pdf">Developing coral factories producing resilient and customized corals</a></b> (<i>Tung-Yung Fan, Zong-Min Ye, Tai-Chi Chang, and Yan-Leng Huang</i>)</li>
 <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma38/posters/PRAGMA38%20poster%20file%2034.pdf">5G Mobile Platform with P4-enabled Network Slicing and MEC</a></b> (<i>Yihsuan Huang</i>)</li>
 </ul>
+-->

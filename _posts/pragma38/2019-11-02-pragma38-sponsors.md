@@ -1,13 +1,13 @@
 ---
 layout: pragma38
 title: "Sponsors and Partners"
-date: 2019-11-02
+date: 2019-12-04
 workshop: pragma38
 short: Sponsors and Partners
 ---
 
-### Thank you to our generous sponsors:<br>
+TBD
 
-<img src="/images/logos/nsf_logo.png" alt="" style="width:20%;">
+<!-- ### Thank you to our generous sponsors:<br> -->
 
-
+<!-- <img src="/images/logos/nsf_logo.png" alt="" style="width:20%;"> -->
