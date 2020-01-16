@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Demos"
-date: 2020-01-10
+date: 2020-01-16
 workshop: pragma38
 short: Call for Demos
 ---
@@ -13,8 +13,8 @@ the community. All PRAGMA 38 attendees are encouraged to submit abstracts to
 the demo sessions.
 
 <div class="border38">Important Dates</div>
-- Submission deadline: Jan 31, 2020.
-- Author notification: Feb 10, 2020.
+- Submission deadline: Feb 14, 2020.
+- Author notification: Feb 19, 2020.
 
 <br>
 <div class="border38">Submission Instructions</div>
@@ -46,7 +46,6 @@ All PRAGMA 38 attendees are welcome to submit the completed Word template
 through [EasyChair](https://easychair.org/conferences/?conf=pragma38).  Please
 select the Demo track.<br>
 
-
 If you have any questions regarding the demo abstract submission, please
 contact our demo chairs:
 
@@ -60,4 +59,3 @@ available at the second half of 2020.  The proceeding will give broader
 audiences an understanding of how you through PRAGMA are advancing science
 through your works, and for some, it provides a proof for your sponsor that
 your presentation is published in a proceeding.
-

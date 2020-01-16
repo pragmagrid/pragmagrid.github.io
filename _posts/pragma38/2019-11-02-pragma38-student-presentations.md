@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Student Presentations"
-date: 2020-01-02
+date: 2020-01-16
 workshop: pragma38
 short: Call for Student Presentations
 ---
@@ -17,8 +17,8 @@ one-minute lightning talk session</a>.
 
 
 <div class="border38">Important Dates</div>
-- Submission deadline: Jan 31, 2020.
-- Author notification: Feb 10, 2020.
+- Submission deadline: Feb 14, 2020.
+- Author notification: Feb 19, 2020.
 - Workshop registration deadline: Feb 20, 2020.
 
 &nbsp;
@@ -39,7 +39,6 @@ We strongly recommend all submissions use the word template
 Please submit the completed Word template through
 [EasyChair](https://easychair.org/conferences/?conf=pragma38). Please select
 the "Student Workshop Presentations" track.
-
 
 <div class="border38">Contact</div>
 

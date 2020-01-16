@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Posters"
-date: 2020-01-02
+date: 2020-01-16
 workshop: pragma38
 short: Call for Posters
 ---
@@ -14,9 +14,9 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border38">Important Dates</div>
-- Submission deadline: Jan 31, 2020.
-- Author notification: Feb 10, 2020.
-- (No free poster printing this time.)
+- Submission deadline: Feb 14, 2020.
+- Author notification: Feb 19, 2020.
+- (Probably no free poster printing this time.)
 
 <br>
 
