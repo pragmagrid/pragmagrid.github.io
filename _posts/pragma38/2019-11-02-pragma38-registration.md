@@ -1,12 +1,12 @@
 ---
 layout: pragma38
 title: "PRAGMA 38 Registration"
-date: 2020-01-10
+date: 2020-01-16
 workshop: pragma38
 short: registration
 ---
 
-Registration link: <a href="https://tiny.cc/pragma38-reg">https://tiny.cc/pragma38-reg</a>
+Registration link: <a href="https://tiny.cc/pragma38-reg">https://tiny.cc/pragma38-reg</a> (For those who could not reach tiny.cc: <a href="https://hku.au1.qualtrics.com/jfe/form/SV_3Jg3GKVfkw6bIjj">https://hku.au1.qualtrics.com/jfe/form/SV_3Jg3GKVfkw6bIjj</a>)
 <br>
 <a href="https://www.its.hku.hk/sites/default/files/services/research/PRAGMA38-SafetyInformation.pdf">Special Notes from the PRAGMA38 local Committee<br>Concerning the Current Situation in Hong Kong</a>
 <br>
