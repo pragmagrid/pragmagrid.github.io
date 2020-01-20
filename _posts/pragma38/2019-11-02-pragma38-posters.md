@@ -16,7 +16,8 @@ discussions next to the poster.
 <div class="border38">Important Dates</div>
 - Submission deadline: Feb 14, 2020.
 - Author notification: Feb 19, 2020.
-- (Probably no free poster printing this time.)
+- Workshop registration deadline: Feb 20, 2020.
+- Short Paper submission deadline: Mar 9, 2020.
 
 <br>
 
@@ -24,18 +25,17 @@ discussions next to the poster.
 All PRAGMA 38 attendees, especially students, are welcome to submit the
 completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma38). Please select the Poster track.
 
-<div class="border38">Submission Instructions</div>
+<div class="border38">Poster Abstract Submission Instructions</div>
 
 Authors are expected to both present their poster during poster sessions and
 to give a one minute introductory lightning talk. As such, an acceptable
 submission must include a PDF of the poster text abstract and will form the
 basis for your lightning talk.
 
-
 The submission should cover the following information: 
 
 <ol>
-<li>**Poster Title**</li>
+<li>**Title of the poster**</li>
 <li>**Names and institutions**</li>
 <li>**Student author (Y/N)**</li>
 <li>**A brief abstract** (less than or equal to 450 words)</li>
@@ -43,7 +43,7 @@ The submission should cover the following information:
 
 <br>
 We strongly recommend all submissions use the word template 
-<a href="/images/pragma38/PRAGMA38_Poster_Abstract_Template_v1.dotx">here</a>.<br>
+<a href="/images/pragma38/PRAGMA38 Poster Abstract Template.docx">here</a>.<br>
 
 All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).<br>
 All submissions will be reviewed by PRAGMA Students Steering Committee and
@@ -64,16 +64,14 @@ slide) of their work to be presented during the conference.<br>
 </ol>
 <br>
 
+<div class="border38">Short Paper Submission Instructions</div>
+
+Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
+
+Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma38) after acceptance notification. Please select the "Proceedings" track.
+
 <div class="border38">Contact</div>
 
 If you have any questions, please contact our Poster and Student Presentations
 Chair: Kundjanasith Thonglek, thonglek.kundjanasith.ti7@is.naist.jp
 
-<div class="border38">Proceedings</div>
-After the workshop, all poster authors will be invited to submit a paper,
-about four pages maximum length, related to your demo presentation.  The
-papers will be collected and published on line as the first PRAGMA proceeding
-and will be available in the second half of 2020.  The proceeding will give
-broader audiences an understanding of how you through PRAGMA are advancing
-science through your works, and for some, it provides a proof for your sponsor
-that your presentation is published in a proceeding.

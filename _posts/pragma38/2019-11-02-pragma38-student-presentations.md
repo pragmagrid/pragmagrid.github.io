@@ -11,8 +11,7 @@ Workshop held in the afternoon of March 11, 2020.
 
 Each student will make a 15-minute presentation and 5-minute Q&A.
 
-Note, the
-student presentation session is separate from the <a href="/pragma38-posters/">poster session and
+Note, the student presentation session is separate from the <a href="/pragma38-posters/">poster session and
 one-minute lightning talk session</a>.
 
 
@@ -20,10 +19,11 @@ one-minute lightning talk session</a>.
 - Submission deadline: Feb 14, 2020.
 - Author notification: Feb 19, 2020.
 - Workshop registration deadline: Feb 20, 2020.
+- Short Paper submission deadline: Mar 9, 2020.
 
 &nbsp;
 
-<div class="border38">Submission Instructions</div>
+<div class="border38">Abstract Submission Instructions</div>
 
 The submission should cover the following information: 
 
@@ -39,6 +39,12 @@ We strongly recommend all submissions use the word template
 Please submit the completed Word template through
 [EasyChair](https://easychair.org/conferences/?conf=pragma38). Please select
 the "Student Workshop Presentations" track.
+
+<div class="border38">Short Paper Submission Instructions</div>
+
+Accepted authors are required to submit a short paper (4-page maximum), related to your presentation, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
+
+Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma38) after acceptance notification. Please select the "Proceedings" track.
 
 <div class="border38">Contact</div>
 
