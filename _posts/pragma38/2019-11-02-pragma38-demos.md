@@ -55,6 +55,6 @@ contact our demo chairs:
 
 <div class="border38">Proceedings</div>
 
-Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
+Accepted authors are required to submit a short paper (4-page maximum), related to your demo, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
 
 Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma38) after acceptance notification. Please select the "Proceedings" track.
