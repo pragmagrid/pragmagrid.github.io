@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Student Presentations"
-date: 2020-01-16
+date: 2020-01-20
 workshop: pragma38
 short: Call for Student Presentations
 ---
@@ -40,7 +40,7 @@ Please submit the completed Word template through
 [EasyChair](https://easychair.org/conferences/?conf=pragma38). Please select
 the "Student Workshop Presentations" track.
 
-<div class="border38">Short Paper Submission Instructions</div>
+<div class="border38">Proceedings</div>
 
 Accepted authors are required to submit a short paper (4-page maximum), related to your presentation, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
 

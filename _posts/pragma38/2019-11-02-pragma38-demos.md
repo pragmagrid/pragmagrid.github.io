@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Demos"
-date: 2020-01-16
+date: 2020-01-20
 workshop: pragma38
 short: Call for Demos
 ---
@@ -15,6 +15,8 @@ the demo sessions.
 <div class="border38">Important Dates</div>
 - Submission deadline: Feb 14, 2020.
 - Author notification: Feb 19, 2020.
+- Workshop registration deadline: Feb 20, 2020.
+- Short Paper submission deadline: Mar 9, 2020.
 
 <br>
 <div class="border38">Submission Instructions</div>
@@ -52,10 +54,7 @@ contact our demo chairs:
 <a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a>
 
 <div class="border38">Proceedings</div>
-After the workshop, all presenters will be invited to submit a paper, about
-four pages maximum length, related to your demo presentation.  The papers will
-be collected and published on line as the first PRAGMA proceeding and will be
-available at the second half of 2020.  The proceeding will give broader
-audiences an understanding of how you through PRAGMA are advancing science
-through your works, and for some, it provides a proof for your sponsor that
-your presentation is published in a proceeding.
+
+Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
+
+Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma38) after acceptance notification. Please select the "Proceedings" track.

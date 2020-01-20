@@ -1,7 +1,7 @@
 ---
 layout: pragma38
 title: "Call for Posters"
-date: 2020-01-16
+date: 2020-01-20
 workshop: pragma38
 short: Call for Posters
 ---
@@ -64,7 +64,7 @@ slide) of their work to be presented during the conference.<br>
 </ol>
 <br>
 
-<div class="border38">Short Paper Submission Instructions</div>
+<div class="border38">Proceedings</div>
 
 Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
 
