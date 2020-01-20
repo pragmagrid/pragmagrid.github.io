@@ -48,4 +48,4 @@ Please submit the short paper in PDF format through [EasyChair](https://easychai
 
 <div class="border38">Contact</div>
 
-If you have any questions regarding the presentation abstract submission, please contact our Student Presentations Chair: Yoottana Boonpalit (e-mail: oatyootna@gmail.com)
+If you have any questions regarding the presentation abstract submission, please contact our Student Presentations Chair: Yutthana Boonpalit (yutthana.boon@dome.tu.ac.th)
