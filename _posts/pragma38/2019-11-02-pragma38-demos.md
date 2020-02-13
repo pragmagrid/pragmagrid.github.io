@@ -6,7 +6,7 @@ workshop: pragma38
 short: Call for Demos
 ---
 
-<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
+<p style="color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
 
 On behalf of the PRAGMA 38 Program Committee, we are soliciting demos for the
 PRAGMA 38 workshop. The demo session offers opportunities to showcase

@@ -8,7 +8,7 @@ short: dates
 
 <div class="border38">PRAGMA 38 </div>
 
-<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
+<p style="color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
 
 <li><strong>March 11-13, 2020</strong></li>
 <li>Registration Opens - Jan 3, 2020</li>
