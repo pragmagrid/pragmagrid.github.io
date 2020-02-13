@@ -6,7 +6,7 @@ workshop: pragma38
 short: Sponsors and Partners
 ---
 
-TBD
+<b><p style="font-color:red;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.<p></b>
 
 <!-- ### Thank you to our generous sponsors:<br> -->
 

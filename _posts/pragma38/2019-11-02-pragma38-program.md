@@ -6,6 +6,8 @@ workshop: pragma38
 short: program
 ---
 
+<b><p style="font-color:red;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.<p></b>
+
 [Day 1](#day1)&nbsp;&nbsp; [Day 2](#day2)&nbsp;&nbsp; [Day 3](#day3)&nbsp;&nbsp; [Day 4](#day4)
 
 <br>

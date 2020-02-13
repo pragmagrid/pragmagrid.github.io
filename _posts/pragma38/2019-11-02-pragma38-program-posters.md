@@ -6,6 +6,8 @@ workshop: pragma38
 short: program-posters
 ---
 
+<b><p style="font-color:red;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.<p></b>
+
 <!--
 <ul>
 <li><b><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma38/posters/PRAGMA38%20poster%20file%201.pdf">Compressing Recurrent Neural Network Models using Vector Quantization</a></b> (<i>Kundjanasith Thonglek, Kohei Ichikawa, Keichi Takahashi, Chawanat Nakasan and Hajimu Iida</i>)</li>
