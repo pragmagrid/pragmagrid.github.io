@@ -6,6 +6,8 @@ workshop: pragma38
 short: Call for Student Presentations
 ---
 
+<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
+
 All PRAGMA 38 student attendees are invited to present during the PRAGMA 38 Student
 Workshop held in the afternoon of March 11, 2020.
 

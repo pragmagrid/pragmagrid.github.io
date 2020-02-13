@@ -9,7 +9,7 @@ short: Venue
 <div class="border38">Venue</div>
 
 <br/>
-PRAGMA 38 will be held in the Centennial campus of HKU.
+<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
 
 <div class="border38">Map and Directions</div>
 <img src="/images/pragma38/PRAGMA38_Map.JPG">

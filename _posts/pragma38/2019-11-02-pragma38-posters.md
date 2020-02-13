@@ -6,7 +6,7 @@ workshop: pragma38
 short: Call for Posters
 ---
 
-<b><p style="font-color:red;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.<p></b>
+<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
 
 All PRAGMA 38 attendees are welcome to submit posters (and associated
 abstracts) to the PRAGMA 38 Poster Session, especially students. The poster

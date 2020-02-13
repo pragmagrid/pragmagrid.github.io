@@ -6,7 +6,7 @@ workshop: pragma38
 short: program-posters
 ---
 
-<b><p style="font-color:red;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.<p></b>
+<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
 
 <!--
 <ul>

@@ -6,6 +6,8 @@ workshop: pragma38
 short: Travel
 ---
 
+<p style="font-color:red;font-weight:bolder;">PRAGMA 38 is CANCELLED due to the recent coronavirus outbreak. Details for the Fall workshop (PRAGMA 39) will be announced later.</p>
+
 <div class="border38">Air Travel</div>
 Hong Kong has one international airport (<a href="https://www.hongkongairport.com">Hong Kong International Airport</a>). For most worldwide destinations there would be direct flight.
 
