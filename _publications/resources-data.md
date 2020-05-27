@@ -5,17 +5,24 @@ menu: Resources and Data WG
 category: res-wg
 ---
 
+<div class="border">2020</div>
+
+Rattanatamrong P, Haga J, Smallen S, Boonpalit Y, Suwanjinda S, Subratie K,
+Daneshmand V, Mangmesap A. Overhead Study of Telegraf as a Real-Time
+Monitoring Agent. In 2020 17th International Joint Conference on Computer Science
+and Software Engineering (JCSSE). 2020 May 8.
+
 <div class="border">2019</div>
 
 Lee GJ, Fortes JA. Improving Data-Analytics Performance Via Autonomic Control of Concurrency and Resource Units. ACM Transactions on Autonomous and Adaptive Systems (TAAS). 2019 Mar 15;13(3):13.
 
 <div class="border">2018</div>
 
-Subratie K, Figueiredo R. Towards Island Networks: SDN-Enabled Virtual Private Networks with Peer-to-Peer Overlay Links for Edge Computing. InInternational Conference on Internet and Distributed Computing Systems 2018 Oct 11 (pp. 122-133). Springer, Cham.
+Subratie K, Figueiredo R. Towards Island Networks: SDN-Enabled Virtual Private Networks with Peer-to-Peer Overlay Links for Edge Computing. In International Conference on Internet and Distributed Computing Systems 2018 Oct 11 (pp. 122-133). Springer, Cham.
 
 <div class="border">2017</div>
 
-Banluesombatkul N, Kaewlamul P, Rattanatamrong P, Williams N, Smallen S. PRAGMA Cloud Scheduler: Improving Usability of the PRAGMA Cloud Testbed. In2017 21st International Computer Science and Engineering Conference (ICSEC) 2017 Nov 15 (pp. 1-5). IEEE.
+Banluesombatkul N, Kaewlamul P, Rattanatamrong P, Williams N, Smallen S. PRAGMA Cloud Scheduler: Improving Usability of the PRAGMA Cloud Testbed. In 2017 21st International Computer Science and Engineering Conference (ICSEC) 2017 Nov 15 (pp. 1-5). IEEE.
 
 Huang C, Nakasan C, Ichikawa K, Watashiba Y, Iida H. A Multipath OpenFlow Controller for Multiple TCP Stream Applications. Journal of Information Processing. 2017;25:924-33.
 
