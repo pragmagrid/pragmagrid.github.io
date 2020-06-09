@@ -15,4 +15,4 @@ categories:
 
 [Website][1]
 
-[1]: http://www.its.hku.hk/services/research/hpc-grid and http://www.hku.hk
+[1]: http://www.its.hku.hk/services/research/hpc-grid 
