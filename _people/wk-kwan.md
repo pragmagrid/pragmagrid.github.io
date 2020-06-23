@@ -1,7 +1,7 @@
 ---
 title: Kwan
 firstname: Wing Keung
-affiliation: Assistant IT Director, The University of Hong Kong
+affiliation: Honorary Senior Research Associate, Department of Physics, The University of Hong Kong
 imagesrc: wk-kwan.png
 layout: person
 categories:
