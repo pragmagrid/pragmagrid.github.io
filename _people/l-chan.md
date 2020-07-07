@@ -1,7 +1,7 @@
 ---
 title: Chan
 firstname: Lilian Y L
-affiliation: IT Manager, The University of Hong Kong
+affiliation: Senior IT Manager, The University of Hong Kong
 imagesrc: 
 layout: person
 categories:
@@ -11,7 +11,7 @@ categories:
 **PRAGMA Role:** Steering Committee Member.
 
 
-**Related Work:** Fluid Mechanics, HPC and Grid Computing Applications.
+**Related Work:** Computational Physics, HPC and Grid Computing Applications.
 
 [Website][1]
 
