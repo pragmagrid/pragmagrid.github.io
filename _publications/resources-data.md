@@ -7,8 +7,7 @@ category: res-wg
 
 <div class="border">2020</div>
 
-Rattanatamrong P, Haga J, Smallen S, Boonpalit Y, Suwanjinda S, Subratie K,
-Daneshmand V, Mangmesap A. Overhead Study of Telegraf as a Real-Time
+Rattanatamrong P, Boonpalit Y, Suwanjinda S, Mangmeesap A., Subratie K, Daneshmand V, Smallen S, Haga, J. Overhead Study of Telegraf as a Real-Time
 Monitoring Agent. In 2020 17th International Joint Conference on Computer Science
 and Software Engineering (JCSSE). 2020 May 8.
 
