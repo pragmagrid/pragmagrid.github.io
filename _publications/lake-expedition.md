@@ -5,13 +5,18 @@ menu: Lake Expedition
 category: lake-exp
 ---
 
+<div class="border">2020</div>
+Lofton ME, Leach TH, Beisner BE, Carey CC. Relative importance of top‐down vs. bottom‐up control of lake phytoplankton vertical distributions varies among fluorescence‐based spectral groups. Limnology and Oceanography. 2020 Oct;65(10):2485-501.
+
 <div class="border">2019</div>
 
-Carey, C. C., Ward, N. K., Farrell, K. J., Lofton, M. E., Krinos, A. I., McClure, R. P., Subratie, K. C., Figueiredo, R. J., Doubek, J. P., Hanson, P. C., Papadopoulos, P., and Arzberger, P. (2019). Enhancing collaboration between ecologists and computer scientists: lessons learned and recommendations forward. Ecosphere 10(5): e02753.10.1002/ecs2.2753
+Carey CC, Ward NK, Farrell KJ, Lofton ME, Krinos AI, McClure RP, Subratie KC, Figueiredo RJ, Doubek JP, Hanson PC, Papadopoulos P, Arzberger P., Enhancing collaboration between ecologists and computer scientists: lessons learned and recommendations forward. Ecosphere. 2019 May;10(5):e02753.
 
-Farrell, K. J., Ward, N. K., Krinos, A. I., Hanson, P. C., Daneshmand, V., Figueiredo, R. J., Carey, C. C. Ecosystem-scale nutrient cycling responses to increasing air temperatures vary with lake trophic state. In preparation for Ecological Modeling
+Farrell KJ, Ward NK, Krinos AI, Hanson PC, Daneshmand V, Figueiredo RJ, Carey CC. Ecosystem-scale nutrient cycling responses to increasing air temperatures vary with lake trophic state. Ecological Modelling. 2020 Aug 15;430:109134.
 
-Krinos, A.I., K.J. Farrell, V. Daneshmand, K.C. Subratie, R.J. Figueiredo, and C.C. Carey. Including variability in air temperature warming scenarios in a lake simulation model highlights uncertainty in predictions of cyanobacteria. bioRxiv 734285; DOI: 10.1101/734285
+Hipsey MR, Bruce LC, Boon C, Busch B, Carey CC, Hamilton DP, Hanson PC, Read JS, Sousa ED, Weber M, Winslow LA. A General Lake Model (GLM 3.0) for linking with high-frequency sensor data from the Global Lake Ecological Observatory Network (GLEON). Geoscientific Model Development. 2019 Jan 29;12(1):473-523.
+
+Krinos AI, Farrell KJ, Daneshmand V, Subratie KC, Figueiredo RJ, Carey CC. Including variability in air temperature warming scenarios in a lake simulation model highlights uncertainty in predictions of cyanobacteria. bioRxiv. 2019 Jan 1:734285.
 
 <div class="border">2018</div>
 
