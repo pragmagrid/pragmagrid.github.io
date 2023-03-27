@@ -15,62 +15,6 @@ short: program
   </center>
 </div>
 
-<div class="border39" id="day1">Day 1 (June 21, Wednesday) : TBD</div>
-<table class="program39">
-  <tbody><tr>
-    <th>Time</th>
-    <th>Activity</th>
-  </tr>
-  <tr>
-    <td>08:30 - 09:30</td>
-    <td>Breakfast + Registration</td>
-  </tr>
-  
-  <tr>
-    <td>12:00 - 13:00</td>
-    <td class="break">Lunch</td>
-  </tr>
-</tbody></table>
-
-<div class="border39" id="day1">Day 1 (June 21, Wednesday) : PRAGMA Student Workshop</div>
-<table class="program39">
-  <tbody><tr>
-    <th>Time</th>
-    <th>Activity</th>
-  </tr>
-  <tr>
-    <td> </td>
-    
-  </tr>
-  <tr>
-    <td>12:00 - 13:00</td>
-    <td class="break">Lunch + Registration</td>
-  </tr>
-   <tr>
-    <td>13:00 - 13:10</td>
-    <td><a href="https://github.com/pragmagrid/pragma-meetings/raw/master/pragma39/11/student-intro.pdf"><b>Introduction</b></a> (each talk below is 15 minutes + 5 mins questions/comments)</td>
-  </tr>
-   <tr>
-  </tr><tr>
-    <td>14:10 - 14:30</td>
-    <td class="break"><b>Coffee Break</b></td>
-  </tr>
-    
-</tbody></table>
-
-<div class="border39" id="day1">Day 1 (June 21, Wednesday) : PRAGMA Welcome Reception</div>
-<table class="program39">
-  <tbody><tr>
-    <td>18:00 - 20:00</td>
-    <td><b>PRAGMA Welcome Reception</b> at TBD<br>
-    </td>
-  </tr>
-</tbody></table>
-
-[Back to top](/pragma39-program)
-
-<br>
-
 <div class="border39" id="day2">Day 2 (June 22, Thursday) : PRAGMA Workshop</div>
 
 <table class="program39">

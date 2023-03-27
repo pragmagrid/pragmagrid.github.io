@@ -8,7 +8,7 @@ short: dates
 
 <div class="border39">PRAGMA 39 </div>
 
-<li><strong>June 21-24, 2023</strong></li>
+<li><strong>June 22-24, 2023</strong></li>
 <li>Registration Opens - TBD, 2023</li>
 <li>Registration Closes - TBD, 2023</li><br>
 

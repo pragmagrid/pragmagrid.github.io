@@ -18,7 +18,6 @@ Please contact <a href="mailto:yourcontact">[yourcontact]</a>: <br>
 <br>
 
 ### PRAGMA 39 Program <br>
-June 21 (Wed): TBD?<br>
 June 22 (Thu): PRAGMA 39 Workshop<br>
 June 23 (Fri): PRAGMA 39 Workshop<br>
 June 24 (Sat): Networking and Collaboration Day
