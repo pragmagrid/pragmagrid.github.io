@@ -10,7 +10,7 @@ short: program
 
 <div class="alert">
   <center>
-    <b>The PRAGMA 39 workshop will be hosted at:</b>
+    <b>The PRAGMA 39 workshop will be hosted at: Universitas YARSI</b>
   </center>
 </div>
 

@@ -82,7 +82,7 @@ body.pragma39 nav {
     line-height: 36px;
     .menu-icon { display: none; }
     .page-link {
-        color: $whitetone1; &:visited { color: white; } &:hover { color: red; } line-height: $base-line-height; margin-left: 40px; }
+        color: $whitetone1; &:visited { color: white; } &:hover { color: #78d5fa; } line-height: $base-line-height; margin-left: 40px; }
     @include media-query($on-palm) { min-width: 150px; }
 }
 
@@ -117,7 +117,7 @@ table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; }
 /* for alert banner */
 .alert {
   padding: 20px;
-  background-color: #4CAF50;
+  background-color: hsl(253, 95%, 15%);
   color: white;
   margin-bottom: 15px;
   font-weight: bold; 
