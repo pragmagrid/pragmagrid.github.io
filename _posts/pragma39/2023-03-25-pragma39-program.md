@@ -42,14 +42,18 @@ short: program
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
-    <td><b>Keynote Speech 1: Ministry of Finance, Indonesia</b> </br>
-      AI for Finance Tech in Indonesia
+    <td><b>Keynote Speech 1: </b>
+      <ul>
+        <li>AI for Finance Tech in Indonesia (Ministry of Finance, Indonesia)</li>
+      </ul>
     </td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
-    <td><b>Keynote Speech 2: Ministry of Health, Indonesia</b> </br>
-      AI in Health in Indonesia
+    <td><b>Keynote Speech 2</b>
+      <ul>
+        <li>AI in Health in Indonesia (Ministry of Health, Indonesia)</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -98,9 +102,8 @@ short: program
   </tr>
   <tr>
     <td>09:00 - 09:30</td>
-    <td><b>AI Laboratory & Center of e-Health</b></br>
-      Prof. Wisnu Sujatmiko – Universitas Indonesia
-      </ul>
+    <td><b>AI Laboratory & Center of e-Health</b><br>
+      Prof. Wisnu Sujatmiko (Universitas Indonesia, Indonesia)
     </td>
   </tr>
   <tr>

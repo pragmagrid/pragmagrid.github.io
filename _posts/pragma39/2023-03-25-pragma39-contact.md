@@ -7,7 +7,7 @@ short: Contact
 ---
 
 **Secretrait**<br/>
-- TBN
+If you have any questions, please contact us on the following email address: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
 
 <!--
 **Logistics (travel, venue, etc.):**<br>
@@ -17,12 +17,12 @@ short: Contact
 
 **Posters and Lightning Talks, Student Workshop**<br>
 
-- Wassapon "Boom" Watanakeesuntorn, <a href="mailto:wassapon.watanakeesuntorn.wq0@is.naist.jp">wassapon.watanakeesuntorn.wq0@is.naist.jp</a> 
+- Wassapon "Boom" Watanakeesuntorn, <a href="mailto:wassapon.watanakeesuntorn.wq0@is.naist.jp">wassapon.watanakeesuntorn.wq0@is.naist.jp</a>
 <br> <br>
 
 **Demo Presentations:**<br>
 - Sri Chusri Haryanti
-- Hsiu-Mei Chou 
+- Hsiu-Mei Chou
 
 Send email to <a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a> for any questions.
 -->

@@ -6,6 +6,6 @@ workshop: pragma39
 short: Sponsors and Partners
 ---
 
-<!-- ### Thank you to our generous sponsors:<br> -->
-
-<!-- <img src="/images/logos/nsf_logo.png" alt="" style="width:20%;"> -->
+### Thank you to our generous sponsors:<br>
+- Bank Rakyan Indonesia<br>
+- Red Hat<br>

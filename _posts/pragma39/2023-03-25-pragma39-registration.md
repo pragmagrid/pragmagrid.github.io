@@ -6,15 +6,10 @@ workshop: pragma39
 short: registration
 ---
 
-Registration link: <a href="#">insert registration link here</a>
+Registration: <a href="#"></a>
 <br>
 <br>
-Please contact <a href="mailto:yourcontact">[yourcontact]</a>: <br>
-<ul>
-  <li>If you need to change information on a submitted registration or change your plan.</li>
-  <li>If you have any questions or concerns.</li>
-</ul>
-
+For registration and information, please contact us on the following email address: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
 <br>
 
 ### PRAGMA 39 Program <br>
