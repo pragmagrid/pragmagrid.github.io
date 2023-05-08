@@ -11,7 +11,7 @@ Registration: <a href="#"></a>
 <br>
 Registration is now open!
 
-Register here: <a href="bit.ly/PRAGMA39Registration" target="new">bit.ly/PRAGMA39Registration</a>
+Register here: <a href="https://bit.ly/PRAGMA39Registration" target="new">bit.ly/PRAGMA39Registration</a>
 Please register by June 10st, 2023.<br>
 
 For further information , please contact us on the following email address: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
