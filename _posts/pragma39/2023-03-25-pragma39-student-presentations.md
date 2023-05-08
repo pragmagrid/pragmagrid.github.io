@@ -23,7 +23,7 @@ one-minute lightning talk session</a>.
 
 &nbsp;
 
-<!-- <div class="border39">Abstract Submission Instructions</div>
+<div class="border39">Abstract Submission Instructions</div>
 
 The submission should cover the following information:
 
@@ -46,6 +46,6 @@ Accepted authors are required to submit a short paper (4-page maximum), related 
 
 Please submit the short paper in PDF format through [EasyChair](https://easychair.org/my/conference?conf=pragma39student) after acceptance notification. Please select the "Proceedings" track.
 
-<div class="border39">Contact</div> -->
+<div class="border39">Contact</div>
 
 If you have any questions regarding the presentation abstract submission, please contact our Student Presentations Chair: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
