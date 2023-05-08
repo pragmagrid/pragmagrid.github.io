@@ -12,7 +12,7 @@ session offers the opportunity for presenters to share their work through a
 quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
-<div class="border39">Important Dates</div>
+<!-- <div class="border39">Important Dates</div>
 - Submission deadline: TBD, 2023
 - Author notification: TBD, 2020.
 - Workshop registration deadline: TBD, 2023.
@@ -31,7 +31,7 @@ to give a one minute introductory lightning talk. As such, an acceptable
 submission must include a PDF of the poster text abstract and will form the
 basis for your lightning talk.
 
-The submission should cover the following information: 
+The submission should cover the following information:
 
 <ol>
 <li>**Title of the poster**</li>
@@ -41,7 +41,7 @@ The submission should cover the following information:
 </ol>
 
 <br>
-We strongly recommend all submissions use the word template 
+We strongly recommend all submissions use the word template
 <a href="/images/pragma39/PRAGMA39 Poster Abstract Template.docx">here</a>.<br>
 
 All posters must use the A1 format (594 x 841 mm/23.4 x 33.1 in).<br>
@@ -65,12 +65,12 @@ slide) of their work to be presented during the conference.<br>
 
 <div class="border39">Proceedings</div>
 
-Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020. 
+Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020.
 
-Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma39) after acceptance notification. Please select the "Proceedings" track.
+Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma39) after acceptance notification. Please select the "Proceedings" track. -->
 
 <div class="border39">Contact</div>
 
 If you have any questions, please contact our Poster and Student Presentations
-Chair: TBN
+Chair: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
 
