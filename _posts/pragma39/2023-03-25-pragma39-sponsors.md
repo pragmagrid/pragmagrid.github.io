@@ -7,5 +7,5 @@ short: Sponsors and Partners
 ---
 
 ### Thank you to our generous sponsors:<br>
-- Bank Rakyan Indonesia<br>
+- Bank Rakyat Indonesia<br>
 - Red Hat<br>
