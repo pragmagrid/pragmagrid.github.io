@@ -37,14 +37,14 @@ We strongly recommend all submissions use the word template
 <a href="/images/pragma39/PRAGMA39%20Student%20Presentation%20Abstract%20Template.docx">here</a>.<br>
 
 Please submit the completed Word template through
-[EasyChair](https://easychair.org/conferences/?conf=pragma39). Please select
+[EasyChair](https://easychair.org/my/conference?conf=pragma39student). Please select
 the "Student Workshop Presentations" track.
 
 <div class="border39">Proceedings</div>
 
 Accepted authors are required to submit a short paper (4-page maximum), related to your presentation, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceedings at ...
 
-Please submit the short paper in PDF format through [EasyChair](https://easychair.org/conferences/?conf=pragma39) after acceptance notification. Please select the "Proceedings" track.
+Please submit the short paper in PDF format through [EasyChair](https://easychair.org/my/conference?conf=pragma39student) after acceptance notification. Please select the "Proceedings" track.
 
 <div class="border39">Contact</div>
 
