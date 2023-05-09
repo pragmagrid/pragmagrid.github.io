@@ -6,8 +6,7 @@ imagesrc:
 layout: person
 tech: ['Data']
 categories:
- - "exsteering"
- - "nsf"
+ - "steering"
 ---
 
 **PRAGMA Role:** Ex-Officio PRAGMA Steering Committee Member.
