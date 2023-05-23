@@ -16,7 +16,8 @@ PRAGMA 39 will be held at <a href="https://www.yarsi.ac.id/">Universitas YARSI</
 
 
 <div class="border39">Alternative Accommodations</div>
-Some hotels that are available around the venue are listed below: <br>
+We provide transportation from hotel (that listed below) to venue.
+Some hotels that are available around the venue are: <br>
 
 -  **Grand Mercure Kemayoran (5 star hotel, 4,9 km from YARSI)** <a href="https://www.google.com/travel/hotels/s/B4h7y7NpgZYSrRBa9">Details</a>
 <br>
