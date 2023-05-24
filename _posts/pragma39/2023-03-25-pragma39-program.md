@@ -14,7 +14,7 @@ short: program
   </center>
 </div>
 
-<div class="border39" id="day1">Day 0 (June 21, Thursday) : PRAGMA Workshop</div>
+<div class="border39" id="day1">Day 0 (June 21, Wednesday) : PRAGMA Workshop</div>
 <table class="program39">
   <tbody><tr>
     <th>Time</th>
