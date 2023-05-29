@@ -69,8 +69,10 @@ short: program
       <ul>
         <li>Opening Remarks by Chair – Sri Chusri Haryanti, Universitas YARSI, Indonesia</li>
         <li>Welcoming Speech by Dean, Faculty of Information Technology, Universitas YARSI</li>
+         <li>Welcoming Speech by Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
+         <li>Welcoming Speech by Founder of YARSI Foundation</li>
         <li>Speech by Kohei Ichikawa, PRAGMA Steering Committee</li>
-        <li>Speech by Jason Haga: Student WS Summary</li>
+        <li>Speech Student WS Summary by Jason Haga, AIST, Japan: </li>
       </ul>
     </td>
   </tr>
@@ -127,7 +129,7 @@ short: program
     <td><b>Disaster Management System</b>
       <ul>
         <li>Prof. Heru Suhartanto (Universitas Indonesia) </li>
-        <li>Mores Prachyabrued (Mahidol University, Thailand) </li>
+        <li>Wanida Putthividhya & Prapaporn Rattanatamrong (Thammasat University, Thailand) </li>
         <li>Prapaporn Rattanatamrong (Thammasat University, Thailand)</li>
         <li>Jason Haga (National Institute of Advanced Industrial Science and Technology (AIST), Japan)</li>
       </ul>
@@ -186,8 +188,8 @@ short: program
   </tr>
   <tr>
     <td>12:00 - 13.00*</td>
-    <td><b>Lunch and PRAGMA Steering Committee Meeting</b> </br>
-      * For PRAGMA Steering Committee Meeting until 14.00
+    <td><b>Lunch and PRAGMA Steering Committee Meeting</b> <br>
+      *For PRAGMA Steering Committee Meeting until 14.00
     </ul>
     </td>
   </tr>
