@@ -68,9 +68,9 @@ short: program
     <td><b>Opening Ceremony</b> </br>
       <ul>
         <li>Opening Remarks by Chair – Sri Chusri Haryanti, Universitas YARSI, Indonesia</li>
-        <li>Welcoming Speech by Dean, Faculty of Information Technology, Universitas YARSI</li>
-         <li>Welcoming Speech by Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
-         <li>Welcoming Speech by Founder of YARSI Foundation</li>
+        <li>Welcoming Speech by Dean Faculty of Information Technology, Dr. Ummi Azizah Rachmawati, Universitas YARSI</li>
+         <li>Welcoming Speech by Prof. Fasli Jalal, Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
+         <li>Welcoming Speech by Prof. Jurnalis Uddin, The Founder of YARSI Foundation</li>
         <li>Speech by Kohei Ichikawa, PRAGMA Steering Committee</li>
         <li>Speech Student WS Summary by Jason Haga, AIST, Japan: </li>
       </ul>
@@ -102,7 +102,7 @@ short: program
       <ul>
         <li>PRAGMA 39: Overview and Updates - Shava Smallen, PRAGMA Co-Chair</li>
         <li>Introduction of PRAGMA: A History</li>
-        <li>Venders/Sponsor talks: Google ACE, BRI, RedHat, Telkomsel
+        <li>Venders/Sponsor talks
         </li>
       </ul>
     </td>
