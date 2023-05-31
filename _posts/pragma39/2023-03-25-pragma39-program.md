@@ -239,7 +239,7 @@ short: program
     <b>09:00 - 13:30</b>
     <br>(flexible time)
   </td>
-  <td>(Local Tour Location TBD)</td></tr>
+  <td>(Local Tour Location TBD)</td>
 </tbody></table>
 
 [Back to top](/pragma39-program)
