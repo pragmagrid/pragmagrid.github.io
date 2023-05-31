@@ -65,7 +65,7 @@ short: program
   </tr>
   <tr>
     <td>09:00 - 09:45</td>
-    <td><b>Opening Ceremony</b> </br>
+    <td><b>Opening Ceremony</b> 
       <ul>
         <li>Opening Remarks by Chair – Sri Chusri Haryanti, Universitas YARSI, Indonesia</li>
         <li>Welcoming Speech by Dean Faculty of Information Technology, Dr. Ummi Azizah Rachmawati, Universitas YARSI</li>
@@ -190,12 +190,12 @@ short: program
     <td>12:00 - 13.00*</td>
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b> <br>
       *For PRAGMA Steering Committee Meeting until 14.00
-    </ul>
+   
     </td>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
-    <td><b>Student lightning session</b> <br>
+    <td><b> Lightning talk; sharing on recent research activities</b> <br>
     </td>
   </tr>
   <tr>
