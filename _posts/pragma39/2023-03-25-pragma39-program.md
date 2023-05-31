@@ -228,7 +228,7 @@ short: program
 
 <br>
 
-<div class="border39" id="day3">Day 3 (June 24, Saturday) : Networking and Collaboration Day</div>
+<div class="border39" id="day3">Day 3 (June 24, Saturday) :  Unstructured Collaboration in Southeast Asia Discussions</div>
 
 <table class="program39">
   <tbody><tr>
