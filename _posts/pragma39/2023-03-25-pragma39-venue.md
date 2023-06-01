@@ -20,9 +20,9 @@ We provide transportation from hotel (that listed below) to venue.<br>
 We suggest you to use Blue Bird Taxi from airport to hotel.<br>
 Some hotels that are available around the venue are: <br>
 
--  **Grand Mercure Kemayoran (5 star hotel, 4,9 km from YARSI)** <a href="https://www.google.com/travel/hotels/s/B4h7y7NpgZYSrRBa9">Details</a>
+-  **Hotel Borobudur Jakarta (5 star hotel, 4,6 km from YARSI)** <a href="https://www.hotelborobudur.com/">Details</a>
 <br>
-<img src="/images/pragma39/venue/GrandMercureKemayoran.png" style="width:50%; height: 50%;"/>
+<img src="/images/pragma39/venue/hotelborobudur.jpg" style="width:50%; height: 50%;"/>
 <br>
 
 <br>
