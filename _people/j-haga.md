@@ -1,7 +1,7 @@
 ---
 title: Haga
 firstname: Jason
-affiliation: Senior Research Scientist, Cyberphysical Cloud Research Group, Information Technology Research Institute, AIST
+affiliation: Chief Senior Research Scientist, Continuum Computing Architecture Research Team, Digital Architecture Research Center, AIST
 imagesrc: "j-haga.png"
 layout: person
 executivearea: Mentoring
