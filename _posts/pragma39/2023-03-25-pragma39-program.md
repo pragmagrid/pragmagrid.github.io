@@ -21,18 +21,35 @@ short: program
     <th>Activity</th>
   </tr>
   <tr>
-    <td>12:30 - 13:10</td>
+    <td>13:30 - 14:00</td>
     <td><b>Registration</b></td>
   </tr>
   <tr>
-    <td>13:00 - 13:10</td>
-    <td><b>Opening</b></td>
+    <td>14:00 - 15:00</td>
+    <td><b>PRAGMA Student Workshop Session 1</b></td>
   </tr>
   <tr>
-    <td>13.10 - 15:00</td>
-    <td><b>Workshop on Visualization</b>
+    <td>15.00 - 15:15</td>
+    <td><b>Coffee Break</b></td>
+    </tr>
+    <tr>
+    <td>15:15 - 16:15</td>
+    <td><b>PRAGMA Student Workshop Session 2</b></td>
+  </tr>
+    <tr>
+    <td>16.15 - 16:30</td>
+    <td><b>Coffee Break</b></td>
+    </tr>
+      <tr>
+    <td>16:30 - 17:30</td>
+    <td><b>PRAGMA Student Workshop Session 3</b></td>
+  </tr>
+      <tr>
+    <td>17:30 - 17:40</td>
+    <td><b>Closing</b></td>
+  </tr>
     <ul>
-        <li>Jason Haga</li>
+        <li></li>
       </ul>
     </td>
   </tr>
@@ -40,13 +57,8 @@ short: program
     <td>15:00 - 15:30</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
-  <tr>
-    <td>15:30 - 17:30</td>
-    <td><b>PRAGMA Student Workshop</b>
-      <ul>
-        <li>Student Presentation</li>
-      </ul>
-    </td>
+
+      
   </tr>
 </tbody></table>
 
@@ -67,7 +79,7 @@ short: program
     <td>09:00 - 09:45</td>
     <td><b>Opening Ceremony</b> 
       <ul>
-        <li>Opening Remarks by Chair – Sri Chusri Haryanti, Universitas YARSI, Indonesia</li>
+        
         <li>Welcoming Speech by Dean Faculty of Information Technology, Dr. Ummi Azizah Rachmawati, Universitas YARSI</li>
          <li>Welcoming Speech by Prof. Fasli Jalal, Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
          <li>Welcoming Speech by Prof. Jurnalis Uddin, The Founder of YARSI Foundation</li>
@@ -84,7 +96,7 @@ short: program
     <td>10:00 - 10:30</td>
     <td><b>Keynote Speech 1: </b>
       <ul>
-        <li>AI for Finance Tech in Indonesia (Ministry of Finance, Indonesia)</li>
+        <li>The Role of IT Strengthening and Securing the Financial Sector in Indonesia, Ministry of Finance, Indonesia</li>
       </ul>
     </td>
   </tr>
@@ -92,7 +104,7 @@ short: program
     <td>10:30 - 11:00</td>
     <td><b>Keynote Speech 2</b>
       <ul>
-        <li>AI in Health in Indonesia (Ministry of Health, Indonesia)</li>
+        <li> The Role of IT in Improving Healthcare Services and Achieving the Highest Degree of Public Health in Indonesia, Ministry of Health, Indonesia</li>
       </ul>
     </td>
   </tr>
@@ -102,7 +114,7 @@ short: program
       <ul>
         <li>PRAGMA 39: Overview and Updates - Shava Smallen, PRAGMA Co-Chair</li>
         <li>Introduction of PRAGMA: A History</li>
-        <li>Venders/Sponsor talks
+        <li>Sponsor talks: PLN 
         </li>
       </ul>
     </td>
@@ -112,7 +124,7 @@ short: program
      <td class="break">Lunch</td>
   </tr>
   <tr>
-    <td>13:00 - 15:40</td>
+    <td>13:00 - 15:00</td>
     <td><b>Group Dicussion and Presentation</b>
       <ul>
         <li>Group Discussion: Propose WG</li>
