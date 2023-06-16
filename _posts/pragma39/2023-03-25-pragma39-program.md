@@ -153,7 +153,10 @@ short: program
   </tr>
   <tr>
     <td>19.00 - 21.00</td>
-    <td class="break">Welcoming Dinner </td>
+    <td class="break">Welcoming Dinner
+    <br>
+      *for PRAGMA Steering Commitee
+    </td>
   </tr>
 
 </tbody></table>
@@ -196,7 +199,6 @@ short: program
     <td>12:00 - 13.00*</td>
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b> <br>
       *For PRAGMA Steering Committee Meeting until 14.00
-
     </td>
   </tr>
   <tr>
