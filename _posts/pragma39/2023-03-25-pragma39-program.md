@@ -252,6 +252,11 @@ short: program
     <br>(flexible time)
   </td>
   <td>(Collaboration Day)</td>
+  <td>
+    <b>14:00 - 16:00</b>
+    <br>Workshop on Virtualization 
+  </td>
+  <td>by Jason Haga</td>
 </tbody></table>
 
 [Back to top](/pragma39-program)
