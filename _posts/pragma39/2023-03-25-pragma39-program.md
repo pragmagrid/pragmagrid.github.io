@@ -48,17 +48,12 @@ short: program
     <td>17:30 - 17:40</td>
     <td><b>Closing</b></td>
   </tr>
-    <ul>
-        <li></li>
-      </ul>
-    </td>
-  </tr>
   <tr>
     <td>15:00 - 15:30</td>
     <td class="break"><b>Coffee Break</b></td>
   </tr>
 
-      
+
   </tr>
 </tbody></table>
 
@@ -77,9 +72,8 @@ short: program
   </tr>
   <tr>
     <td>09:00 - 09:45</td>
-    <td><b>Opening Ceremony</b> 
+    <td><b>Opening Ceremony</b>
       <ul>
-        
         <li>Welcoming Speech by Dean Faculty of Information Technology, Dr. Ummi Azizah Rachmawati, Universitas YARSI</li>
          <li>Welcoming Speech by Prof. Fasli Jalal, Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
          <li>Welcoming Speech by Prof. Jurnalis Uddin, The Founder of YARSI Foundation</li>
@@ -114,7 +108,7 @@ short: program
       <ul>
         <li>PRAGMA 39: Overview and Updates - Shava Smallen, PRAGMA Co-Chair</li>
         <li>Introduction of PRAGMA: A History</li>
-        <li>Sponsor talks: PLN 
+        <li>Sponsor talks: PLN
         </li>
       </ul>
     </td>
@@ -202,7 +196,7 @@ short: program
     <td>12:00 - 13.00*</td>
     <td><b>Lunch and PRAGMA Steering Committee Meeting</b> <br>
       *For PRAGMA Steering Committee Meeting until 14.00
-   
+
     </td>
   </tr>
   <tr>
@@ -247,18 +241,19 @@ short: program
     <th>Time</th>
     <th>Activity</th>
   </tr>
-  <td>
-    <b>09:00 - 13:30</b>
-    <br>(flexible time)
-  </td>
-  <td>(Collaboration Day)</td>
-  <td>
-    <b>14:00 - 16:00</b>
-    <br>Workshop on Virtualization 
-  </td>
-  <td>by Jason Haga</td>
+  <tr>
+    <td>
+      <b>09:00 - 13:30</b>
+      <br>(flexible time)
+    </td>
+    <td><b>(Collaboration Day)</b></td>
+  </tr>
+  <tr>
+    <td>
+      <b>14:00 - 16:00</b>
+  <td><b>Workshop on Virtualization</b> by Jason Haga</td>
+  </tr>
 </tbody></table>
 
 [Back to top](/pragma39-program)
 
-<br>
