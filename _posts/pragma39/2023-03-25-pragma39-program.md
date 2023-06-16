@@ -30,7 +30,7 @@ short: program
   </tr>
   <tr>
     <td>15.00 - 15:15</td>
-    <td><b>Coffee Break</b></td>
+    <td><b>Break</b></td>
     </tr>
     <tr>
     <td>15:15 - 16:15</td>
@@ -38,22 +38,15 @@ short: program
   </tr>
     <tr>
     <td>16.15 - 16:30</td>
-    <td><b>Coffee Break</b></td>
+    <td><b>Break</b></td>
     </tr>
       <tr>
     <td>16:30 - 17:30</td>
     <td><b>PRAGMA Student Workshop Session 3</b></td>
   </tr>
-      <tr>
+  <tr>
     <td>17:30 - 17:40</td>
     <td><b>Closing</b></td>
-  </tr>
-  <tr>
-    <td>15:00 - 15:30</td>
-    <td class="break"><b>Coffee Break</b></td>
-  </tr>
-
-
   </tr>
 </tbody></table>
 
@@ -84,7 +77,7 @@ short: program
   </tr>
   <tr>
     <td>09.45 - 10:00</td>
-    <td class="break"><b>Coffee Break</b></td>
+    <td class="break"><b>Break</b></td>
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
@@ -128,7 +121,7 @@ short: program
   </tr>
   <tr>
     <td>15.00 - 15:30</td>
-    <td class="break">Coffee Break  </td>
+    <td class="break">Break  </td>
   </tr>
   <tr>
     <td>15:30 - 16:30</td>
@@ -188,7 +181,7 @@ short: program
   </tr>
   <tr>
     <td>10:00 - 10:30</td>
-    <td class="break"><b>Coffee Break</b></td>
+    <td class="break"><b>Break</b></td>
   </tr>
   <tr>
     <td>10:30 - 12:00</td>
@@ -213,7 +206,7 @@ short: program
   </tr>
   <tr>
     <td>14:30 - 15:00</td>
-    <td class="break">Coffee Break  + NETWORKING</td>
+    <td class="break">Break</td>
   </tr>
   <tr>
     <td>15:00 - 16.00</td>
@@ -258,4 +251,6 @@ short: program
 </tbody></table>
 
 [Back to top](/pragma39-program)
+
+<br>
 
