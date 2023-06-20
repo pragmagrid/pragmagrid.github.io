@@ -5,7 +5,7 @@ affiliation: Director General, Department of Information Technology and Human Fa
 imagesrc: "s-sekiguchi.png"
 layout: person
 categories:
- - "steering"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** PRAGMA Steering Committee Member
