@@ -114,8 +114,7 @@ short: program
     <td>13:00 - 15:00</td>
     <td><b>Group Dicussion and Presentation</b>
       <ul>
-        <li>Group Discussion: Propose WG</li>
-        <li>Presentation: DX, ChatAI, Visualization, FedML</li>
+        <li>Lightening talks: Hongliang Li (Jilin Univ. - Remote), Kum Won Cho (KISTI - Remote), Weicheng Huang (NCHC - Remote), Prapaporn Rattanatamrong (Nan) (Thammasat  Univ.), Kundjanasith Thonglek (NAIST), Thapana Boonchoo (Thammasat Univ.), Suhartanto (Univ. Indonesia), Jose Fortes (Univ. of Florida), Shava Smallen (SDSC), Kohei Ichikawa (NAIST)</li>
       </ul>
     </td>
   </tr>
@@ -244,8 +243,7 @@ short: program
     <td><b>(Collaboration Day)</b></td>
   </tr>
   <tr>
-    <td>
-      <b>14:00 - 16:00</b>
+    <td><b>14:00 - 16:00</b></td>
   <td><b>Workshop on Virtualization</b> by Jason Haga</td>
   </tr>
 </tbody></table>
