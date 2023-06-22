@@ -244,7 +244,7 @@ short: program
   </tr>
   <tr>
     <td><b>14:00 - 16:00</b></td>
-  <td><b>Workshop on Virtualization</b> by Jason Haga</td>
+  <td><b>Workshop on Visualization</b> by Jason Haga</td>
   </tr>
 </tbody></table>
 
