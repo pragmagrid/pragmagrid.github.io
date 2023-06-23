@@ -8,8 +8,7 @@ executivearea: Chairs
 executiverole: Co-Chair
 groups: ['Telescience']
 categories:
- - "steering"
- - "executive"
+ - "exsteering"
 ---
 
 **PRAGMA Role:** Shinji Shimojo has served as a PRAGMA Steering Committee member,
