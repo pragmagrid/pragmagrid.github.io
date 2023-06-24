@@ -71,7 +71,7 @@ short: program
          <li>Welcoming Speech by Prof. Fasli Jalal, Rector Universitas YARSI (Former Vice Minister of Education Republic Indonesia)</li>
          <li>Welcoming Speech by Prof. Jurnalis Uddin, The Founder of YARSI Foundation</li>
         <li>Speech by Kohei Ichikawa, PRAGMA Steering Committee</li>
-        <li>Speech Student WS Summary by Jason Haga, AIST, Japan: </li>
+        <li>Speech Student WS Summary by Kundjanasith Thonglek, NAIST, Japan</li>
       </ul>
     </td>
   </tr>
@@ -99,10 +99,9 @@ short: program
     <td>11:00 - 12:00</td>
     <td><b>PRAGMA Overview</b>
       <ul>
-        <li>PRAGMA 39: Overview and Updates - Shava Smallen, PRAGMA Co-Chair</li>
-        <li>Introduction of PRAGMA: A History</li>
-        <li>Sponsor talks: PLN
-        </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/pragma39-updates.pdf">PRAGMA 39: Overview and Updates</a> - Shava Smallen, PRAGMA Co-Chair</li>
+        <li><a
+        href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/centra6.pdf">CENTRA 6 Invitation</a>, Jose Fortes, CENTRA Chair</li>
       </ul>
     </td>
   </tr>
@@ -112,9 +111,19 @@ short: program
   </tr>
   <tr>
     <td>13:00 - 15:00</td>
-    <td><b>Group Dicussion and Presentation</b>
+    <td><b>PRAGMA Member Lightening Talks</b>
       <ul>
-        <li>Lightening talks: Hongliang Li (Jilin Univ. - Remote), Kum Won Cho (KISTI - Remote), Weicheng Huang (NCHC - Remote), Prapaporn Rattanatamrong (Nan) (Thammasat  Univ.), Kundjanasith Thonglek (NAIST), Thapana Boonchoo (Thammasat Univ.), Suhartanto (Univ. Indonesia), Jose Fortes (Univ. of Florida), Shava Smallen (SDSC), Kohei Ichikawa (NAIST)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/lee-openxr.pdf?raw=true">Introduction to Open XR Platform Development for High-level Immersive Collaboration</a>, Ho-Chul Lee (KISTI)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/huang_ai.pdf?raw=true">Efforts toward "zero emission"</a>, Weicheng Huang (NCHC)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/rattanatamrong_gan.pdf?raw=true">Research Update</a>, Prapaporn Rattanatamrong (Thammasat  Univ.)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/rattanatamrong_gan.pdf?raw=true">LiberatAI: An Infrastructure for Collaborative Machine Learning on Heterogeneous Environments</a>, Kundjanasith Thonglek (NAIST)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/booncho_mssralat.pdf?raw=true">MS-SRALAT: Multi-granularity SubStructuRe-Aware Representation Learning Algorithm for Time-series</a>, Thapana Boonchoo (Thammasat Univ.)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/suhartanto_dss.pdf?raw=true">DSS-RESPOND-O R-X RESilient Emergency Preparedness for Natural Disaster Response through Operational Research</a>, Heru Suhartanto (Univ. Indonesia)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/fortes_biocollections.pdf?raw=true">Information extraction, dataset referencing and linked-data research at ACIS/U. Florida</a>, Jose Fortes (Univ. of Florida)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/smallen_cloudbank_voyager.pdf?raw=true">CloudBank and Voyager</a>, Shava Smallen (SDSC)</li>
+        <li><a
+        href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/lightning/smallen_cloudbank_voyager.pdf?raw=true">Edge IoT,
+SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
       </ul>
     </td>
   </tr>
@@ -126,10 +135,8 @@ short: program
     <td>15:30 - 16:30</td>
     <td><b>Disaster Management System</b>
       <ul>
-        <li>Prof. Heru Suhartanto (Universitas Indonesia) </li>
-        <li>Wanida Putthividhya & Prapaporn Rattanatamrong (Thammasat University, Thailand) </li>
-        <li>Prapaporn Rattanatamrong (Thammasat University, Thailand)</li>
-        <li>Jason Haga (National Institute of Advanced Industrial Science and Technology (AIST), Japan)</li>
+        <li>DSS Demo, Prof. Heru Suhartanto (Universitas Indonesia) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/rattanatamrong_landsage.pdf?raw=true">Disaster Management System</a>, Jason Haga (AIST), Prapaporn Rattanatamrong (Thammasat), Wanida Putthividhaya (Thammasat), Thapana Boonchoo2 (Thammasat)</li>
       </ul>
     </td>
   </tr>
@@ -137,9 +144,9 @@ short: program
     <td>16:30 - 17:15</td>
     <td><b>AI and HPC on Nature Research</b>
       <ul>
-        <li>Nurul Hashimah Malim (Universiti Sains Malaysia, Malaysia) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/malim_fish.pdf?raw=true">Deep Learning Applications in Ecological Informatics</a>, Nurul Hashimah Malim (Universiti Sains Malaysia, Malaysia) </li>
         <li>Prof. Chastine Fatichah (Sepuluh Nopember Institute of Technology, Indonesia)</li>
-        <li>Yeni Herdiyeni (IPB University, Indonesia)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/herdiyeni_plantdisease.pdf?raw=true">Knowledge Graph and Network Analysis for Plant Diseases Transmission based on Insect Vector and Pathogen Interaction</a>, Yeni Herdiyeni (IPB University, Indonesia)</li>
       </ul>
     </td>
   </tr>
