@@ -26,7 +26,7 @@ short: program
   </tr>
   <tr>
     <td>14:00 - 15:00</td>
-    <td><b>PRAGMA Student Workshop Session 1</b></td>
+    <td><b><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/student-workshop/README.md">PRAGMA Student Workshop Session 1</a></b></td>
   </tr>
   <tr>
     <td>15.00 - 15:15</td>
@@ -34,7 +34,7 @@ short: program
     </tr>
     <tr>
     <td>15:15 - 16:15</td>
-    <td><b>PRAGMA Student Workshop Session 2</b></td>
+    <td><b><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/student-workshop/README.md">PRAGMA Student Workshop Session 2</a></b></td>
   </tr>
     <tr>
     <td>16.15 - 16:30</td>
@@ -42,7 +42,7 @@ short: program
     </tr>
       <tr>
     <td>16:30 - 17:30</td>
-    <td><b>PRAGMA Student Workshop Session 3</b></td>
+    <td><b><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/student-workshop/README.md">PRAGMA Student Workshop Session 3</a></b></td>
   </tr>
   <tr>
     <td>17:30 - 17:40</td>
