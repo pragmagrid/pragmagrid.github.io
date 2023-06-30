@@ -91,7 +91,7 @@ short: program
     <td>10:30 - 11:00</td>
     <td><b>Keynote Speech 2</b>
       <ul>
-        <li> The Role of IT in Improving Healthcare Services and Achieving the Highest Degree of Public Health in Indonesia, Ministry of Health, Indonesia</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/keynote_indonesia_health.pdf?raw=true"> The Role of IT in Improving Healthcare Services and Achieving the Highest Degree of Public Health in Indonesia, Ministry of Health, Indonesia</a></li>
       </ul>
     </td>
   </tr>
@@ -99,9 +99,9 @@ short: program
     <td>11:00 - 12:00</td>
     <td><b>PRAGMA Overview</b>
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/pragma39-updates.pdf">PRAGMA 39: Overview and Updates</a> - Shava Smallen, PRAGMA Co-Chair</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/pragma39-updates.pdf?raw=true">PRAGMA 39: Overview and Updates</a> - Shava Smallen, PRAGMA Co-Chair</li>
         <li><a
-        href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/centra6.pdf">CENTRA 6 Invitation</a>, Jose Fortes, CENTRA Chair</li>
+        href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/centra6.pdf?raw=true">CENTRA 6 Invitation</a>, Jose Fortes, CENTRA Chair</li>
       </ul>
     </td>
   </tr>
@@ -145,7 +145,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
     <td><b>AI and HPC on Nature Research</b>
       <ul>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/malim_fish.pdf?raw=true">Deep Learning Applications in Ecological Informatics</a>, Nurul Hashimah Malim (Universiti Sains Malaysia, Malaysia) </li>
-        <li>Prof. Chastine Fatichah (Sepuluh Nopember Institute of Technology, Indonesia)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/fatichah_ai_app.pdf?raw=true">Artificial Intelligence on Nature Research</a>, Prof. Chastine Fatichah (Sepuluh Nopember Institute of Technology, Indonesia)</li>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/22/herdiyeni_plantdisease.pdf?raw=true">Knowledge Graph and Network Analysis for Plant Diseases Transmission based on Insect Vector and Pathogen Interaction</a>, Yeni Herdiyeni (IPB University, Indonesia)</li>
       </ul>
     </td>
@@ -179,7 +179,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
     <td>09:00 - 10:00</td>
     <td><b>AI and HPC in Healthcare</b><br>
       <ul>
-        <li>Prof. Wisnu Sujatmiko (Universitas Indonesia) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/23/jatmiko_ai_health_yarsi.pdf">Artificial Intelligence in Health Care</a>, Prof. Wisnu Sujatmiko (Universitas Indonesia) </li>
         <li>Fang-Pang Lin (National Center for High-performance Computing, Taiwan)</li>
         <li>AI Laboratory & Center of e-Health (Universitas YARSI, Indonesia)</li>
       </ul>
