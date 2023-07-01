@@ -182,7 +182,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
     <td>09:00 - 10:00</td>
     <td><b>AI and HPC in Healthcare</b><br>
       <ul>
-        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/23/jatmiko_ai_health_yarsi.pdf">Artificial Intelligence in Health Care</a>, Prof. Wisnu Sujatmiko (Universitas Indonesia) </li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/23/jatmiko_ai_health_yarsi.pdf?raw=true">Artificial Intelligence in Health Care</a>, Prof. Dr. Eng. Wisnu Jatmiko (Universitas Indonesia) </li>
         <li>Fang-Pang Lin (National Center for High-performance Computing, Taiwan)</li>
         <li>AI Laboratory & Center of e-Health (Universitas YARSI, Indonesia)</li>
       </ul>
@@ -205,7 +205,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
   </tr>
   <tr>
     <td>13:00 - 14:00</td>
-    <td><b> Lightning talk; sharing on recent research activities</b> <br>
+    <td><b>Poster Session</b> <br>
     </td>
   </tr>
   <tr>
