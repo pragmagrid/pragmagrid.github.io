@@ -10,7 +10,7 @@ short: program
 
 <div class="alert">
   <center>
-    <b>The PRAGMA 39 workshop will be hosted at: Universitas YARSI</b>
+    <b>The PRAGMA 39 workshop was hosted at: Universitas YARSI</b>
   </center>
 </div>
 
@@ -52,7 +52,10 @@ short: program
 
 [Back to top](/pragma39-program)
 
-<div class="border39" id="day1">Day 1 (June 22, Thursday) : PRAGMA Workshop</div>
+<div class="border39" id="day1">Day 1 (June 22, Thursday) : PRAGMA Workshop :
+>>>> Click <a href="https://www.youtube.com/watch?v=eXEsCyAkkjY">here</a> for
+video <<<<
+</div>
 
 <table class="program39">
   <tbody><tr>
@@ -164,7 +167,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
 
 <br>
 
-<div class="border39" id="day2">Day 2 (June 23, Friday) : PRAGMA Workshop</div>
+<div class="border39" id="day2">Day 2 (June 23, Friday) : PRAGMA Workshop : >>>> Click <a href="https://www.youtube.com/watch?v=VpehTD0xR_Y">here</a> for video <<<< </div>
 
 <table class="program39">
   <tbody><tr>
