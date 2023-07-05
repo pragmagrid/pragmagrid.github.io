@@ -4,6 +4,8 @@ firstname: Kum Won
 affiliation: Director,  KISTI, NISN (National Institute of Supercomputing and Networking), Center for Computational Science and Engineering
 imagesrc: "kw-cho.png "
 layout: person
+executivearea: Membership
+executiverole: Co-Chair
 categories:
  - "steering"
 ---

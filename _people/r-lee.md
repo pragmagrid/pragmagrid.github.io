@@ -4,8 +4,6 @@ firstname: Jongsuk (Ruth)
 affiliation:  Principal Researcher, National Supercomputing Division, Korea Institute of Science and Technology Information (KISTI)
 imagesrc: "r-lee.png"
 layout: person
-executivearea: Membership
-executiverole: Co-Chair
 groups: ['Cyberlearning']
 categories:
  - "steering"
