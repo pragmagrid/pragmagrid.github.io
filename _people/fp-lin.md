@@ -6,7 +6,7 @@ imagesrc: "fp-lin.png"
 layout: person
 executivearea: Membership
 executiverole: Chair
-groups: ['Telescience']
+groups: ['Telescience', 'Climate Change']
 categories:
  - "steering"
  - "executive"

@@ -4,6 +4,8 @@ firstname: Wanida
 affiliation: Lecturer, Department of Computer Science, Faculty of Science and Technology, Thammasat University
 imagesrc: "w-putthividhya.png"
 layout: person
+groups:
+ - "Climate Change"
 categories:
  - "steering"
  - "researcher"

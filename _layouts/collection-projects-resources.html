@@ -4,30 +4,136 @@ layout: default
 
 <section class="bg-dark">
   <div class="text-center">
-    <h1>{{ page.part1 }}</h1>
+    <h1>New and Revived</h1>
   </div>
 </section>
 
-<p>PRAGMA forges collaborative, multidisciplinary teams to address scientific questions of high societal impact.
-These scientific questions define and drive PRAGMA's technology development.
+<div class="border">
+ <h4><b><a name="working"></a>Working Groups</b></h4>
+</div>
+
+(Note: to join the mailing lists below, you must be signed into a google account and then click the 'Ask to join group' button) </li>
+<br/>
+
+{% assign groups = site["groups"] | sort: "order" %}
+{% assign activegroups = groups | where:"status", "active" %}
+
+{% for group in activegroups %}
+<p>
+  {% assign leads = site["people"] | where: "groups", group.title | sort: "title" %}
+  {% assign numleads = leads | size %}
+  <ul>
+    <li><strong>{{ group.title | upcase }}</strong>: {{ group.tagline }}
+      <ul>
+        <li><b>
+    {% if numleads > 1 %}
+      Co-leaders:
+    {% else %}
+      Led by:
+    {% endif %}
+      </b>
+        <ul>
+  {% for lead in leads%}
+        <li><a href="{{ lead.url }}" title="{{ lead.title }}">{{lead.firstname}} {{ lead.title }}</a> - {{lead.affiliation}}</li>
+  {% endfor %}
+       </ul>
+      </li>
+      <li><b>Mailing list</b>: <a href="{{ group.mailinglist }}">{{ group.mailinglist }}</a><br/></li>
+    </li></ul>
+  </ul>
 </p>
+{% endfor %}
 
-{% assign numprojects = site[page.short] | size %}
+<div class="border">
+ <h4><b><a name="working"></a>Excursions</b></h4>
+</div>
 
-<p>There are {{ numprojects }} current expeditions:
+<p>Excursions are new efforts starting up in PRAGMA (as of Summer 2023).  All
+PRAGMA members are welcome to join any of the efforts below by contacting the
+leads and/or joining the mailing groups below. </p>
 
-<section id="services">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-      </div>
-    </div>
+(Note: to join the mailing lists below, you must be signed into a google account and then click the 'Ask to join group' button) </li>
+<br/>
+<br/>
+{% assign excursions = site["projects"] | where:"status", "new" | sort: "order" %}
+
+{% for excursion in excursions %}
+<ul>
+    <li><strong>{{ excursion.title | upcase }}</strong>: {{ excursion.tagline }} 
+      <ul>
+        <li><b>
+    {% assign leads = site["people"] | where: "groups", excursion.title | sort: "title" %}
+    {% assign numleads = leads | size %}
+    {% if numleads > 1 %}
+      Co-leaders:
+    {% else %}
+      Led by:
+    {% endif %}
+      </b>
+        <ul>
+  {% for lead in leads%}
+        <li><a href="{{ lead.url }}" title="{{ lead.title }}">{{lead.firstname}} {{ lead.title }}</a> - {{lead.affiliation}}</li>
+  {% endfor %}
+       </ul>
+      </li>
+      <li><b>Mailing list</b>: <a href="{{ excursion.mailinglist }}">{{ excursion.mailinglist }}</a></li>
+    </li></ul>
+</ul>
+<br/>
+{% endfor %}
+
+{{content}}
+
+<section class="bg-dark">
+  <div class="text-center">
+    <h1>Ongoing</h1>
   </div>
+</section>
 
-  {% assign pages = site[page.short] | sort: "order" %}
+<div class="border">
+ <h4><b><a name="working"></a>Expeditions</b></h4>
+</div>
+{% assign projects = site["projects"] | where:"status", "ongoing" | sort: "order" %}
+<ul>
+{% for project in projects %}
+    <li><strong>{{ project.title | upcase }}</strong>: {{ project.tagline }}. Current lead(s) are:
+            {% assign collaborators = site["people"] | where: "projects", project.title %}
+            <ul>
+            {% for person in collaborators %}
+              <li><a href="{{ person.url }}" title="{{ person.title }}">{{person.firstname}} {{ person.title }}</a> - {{person.affiliation}}</li>
+            {% endfor %}
 
-  <div class="container">
-    <div class="row">
+            <p></p>
+            </ul>
+{% endfor %}
+</ul
+
+
+<br/>
+<section class="bg-dark">
+  <div class="text-center">
+    <h1>Retired</h1>
+  </div>
+</section>
+
+<div class="border">
+ <h4><b><a name="working"></a>Retired Working Groups</b></h4>
+</div>
+{% assign retiredgroups = groups | where:"status", "retired" %}
+
+<ul>
+{% for group in retiredgroups %}
+    <li><strong>{{ group.title | upcase }}</strong>: {{ group.tagline }}
+{% endfor %}
+</ul>
+<br/>
+<p>
+
+<div class="border">
+ <h4><b><a name="working"></a>Retired Expeditions</b></h4>
+</div>
+
+  {% assign pages = site[page.short] | where:"status", "retired" | sort: "order" %}
       <ul>
       {% for service in pages %}
         <div class="col-lg-3 col-md-6 text-center">
@@ -45,89 +151,6 @@ These scientific questions define and drive PRAGMA's technology development.
         </div>
       {% endfor %}
       </ul>
-    </div>
-  </div>
-</section>
-
-<section class="bg-dark">
-  <div class="text-center">
-    <h1>{{ page.part2 }}</h1>
-  </div>
-</section>
-
-<section id="services">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-      </div>
-    </div>
-  </div>
-
-  {% assign pages = site[page.tech] | sort: "order" %}
-
-  <div class="container">
-    <div class="row">
-      <ul>
-      {% for tech in pages %}
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box">
-            <li> {{ tech.tagline }}
-            {% assign collaborators = site["people"] | where: "tech", tech.title %}
-            <ul>
-            {% for person in collaborators %}
-              <li><a href="{{ person.url }}" title="{{ person.title }}">{{person.firstname}} {{ person.title }}</a> - {{person.affiliation}}</li>
-            {% endfor %}
-            <p></p>
-            </li>
-          </div>
-        </div>
-      {% endfor %}
-      </ul>
-    </div>
-  </div>
-</section>
-
-<section class="bg-dark">
-  <div class="text-center">
-    <h1>{{ page.part3 }}</h1>
-  </div>
-</section>
-
-<section id="services">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-      </div>
-    </div>
-  </div>
-
-  {% assign pages = site[page.resources] | sort: "order" %}
-
-  <div class="container">
-    <div class="row">
-      <ul>
-      {% for service in pages %}
-        <div class="col-lg-3 col-md-6 text-center">
-          <div class="service-box">
-            <li><a href="{{ service.url }}" title="{{ service.title }}">{{ service.title }}</a> 
-            {% if service.tagline %}
-                : {{ service.tagline }}
-            {% endif %}
-            <p></p>
-            </li>
-          </div>
-        </div>
-      {% endfor %}
-      </ul>
-    </div>
-  </div>
-</section>
-
-<p>
-For more information about use of, collaboration with, or contribution to
-these resources, please send an email 
-to the <a href="mailto:pragma-cloud-admin@googlegroups.com">PRAGMA Cloud Admin</a>
-</p>
 
 <hr class="primary">
 <p> <a href="{{ page.url }}"> Back to top </a> </p>

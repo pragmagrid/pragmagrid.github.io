@@ -6,6 +6,8 @@ imagesrc: "p-rattanatamrong.png"
 layout: person
 executivearea: Mentoring
 executiverole: Co-Chair
+groups:
+ - "Disaster Management"
 categories:
  - "steering"
  - "executive"

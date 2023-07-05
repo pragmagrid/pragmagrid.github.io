@@ -5,6 +5,8 @@ affiliation: Research Fellow, Division Director of Software Technology Division,
 imagesrc: "w-huang.png"
 layout: person
 tech: ['IPOP']
+groups:
+ - "Federated Learning"
 categories:
  - "steering"
  - "researcher"

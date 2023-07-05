@@ -6,8 +6,8 @@ imagesrc: "k-ichikawa.png"
 layout: person
 executivearea: "Workshop Engagement"
 executiverole: Chair
-projects: ['ENT']
 tech: ['IPOP']
+groups: ['Resources, Data, and Platforms']
 categories:
  - "steering"
  - "executive"

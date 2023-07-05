@@ -6,7 +6,7 @@ imagesrc: "j-haga.png"
 layout: person
 executivearea: Mentoring
 executiverole: Chair
-groups: ['Biosciences']
+groups: ['Biosciences', 'Federated Learning']
 categories:
  - "steering"
  - "executive"

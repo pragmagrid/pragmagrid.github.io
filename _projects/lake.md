@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 order: 2
 tagline: Predicting lake eutrophication and training the next generation of lake scientists
+status: "ongoing"
 ---
 
 Scientists in the PRAGMA Lake Expedition are working to better understand and predict

@@ -4,6 +4,7 @@ image_path: ""
 layout: page
 order: 3
 tagline: "Developing an experimental network testbed for experimenting with software-defined networks and monitoring impacts of choices"
+status: "retired"
 ---
 
 <span class="strongword">The PRAGMA Experimental Networking Testbed (ENT) expedition goals include:</span> 

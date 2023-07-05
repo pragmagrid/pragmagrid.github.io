@@ -4,6 +4,8 @@ firstname: Sri Chusri
 affiliation: Deputy Head of Information Technology at Faculty of Information Technology, Universitas YARSI
 imagesrc: "s-haryanti.png"
 layout: person
+groups:
+ - "Health AI"
 categories:
  - "steering"
 ---

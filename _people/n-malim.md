@@ -4,6 +4,8 @@ firstname: Nurul
 affiliation: Senior Lecturer, School of Computer Sciences, Universiti Sains Malaysia (USM)
 imagesrc: "n-malim.png"
 layout: person
+groups:
+ - "Biodiversity"
 categories:
  - "steering"
  - "researcher"
