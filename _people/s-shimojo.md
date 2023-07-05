@@ -4,8 +4,6 @@ firstname: Shinji
 affiliation:  Vice Director, Osaka University
 imagesrc: "s-shimojo.jpg"
 layout: person
-executivearea: Chairs
-executiverole: Co-Chair
 groups: ['Telescience']
 categories:
  - "exsteering"
