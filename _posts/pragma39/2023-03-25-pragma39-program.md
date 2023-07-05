@@ -183,7 +183,7 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
     <td><b>AI and HPC in Healthcare</b><br>
       <ul>
         <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/23/jatmiko_ai_health_yarsi.pdf?raw=true">Artificial Intelligence in Health Care</a>, Prof. Dr. Eng. Wisnu Jatmiko (Universitas Indonesia) </li>
-        <li>Fang-Pang Lin (National Center for High-performance Computing, Taiwan)</li>
+        <li><a href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/23/lin_nchc_biomedical.pdf?raw=true">NCHC Biomedical Platforms & Applications</a>, Fang-Pang Lin (National Center for High-performance Computing, Taiwan)</li>
         <li>AI Laboratory & Center of e-Health (Universitas YARSI, Indonesia)</li>
       </ul>
     </td>
