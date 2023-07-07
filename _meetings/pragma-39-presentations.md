@@ -16,10 +16,12 @@ We provide the links to the github repo raw files for an easier direct download.
 *  [June 21, 2023][day1]
 *  [June 22, 2023][day2]
 *  [June 23, 2023][day3]
+*  [June 24, 2023][day4]
 
 
 [prog]: /pragma39-program/
 [day1]: https://github.com/pragmagrid/pragma-meetings/tree/master/pragma39/student-workshop
 [day2]: https://github.com/pragmagrid/pragma-meetings/tree/master/pragma39/22
 [day3]: https://github.com/pragmagrid/pragma-meetings/tree/master/pragma39/23
+[day4]: https://github.com/pragmagrid/pragma-meetings/tree/master/pragma39/24
 
