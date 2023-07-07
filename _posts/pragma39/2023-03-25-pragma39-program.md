@@ -254,7 +254,8 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
   </tr>
   <tr>
     <td><b>14:00 - 16:00</b></td>
-  <td><b>Workshop on Visualization</b> by Jason Haga</td>
+  <td><b><a
+  href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/24/haga_viz.pdf?raw=true">Workshop on Visualization</a></b> by Jason Haga</td>
   </tr>
 </tbody></table>
 
