@@ -12,17 +12,16 @@ session offers the opportunity for presenters to share their work through a
 quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
-<!-- <div class="border40">Important Dates</div>
-- Submission deadline: TBD, 2023
-- Author notification: TBD, 2020.
-- Workshop registration deadline: TBD, 2023.
-- Short Paper submission deadline: TBD, 2023.
+<div class="border40">Important Dates</div>
+- Submission deadline: August 19, 2024
+- Author notification: August 26, 2024.
+- Workshop registration deadline: September 10, 2024
 
 <br>
 
 <div class="border40">Where to Submit</div>
 All PRAGMA 40 attendees, especially students, are welcome to submit the
-completed Word template through [EasyChair](https://easychair.org/conferences/?conf=pragma40). Please select the Poster track.
+completed Word template at <a href="https://bit.ly/4cCOeF1">https://bit.ly/4cCOeF1</a>.
 
 <div class="border40">Poster Abstract Submission Instructions</div>
 
@@ -55,6 +54,9 @@ slide) of their work to be presented during the conference.<br>
 <b>Please note the following</b>
 
 <ol>
+<li>Digital file MUST be received by 10th September 2024 to ensure
+printing. If you miss this deadline you may still participate, however you are
+responsible for printing and transporting your poster.</li>
 <li>Files must be in PDF format</li>
 <li>A1 poster size (594 x 841 mm/23.4 x 33.1 in)</li>
 <li>Minimum 150dpi for images</li>
@@ -63,6 +65,7 @@ slide) of their work to be presented during the conference.<br>
 </ol>
 <br>
 
+<!--
 <div class="border40">Proceedings</div>
 
 Accepted authors are required to submit a short paper (4-page maximum), related to your poster, according to the <a href="https://www.ieee.org/conferences/publishing/templates.html">IEEE template</a> (in A4-size). The short paper will be published as PRAGMA proceeding at the end of the year 2020.
@@ -72,5 +75,5 @@ Please submit the short paper in PDF format through [EasyChair](https://easychai
 <div class="border40">Contact</div>
 
 If you have any questions, please contact our Poster and Student Presentations
-Chair: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
+Chair: <a href="mailto:nurulhashimah@usm.my">nurulhashimah@usm.my</a>
 

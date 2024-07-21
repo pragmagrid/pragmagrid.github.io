@@ -6,18 +6,14 @@ workshop: pragma40
 short: registration
 ---
 
-Registration: <a href="#"></a>
-<br>
-<br>
 Registration is now open!
 
-Register here: <a href="https://bit.ly/PRAGMA40Registration" target="new">bit.ly/PRAGMA40Registration</a>
-Please register by June 10st, 2023.<br>
+Register here: <a href="https://forms.gle/pMaXwmN3MrxokiE37" target="new">https://forms.gle/pMaXwmN3MrxokiE37</a>
+Please register by  September 10, 2024.<br>
 
-For further information , please contact us on the following email address: <a href="mailto:fti@yarsi.ac.id">fti@yarsi.ac.id</a>
-<br>
 
 ### PRAGMA 40 Program <br>
-June 22 (Thu): PRAGMA 40 Workshop<br>
-June 23 (Fri): PRAGMA 40 Workshop<br>
-June 24 (Sat): Networking and Collaboration Day
+October 9 (Wed): PRAGMA 40 Workshop<br>
+October 10 (Thu): PRAGMA 40 Workshop<br>
+October 11 (Fri): PRAGMA 40 Workshop<br>
+October 12 (Sat): Networking and Collaboration Day

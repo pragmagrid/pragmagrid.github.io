@@ -8,43 +8,50 @@ short: Venue
 
 <div class="border40">Venue</div>
 
-PRAGMA 40 will be held at <a href="https://www.yarsi.ac.id/">Universitas YARSI</a>.
+The PRAGMA40 workshop will be held at Universiti Sains Malaysia. Exact venue will be updated soon.
 
-<div class="border40">Map and Directions</div>
+Address: 11800 Minden, Pulau Pinang
 
-[Map and Directions](https://goo.gl/maps/VUNpuYNaGCK6SEZc7)
+<div class="border40">Accommodations</div>
 
+There are a variety of options for accommodation in the vicinity of the
+conference venue. Below is a list of nearby hotels. Please note that hotels
+listed below are for information purposes only. The PRAGMA 35 secretariat is
+not responsible for reservations, confirmations, cancellations, etc.
 
-<div class="border40">Alternative Accommodations</div>
-We provide transportation from hotel (that listed below) to venue.<br>
-We suggest you to use Blue Bird Taxi from airport to hotel.<br>
-Some hotels that are available around the venue are: <br>
+<table class="visa">
+<tr>
+  <td width="50%"><a href="https://www.amari.com/penang">Amari SPICE Penang </a> *****<br>
+  2 Persiaran Mahsuri<br>
+  11900 Bayan Lepas, Pulau Pinang<br>
+  Malaysia <br>
+  Phone: +604 683 1188
+  </td>
 
--  **Hotel Borobudur Jakarta (5 star hotel, 4,6 km from YARSI)** <a href="https://www.hotelborobudur.com/">Details</a>
-<br>
-<img src="/images/pragma40/venue/hotelborobudur.jpg" style="width:50%; height: 50%;"/>
-<br>
+  <td><a href="https://www.marriott.com/en-us/hotels/penar-ac-hotel-penang/overview/">AC HOTEL PENANG</a> ****<br>
+  213, Jalan Bukit Gambir, Bukit Jambul<br>
+  11950 Bayan Lepas, Pulau Pinang<br>
+  Phone: +604 646 8000
+  </td>
+</tr>
+<tr>
+  <td><a href="http://olivetreehotel.com.my/">OLIVE TREE HOTEL</a> **** <br>
+  76, Jalan Mahsuri<br>
+  11950 Bayan Lepas, Pulau Pinang<br>
+  Phone: +604 637 7811 
+  </td>
+  <td><a href="http://www.eastin.com/penang/">EASTIN HOTEL PENANG</a> **** <br>
+  1 Solok Bayan Indah, Queensbay <br>
+  11900 Bayan Lepas, Pulau Pinang <br>
+  Phone: +604 612 1111
+  </td>
+</tr>
+<tr>
+  <td><a href="https://www.serimalaysia.com.my/en/hotels/hsmpulaupinang">HOTEL SERI MALAYSIA PENANG</a> ** <br>
+  No. 7, Jalan Mayang Pasir 2, Bandar Bayan Baru<br>
+  11950 Bayan Lepas, Pulau Pinang<br>
+  Phone: +604 642 9452
+  </td>
+</tr>
 
-<br>
-
-- **Aston Kemayoran City Hotel (4 star hotel, 5,1 km from YARSI)** <a href="https://www.google.com/travel/hotels/s/EficzMsKiAvR4c4x5">Details</a>
-<br>
-<img src="/images/pragma40/venue/AstonKemayoran.png" style="width:50%; height: 50%;" />
-<br>
-
-<br>
-
--  **Grand Mercure Kemayoran (5 star hotel, 4,9 km from YARSI)** <a href="https://grandcempakahotel.com-jakarta.com/id/ ">Details</a>
-<br>
-<img src="/images/pragma40/venue/GrandCempakaPutih.png" style="width:50%; height: 50%;"/>
-
-<br>
-
--  **Hotel Patra (3 star hotel, 1,3 km from YARSI)** <a href="https://www.google.com/travel/hotels/s/Uc9viYYFqh3LGT4h8">Details</a>
-<br>
-<img src="/images/pragma40/venue/PatraHotel.png" style="width:50%; height: 50%;"/>
-
-<br>
-
-Please contact us if you need help finding a hotel.
-
+</table>

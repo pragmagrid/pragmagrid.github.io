@@ -6,20 +6,18 @@ workshop: pragma40
 short: Contact
 ---
 
-<!--
 **Logistics (travel, venue, etc.):**<br>
 
-- Johnny Nguyen, <a href="mailto:jnguyen@eng.ucsd.edu">jnguyen@eng.ucsd.edu</a>
+-	Nurul Hashimah Ahmed Hassain Malim, nurulhashimah (at) usm (dot) my
+
 <br> <br>
 
 **Posters and Lightning Talks, Student Workshop**<br>
 
-- Wassapon "Boom" Watanakeesuntorn, <a href="mailto:wassapon.watanakeesuntorn.wq0@is.naist.jp">wassapon.watanakeesuntorn.wq0@is.naist.jp</a>
+- Nurul Hashimah Ahmed Hassain Malim, nurulhashimah (at) usm (dot) my
+
 <br> <br>
 
 **Demo Presentations:**<br>
-- Sri Chusri Haryanti
-- Hsiu-Mei Chou
+- Kohei Ichikawa, ichikawa (at) is (dot) naist (dot) jp
 
-Send email to <a href="mailto:pragma-workshop-demos@googlegroups.com">pragma-workshop-demos@googlegroups.com</a> for any questions.
--->
