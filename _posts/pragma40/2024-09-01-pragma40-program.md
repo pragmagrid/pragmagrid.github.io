@@ -10,16 +10,17 @@ short: program
 
 <div class="alert">
   <center>
-    <b>The PRAGMA 40 workshop was hosted at: Universitas YARSI</b>
+    <b>The PRAGMA 40 workshop will be hosted at: Universiti Sains Malaysia</b>
   </center>
 </div>
 
-<div class="border40" id="day1">Day 0 (June 21, Wednesday) : PRAGMA Workshop</div>
+<div class="border40" id="day1">Day 0 (October 9, Wednesday) : PRAGMA Workshop</div>
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
     <th>Activity</th>
   </tr>
+  <!--
   <tr>
     <td>13:30 - 14:00</td>
     <td><b>Registration</b></td>
@@ -48,20 +49,19 @@ short: program
     <td>17:30 - 17:40</td>
     <td><b>Closing</b></td>
   </tr>
+  -->
 </tbody></table>
 
 [Back to top](/pragma40-program)
 
-<div class="border40" id="day1">Day 1 (June 22, Thursday) : PRAGMA Workshop :
->>>> Click <a href="https://www.youtube.com/watch?v=eXEsCyAkkjY">here</a> for
-video <<<<
-</div>
+<div class="border40" id="day1">Day 1 (October 10, Thursday) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
     <th>Activity</th>
   </tr>
+  <!--
   <tr>
     <td>08:00 - 09:00</td>
     <td><b>Registration</b></td>
@@ -160,20 +160,21 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
       *for PRAGMA Steering Commitee
     </td>
   </tr>
-
+-->
 </tbody></table>
 
 [Back to top](/pragma40-program)
 
 <br>
 
-<div class="border40" id="day2">Day 2 (June 23, Friday) : PRAGMA Workshop : >>>> Click <a href="https://www.youtube.com/watch?v=VpehTD0xR_Y">here</a> for video <<<< </div>
+<div class="border40" id="day2">Day 2 (October 11, Friday) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
     <th>Activity</th>
   </tr>
+  <!--
   <tr>
     <td>08:00 - 09:00</td>
     <td><b>Registration</b></td>
@@ -232,13 +233,14 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
     <td><b>Dinner and Performance</b>
     </td>
   </tr>
+  -->
 </tbody></table>
 
 [Back to top](/pragma40-program)
 
 <br>
 
-<div class="border40" id="day3">Day 3 (June 24, Saturday) :  Unstructured Collaboration in Southeast Asia Discussions</div>
+<div class="border40" id="day3">Day 3 (October 12, Saturday) :  Networking and Collaboration Day</div>
 
 <table class="program40">
   <tbody><tr>
@@ -251,10 +253,6 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
       <br>(flexible time)
     </td>
     <td><b>(Collaboration Day)</b></td>
-  </tr>
-  <tr>
-    <td><b>14:00 - 16:00</b></td>
-  <td><b>Workshop on Visualization</b> by Jason Haga</td>
   </tr>
 </tbody></table>
 
