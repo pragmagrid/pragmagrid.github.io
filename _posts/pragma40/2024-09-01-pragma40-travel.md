@@ -39,10 +39,6 @@ than taxis. You can download Grab Mobile Application from [Google
 Playstore](https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en).
 More info can be found at the [GrabCar](https://www.grab.com/my/car/) page.
 
-- **Penang Hop-on Hop-off bus**
-The [Penang Hop-On Hop-off[(http://www.myhoponhopoff.com/pg/) covers all relevant 
-attractions of Penang with 2 routes (city and beach route) Tickets area valid for 24 or 48 hours.
-
 <div class="border40">Weather</div>
 
 Penang weather is always pleasant. We usually have all day sunshine with a
