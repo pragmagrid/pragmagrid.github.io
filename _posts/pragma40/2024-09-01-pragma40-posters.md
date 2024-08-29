@@ -13,9 +13,12 @@ quick introduction to the entire conference audience, followed by one-on-one
 discussions next to the poster.
 
 <div class="border40">Important Dates</div>
-- Submission deadline: August 19, 2024
-- Author notification: August 26, 2024.
+- Submission deadline: September 6, 2024
+- Author notification: September 13, 2024
+- Sending a Lightning Talks Offer to Poster Presenters:  September 13, 2024
 - Workshop registration deadline: September 10, 2024
+- Poster Digital Submission for Printing: Sep. 27th, 2024
+- Lightning Talks Slide Submission: Sep. 27th, 2024
 
 <br>
 

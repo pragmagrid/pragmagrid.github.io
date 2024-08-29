@@ -13,13 +13,13 @@ short: dates
 <li>Registration Closes - September 10, 2024</li><br>
 
 <div class="border39">Student Poster and Presentation <!--(Chair: TBD) --></div>
-<li>Deadline for abstract submission: August 19, 2024</li>
-<li>Author notification: August 26, 2024</li><br>
+<li>Deadline for abstract submission: September 6, 2024</li>
+<li>Author notification: September 13, 2024</li><br>
 
-<div class="border39">Demo <!--(Chair: TBD)--> </div>
+<div class="border39">Demo<!--(Chair: TBD)--> </div>
 <li>Deadline for abstract submission: August 19, 2024</li>
 <li>Author notification: August 26, 2024</li><br>
 
 <div class="border39">Student Workshop Presentations<!--(Chair: TBD)--></div>
-<li>Deadline for abstract submission: TBD, 2024</li>
+<li>Deadline for abstract submission: September 27, 2024</li>
 <li>Author notification: TBD, 2024</li>
