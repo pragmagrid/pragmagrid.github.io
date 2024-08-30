@@ -134,3 +134,27 @@ table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; }
   color: #D5D8DC;
   text-decoration: underline;
 }
+
+p.attention-box
+{
+  /* https://www.madcapsoftware.com/blog/css-tip-creating-styled-boxes-notes-warnings-examples-tips/ */
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ background-color: #f0f7fb;
+ background-position: 9px 0px;
+ background-repeat: no-repeat;
+ border: solid 1px #3498db;
+ border-radius: 6px;
+ line-height: 18px;
+ overflow: hidden;
+ padding: 15px 60px;
+  /*
+  background-color: #fffbea;
+  border-left: solid 4px #f1c40f;
+  line-height: 18px;
+  mc-auto-number-format: '{b}Tip: {/b}';
+  overflow: hidden;
+  padding: 12px;
+  */
+}
+
