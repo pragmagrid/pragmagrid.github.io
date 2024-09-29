@@ -87,31 +87,42 @@ short: program
     <td><b>Registration</b></td>
   </tr>
   <tr>
-    <td>09:15 - 10:15</td>
+    <td>09:15 - 09:45</td>
     <td><b>Opening Ceremony</b>
       <ul>
-        <li>Speech by Organizer</li>
-         <li>Speech by PRAGMA</li>
-         <li>Speech by VC, USM</li>
-        <li>Video Presentation</li>
+        <li>Speech by PRAGMA 40 Chair</li>
+         <li>Speech by PRAGMA Co-Chair</li>
+         <li>Officiation by Vice Chancellor, USM</li>
+        <li>Group Photo</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td>10:15 - 10:45</td>
-    <td class="break"><b>COFFEE BREAK (GROUP PHOTO)</b></td>
+    <td>09:45 - 10:30</td>
+    <td>Keynote Speech 1<br/>
+    <span style="font-weight: bold">Challenges towards Research Data Infrastructure for Accelerating Open
+Science</span>
+    <br><i>Prof. Dr. Susumu Date</i>
+    <br><i>Osaka University</i>
+    </td>
   </tr>
   <tr>
-    <td>10:45 - 11:30</td>
-    <td><b>Keynote Speech 1</b> </td>
+    <td>10:30 - 11:00</td>
+    <td class="break"><b>COFFEE BREAK</b></td>
   </tr>
   <tr>
-    <td>11:30 - 12:15</td>
-    <td><b>Keynote Speech 2</b></td>
+    <td>11:00 - 11:45</td>
+    <td>Keynote Speech 2<br/><span style="font-weight: bold">From Concept to
+    Practice: Implementing Open Science in Academic Research</span>
+    <br/><i>Assoc. Prof. Dr. Liew Chee Sun</i>
+    <br/><i>Universiti Malaya</i>
+    </td>
   </tr>
     <tr>
-    <td>12:15 - 12:45</td>
-    <td><b>PRAGMA Main Update</b></td>
+    <td>11:45 - 12:45</td>
+    <td><b>PRAGMA Main Update</b><br/>
+    <i>(Chairs: Jose Fortes & Jason Haga)</i>
+    </td>
   </tr>
   <tr>
     <td>12:45 - 14:00</td>
@@ -119,26 +130,29 @@ short: program
   </tr>
   <tr>
     <td>14:00 - 15:30</td>
-    <td><b>PRAGMA Working Group and Excursion Main Updates</b>
+    <td><b>PRAGMA Working Group and Excursion Main Updates</b><br/>
+    <i>(Chairs: Kohei Ichikawa & Prapaporn Rattanatamrong)</i>
     </td>
   </tr>
   <tr>
     <td>15:30 - 16:30</td>
-    <td><b>Invited Talk (Demo) Session 1</b>
+    <td><b>Presentation Session 1 <i>(Chair: Heru Suhartanto)</i></b>
+    <table>
+    <tr><td>15:30 - 15:45</td><td>IOT development using Node-Red Application<br><i>Azman Bin Ab Malik</i></td></tr>
+    <tr><td>15:45 – 16:00</td><td>AI in Medical Imaging @CS USM<br><i>Anusha Achuthan, Nur Intan Ruhaiyem</i></td></tr>
+    <tr><td>16:00 - 16:15</td><td>Personal Data Protection Laws in Major Pacific Rim Countries<br><i>Shintaro Oka, Kazunori Nozaki, Mikako Hayashi</i></td></tr>
+    <tr><td>16:15 - 16:30</td><td>Clinical Scientific Activities at Osaka University Dental Hospital Promoting Open Science<br><i>Aiko Morimoto, Shintaro Oka, Yuta Seino, Eriko Nambu, Naoto Kai, Hidenori Tanushi, Susumu Date, Kazunori Nozaki</i></td></tr>
+    </table>
     </td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td><b>PRAGMA Lightning Talks</b>
+    <td><b>PRAGMA Lightning Talks <i>(Chair: Salma Mousbah)</i></b>
     </td>
   </tr>
   <tr>
-    <td>17:00 - 18:00</td>
-    <td class="break">COFFEE BREAK + PRAGMA Student Poster Session</td>
-  </tr>
-  <tr>
-    <td>19.00 - 21.00</td>
-    <td class="break">DINNER (PRAGMA Members + USM Committee)</td>
+    <td>17:00 - 19:00</td>
+    <td class="break">HI-Tea  + PRAGMA Student Poster Session <i>(Chair: Kang Xingyuan)</i></td>
   </tr>
 </tbody></table>
 
