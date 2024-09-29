@@ -169,11 +169,19 @@ Science</span>
   </tr>
   <tr>
     <td>09:00 - 10:30</td>
-    <td><b>Invited Talk (Demo) Session 2</b></td>
+    <td><b>Presentation Session 2 (Chair: Ummi Azizah Rachmawati)</b>
+    <table>
+    <tr><td>09:00 – 09:15</td><td>Artificial Intelligence in Medicine and Healthcare<br><i>Chandra Prasetyo Utomo, Ummi Azizah Rachmawati, Sri Chusri Haryanti, Muhamad Fathurahman</i></td></tr>
+    <tr><td>09:15 – 09:30</td><td>Personalized Treatment Recommendation in Critical Care using Artificial Intelligence<br><i>Chandra Prasetyo Utomo, Kohei Ichikawa, Nashuha Insani, Kundjanasith Thonglek, Soratouch Pornmaneerattanatri, Chaerita Maulani, Ummi Azizah Rachmawati</i></td></tr>
+    <tr><td>09:30 – 09:45</td><td>The Development of Data Infrastructure for the Advancement of Open Science<br><i>Hideyuki Tanushi</i></td></tr>
+    <tr><td>09:45 – 10:00</td><td>A Rapid Victim Identification System Using Federated Learning in Disaster Scenarios<br><i>Yuta SEINO, Hideyuki Takano, Hideyuki Tanushi, Susumu Date, Kazunori Nozaki</i></td></tr>
+    <tr><td>10:00 - 10:15</td><td>Container Management Research in Kubernetes Clusters<br><i>Chan Huah Yong</i></td></tr>
+    <tr><td>10:15 - 10:30</td><td>Digital Pheromone<br><i>Azizul Rahman Mohd Shariff, Anizah Abd. Rahman</i></td></tr>
+    </table></td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
-    <td class="break"><b>BREAK</b></td>
+    <td class="break"><b>COFFEE BREAK</b></td>
   </tr>
   <tr>
     <td>11:00 - 12:30</td>
@@ -217,8 +225,8 @@ Science</span>
     </td>
   </tr>
   <tr>
-    <td>18:00 - 19:00</td>
-    <td class="break"><b>DINNER (PRAGMA Members + USM Committee)</b>
+    <td>18:00 - 20:30</td>
+    <td class="break"><b>PRAGMA 40 Dinner</b>
     </td>
   </tr>
 </tbody></table>
