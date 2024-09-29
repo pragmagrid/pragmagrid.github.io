@@ -8,13 +8,11 @@ short: Committee
 
 <div class="border39">General Chairs</div>
 - Nurul Hashimah Ahamed Hassain Malim, Universiti Sains Malaysia, Malaysia
--	Shava Smallen, University of California, San Diego, USA
 -	Susumu Date, Osaka University, Japan
 
 <br/>
 <div class="border39">International Program Committee</div>
 - Jason Haga, National Institute of Advanced Industrial Science and Technology (AIST), Japan
-- Nadya Williams, University of California San Diego, United States
 - Prapaporn Rattanatamrong, Thammasat University, Japan
 - Kohei Ichikawa, National Institute of Advanced Industrial Science and Technology (NAIST), Japan
 
