@@ -1,7 +1,7 @@
 ---
 title: Figueiredo
 firstname: Renato
-affiliation: Professor, Electrical and Computer Engineering, University of Florida
+affiliation: Professor, Electrical and Computer Engineering, Oregon State University
 imagesrc: "r-figueiredo.png"
 layout: person
 projects: ['Limnology']
