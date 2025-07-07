@@ -2,7 +2,7 @@
 title: PRAGMA 41
 #imagesrc: "workshop-40.jpeg"
 layout: page
-meeting_date: January 7-10, 2026, Pathumthani Province, Thailand
+meeting_date: January 8-10, 2026, Pathumthani Province, Thailand
 meeting_url: /pragma41
 date: 2025-07-03
 ---
