@@ -1,0 +1,160 @@
+@mixin pragma41-media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
+$pragma41-large: 1200px;
+$pragma41-medium: 992px;
+$pragma41-small: 768px;
+
+/* Base class for layout */
+body.pragma41 {
+    
+}
+
+body.pragma41 header img { width: 100% }
+
+/* page with  menu left and content right */
+body.pragma41 .wrapper-menu-left {
+    border: 0px solid black; /*for debugging change px*/
+    position: relative;
+    margin: 0 auto;
+    @include pragma41-media-query($pragma41-small) { width: 750px; }
+    @include pragma41-media-query($pragma41-medium) { width: 970px; }
+    @include pragma41-media-query($pragma41-large) { width: 1170px; }
+    @include media-query($on-palm) {
+    }
+}
+body.pragma41 .menu-left {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid blue;
+  float:left;
+  line-height:18px;
+  padding-top: 2px;
+  overflow:hidden;
+  min-height: 400px;
+  min-width: 150px;
+  margin-left: -35px;
+}
+body.pragma41 .content-right {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0px solid red;
+  min-width:200px;
+  line-height:18px;
+  padding-top: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0;
+  overflow:hidden;
+  min-height:200px;
+}
+body.pragma41 .menu-left ul { list-style:none; }
+
+$redtone1: #A3241D;
+$pearl: #dde9ff;
+$blue1: #3595d4;
+$navline: #2964D1;
+$whitetone1: #ffffff;
+
+$paleblue2: lighten($pearl,5%);
+$paleblue1: lighten($blue1,42%);
+$paleredtone: lighten($redtone1,42%);
+
+/* for subsection title and background */
+$border: $redtone1; 
+$bgborder: #f9eae1; 
+.border40 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 16px; }
+
+/* color for link hover */
+body.pragma41 a { &:hover {color: $redtone1;}}
+
+body.pragma41 nav {
+    width:100%;
+    background-color: $navline;
+    float: right;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 36px;
+    .menu-icon { display: none; }
+    .page-link {
+        color: $whitetone1; &:visited { color: white; } &:hover { color: #78d5fa; } line-height: $base-line-height; margin-left: 40px; }
+    @include media-query($on-palm) { min-width: 150px; }
+}
+
+/* for program table */
+.break { color: $navline; font-weight: bold; font-size: 13px;}
+
+table.program40 { padding: 2px; margin: 0px; width: 100%; table-layout: auto; } 
+.program40 th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.program40 tr { border: 2px solid white; }
+.program40 tr:nth-child(odd)  { background-color: $paleblue1; }
+.program40 tr:nth-child(even) { background-color: $paleblue2; }
+.program40 tr:nth-child(odd):hover  { background-color: $bgborder; }
+.program40 tr:nth-child(even):hover { background-color: $bgborder; }
+.program40 tr td:nth-child(1) {font-weight: bold; width: 13% !important; color: $blue-dark; font-size: 13px; text-align:center;}
+.program40 tr td:nlast-child { width: 100% ; }
+.program40 td { padding : 4px 4px 4px 14px; vertical-align: top;}
+.program40col tr,th { width: 10px; }
+
+
+/* for travel table */
+table.travel { padding: 2px; margin: 0px; width: 50%; table-layout: auto; } 
+.travel th { font-weight: bold; color: $blue1;  font-size: 14px; background: $pearl;}
+.travel tr { border: 2px solid white; }
+.travel tr:hover { background-color: $bgborder }
+.travel tr:nth-child(odd)  { background-color : $paleblue1; }
+.travel tr:nth-child(even) { background-color : $paleblue2; }
+.travel tr:nth-child(odd):hover  { background-color: $bgborder; }
+.travel tr:nth-child(even):hover { background-color: $bgborder; }
+.travel td { padding : 4px 4px 4px 4px; vertical-align: top;}
+.travel tr,th { width: 10px; }
+
+/* for alert banner */
+.alert {
+  padding: 20px;
+  background-color: hsl(253, 95%, 15%);
+  color: white;
+  margin-bottom: 15px;
+  font-weight: bold; 
+  font-size: 125%;
+}
+
+.alert  a:link {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
+
+/* visited link */
+.alert a:visited {
+  color: #D5D8DC;
+  text-decoration: underline;
+}
+
+p.attention-box
+{
+  /* https://www.madcapsoftware.com/blog/css-tip-creating-styled-boxes-notes-warnings-examples-tips/ */
+ -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+ background-color: #f0f7fb;
+ background-position: 9px 0px;
+ background-repeat: no-repeat;
+ border: solid 1px #3498db;
+ border-radius: 6px;
+ line-height: 18px;
+ overflow: hidden;
+ padding: 15px 60px;
+  /*
+  background-color: #fffbea;
+  border-left: solid 4px #f1c40f;
+  line-height: 18px;
+  mc-auto-number-format: '{b}Tip: {/b}';
+  overflow: hidden;
+  padding: 12px;
+  */
+}
+
