@@ -6,6 +6,11 @@ workshop: pragma39
 short: program
 ---
 
+<p class="attention-box">
+  <span style="font-weight: bold !important">Click <a
+  href="https://drive.google.com/drive/folders/1C7poZmnTG3JhOG_fyeIfSA1r6ZglBjTn">here</a> for photos!</span>
+</p>
+
 [Day 0](#day0)&nbsp;&nbsp; [Day 1](#day1)&nbsp;&nbsp; [Day 2](#day2)&nbsp;&nbsp; [Day 3](#day3)&nbsp;&nbsp;
 
 <div class="alert">
@@ -14,7 +19,11 @@ short: program
   </center>
 </div>
 
-<div class="border39" id="day1">Day 0 (June 21, Wednesday) : PRAGMA Workshop</div>
+<div class="border39" id="day1">Day 0 (June 21, Wednesday) : PRAGMA Workshop
+>>>> Click <a href="https://drive.google.com/drive/folders/1bF1BVrhOHrMl-uS_EpuZ3rwvVMRxEF3D">here</a> for
+videos <<<<
+</div>
+</div>
 <table class="program39">
   <tbody><tr>
     <th>Time</th>
@@ -255,7 +264,10 @@ SDN based on SRv6</a>, Kohei Ichikawa (NAIST)</li>
   <tr>
     <td><b>14:00 - 16:00</b></td>
   <td><b><a
-  href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/24/haga_viz.pdf?raw=true">Workshop on Visualization</a></b> by Jason Haga</td>
+  href="https://github.com/pragmagrid/pragma-meetings/blob/master/pragma39/24/haga_viz.pdf?raw=true">Workshop on Visualization</a></b> by Jason Haga <br/>
+>>>> Click <a href="https://drive.google.com/file/d/1QAK-SQ4-mrnva_DgKYcIYHEU1Xlf1GGT/view?usp=drive_link">here</a> for
+video <<<<
+  </td>
   </tr>
 </tbody></table>
 

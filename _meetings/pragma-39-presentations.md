@@ -7,7 +7,7 @@ meeting_url: /pragma39
 date: 2023-06-24
 ---
 
-All available presentations are stored in the github repository
+All available presentations and videos are stored in the github repository
 and are linked to the [PRAGMA 39 program][prog] page.
 
 Some presentations are ~50Mb and may be too slow to download "inline".
