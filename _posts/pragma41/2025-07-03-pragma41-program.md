@@ -154,7 +154,6 @@ short: program
   <tr>
     <td></td>
     <td>Excursion Tour (TBA)</td>
-    <td></td>
   </tr>
 </tbody></table>
 
