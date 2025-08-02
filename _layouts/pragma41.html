@@ -12,26 +12,7 @@
            <a class="page-link" href="/pragma41-contact">Help and Questions</a>
            -->
       </nav>
-    </div>
-    <div style="clear: both;" > </div>
-    <div class="page-content">
-      <div class="wrapper-menu-left">
-          <div class="menu-left">{% include menu-pragma41.html %} </div>
-          <div class="content-right" style="font-size: 1.2em; line-height: 1.6;"> 
-          <!--
-          <p class="attention-box">
-          <span style="font-weight: bold !important">More info coming</span>
-          </p>
-          -->
-            <header class="post-header">
-              <h1 class="post-title" style="font-size: 2.5em;">{{ page.title }}</h1>
-            </header>
-            {{ content }} 
-          </div>
-          <div style="clear: both;" > </div>
-      </div>
-      <div id="leftcol" class="DCT_center_left">
-        <div class="DCT_liebiao">
+      <div class="DCT_liebiao">
           <div id="left" class="DCT_bar">
             <div class="days"><h3 id="h3_1">Important Dates</h3>
   
@@ -54,7 +35,24 @@
             </div>
           </div> <!-- DCT_bar -->
         </div> <!-- DCT_liebiao -->
-      </div> <!-- DCT_center_left -->
+    </div>
+    <div style="clear: both;" > </div>
+    <div class="page-content">
+      <div class="wrapper-menu-left">
+          <div class="menu-left">{% include menu-pragma41.html %} </div>
+          <div class="content-right" style="font-size: 1.2em; line-height: 1.6;"> 
+          <!--
+          <p class="attention-box">
+          <span style="font-weight: bold !important">More info coming</span>
+          </p>
+          -->
+            <header class="post-header">
+              <h1 class="post-title" style="font-size: 2.5em;">{{ page.title }}</h1>
+            </header>
+            {{ content }} 
+          </div>
+          <div style="clear: both;" > </div>
+      </div>
     </div>
     {% include footer.html %}
   </body>
