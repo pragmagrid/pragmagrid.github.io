@@ -2312,10 +2312,10 @@ overflow-x: hidden;
 
 a.DPage_Pragma41 {
   display: inline-block;
-  width: 200px;
+  width: 250px;
   padding: 10px;
-  background-color: #707a6c; /* Bootstrap-style gray */
-  color: white;
+  background-color: #F2F2F2; /* Bootstrap-style gray */
+  color: black;
   text-decoration: none;
   border-radius: 1px;
   font-family: sans-serif;
@@ -2325,6 +2325,6 @@ a.DPage_Pragma41 {
 }
 
 a.DPage_Pragma41:hover {
-  background-color: #707a6d;
+  background-color: #F2F2F2;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
