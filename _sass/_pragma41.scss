@@ -66,9 +66,9 @@ $paleblue1: lighten($blue1,42%);
 $paleredtone: lighten($redtone1,42%);
 
 /* for subsection title and background */
-$border: $redtone1; 
-$bgborder: #f9eae1; 
-.border40 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 16px; }
+$border: $blue1; 
+$bgborder: #dde9ff; 
+.border41 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 20px; }
 
 /* color for link hover */
 body.pragma41 a { &:hover {color: $redtone1;}}
