@@ -14,7 +14,7 @@ Address: 114 Paholyothin Road, Prachathipat, Thanyaburi, 12130 Pathum Thani, Tha
 
 <img src="https://www.ahstatic.com/photos/b346_ho_00_p_2048x1536.jpg" alt="Novotel Bangkok" width="350"><img src="https://www.ahstatic.com/photos/b346_ho_06_p_2048x1536.jpg" alt="Novotel Bangkok" width="350">
 <img src="https://www.ahstatic.com/photos/b346_ro_05_p_2048x1536.jpg" alt="Novotel Bangkok" width="350"><img src="https://www.ahstatic.com/photos/b346_sw_02_p_2048x1536.jpg" alt="Novotel Bangkok" width="350">
-<img src="https://github.com/pragmagrid/pragmagrid.github.io/blob/1ba7c9da0813948e6abdbf2560dc6ea905abcaae/images/pragma41/THANYABURI_BALLROOM.jpg" alt="THANYABURI BALLROOM" width="700">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/THANYABURI_BALLROOM.jpg" alt="THANYABURI BALLROOM" width="700">
 
 <div class="border41">PRAGMA41 Hackathon</div>
 <br>
