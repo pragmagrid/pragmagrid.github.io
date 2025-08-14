@@ -14,7 +14,7 @@ short: program
   </center>
 </div>
 
-<div class="border40" id="day1">Day 1 (January 8, Thursday) : PRAGMA Workshop</div>
+<div class="border41" id="day1">Day 1 (January 8, Thursday) : PRAGMA Workshop</div>
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
@@ -85,7 +85,7 @@ short: program
 
 [Back to top](/pragma41-program)
 
-<div class="border40" id="day2">Day 2 (January 9, Friday) : PRAGMA Workshop </div>
+<div class="border41" id="day2">Day 2 (January 9, Friday) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
@@ -144,7 +144,7 @@ short: program
 
 <br>
 
-<div class="border40" id="day3">Day 3 (January 10, Saturday) : PRAGMA Workshop </div>
+<div class="border41" id="day3">Day 3 (January 10, Saturday) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
