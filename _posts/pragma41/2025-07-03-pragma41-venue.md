@@ -6,13 +6,13 @@ workshop: pragma41
 short: Venue
 ---
 
-<div class="border41">PRAGMA41 workshop</div>\br
+<div class="border41">PRAGMA41 workshop</div>
 
 The PRAGMA41 workshop will be held at THANYABURI BALLROOM, Novotel Bangkok, Future Park Rangsit.
 
 Address: 114 Paholyothin Road, Prachathipat, Thanyaburi, 12130 Pathum Thani, Thailand
 
-<div class="border41">PRAGMA41 Hackathon</div>\br
+<div class="border41">PRAGMA41 Hackathon</div>
 
 The PRAGMA41 Hackathon will be held at Thammasat Secondary School.
 
