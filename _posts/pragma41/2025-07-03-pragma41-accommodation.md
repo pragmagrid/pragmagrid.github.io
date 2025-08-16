@@ -7,10 +7,8 @@ short: Accommodation
 ---
 
 <div class="border41">Accommodations</div>
-<img src="https://www.ahstatic.com/photos/b346_ho_00_p_2048x1536.jpg" alt="Novotel Bangkok" width="350"><img src="https://www.ahstatic.com/photos/b346_ho_06_p_2048x1536.jpg" alt="Novotel Bangkok" width="350">
-<img src="https://www.ahstatic.com/photos/b346_ro_05_p_2048x1536.jpg" alt="Novotel Bangkok" width="350"><img src="https://www.ahstatic.com/photos/b346_sw_02_p_2048x1536.jpg" alt="Novotel Bangkok" width="350">
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_Accommodation.png" alt="Novotel Bangkok" width="800">
+<br><br>
 <b>Novotel Bangkok Future Park Rangsit</b><br>
 A 4-star hotel located next to the bustling Future Park Rangist shopping complex, offerring modern rooms, a rooftop pool, and meeting facilities. <br>
 <ul>
