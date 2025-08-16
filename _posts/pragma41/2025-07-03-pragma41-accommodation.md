@@ -15,6 +15,6 @@ short: Accommodation
 Address: 114 Paholyothin Road, Prachathipat, Thanyaburi, 12130 Pathum Thani, Thailand<br>
 <br>
 For students who attend PRAGMA41 Hackathon,<br>
-<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/TSS_accommodation.jpg" alt="TSS Accommodation" width="700">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/TSS_accommodation.jpg" alt="TSS Accommodation" width="700"><br>
 Thammasat Secondary School<br>
 Address: 99 Moo 18 Phahonyothin Rd, Khlong Nueng, Khlong Luang District, Pathum Thani 12121<br>
