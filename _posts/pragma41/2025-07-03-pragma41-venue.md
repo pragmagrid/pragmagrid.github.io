@@ -22,4 +22,4 @@ The PRAGMA41 Student Hackathon will be held at Thammasat Secondary School.
 
 Address: 99 Moo 18 Phahonyothin Rd, Khlong Nueng, Khlong Luang District, Pathum Thani 12121 (<a href="https://www.google.com/maps/place/Thammasat+Secondary+School+(Building+A)/@14.0779348,100.5988773,100m/data=!3m1!1e3!4m6!3m5!1s0x30e27f002174bdb3:0xf217b53be48d0a8e!8m2!3d14.0778063!4d100.5986767!16s%2Fg%2F11w7n98sts?entry=ttu&g_ep=EgoyMDI1MDgxMy4wIKXMDSoASAFQAw%3D%3D">Map</a>) <br>
 
-<img src="https://www.salika.co/wp-content/uploads/2022/02/satit-thammasat-university-dream-school-6.webp" alt="Thammasat Secondary School" width="800"> <br>
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_Venue_TSS.png" alt="Thammasat Secondary School" width="800"> <br>
