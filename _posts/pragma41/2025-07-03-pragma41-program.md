@@ -8,12 +8,6 @@ short: program
 
 [Day 1](#day1)&nbsp;&nbsp; [Day 2](#day2)&nbsp;&nbsp; [Day 3](#day3)&nbsp;&nbsp;
 
-<div class="alert">
-  <center>
-    <b>The PRAGMA 41 workshop will be hosted at: Thammasat University</b>
-  </center>
-</div>
-
 <div class="border41" id="day1">Day 1 (January 8, Thursday) : PRAGMA Workshop</div>
 <table class="program40">
   <tbody><tr>
