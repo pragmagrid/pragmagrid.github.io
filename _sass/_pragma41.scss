@@ -67,8 +67,8 @@ $paleblue1: lighten($blue1,42%);
 $paleredtone: lighten($redtone1,42%);
 
 /* for subsection title and background */
-$border: $blue2; 
-$bgborder: #dde9ff; 
+$border: $blue1; 
+$bgborder: $blue2; 
 .border41 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 20px; }
 
 /* color for link hover */
