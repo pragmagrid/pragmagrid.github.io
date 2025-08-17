@@ -58,6 +58,7 @@ body.pragma41 .menu-left ul { list-style:none; }
 $redtone1: #A3241D;
 $pearl: #dde9ff;
 $blue1: #3595d4;
+$blue2: #415979;
 $navline: #0d2c48;
 $whitetone1: #ffffff;
 
@@ -66,7 +67,7 @@ $paleblue1: lighten($blue1,42%);
 $paleredtone: lighten($redtone1,42%);
 
 /* for subsection title and background */
-$border: $blue1; 
+$border: $blue2; 
 $bgborder: #dde9ff; 
 .border41 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 20px; }
 
