@@ -9,4 +9,4 @@ short: registration
 
 TBA
 
-Please register by  September 10, 2024.<br>
+Please register by  September 16, 2025.<br>
