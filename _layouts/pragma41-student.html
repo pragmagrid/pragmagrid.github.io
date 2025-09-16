@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="pragma41">
+    {% include header-workshop.html %}
+    <div class="wrapper-menu-left">
+      <nav>
+          <a class="page-link" href="/pragma41">Home</a>
+          <a class="page-link" href="/pragma41-program">Program</a>
+          <a class="page-link" href="/pragma41-visa">Visa Information</a>
+          <a class="page-link" href="/pragma41-venue">Venue</a>
+          <a class="page-link" href="/pragma41-accommodation">Accommodations</a>
+          <a class="page-link" href="/pragma41-registration">Demo and Presentation</a>
+          <a class="page-link" href="/pragma41-student-hackathon">Student Hackathon</a>
+           <!--<a class="page-link" href="/pragma41-submission">Abstract Submission</a>
+           <a class="page-link" href="/pragma41-contact">Help and Questions</a>
+           -->
+      </nav>
+    </div>
+    <div style="clear: both;" > </div>
+    <div class="page-content">
+      <div class="wrapper-menu-left">
+          <div class="menu-left">
+            <div class="DCT_liebiao">
+              <div id="center" class="DCT_bar">
+                <div class="days"><h3 id="h3_1">Important Dates</h3>
+    
+                  <ul class="day">    
+                    <li><div class="cell"><div class="month">Oct,2025</div> <div class="date">16</div></div>
+                        <div class="hit">Submission Deadline for</div>    
+                        <div class="hit">Demos and Poster  </div>
+                    </li>    
+                    <li><div class="cell"><div class="month sec">TBA</div><div class="date">TBA</div></div>    
+                        <div class="hit">Deadline for</div>    
+                        <div class="hit">Workshop Registration </div>
+                    </li>    
+                    <li><div class="cell"><div class="month sec">Oct,2025</div><div class="date">16</div></div>    
+                        <div class="hit">Notification of Acceptance</div>
+                    </li>    
+                    <li><div class="cell"><div class="month third">Jan,2026</div><div class="date">8-10</div></div>
+                        <div class="hit">PRAGMA41 Workshop</div>
+                    </li>
+                  </ul>
+                </div>
+              </div> <!-- DCT_bar -->
+            </div> <!-- DCT_liebiao --> 
+            {% include menu-pragma41.html %} 
+          </div>
+          <div class="content-right" style="font-size: 1.2em; line-height: 1.6;"> 
+          <!--
+          <p class="attention-box">
+          <span style="font-weight: bold !important">More info coming</span>
+          </p>
+          -->
+            <header class="post-header">
+              <h1 class="post-title" style="font-size: 2.5em;">{{ page.title }}</h1>
+            </header>
+            {{ content }} 
+          </div>
+          <div style="clear: both;" > </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
