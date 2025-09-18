@@ -1,5 +1,5 @@
 ---
-layout: pragma41
+layout: pragma41-demo
 title: "PRAGMA 41 Registration"
 date: 2025-07-03
 workshop: pragma41
