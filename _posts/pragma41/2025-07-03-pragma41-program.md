@@ -52,7 +52,7 @@ short: program
   </tr>
   <tr>
     <td>13:30 - 15:30</td>
-    <td><b>PRAGMA Working Group Proposals (3-4 topics)</b></td>
+    <td><b>PRAGMA Collaborative Action Groups - Proposal & Ideas (3-4 topics)</b></td>
     <td></td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ short: program
   </tr>
   <tr>
     <td>09:00 - 09:45</td>
-    <td><b>Keynote talk 1</b></td>
+    <td><b>Keynote talk 2</b></td>
     <td></td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ short: program
   </tr>
   <tr>
     <td>10:15 - 12:00</td>
-    <td><b>PRAGMA Working Group Showcases (3-4 topics)</b></td>
+    <td><b>PRAGMA Collaborative Action Groups - Showcase from Hackathon (3-4 topics)</b></td>
     <td></td>
   </tr>
   <tr>
