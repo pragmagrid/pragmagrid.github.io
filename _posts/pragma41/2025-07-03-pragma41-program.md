@@ -8,7 +8,7 @@ short: program
 
 <a class="DPage_Pragma41" href="#day1">Day 1</a>&nbsp;&nbsp;<a class="DPage_Pragma41" href="#day2">Day 2</a>&nbsp;&nbsp;<a class="DPage_Pragma41" href="#day3">Day 3</a>
 
-<div class="border41" id="day1">Day 1 (Thr Jan 8, 2025) : PRAGMA Workshop</div>
+<div class="border41" id="day1">Day 1 (Thu Jan 8, 2026) : PRAGMA Workshop</div>
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
@@ -79,7 +79,7 @@ short: program
 
 [Back to top](/pragma41-program)
 
-<div class="border41" id="day2">Day 2 (Fri Jan 9, 2025) : PRAGMA Workshop </div>
+<div class="border41" id="day2">Day 2 (Fri Jan 9, 2026) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
@@ -138,7 +138,7 @@ short: program
 
 <br>
 
-<div class="border41" id="day3">Day 3 (Sat Jan 10, 2025) : PRAGMA Workshop </div>
+<div class="border41" id="day3">Day 3 (Sat Jan 10, 2026) : PRAGMA Workshop </div>
 
 <table class="program40">
   <tbody><tr>
