@@ -11,4 +11,4 @@ short: registration
 
 Please register by October 10, 2025.<br>
 
-<a class="DPage_Pragma41" href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing">Poster as PDF</a>
+<strong><a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank">PDF version</a></strong>
