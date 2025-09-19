@@ -10,4 +10,4 @@ short: Call for Student Hackathon
 
 Please register by October 10, 2025.<br>
 
-<a class="DPage_Pragma41" href="https://drive.google.com/file/d/1bDWbgUIoY8kYV7Smfvn7GnPmasD70gXh/view?usp=sharing">Poster as PDF</a>
+<strong><a href="https://drive.google.com/file/d/1bDWbgUIoY8kYV7Smfvn7GnPmasD70gXh/view?usp=sharing" target="_blank">PDF version</a></strong>
