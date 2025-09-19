@@ -11,7 +11,6 @@ Dean, Faculty of Science and Technology, Thammasat University, Thailand
 
 <div class="border41">PRAGMA 41 General Co-Chairs</div>
 Wilawan Rukpakavong, Thammasat University, Thailand
-
 <br/>
 <div class="border41">PRAGMA 41 Program Committee</div>
 1. Prapaporn Rattanatamrong, Thammasat University, Thailand (PC Chair) 
