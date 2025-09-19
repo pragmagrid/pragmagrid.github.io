@@ -9,6 +9,6 @@ short: registration
 
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_CallForDemoPresentation_Poster.png" alt="CallForDemoPresentation_Poster" width="800"><br>
 
-Please register by September 16, 2025.<br>
+Please register by October 10, 2025.<br>
 
 <a class="DPage_Pragma41" href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing">Poster as PDF</a>
