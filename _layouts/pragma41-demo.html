@@ -52,6 +52,142 @@
 
 </style>
 
+<style>
+    .pragma41-call {
+        font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Arial, sans-serif;
+        color: #1f2937;
+        line-height: 1.55;
+        max-width: 980px;
+        margin: auto;
+        padding: 1rem;
+    }
+
+    .tagline {
+        font-weight: 600;
+        color: #6b7280;
+        margin: .25rem 0 .5rem;
+    }
+
+    .event-meta {
+        background: #eef2f7;
+        display: inline-block;
+        padding: .35rem .75rem;
+        border-radius: 999px;
+        font-weight: 600;
+    }
+
+    .hero-cta {
+        margin: 1rem 0;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: .75rem 1.1rem;
+        background: #233b71;
+        color: #fff;
+        text-decoration: none;
+        border-radius: .75rem;
+        font-weight: 700
+    }
+
+    .btn:hover {
+        filter: brightness(1.05)
+    }
+
+    .intro {
+        margin: 1.25rem 0;
+    }
+
+    .intro h2 {
+        font-size: 1.75rem;
+        margin: .25rem 0;
+    }
+
+    .focus,
+    .tracks {
+        background: #fafbfc;
+        border: 1px solid #e5e7eb;
+        border-radius: 1rem;
+        padding: 1rem;
+        margin: 1rem 0;
+    }
+
+    .focus h3 {
+        margin: .25rem 0 .5rem;
+    }
+
+    .tracks {
+        display: grid;
+        gap: 1rem;
+    }
+
+    @media (min-width:900px) {
+        .tracks {
+            grid-template-columns: repeat(3, 1fr);
+        }
+    }
+
+    .track {
+        background: #fff;
+        border: 1px solid #e5e7eb;
+        border-radius: .75rem;
+        padding: 1rem;
+    }
+
+    .track h4 {
+        margin: .25rem 0 .5rem;
+        font-size: 1.15rem;
+    }
+
+    .track h5 {
+        margin: .75rem 0 .25rem;
+        font-size: 1rem;
+    }
+
+    .timeline {
+        list-style: none;
+        padding-left: 0;
+        margin: .25rem 0 0;
+    }
+
+    .timeline li {
+        padding: .15rem 0;
+    }
+
+    .org {
+        text-align: center;
+        margin: 1.25rem 0 .5rem;
+    }
+
+    .org-list {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+        gap: .75rem;
+        justify-content: center;
+        margin: .25rem 0 0;
+    }
+
+    .poster-preview {
+        text-align: center;
+        margin: 2rem 0;
+    }
+
+    .poster-thumb {
+        max-width: 220px;
+        /* adjust thumbnail size */
+        border: 1px solid #e5e7eb;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .poster-thumb:hover {
+        transform: scale(1.02);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+    }
+</style>
+
 <html>
   {% include head.html %}
   <body class="pragma41">
