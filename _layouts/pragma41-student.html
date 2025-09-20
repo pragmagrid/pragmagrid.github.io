@@ -1,4 +1,57 @@
 <!DOCTYPE html>
+<!-- ===== Important Dates (Presentation & Demo) ===== -->
+<style>
+    :root {
+        --card: #ffffff;
+        --muted: #6b7280;
+        --btn: #22c55e;
+        --btn-ink: #083c18;
+        font-synthesis-weight: none;
+    }
+
+    .login-note {
+        margin-top: 14px;
+        color: var(--muted);
+        font-size: .95rem;
+        display: flex;
+        gap: 8px;
+        align-items: center
+    }
+
+    .login-note svg {
+        flex: none
+    }
+
+    .cta {
+        margin-top: 12px
+    }
+
+    .btn {
+        width: 180px;
+        text-align: center;
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        letter-spacing: .2px;
+        background: var(--btn);
+        color: var(--card);
+        padding: 14px 18px;
+        /* border-radius: 12px; */
+        border: 1px solid #16a34a;
+        transition: transform .06s ease, box-shadow .2s ease;
+        box-shadow: 0 8px 20px rgba(34, 197, 94, .35)
+    }
+
+    .btn:hover {
+        transform: translateY(-1px)
+    }
+
+    .btn:active {
+        transform: translateY(0)
+    }
+
+</style>
+
 <html>
   {% include head.html %}
   <body class="pragma41">
@@ -8,7 +61,7 @@
           <a class="page-link" href="/pragma41">Home</a>
           <a class="page-link" href="/pragma41-program">Program</a>
           <a class="page-link" href="/pragma41-committee">Committee</a>
-          <a class="page-link" href="/pragma41-demo_and_presentation">Demo and Presentation</a>
+          <a class="page-link" href="/pragma41-demo_and_presentation">Presentation and Demo</a>
           <a class="page-link" href="/pragma41-student-hackathon">Student Hackathon</a>
           <a class="page-link" href="/pragma41-venue">Venue</a>
           <a class="page-link" href="/pragma41-accommodation">Accommodations</a>
@@ -49,7 +102,22 @@
                 </div>
               </div> <!-- DCT_bar -->
             </div> <!-- DCT_liebiao --> 
-            <ul><li><a class="DPage_Pragma41_Reg" href="https://cfp.sched.com/speaker/iu21VDnAXb">Student Hackathon Registration</a></li></ul>
+            <div class="DCT_liebiao">
+                <div class="login-note" aria-live="polite">
+                    <!-- info icon -->
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                        <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5" />
+                        <path d="M12 8h.01M11 11h2v6h-2z" fill="currentColor" />
+                    </svg>
+                    Sched.com login required.
+                </div>
+                
+                <div class="cta">
+                    <a class="DPage_Pragma41_Reg" href="https://cfp.sched.com/speaker/iu21VDnAXb" aria-label="Student Hackathon Registration via Sched">
+                        Student Hackathon Registration
+                    </a>
+                </div>
+            </div> <!-- DCT_liebiao --> 
             {% include menu-pragma41.html %} 
           </div>
           <div class="content-right" style="font-size: 1.2em; line-height: 1.6;"> 
