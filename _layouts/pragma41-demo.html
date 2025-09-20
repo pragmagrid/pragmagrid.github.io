@@ -51,8 +51,15 @@
     }
 
 </style>
-
 <style>
+    :root {
+        --card: #ffffff;
+        --muted: #6b7280;
+        --btn: #122f4a;
+        --btn-ink: #083c18;
+        font-synthesis-weight: none;
+    }
+
     .pragma41-call {
         font-family: ui-sans-serif, system-ui, Segoe UI, Roboto, Arial, sans-serif;
         color: #1f2937;
@@ -60,7 +67,6 @@
         max-width: 980px;
         margin: auto;
         padding: 1rem;
-        font-weight: 400; 
     }
 
     .tagline {
@@ -82,13 +88,20 @@
     }
 
     .btn {
-        display: inline-block;
-        padding: .75rem 1.1rem;
-        background: #233b71;
-        color: #fff;
+        width: 180px;
+        text-align: center;
+        display: block;
         text-decoration: none;
-        border-radius: .75rem;
-        font-weight: 700
+        font-weight: 700;
+        letter-spacing: .2px;
+        background: var(--btn);
+        color: var(--card);
+        padding: 10px 12px;
+        /* border-radius: 12px; */
+        border: 1px solid #5578eb;
+        transition: transform .06s ease, box-shadow .2s ease;
+        box-shadow: 0 8px 20px rgba(82, 72, 230, 0.35);
+        margin: 0 auto;
     }
 
     .btn:hover {
@@ -102,7 +115,6 @@
     .intro h2 {
         font-size: 1.75rem;
         margin: .25rem 0;
-        font-weight: 700;
     }
 
     .focus,
@@ -116,7 +128,6 @@
 
     .focus h3 {
         margin: .25rem 0 .5rem;
-        font-weight: 600;
     }
 
     .tracks {
@@ -140,13 +151,11 @@
     .track h4 {
         margin: .25rem 0 .5rem;
         font-size: 1.15rem;
-        font-weight: 600;
     }
 
     .track h5 {
         margin: .75rem 0 .25rem;
         font-size: 1rem;
-        font-weight: 500; 
     }
 
     .timeline {
@@ -157,7 +166,6 @@
 
     .timeline li {
         padding: .15rem 0;
-        font-weight: 400; 
     }
 
     .org {
@@ -191,6 +199,24 @@
     .poster-thumb:hover {
         transform: scale(1.02);
         box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+    }
+
+    .login-note {
+        margin-top: 18px;
+        color: var(--muted);
+        font-size: .95rem;
+        display: flex;
+        gap: 8px;
+        align-items: center
+    }
+
+    .login-note svg {
+        flex: none
+    }
+
+    .cta {
+        margin-top: 5px;
+        text-align: center;
     }
 </style>
 
