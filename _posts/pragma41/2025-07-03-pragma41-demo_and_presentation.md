@@ -1,6 +1,6 @@
 ---
 layout: pragma41-demo
-title: "PRAGMA 41 Presentation and Demo Submission"
+title: "Call for Presentations & Demos"
 date: 2025-07-03
 workshop: pragma41
 short: demo-presentation-registration
@@ -8,7 +8,6 @@ short: demo-presentation-registration
 
 <section class="pragma41-call" aria-labelledby="p41-title">
     <section class="intro">
-        <h2>Call for Presentations &amp; Demos</h2>
         <p>
             We cordially invite researchers and practitioners to present their work at PRAGMA 41 through either
             presentation or demonstration sessions. This is a valuable opportunity to share your research with an
