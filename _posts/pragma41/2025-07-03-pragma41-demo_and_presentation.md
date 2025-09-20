@@ -1,6 +1,6 @@
 ---
 layout: pragma41-demo
-title: "Call for Presentations & Demos"
+title: "Call for PRAGMA 41 Presentations and Demos"
 date: 2025-07-03
 workshop: pragma41
 short: demo-presentation-registration
@@ -26,7 +26,6 @@ short: demo-presentation-registration
                 </a>
             </div>
         </div>
-        <h2>Call for PRAGMA 41 Presentations and Demos</h2>
         <p>
             We cordially invite researchers and practitioners to present their work at PRAGMA 41 through either
             presentation or demonstration sessions. This is a valuable opportunity to share your research with an
@@ -36,11 +35,11 @@ short: demo-presentation-registration
     </section>
 
     <section class="poster-preview">
-        <a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">
-            <img src="Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
+        <a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">
+            <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
                 class="poster-thumb">
         </a>
-        <p><a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">View full-size PDF</a>
+        <p><a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">View full-size PDF</a>
         </p>
     </section>
 
