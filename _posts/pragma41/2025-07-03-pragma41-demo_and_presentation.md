@@ -8,6 +8,25 @@ short: demo-presentation-registration
 
 <section class="pragma41-call" aria-labelledby="p41-title">
     <section class="intro">
+        <!-- Submission link -->
+        <div style="float:right; margin-left: 15px;">
+            <div class="login-note" aria-live="polite">
+                <!-- info icon -->
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.5" />
+                    <path d="M12 8h.01M11 11h2v6h-2z" fill="currentColor" />
+                </svg>
+                <i>Sched.com login required.</i>
+            </div>
+
+            <div class="cta">
+                <a class="btn" href="https://cfp.sched.com/speaker/4fvl6YDmHx"
+                    aria-label="Submit a Presentation or Demo via Sched">
+                    Presentation/Demo Submission
+                </a>
+            </div>
+        </div>
+        <h2>Call for PRAGMA 41 Presentations and Demos</h2>
         <p>
             We cordially invite researchers and practitioners to present their work at PRAGMA 41 through either
             presentation or demonstration sessions. This is a valuable opportunity to share your research with an
@@ -17,12 +36,11 @@ short: demo-presentation-registration
     </section>
 
     <section class="poster-preview">
-        <h3>Download the Call Poster</h3>
-        <a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">
-            <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
+        <a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">
+            <img src="Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
                 class="poster-thumb">
         </a>
-        <p><a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">View full-size PDF</a>
+        <p><a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">View full-size PDF</a>
         </p>
     </section>
 
