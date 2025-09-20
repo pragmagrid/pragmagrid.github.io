@@ -19,11 +19,11 @@ short: demo-presentation-registration
 
     <section class="poster-preview">
         <h3>Download the Call Poster</h3>
-        <a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">
-            <img src="Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
+        <a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">
+            <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Pragma41_CallForDemoPresentation_Poster.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
                 class="poster-thumb">
         </a>
-        <p><a href="Pragma41_CallForDemoPresentation_Poster.pdf" target="_blank" rel="noopener">View full-size PDF</a>
+        <p><a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">View full-size PDF</a>
         </p>
     </section>
 
