@@ -1,6 +1,6 @@
 ---
 layout: pragma41-demo
-title: "PRAGMA 41 Demo and Presentation Submission"
+title: "PRAGMA 41 Presentation and Demo Submission"
 date: 2025-07-03
 workshop: pragma41
 short: demo-presentation-registration
