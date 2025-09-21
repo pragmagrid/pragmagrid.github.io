@@ -8,7 +8,7 @@ short: Call for Student Hackathon
 
 <section class="hackathon" aria-labelledby="h-title">
     <header class="hero">
-        <h1 class="subtitle">Call for PRAGMA41 × SEAIP Student Hackathon</h1>
+        <!--<h1 class="subtitle">Call for PRAGMA41 × SEAIP Student Hackathon</h1>-->
     </header>
 
     <section class="intro">
