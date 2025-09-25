@@ -39,13 +39,17 @@ short: Call for Student Hackathon
         <h2 id="topics-title">Hackathon Topics</h2>
         <ul class="topic-list">
             <li><span>Biodiversity and City Soundscape</span></li>
+            <p>
+        Urban noise pollution disrupts wildlife communication and ecosystem balance, yet data on biodiversity and soundscapes is fragmented and inconsistent. The challenge is how to integrate and interpret these diverse datasets to reveal patterns and guide actions for healthier urban environments.
+      </p>
             <li><span>Climate Resilience and Sustainability</span></li>
+            <p>
+        Climate change is intensifying floods, droughts, and heatwaves, creating severe risks for communities, infrastructure, and ecosystems. Yet current systems for agriculture, buildings, and disaster response are not adequately prepared to adapt. The challenge is how to design smart, technology-driven solutions—such as precision irrigation, intelligent energy management, and adaptive evacuation systems—that enhance resilience while promoting long-term sustainability.
+      </p>
             <li><span>Healthcare AI</span></li>
-        </ul>
-        <ul>
-            <li>Description: Urban noise pollution disrupts wildlife communication and ecosystem balance, yet data on biodiversity and soundscapes is fragmented and inconsistent. The challenge is how to integrate and interpret these diverse datasets to reveal patterns and guide actions for healthier urban environments.</li>
-            <li>Description: Climate change is intensifying floods, droughts, and heatwaves, creating severe risks for communities, infrastructure, and ecosystems. Yet current systems for agriculture, buildings, and disaster response are not adequately prepared to adapt. The challenge is how to design smart, technology-driven solutions—such as precision irrigation, intelligent energy management, and adaptive evacuation systems—that enhance resilience while promoting long-term sustainability.</li>
-            <li>Description: Healthcare increasingly relies on data from many sources—clinical records, medical images, wearable sensors, and population health data—but these remain fragmented and underutilized. Artificial intelligence offers new ways to integrate these diverse inputs to support early diagnosis, continuous monitoring, and outbreak control. This track challenges participants to design AI-driven prototypes that combine multiple data types to improve patient care and public health response. The focus is on building solutions that are accurate, ethical, and scalable, while encouraging collaboration between medical, data science, and engineering perspectives.</li>
+            <p>
+        Healthcare increasingly relies on data from many sources—clinical records, medical images, wearable sensors, and population health data—but these remain fragmented and underutilized. Artificial intelligence offers new ways to integrate these diverse inputs to support early diagnosis, continuous monitoring, and outbreak control. This track challenges participants to design AI-driven prototypes that combine multiple data types to improve patient care and public health response. The focus is on building solutions that are accurate, ethical, and scalable, while encouraging collaboration between medical, data science, and engineering perspectives.
+      </p>
         </ul>
     </section>
 
