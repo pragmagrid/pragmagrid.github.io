@@ -61,6 +61,7 @@ $blue1: #3595d4;
 $blue2: #415979;
 $blue3: #95add0;
 $blue4: #bad2f6;
+$yellowtone: #f9f871;
 $navline: #0d2c48;
 $whitetone1: #ffffff;
 
@@ -74,7 +75,7 @@ $bgborder: $blue4;
 .border41 { color: $border; background-color: $bgborder; font-weight: 700; font-size: 20px; }
 
 /* color for link hover */
-body.pragma41 a { &:hover {color: $redtone1;}}
+body.pragma41 a { &:hover {color: $yellowtone;}}
 
 body.pragma41 nav {
     width:100%;
