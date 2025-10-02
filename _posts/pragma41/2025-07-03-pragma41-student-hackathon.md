@@ -92,4 +92,3 @@ short: Call for Student Hackathon
 
 </section>
 
-</section>
