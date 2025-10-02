@@ -44,7 +44,7 @@ short: demo-presentation-registration
     </section>
 
     <section class="focus">
-        <h3>Key Areas of Focus</h3>
+        <h3 style="font-weight: bold;">Key Areas of Focus</h3>
         <p>Our focus areas include (but are not limited to):</p>
         <ul>
             <li>Green Technology and Climate Action</li>
