@@ -38,7 +38,6 @@ short: Call for Student Hackathon
     <section class="intro">
         <h3>Hackathon Topics</h3>
 
-        <div class="track">
             <h4>AI for Health Innovation</h4>
             <h5>Developing Sustainable Solutions for Global Challenges</h5>
             <p>
@@ -53,9 +52,7 @@ short: Call for Student Hackathon
                 <li>Predicting and Managing Disease Outbreaks</li>
                 <li>Creating Accessible and Scalable Solutions</li>
             </ul>
-        </div>
 
-        <div class="track">
             <h4>Smart Solutions for Climate Resilience and Sustainability</h4>
             <p>
                 Climate change is increasing the frequency and intensity of extreme weather events, such as floods, droughts, and heatwaves, posing significant threats to communities, infrastructure, and ecosystems. Addressing these challenges requires building resilience and promoting sustainability to mitigate future risks.
@@ -69,9 +66,7 @@ short: Call for Student Hackathon
                 <li>Smart Buildings and Energy Efficiency</li>
                 <li>Smart Evacuation and Disaster Response</li>
             </ul>
-        </div>
 
-        <div class="track">
             <h4>Biodiversity in the City Soundscape</h4>
             <p>
                 Urban areas are filled with both human-generated noise and natural sounds. Noise pollution can disrupt animal communication, alter species distribution, and impact ecosystem health. While various institutions and citizen scientists collect noise and biodiversity data, these datasets often remain isolated and inconsistent.
@@ -85,7 +80,6 @@ short: Call for Student Hackathon
                 <li>Visualizing Urban Soundscapes for Community Engagement</li>
                 <li>Smart Monitoring and Device Health Tracking</li>
             </ul>
-        </div>
 
         <p><strong>Note:</strong> Student contributions are not limited to the examples provided. Creativity is encouraged, as long as the work remains relevant to these three topics.</p>
     </section>
