@@ -53,31 +53,5 @@ short: Call for Student Hackathon
         </ul>
     </section>
 
-    <section class="timeline" aria-labelledby="timeline-title">
-        <h2 id="timeline-title">Timeline</h2>
-        <ol class="milestones">
-            <li>
-                <strong>Hackathon Student Application</strong>
-                <span>September 17 – October 10, 2025</span>
-            </li>
-            <li>
-                <strong>Hackathon Topic (Detail) Announcement</strong>
-                <span>October 15, 2025</span>
-            </li>
-            <li>
-                <strong>Online Training &amp; Socializing Period</strong>
-                <span>November 01 – 30, 2025</span>
-            </li>
-            <li>
-                <strong>Idea Pitching Submission</strong>
-                <span>December 10, 2025</span>
-            </li>
-            <li>
-                <strong>Hackathon Days</strong>
-                <span>January 8 – 9, 2026</span>
-            </li>
-        </ol>
-
-    </section>
 
 </section>
