@@ -36,45 +36,44 @@ short: Call for Student Hackathon
     </section>
 
     <section class="intro">
-        <h3>Hackathon Topics</h3>
+        <h1>Hackathon Topics</h1>
 
-            <h4>AI for Health Innovation</h4>
-            <h5>Developing Sustainable Solutions for Global Challenges</h5>
+            <h2>AI for Health Innovation - Developing Sustainable Solutions for Global Challenges</h2>
             <p>
                 The convergence of artificial intelligence (AI) and healthcare represents a transformative frontier for addressing some of the most critical issues facing our planet. AI technologies such as machine learning, deep learning, computer vision, and natural language processing have demonstrated potential in diagnosing diseases and predicting epidemics. However, their full potential remains untapped due to challenges like data scarcity, ethical concerns, and the need for context-specific solutions.
             </p>
             <p>
                 This hackathon aims to catalyse cross-disciplinary innovation, bringing together technologists and healthcare professionals to develop actionable AI-driven solutions. By fostering collaboration and creativity, it seeks to accelerate the development of impactful tools that can improve health outcomes, especially in underserved regions.
             </p>
-            <h5>Example Contributions</h5>
+            <h3>Example Contributions</h3>
             <ul class="timeline">
                 <li>AI Tools for Early Disease Detection and Diagnosis</li>
                 <li>Predicting and Managing Disease Outbreaks</li>
                 <li>Creating Accessible and Scalable Solutions</li>
             </ul>
 
-            <h4>Smart Solutions for Climate Resilience and Sustainability</h4>
+            <h2>Smart Solutions for Climate Resilience and Sustainability</h2>
             <p>
                 Climate change is increasing the frequency and intensity of extreme weather events, such as floods, droughts, and heatwaves, posing significant threats to communities, infrastructure, and ecosystems. Addressing these challenges requires building resilience and promoting sustainability to mitigate future risks.
             </p>
             <p>
                 This hackathon focuses on leveraging technology and innovative thinking to create practical solutions that protect vulnerable populations and foster a sustainable future.
             </p>
-            <h5>Example Contributions</h5>
+            <h3>Example Contributions</h3>
             <ul class="timeline">
                 <li>Smart Agriculture and Water Management</li>
                 <li>Smart Buildings and Energy Efficiency</li>
                 <li>Smart Evacuation and Disaster Response</li>
             </ul>
 
-            <h4>Biodiversity in the City Soundscape</h4>
+            <h2>Biodiversity in the City Soundscape</h2>
             <p>
                 Urban areas are filled with both human-generated noise and natural sounds. Noise pollution can disrupt animal communication, alter species distribution, and impact ecosystem health. While various institutions and citizen scientists collect noise and biodiversity data, these datasets often remain isolated and inconsistent.
             </p>
             <p>
                 This hackathon invites participants to explore the intersection of urban noise and wildlife using provided and/or open-source datasets. The goal is to develop innovative tools and insights that help cities monitor, protect, and restore natural acoustic environments.
             </p>
-            <h5>Example Contributions</h5>
+            <h3>Example Contributions</h3>
             <ul class="timeline">
                 <li>Integrating Noise and Biodiversity Data Across Urban Sites</li>
                 <li>Visualizing Urban Soundscapes for Community Engagement</li>
