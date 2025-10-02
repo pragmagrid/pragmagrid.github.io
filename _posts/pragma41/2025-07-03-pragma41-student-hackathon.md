@@ -35,7 +35,7 @@ short: Call for Student Hackathon
         </p>
     </section>
 
-    <div class="intro">
+    <section class="intro">
         <h3>Hackathon Topics</h3>
 
         <div class="track">
@@ -88,7 +88,7 @@ short: Call for Student Hackathon
         </div>
 
         <p><strong>Note:</strong> Student contributions are not limited to the examples provided. Creativity is encouraged, as long as the work remains relevant to these three topics.</p>
-    </div>
+    </section>
 
 </section>
 
