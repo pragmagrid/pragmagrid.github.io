@@ -56,7 +56,7 @@ short: demo-presentation-registration
 
     <section class="tracks">
         <article class="track">
-            <h4>Presentation Session</h4>
+            <h4 style="font-weight: bold;">Presentation Session</h4>
             <ul>
                 <li>Share your research or project idea at PRAGMA 41.</li>
                 <li>Gain constructive feedback from the community through formal presentations.</li>
@@ -66,7 +66,7 @@ short: demo-presentation-registration
         </article>
 
         <article class="track">
-            <h4>Demo Session</h4>
+            <h4 style="font-weight: bold;">Demo Session</h4>
             <ul>
                 <li>Showcase your working prototypes, tools, or applications live at PRAGMA 41.</li>
                 <li>Receive hands-on feedback from participants and researchers.</li>
@@ -76,7 +76,7 @@ short: demo-presentation-registration
         </article>
 
         <article class="track">
-            <h4>Further Opportunity</h4>
+            <h4 style="font-weight: bold;">Further Opportunity</h4>
             <ul>
                 <li>Presentation and demo abstracts can be extended into a full paper submission (8–10 pages).</li>
                 <li>Selected papers will be invited for submission to the <em>ECTI Transactions on Application Research
