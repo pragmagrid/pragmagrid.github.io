@@ -7,11 +7,14 @@ short: Call for Student Hackathon
 ---
 
 <section class="hackathon" aria-labelledby="h-title">
-   <section class="pragma41-call">
-    <div class="intro">
-        <h2>Call for PRAGMA 41 × SEAIP Student Hackathon</h2>
+   <header class="hero">
+        <!--<h1 class="subtitle">Call for PRAGMA41 × SEAIP Student Hackathon</h1>-->
+    </header>
+   
+   <section class="intro">
         <p>
-            Join fellow students and PRAGMA researchers in an engaging hackathon designed to spark creativity, promote teamwork, and encourage innovation while fostering cross-cultural networking.
+            Join fellow students and PRAGMA researchers in an engaging hackathon designed
+            to spark creativity, promote teamwork, and encourage innovation while fostering cross-cultural networking.
         </p>
         <ul>
             <li>Address real-world data challenges</li>
@@ -20,9 +23,19 @@ short: Call for Student Hackathon
             <li>Enhance your problem-solving skills and broaden your cultural understanding</li>
         </ul>
         <p class="boost">Boost your confidence through global collaboration.</p>
-    </div>
+    </section>
 
-    <div class="focus">
+    <section class="poster-preview">
+        <h3>Download the Call Poster</h3>
+        <a href="https://drive.google.com/file/d/1bDWbgUIoY8kYV7Smfvn7GnPmasD70gXh/view?usp=sharing" target="_blank" rel="noopener">
+            <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/PRAGMA%2041%20x%20SEAIP%20Hackathon%20-%20Call%20for%20Student%20Application.png" alt="PRAGMA 41 Call for Presentation & Demo Poster"
+                class="poster-thumb">
+        </a>
+        <p><a href="https://drive.google.com/file/d/1bDWbgUIoY8kYV7Smfvn7GnPmasD70gXh/view?usp=sharing" target="_blank" rel="noopener">View full-size PDF</a>
+        </p>
+    </section>
+
+    <div class="intro">
         <h3>Hackathon Topics</h3>
 
         <div class="track">
@@ -77,11 +90,6 @@ short: Call for Student Hackathon
         <p><strong>Note:</strong> Student contributions are not limited to the examples provided. Creativity is encouraged, as long as the work remains relevant to these three topics.</p>
     </div>
 
-    <div class="cta">
-        <a href="https://drive.google.com/file/d/1bDWbgUIoY8kYV7Smfvn7GnPmasD70gXh/view?usp=sharing" class="btn" target="_blank" rel="noopener">
-            Download Poster
-        </a>
-    </div>
 </section>
 
 </section>
