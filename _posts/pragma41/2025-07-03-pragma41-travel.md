@@ -82,11 +82,11 @@ Lineman (<a href="https://lineman.line.me/" target="_blank" rel="noopener">Downl
 <div class="border41">Traveling to Novotel Bangkok Future Park Rangsit by Public Transportation</div><br>
 If you plan to travel to Novotel Bangkok Future Park Rangsit using public transport, here are some convenient options:
 
-<b>Skytrain (BTS)</b><br>
+<strong>Skytrain (BTS)</strong><br>
 Take the Red Line train and get off at Rangsit Station.<br>
 From there, you can take a motorcycle taxi to the hotel, which takes about 5 minutes.
 
-<b>Bus</b><br>
+<strong>Bus</strong><br>
 You can also reach the hotel by several bus routes. The following buses stop at Future Park Rangsit public bus stop, from where you can take local transport to the hotel:<br>
 <ul>
   <li>Bus No. 1–31</li>
@@ -105,8 +105,8 @@ From the bus stop at Future Park Rangsit, you may continue your journey to the h
   <li>Taxi</li>
   <li>Ride-hailing apps such as Grab, Bolt, and Lineman</li>
 </ul>
-
-<b>EV Charging Stations</b><br>
+<br>
+<strong>EV Charging Stations</strong><br>
 For guests traveling with an electric vehicle, there are several EV charging stations located near Novotel Bangkok Future Park Rangsit for your convenience, including:<br>
 <ul>
   <li>EV Anywhere</li>
@@ -117,7 +117,7 @@ For guests traveling with an electric vehicle, there are several EV charging sta
 <br>
 <hr>
 <br>
-<div class="border41">Traffic Conditions to Be Aware Of</div>
+<div class="border41">Traffic Conditions to Be Aware Of</div><br>
 <ul>
   <li>The area around Future Park / Dream World / Rangsit often experiences heavy traffic during morning and evening rush hours.</li>
   <li>Bangkok’s overall congestion is particularly bad between 07:30–09:30 (morning) and 16:30–18:30 (evening).</li>
@@ -128,7 +128,7 @@ For guests traveling with an electric vehicle, there are several EV charging sta
 <br>
 <hr>
 <br>
-<div class="border41">Additional Tips for Traveling to Novotel Rangsit</div>
+<div class="border41">Additional Tips for Traveling to Novotel Rangsit</div><br>
 <ul>
   <li>Avoid peak hours (07:30–09:30, 16:30–18:30) to skip heavy traffic.</li>
   <li>Use ride-hailing apps (Grab, Bolt, LINE MAN) and compare fares/wait times.</li>
@@ -145,14 +145,14 @@ Public Transportation in Bangkok: <a href="https://www.youtube.com/watch?v=L-VSL
 <br>
 <hr>
 <br>
-<div class="border41">Weather in January</div>
+<div class="border41">Weather in January</div><br>
 In January, the Pathum Thani area experience some of the most pleasant weather of the year.<br>
 <ul>
   <li>Daily highs: around 31–33°C (87–91°F)</li>
   <li>Daily lows: around 20–22°C (68–72°F)</li>
   <li>Conditions: Mostly sunny to partly cloudy, with low rainfall.</li>
   <li>Comfort: Warm during the day but cooler mornings and evenings compared to other months.</li>
-</ul>
+</ul><br>
 Tip: Pack light clothing for the daytime and a light jacket for early mornings or air-conditioned places.<br>
 Please be sure to check the weather forecast prior to traveling.
 Visit AccuWeather (<a href="https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026">Link</a>) for updated information.
@@ -160,8 +160,8 @@ Visit AccuWeather (<a href="https://www.accuweather.com/en/th/mueang-pathum-than
 <hr>
 <br>
 <div class="border41">Electricity in Thailand</div>
-Electrical outlets in Thailand supply 220 volts at 50 Hz, which is compatible with appliances from the U.K., Europe, and many parts of Asia, but not with standard U.S. appliances. Most laptops, phone chargers, and modern electronics are dual-voltage and can adapt automatically, but always check your device label.<br>
-Outlets in Thailand typically accept two flat prongs (Type A/B) or two round prongs (Type C). Some outlets can take both, but grounded three-prong outlets (Type B/F) are less common. Travelers may need a plug adapter and, if their appliances are not dual-voltage, a voltage converter.<br>
+Electrical outlets in Thailand supply 220 volts at 50 Hz, which is compatible with appliances from the U.K., Europe, and many parts of Asia, but not with standard U.S. appliances. Most laptops, phone chargers, and modern electronics are dual-voltage and can adapt automatically, but always check your device label.<br><br>
+Outlets in Thailand typically accept two flat prongs (Type A/B) or two round prongs (Type C). Some outlets can take both, but grounded three-prong outlets (Type B/F) are less common. Travelers may need a plug adapter and, if their appliances are not dual-voltage, a voltage converter.<br><br>
 Tip: Bring a universal travel adapter with surge protection to avoid issues when charging sensitive electronics.
 <br>
 <hr>
