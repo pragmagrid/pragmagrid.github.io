@@ -159,7 +159,7 @@ Visit AccuWeather (<a href="https://www.accuweather.com/en/th/mueang-pathum-than
 <br>
 <hr>
 <br>
-<div class="border41">Electricity in Thailand</div>
+<div class="border41">Electricity in Thailand</div><br>
 Electrical outlets in Thailand supply 220 volts at 50 Hz, which is compatible with appliances from the U.K., Europe, and many parts of Asia, but not with standard U.S. appliances. Most laptops, phone chargers, and modern electronics are dual-voltage and can adapt automatically, but always check your device label.<br><br>
 Outlets in Thailand typically accept two flat prongs (Type A/B) or two round prongs (Type C). Some outlets can take both, but grounded three-prong outlets (Type B/F) are less common. Travelers may need a plug adapter and, if their appliances are not dual-voltage, a voltage converter.<br><br>
 Tip: Bring a universal travel adapter with surge protection to avoid issues when charging sensitive electronics.
