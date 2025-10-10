@@ -147,7 +147,7 @@ short: program
   </tr>
   <tr>
     <td></td>
-    <td>Excursion Tour (TBA)</td>
+    <td>Cross-Working group discussion</td>
   </tr>
 </tbody></table>
 
