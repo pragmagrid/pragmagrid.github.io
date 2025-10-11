@@ -19,12 +19,12 @@ short: demo-presentation-registration
                 <i>Sched.com login required.</i>
             </div>
 
-            <div class="cta">
-                <a class="btn" href="https://cfp.sched.com/speaker/4fvl6YDmHx"
-                    aria-label="Submit a Presentation or Demo via Sched">
-                    Presentation/Demo Submission
-                </a>
-            </div>
+            <iframe 
+                src="https://cfp.sched.com/speaker/4fvl6YDmHx/event" 
+                width="100%" 
+                height="800" 
+                style="border:none;">
+            </iframe>
         </div>
         <p>
             We cordially invite researchers and practitioners to present their work at PRAGMA 41 through either
