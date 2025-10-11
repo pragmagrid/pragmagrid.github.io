@@ -19,12 +19,7 @@ short: demo-presentation-registration
                 <i>Sched.com login required.</i>
             </div>
 
-            <iframe 
-                src="https://cfp.sched.com/speaker/4fvl6YDmHx/event" 
-                width="100%" 
-                height="800" 
-                style="border:none;">
-            </iframe>
+            
         </div>
         <p>
             We cordially invite researchers and practitioners to present their work at PRAGMA 41 through either
@@ -33,6 +28,7 @@ short: demo-presentation-registration
             engage in interdisciplinary exchanges, and receive insightful feedback.
         </p>
     </section>
+    <iframe src="https://cfp.sched.com/api/embed/LgBEeiXf2a" style="width: 100%; height: 100%; border: none;"></iframe>
 
     <section class="poster-preview">
         <a href="https://drive.google.com/file/d/1paoRXTakv77A_MrQMYwa8Mfs3sDhRl8c/view?usp=sharing" target="_blank" rel="noopener">
