@@ -6,7 +6,7 @@ workshop: pragma41
 short: demo-presentation-registration
 ---
 
-<iframe src="https://cfp.sched.com/api/embed/LgBEeiXf2a" style="width: 100%; height: 100%; border: none;"></iframe>
+<iframe src="https://cfp.sched.com/api/embed/LgBEeiXf2a" style="width: 100%; height: 1200px; border: none;"></iframe>
 
 
 
