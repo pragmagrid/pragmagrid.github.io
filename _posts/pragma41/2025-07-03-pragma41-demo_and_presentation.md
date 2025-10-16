@@ -8,7 +8,7 @@ short: demo-presentation-registration
 
 <div style="max-width: 1400px; width: 100%; margin: 0 auto; position: relative;">
   <iframe
-    src="https://cfp.sched.com/api/embed/LgBEeiXf2a?iframe=yes"
+    src="https://cfp.sched.com/api/embed/LgBEeiXf2a"
     width="100%"
     height="1100"
     style="border: none;"
