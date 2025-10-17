@@ -55,8 +55,8 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 
 <br/>
 <div class="border41">PRAGMA 41 Student Committee</div>
-1. Junya Yamamoto (The University of Osaka University) (PSC Co-Chair)
-2. Yoshiki Noguchi (The University of Osaka University) (PSC Co-Chair)
+1. Junya Yamamoto (The University of Osaka) (PSC Co-Chair)
+2. Yoshiki Noguchi (The University of Osaka) (PSC Co-Chair)
 3. Supawit Tangpanithandee (Thammasat University)
 4. Salma Mousbah (Universiti Sains Malaysia)
 5. Xingyuan Kang (Nara Institute of Science and Technology)
