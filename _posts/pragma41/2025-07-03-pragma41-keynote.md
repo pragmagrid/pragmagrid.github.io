@@ -37,6 +37,5 @@ Associate Professor Dr. Wijitbusaba Marome is a distinguished scholar and practi
 <br>
 <h3>Talk Title:  “Innovative Pathways to Urban Resilience: Integrating Community Engagement and Policy for Sustainable Cities”</h3>
 Abstract: As cities face mounting challenges from climate change, resource stress, and rapid urbanization, the quest for urban resilience requires integrating community participation with forward-thinking policy innovation. In this keynote, Associate Professor Dr. Wijitbusaba (Ann) Marome shares her extensive experience in shaping resilient and adaptive cities through participatory planning and evidence-based policymaking. Drawing from her research on serious games for community engagement, climate adaptation, and COVID-19 preparedness, Dr. Marome will highlight tools and frameworks that enhance disaster risk awareness and empower local actors in shaping sustainable urban futures. Through Thai and international case studies, she will demonstrate how co-created knowledge, inclusive governance, and locally led climate actions can transform urban systems into adaptive, equitable, and future-ready environments.
-<br><br><br>
+<br>
 <hr>
-<br><br><br>
