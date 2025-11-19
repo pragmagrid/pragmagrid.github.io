@@ -102,7 +102,7 @@ You can also reach the hotel by several bus routes. The following buses stop at 
 From the bus stop at Future Park Rangsit, you may continue your journey to the hotel by:
 <ul>
   <li>Motorcycle taxi</li>
-  <li>Taxi</li>
+  <li>Taxi: Recommended website for reserve or book the taxi tour <a href="https://www.taxitourservice.com/">Taxi Tour Service</a></li>
   <li>Ride-hailing apps such as Grab, Bolt, and Lineman</li>
 </ul>
 <br>
