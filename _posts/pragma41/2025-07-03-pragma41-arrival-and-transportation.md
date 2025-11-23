@@ -27,12 +27,13 @@ Instead of writing on paper, you now submit your personal details, flight inform
   - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
 <br>
 <br>
+
 ### 3. Information You Need
 Have these ready before you start:
 - Passport  
 - Flight details (Flight number, arrival date)  
 - Accommodation details (Hotel name and address, e.g., *Novotel Future Park Rangsit*)  
-<br>
+<br><br>
 
 ### 4. The QR Code
 - Once you submit the form successfully, the system generates a **QR Code**.  
@@ -40,9 +41,7 @@ Have these ready before you start:
 - You must show this QR Code to the Immigration Officer when you land.
 <br>
 
-<br>
 ---
-<br>
 
 ## ✈️ Step-by-Step Arrival Process
 
@@ -55,8 +54,9 @@ Have these ready before you start:
    - Officer stamps your passport (or you pass through an automated gate).  
    - You are officially in Thailand!
 <br><br>
+
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/TDAC.png" alt="TDAC" width="800">
-<br>
+
 
 ---
 
@@ -70,6 +70,7 @@ Have these ready before you start:
 <br>
 
 ---
+
 <br>
 ## 🚖 Commute Options
 
@@ -88,8 +89,11 @@ Have these ready before you start:
   - Meter: Ensure driver turns on the meter (*say "Meter on, please"*).  
 - **Map Direction**: [Google Maps](https://maps.app.goo.gl/LnQTGk1MJNja95ox5)
 <br>
+
 ---
+
 <br>
+
 ### Option 2: Grab Car (Ride-Hailing App)
 - Use **Grab** (like Uber).  
 - **Download App**: [Grab App](https://www.grab.com/th/en/download/)  
@@ -98,8 +102,11 @@ Have these ready before you start:
 - **Pros**: Fixed price, pay via credit card, no negotiation needed.  
 - **Cons**: Slightly more expensive than public taxi.
 <br>
+
 ---
+
 <br>
+
 ### Option 3: Multimodal Transportation
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option1.png" alt="Option 1" width="800">
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option2.png" alt="Option 2" width="800">
@@ -107,4 +114,5 @@ Have these ready before you start:
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option4.png" alt="Option 4" width="800">
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option5.png" alt="Option 5" width="800">
 <br>
+
 ---
