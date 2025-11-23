@@ -25,8 +25,7 @@ Instead of writing on paper, you now submit your personal details, flight inform
 - Go to the **Official Immigration Website**: [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home)  
 - ⚠️ **Important Warning**: The official government website is **FREE**.  
   - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
-<br>
-<br>
+<br><br>
 
 ### 3. Information You Need
 Have these ready before you start:
@@ -39,10 +38,11 @@ Have these ready before you start:
 - Once you submit the form successfully, the system generates a **QR Code**.  
 - **Action**: Take a screenshot or save the email confirmation to your phone.  
 - You must show this QR Code to the Immigration Officer when you land.
-<br>
+<br><br>
 
 ---
 
+<br>
 ## ✈️ Step-by-Step Arrival Process
 
 1. Land at **Suvarnabhumi Airport (BKK)**.  
@@ -60,14 +60,14 @@ Have these ready before you start:
 
 ---
 
-
+<br>
 ## 🛣️ Travel from Suvarnabhumi Airport to Novotel Bangkok Future Park Rangsit
 
 - Distance: **~45–50 km**
 - Travel Time: **45 minutes to 1 hour** by car (up to 1.5 hours if traffic is heavy)
 - Thai Address for your Driver: **"ไปโรงแรม โนโวเทล ฟิวเจอร์พาร์ค รังสิต ครับ/ค่ะ (อยู่ติดกับห้างฟิวเจอร์พาร์ค ฝั่งสเปลล์)"**
 *(Please go to Novotel Future Park Rangsit. It’s nearby Future Park Mall, Zpell side.)*
-<br>
+<br><br>
 
 ---
 
@@ -88,11 +88,9 @@ Have these ready before you start:
   - Tolls: Passenger pays toll fees (have 100 THB notes ready).  
   - Meter: Ensure driver turns on the meter (*say "Meter on, please"*).  
 - **Map Direction**: [Google Maps](https://maps.app.goo.gl/LnQTGk1MJNja95ox5)
-<br>
+<br><br>
 
 ---
-
-<br>
 
 ### Option 2: Grab Car (Ride-Hailing App)
 - Use **Grab** (like Uber).  
@@ -101,11 +99,9 @@ Have these ready before you start:
 - **Cost**: 500–800 THB (varies with demand).  
 - **Pros**: Fixed price, pay via credit card, no negotiation needed.  
 - **Cons**: Slightly more expensive than public taxi.
-<br>
+<br><br>
 
 ---
-
-<br>
 
 ### Option 3: Multimodal Transportation
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option1.png" alt="Option 1" width="800">
