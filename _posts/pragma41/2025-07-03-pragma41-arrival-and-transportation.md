@@ -1,172 +1,97 @@
 ---
 layout: pragma41
-title: "Travel Information"
+title: "Arrival and Transportation Information"
 date: 2025-07-03
 workshop: pragma41
-short: Travel
+short: Arrival and Transportation
 ---
 
-<div class="border41">Conference Hotel Information in English and Thai</div><br>
-Helpful to have handy when taking a taxi or ride-hailing apps<br>
+# Thailand Digital Arrival Card (TDAC)
 
-<table class="program40">
-  <tbody><tr>
-    <th> </th>
-    <th>In English</th>
-    <th>In Thai</th>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td>Novotel Bangkok Future Park Rangsit</td>
-    <td>โรงแรมโนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต</td>
-  </tr>
-  <tr>
-    <td>Address</td>
-    <td>114 Phahonyothin Rd, Prachathipat, Thanyaburi District, Pathum Thani</td>
-    <td>114 ถนน พหลโยธิน, ตำบล ประชาธิปัตย์, อำเภอ ธัญบุรี, จังหวัด ปทุมธานี, ประเทศไทย</td>
-  </tr>
-  <tr>
-    <td>Postcode</td>
-    <td>12130</td>
-    <td>12130</td>
-  </tr>
-  <tr>
-    <td>Telephone</td>
-    <td>+66 (0) 2520 2525</td>
-    <td>+66 (0) 2520 2525</td>
-  </tr>
-  <tr>
-    <td>Email</td>
-    <td>HB346@ACCOR.COM</td>
-    <td>HB346@ACCOR.COM</td>
-  </tr>
-</tbody></table>
+The **Thailand Digital Arrival Card (TDAC)** is an online immigration form that replaces the old paper form (known as **TM6**) that passengers used to fill out on the airplane.  
 
-Google Maps: 📍 <a href="https://www.google.com/maps/place/Novotel+Bangkok+Future+Park+Rangsit/@13.995196,100.6148207,17z/data=!4m9!3m8!1s0x30de1168e62e2101:0x9da7a57659ec3960!5m2!4m1!1i2!8m2!3d13.995196!4d100.6173956!16s%2Fg%2F11rfmztqp9?entry=tts&g_ep=EgoyMDI1MDkzMC4wIPu8ASoASAFQAw%3D%3D&skid=cc8f62dc-eb3d-488a-abec-4e637bc7adf1">Google Maps</a>
+Instead of writing on paper, you now submit your personal details, flight information, and health declaration online before you leave your home country.
 
-<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/NovotalBangkokFutureParkRangsit.png" alt="Novotel Bangkok Map" width="800">
-<br>
-<hr>
-<br>
-<div class="border41">Useful Information on Travelling</div><br>
-Ride-Hailing Apps to use for transport:
+---
 
-Grab (<a href="https://www.grab.com/th/en/download/" target="_blank" rel="noopener">Download</a>)
-<ul>
-  <li>Cash or card payment accepted</li>
-  <li>Many vehicle options (car, taxi, motorbike)</li>
-  <li>In-app chat auto-translated</li>
-  <li>Widely available in Bangkok & big cities</li>
-</ul>
-<br>
-Bolt (<a href="https://bolt.eu/en-th/" target="_blank" rel="noopener">Download</a>)
-<ul>
-  <li>Usually cheaper than Grab</li>
-  <li>Cash payment only (in most areas)</li>
-  <li>Many vehicle options</li>
-  <li>In-app chat auto-translated</li>
-  <li>Fewer drivers than Grab in some zones</li>
-</ul>
-<br>
-Lineman (<a href="https://lineman.line.me/" target="_blank" rel="noopener">Download</a>)
-<ul>
-  <li>Cash or digital payment (QR/LINE Pay)</li>
-  <li>Competitive pricing, sometimes cheaper than Grab</li>
-  <li>Car & motorbike options</li>
-  <li>Officially licensed by Thai Department of Land Transport (DLT)</li>
-  <li>Integrated with LINE app for easy use</li>
-</ul>
-<br>
-<hr>
-<br>
-<div class="border41">Traveling to Novotel Bangkok Future Park Rangsit by Public Transportation</div><br>
-If you plan to travel to Novotel Bangkok Future Park Rangsit using public transport, here are some convenient options:
+## ✅ Checklist: What You Must Do
 
-<strong>Skytrain (BTS)</strong><br>
-Take the Red Line train and get off at Rangsit Station.<br>
-From there, you can take a motorcycle taxi to the hotel, which takes about 5 minutes.
+### 1. When to Register
+- Complete the form within **72 hours (3 days)** before your arrival in Thailand.  
+- Example: If you fly on **Friday**, you can fill it out starting **Tuesday**.
 
-<strong>Bus</strong><br>
-You can also reach the hotel by several bus routes. The following buses stop at Future Park Rangsit public bus stop, from where you can take local transport to the hotel:<br>
-<ul>
-  <li>Bus No. 1–31</li>
-  <li>Bus No. 1156</li>
-  <li>Bus No. 39</li>
-  <li>Bus No. 6250</li>
-  <li>Bus No. 95k</li>
-  <li>Bus No. A5</li>
-  <li>Bus No. 113</li>
-  <li>Bus No. 154</li>
-</ul>
-<br>
-From the bus stop at Future Park Rangsit, you may continue your journey to the hotel by:
-<ul>
-  <li>Motorcycle taxi</li>
-  <li>Taxi: Recommended website for reserve or book the taxi tour <a href="https://www.taxitourservice.com/">Taxi Tour Service</a></li>
-  <li>Ride-hailing apps such as Grab, Bolt, and Lineman</li>
-</ul>
-<br>
-<strong>EV Charging Stations</strong><br>
-For guests traveling with an electric vehicle, there are several EV charging stations located near Novotel Bangkok Future Park Rangsit for your convenience, including:<br>
-<ul>
-  <li>EV Anywhere</li>
-  <li>EVx Charging Station</li>
-  <li>MG Super Charge Charging Station</li>
-  <li>EA Anywhere Charging Station</li>
-</ul>
-<br>
-<hr>
-<br>
-<div class="border41">Traffic Conditions to Be Aware Of</div><br>
-<ul>
-  <li>The area around Future Park / Dream World / Rangsit often experiences heavy traffic during morning and evening rush hours.</li>
-  <li>Bangkok’s overall congestion is particularly bad between 07:30–09:30 (morning) and 16:30–18:30 (evening).</li>
-  <li>Inclement weather (heavy rain) tends to worsen congestion, flooding, or slowdowns.</li>
-  <li>Key thoroughfares and junctions (e.g., Vibhavadi Rangsit Road, Lat Phrao intersection) are often bottlenecks.</li>
-  <li>If using expressways, there may be tolls and variable traffic flows depending on entry/exit points.</li>
-</ul>
-<br>
-<hr>
-<br>
-<div class="border41">Additional Tips for Traveling to Novotel Rangsit</div><br>
-<ul>
-  <li>Avoid peak hours (07:30–09:30, 16:30–18:30) to skip heavy traffic.</li>
-  <li>Use ride-hailing apps (Grab, Bolt, LINE MAN) and compare fares/wait times.</li>
-  <li>Red Line train to Rangsit + short motorbike/taxi ride is often faster than driving.</li>
-  <li>Expressways can save time, but tolls apply.</li>
-  <li>Plan extra time for delays, especially in rain or during events.</li>
-  <li>Show hotel name in Thai (โรงแรม โนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต) to drivers for clarity.</li>
-</ul>
-<br>
-<hr>
-<br>
-<div class="border41">Suggested YouTube Video:</div><br>
-Public Transportation in Bangkok: <a href="https://www.youtube.com/watch?v=L-VSLvdRgWE"> How to Use BTS, MRT, and Tuk Tuks </a>
-<br>
-<hr>
-<br>
-<div class="border41">Weather in January</div><br>
-In January, the Pathum Thani area experience some of the most pleasant weather of the year.<br>
-<ul>
-  <li>Daily highs: around 31–33°C (87–91°F)</li>
-  <li>Daily lows: around 20–22°C (68–72°F)</li>
-  <li>Conditions: Mostly sunny to partly cloudy, with low rainfall.</li>
-  <li>Comfort: Warm during the day but cooler mornings and evenings compared to other months.</li>
-</ul><br>
-Tip: Pack light clothing for the daytime and a light jacket for early mornings or air-conditioned places.<br>
-Please be sure to check the weather forecast prior to traveling.
-Visit AccuWeather (<a href="https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026">Link</a>) for updated information.
-<br>
-<hr>
-<br>
-<div class="border41">Electricity in Thailand</div><br>
-Electrical outlets in Thailand supply 220 volts at 50 Hz, which is compatible with appliances from the U.K., Europe, and many parts of Asia, but not with standard U.S. appliances. Most laptops, phone chargers, and modern electronics are dual-voltage and can adapt automatically, but always check your device label.<br><br>
-Outlets in Thailand typically accept two flat prongs (Type A/B) or two round prongs (Type C). Some outlets can take both, but grounded three-prong outlets (Type B/F) are less common. Travelers may need a plug adapter and, if their appliances are not dual-voltage, a voltage converter.<br><br>
-Tip: Bring a universal travel adapter with surge protection to avoid issues when charging sensitive electronics.
-<br>
-<hr>
-<br>
-We trust this information will make your journey to Novotel Bangkok Future Park Rangsit smoother and more sustainable. We look forward to welcoming you and wish you a pleasant stay.
-<br>
-<hr>
-<br>
+### 2. Where to Register
+- Go to the **Official Immigration Website**: [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home)  
+- ⚠️ **Important Warning**: The official government website is **FREE**.  
+  - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
+
+### 3. Information You Need
+Have these ready before you start:
+- Passport  
+- Flight details (Flight number, arrival date)  
+- Accommodation details (Hotel name and address, e.g., *Novotel Future Park Rangsit*)  
+
+### 4. The QR Code
+- Once you submit the form successfully, the system generates a **QR Code**.  
+- **Action**: Take a screenshot or save the email confirmation to your phone.  
+- You must show this QR Code to the Immigration Officer when you land.
+
+---
+
+## ✈️ Step-by-Step Arrival Process
+
+1. Land at **Suvarnabhumi Airport (BKK)**.  
+2. Walk to **Immigration**.  
+3. Present Documents:  
+   - Passport  
+   - TDAC QR Code (on your phone)  
+4. Entry:  
+   - Officer stamps your passport (or you pass through an automated gate).  
+   - You are officially in Thailand!
+
+---
+
+## 🛣️ Travel from Suvarnabhumi Airport to Novotel Bangkok Future Park Rangsit
+
+- Distance: ~45–50 km  
+- Travel Time: 45 minutes to 1 hour by car (up to 1.5 hours if traffic is heavy)
+*(Please go to Novotel Future Park Rangsit. It’s nearby Future Park Mall, Zpell side.)*
+
+---
+
+## 🚖 Commute Options
+
+### Option 1: Public Taxi
+- **Best choice for first-timers**: Door-to-door, reasonably priced, avoids complex transit maps.  
+- **Where to board**:  
+  - Level 1 (Ground Floor), outside, look for **Public Taxi** signs.  
+  - Automated kiosks near Gates 4 and 7.  
+  - Press button → receive queue ticket → walk to assigned lane.  
+- **Cost**: ~400–600 THB total  
+  - Meter fare (~350 THB)  
+  - Airport surcharge (50 THB)  
+  - Highway tolls (~100+ THB)  
+- **Important Notes**:  
+  - Tolls: Passenger pays toll fees (have 100 THB notes ready).  
+  - Meter: Ensure driver turns on the meter (*say "Meter on, please"*).  
+- **Map Direction**: [Google Maps](https://maps.app.goo.gl/LnQTGk1MJNja95ox5)
+
+---
+
+### Option 2: Grab Car (Ride-Hailing App)
+- Use **Grab** (like Uber).  
+- **Download App**: [Grab App](https://www.grab.com/th/en/download/)  
+- **Pickup Point**: Level 1, Gate 4.  
+- **Cost**: 500–800 THB (varies with demand).  
+- **Pros**: Fixed price, pay via credit card, no negotiation needed.  
+- **Cons**: Slightly more expensive than public taxi.
+
+---
+
+### Option 3: Multimodal Transportation
+*(Details not provided in this document — typically involves combining train, bus, or other transit options.)*
+
+---
+
+### Thai Address for Your Driver
+Show this text to your taxi driver to ensure they take you to the correct hotel:
