@@ -19,14 +19,14 @@ Instead of writing on paper, you now submit your personal details, flight inform
 ### 1. When to Register
 - Complete the form within **72 hours (3 days)** before your arrival in Thailand.  
 - Example: If you fly on **Friday**, you can fill it out starting **Tuesday**.
-<br>
+<br><br>
 
 ### 2. Where to Register
 - Go to the **Official Immigration Website**: [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home)  
 - ⚠️ **Important Warning**: The official government website is **FREE**.  
   - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
 <br>
-
+<br>
 ### 3. Information You Need
 Have these ready before you start:
 - Passport  
@@ -40,6 +40,7 @@ Have these ready before you start:
 - You must show this QR Code to the Immigration Officer when you land.
 <br>
 
+<br>
 ---
 <br>
 
@@ -53,9 +54,10 @@ Have these ready before you start:
 4. Entry:  
    - Officer stamps your passport (or you pass through an automated gate).  
    - You are officially in Thailand!
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/TDAC.png" alt="TDAC" width="800">
 <br>
+
 ---
 
 
@@ -66,6 +68,7 @@ Have these ready before you start:
 - Thai Address for your Driver: **"ไปโรงแรม โนโวเทล ฟิวเจอร์พาร์ค รังสิต ครับ/ค่ะ (อยู่ติดกับห้างฟิวเจอร์พาร์ค ฝั่งสเปลล์)"**
 *(Please go to Novotel Future Park Rangsit. It’s nearby Future Park Mall, Zpell side.)*
 <br>
+
 ---
 <br>
 ## 🚖 Commute Options
