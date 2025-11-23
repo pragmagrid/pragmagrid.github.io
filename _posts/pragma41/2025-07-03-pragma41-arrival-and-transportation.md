@@ -10,7 +10,7 @@ short: Arrival and Transportation
 
 The **Thailand Digital Arrival Card (TDAC)** is an online immigration form that replaces the old paper form (known as **TM6**) that passengers used to fill out on the airplane.  
 
-Instead of writing on paper, you now submit your personal details, flight information, and health declaration online before you leave your home country.
+Instead of writing on paper, you now submit your personal details, flight information, and health declaration online **before** you leave your home country.
 
 ---
 
@@ -20,10 +20,12 @@ Instead of writing on paper, you now submit your personal details, flight inform
 - Complete the form within **72 hours (3 days)** before your arrival in Thailand.  
 - Example: If you fly on **Friday**, you can fill it out starting **Tuesday**.
 
+
 ### 2. Where to Register
 - Go to the **Official Immigration Website**: [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home)  
 - ⚠️ **Important Warning**: The official government website is **FREE**.  
   - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
+
 
 ### 3. Information You Need
 Have these ready before you start:
@@ -31,12 +33,15 @@ Have these ready before you start:
 - Flight details (Flight number, arrival date)  
 - Accommodation details (Hotel name and address, e.g., *Novotel Future Park Rangsit*)  
 
+
 ### 4. The QR Code
 - Once you submit the form successfully, the system generates a **QR Code**.  
 - **Action**: Take a screenshot or save the email confirmation to your phone.  
 - You must show this QR Code to the Immigration Officer when you land.
 
+
 ---
+
 
 ## ✈️ Step-by-Step Arrival Process
 
@@ -49,12 +54,15 @@ Have these ready before you start:
    - Officer stamps your passport (or you pass through an automated gate).  
    - You are officially in Thailand!
 
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/TDAC.png" alt="TDAC" width="800">
 ---
+
 
 ## 🛣️ Travel from Suvarnabhumi Airport to Novotel Bangkok Future Park Rangsit
 
-- Distance: ~45–50 km  
-- Travel Time: 45 minutes to 1 hour by car (up to 1.5 hours if traffic is heavy)
+- Distance: **~45–50 km**
+- Travel Time: **45 minutes to 1 hour** by car (up to 1.5 hours if traffic is heavy)
+- Thai Address for your Driver: **"ไปโรงแรม โนโวเทล ฟิวเจอร์พาร์ค รังสิต ครับ/ค่ะ (อยู่ติดกับห้างฟิวเจอร์พาร์ค ฝั่งสเปลล์)"**
 *(Please go to Novotel Future Park Rangsit. It’s nearby Future Park Mall, Zpell side.)*
 
 ---
@@ -89,9 +97,10 @@ Have these ready before you start:
 ---
 
 ### Option 3: Multimodal Transportation
-*(Details not provided in this document — typically involves combining train, bus, or other transit options.)*
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option1.png" alt="Option 1" width="800">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option2.png" alt="Option 2" width="800">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option3.png" alt="Option 3" width="800">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option4.png" alt="Option 4" width="800">
+<img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option5.png" alt="Option 5" width="800">
 
 ---
-
-### Thai Address for Your Driver
-Show this text to your taxi driver to ensure they take you to the correct hotel:
