@@ -19,20 +19,20 @@ Instead of writing on paper, you now submit your personal details, flight inform
 ### 1. When to Register
 - Complete the form within **72 hours (3 days)** before your arrival in Thailand.  
 - Example: If you fly on **Friday**, you can fill it out starting **Tuesday**.
-<br><br>
+<br>
 
 ### 2. Where to Register
 - Go to the **Official Immigration Website**: [https://tdac.immigration.go.th/arrival-card/#/home](https://tdac.immigration.go.th/arrival-card/#/home)  
 - ⚠️ **Important Warning**: The official government website is **FREE**.  
   - If a website asks you to pay money to fill out this form, it is a **scam site**. Do not pay.
-<br><br>
+<br>
 
 ### 3. Information You Need
 Have these ready before you start:
 - Passport  
 - Flight details (Flight number, arrival date)  
 - Accommodation details (Hotel name and address, e.g., *Novotel Future Park Rangsit*)  
-<br><br>
+<br>
 
 ### 4. The QR Code
 - Once you submit the form successfully, the system generates a **QR Code**.  
@@ -92,6 +92,7 @@ Have these ready before you start:
 
 ---
 
+<br>
 ### Option 2: Grab Car (Ride-Hailing App)
 - Use **Grab** (like Uber).  
 - **Download App**: [Grab App](https://www.grab.com/th/en/download/)  
@@ -103,6 +104,7 @@ Have these ready before you start:
 
 ---
 
+<br>
 ### Option 3: Multimodal Transportation
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option1.png" alt="Option 1" width="800">
 <img src="https://raw.githubusercontent.com/pragmagrid/pragmagrid.github.io/refs/heads/master/images/pragma41/Transport_Option2.png" alt="Option 2" width="800">
