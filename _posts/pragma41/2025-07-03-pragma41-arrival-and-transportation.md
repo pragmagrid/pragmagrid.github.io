@@ -59,6 +59,107 @@ Have these ready before you start:
 
 
 ---
+# 🛂 VISA
+
+Please review the summary of visa information for countries and territories below.  
+If your country of residence indicates you require a visa, please follow the instructions provided.  
+
+Further information: [Ministry of Foreign Affairs of the Kingdom of Thailand](https://www.thaievisa.go.th/)
+
+---
+
+## ✈️ Visa on Arrival (15 Days)
+Passport holders of the following countries/territories may apply for **Visa on Arrival** (Period of Stay – 15 Days):
+
+- Armenia  
+- Belarus  
+- Bhutan*  
+- Bolivia  
+- Bulgaria*  
+- China*  
+- Costa Rica  
+- Cyprus*  
+- El Salvador  
+- Ethiopia  
+- Fiji*  
+- Georgia*  
+- Egypt  
+- Poland  
+- Saudi Arabia  
+- India*  
+- Kazakhstan*  
+- Kyrgyzstan  
+- Malta*  
+- Mexico*  
+- Namibia / Nauru  
+- Papua New Guinea*  
+- Paraguay  
+- Romania*  
+- Russia*  
+- Saudi Arabia*  
+- Serbia  
+- Seychelles  
+- Taiwan*  
+- Tunisia  
+- Uzbekistan*  
+- Vanuatu  
+- Venezuela  
+
+---
+
+## 🤝 Bilateral Visa Exemption Agreements
+Passport holders of the following countries/territories have **bilateral agreements** on visa exemption for ordinary passports with Thailand:
+
+- **14 Days**: Cambodia, Myanmar (International Airports only)  
+- **30 Days**: China, Hong Kong, Laos, Macao, Mongolia, Russia, Vietnam  
+- **90 Days**: Argentina, Brazil, Chile, Korea (ROK), Peru  
+
+---
+
+## 🌍 Visa Exemption Scheme (Up to 60 Days)
+Nationals of the following countries/territories are entitled to the **Visa Exemption Scheme** for tourism and short-term business engagements (stay not exceeding 60 days):
+
+- Albania, Andorra, Australia  
+- Austria, Bahrain, Belgium  
+- Bhutan, Brazil, Brunei  
+- Bulgaria, Cambodia, Canada  
+- China, Colombia, Croatia  
+- Cuba, Cyprus, Czechia  
+- Denmark, Dominica, Dominican Republic  
+- Ecuador, Estonia, Fiji  
+- Finland, France, Georgia  
+- Germany, Greece, Guatemala  
+- Hong Kong, Hungary, Iceland  
+- India, Indonesia, Ireland  
+- Israel, Italy, Jamaica  
+- Japan, Jordan, Kazakhstan  
+- Korea (ROK), Kosovo, Kuwait  
+- Laos, Latvia, Liechtenstein  
+- Lithuania, Luxembourg, Macao  
+- Malaysia, Maldives, Malta  
+- Mauritius, Mexico, Monaco  
+- Mongolia, Morocco, Netherlands  
+- New Zealand, Norway, Oman  
+- Panama, Papua New Guinea, Peru  
+- Philippines, Poland, Portugal  
+- Qatar, Romania, Russia  
+- San Marino, Saudi Arabia, Singapore  
+- Slovakia, Slovenia, Spain  
+- Sri Lanka, South Africa, Sweden  
+- Switzerland, Taiwan, Tonga  
+- Trinidad and Tobago, Türkiye, UAE  
+- UK, Ukraine, Uruguay  
+- USA, Uzbekistan, Vietnam  
+
+---
+
+📌 **Note**: Countries marked with * are also eligible for tourism and short-term business engagements for a stay not exceeding 60 days.  
+
+🗓️ Department of Consular Affairs, 15 July 2024
+
+---
+
+
 
 <br>
 ## 🛣️ Travel from Suvarnabhumi Airport to Novotel Bangkok Future Park Rangsit
@@ -114,3 +215,62 @@ Have these ready before you start:
 <br>
 
 ---
+
+## ⚡ EV Charging Stations
+For guests traveling with an electric vehicle, several charging stations are located near **Novotel Bangkok Future Park Rangsit**:
+- EV Anywhere  
+- EVx Charging Station  
+- MG Super Charge Charging Station  
+- EA Anywhere Charging Station  
+
+---
+
+## 🚦 Traffic Conditions to Be Aware Of
+- Heavy traffic around **Future Park / Dream World / Rangsit** during rush hours.  
+- Bangkok congestion peaks: **07:30–09:30 (morning)** and **16:30–18:30 (evening)**.  
+- Rain worsens congestion, flooding, and delays.  
+- Key bottlenecks: **Vibhavadi Rangsit Road**, **Lat Phrao intersection**.  
+- Expressways may help but include tolls and variable traffic flows.  
+
+---
+
+## 🛎️ Additional Tips for Traveling to Novotel Rangsit
+- Avoid peak hours (**07:30–09:30, 16:30–18:30**).  
+- Use ride-hailing apps (**Grab, Bolt, LINE MAN**) and compare fares.  
+- **Red Line train to Rangsit** + short motorbike/taxi ride is often faster.  
+- Expressways save time but tolls apply.  
+- Plan extra time for delays, especially in rain or events.  
+- Show hotel name in Thai: **โรงแรม โนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต** for clarity.  
+
+---
+
+## 🎥 Suggested YouTube Video
+**Public Transportation in Bangkok**: [How to Use BTS, MRT, and Tuk Tuks](https://www.youtube.com/watch?v=L-VSLvdRgWE)  
+
+---
+
+## ☀️ Weather in January
+Pathum Thani enjoys pleasant weather in January:
+- **Highs**: 31–33°C (87–91°F)  
+- **Lows**: 20–22°C (68–72°F)  
+- **Conditions**: Mostly sunny to partly cloudy, low rainfall  
+- **Comfort**: Warm days, cooler mornings/evenings  
+
+**Tip**: Pack light clothing + a jacket for mornings or air-conditioned places.  
+Check updated forecasts on [AccuWeather](https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026).  
+
+---
+
+## 🔌 Electricity in Thailand
+- Voltage: **220V, 50 Hz** (compatible with U.K., Europe, much of Asia; not standard U.S.).  
+- Outlets:  
+  - Flat prongs (Type A/B)  
+  - Round prongs (Type C)  
+  - Some outlets accept both; grounded three-prong less common.  
+- **Tip**: Bring a **universal travel adapter with surge protection**.  
+- If appliances aren’t dual-voltage, use a **voltage converter**.  
+
+---
+
+## 🌏 Final Note
+We hope this information makes your journey to **Novotel Bangkok Future Park Rangsit** smoother and more sustainable. Wishing you a pleasant stay!  
