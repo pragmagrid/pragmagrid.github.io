@@ -267,6 +267,7 @@ For guests traveling with an electric vehicle, several charging stations are loc
 **Public Transportation in Bangkok**: [How to Use BTS, MRT, and Tuk Tuks](https://www.youtube.com/watch?v=L-VSLvdRgWE)  
 
 <br>
+
 ---
 <br>
 
@@ -280,6 +281,7 @@ Pathum Thani enjoys pleasant weather in January:
 **Tip**: Pack light clothing + a jacket for mornings or air-conditioned places.  
 Check updated forecasts on [AccuWeather](https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026).  
 <br>
+
 ---
 <br>
 
@@ -291,8 +293,10 @@ Check updated forecasts on [AccuWeather](https://www.accuweather.com/en/th/muean
   - Some outlets accept both; grounded three-prong less common.  
 - **Tip**: Bring a **universal travel adapter with surge protection**.  
 - If appliances aren’t dual-voltage, use a **voltage converter**.  
+<br>
 
 ---
+<br>
 
 ## 🌏 Final Note
 We hope this information makes your journey to **Novotel Bangkok Future Park Rangsit** smoother and more sustainable. Wishing you a pleasant stay!  
