@@ -226,15 +226,20 @@ Nationals of the following countries/territories are entitled to the **Visa Exem
 <br>
 
 ---
+<br>
 
 ## ⚡ EV Charging Stations
+<br>
 For guests traveling with an electric vehicle, several charging stations are located near **Novotel Bangkok Future Park Rangsit**:
 - EV Anywhere  
 - EVx Charging Station  
 - MG Super Charge Charging Station  
 - EA Anywhere Charging Station  
+<br>
 
 ---
+
+<br>
 
 ## 🚦 Traffic Conditions to Be Aware Of
 - Heavy traffic around **Future Park / Dream World / Rangsit** during rush hours.  
@@ -242,8 +247,10 @@ For guests traveling with an electric vehicle, several charging stations are loc
 - Rain worsens congestion, flooding, and delays.  
 - Key bottlenecks: **Vibhavadi Rangsit Road**, **Lat Phrao intersection**.  
 - Expressways may help but include tolls and variable traffic flows.  
+<br>
 
 ---
+<br>
 
 ## 🛎️ Additional Tips for Traveling to Novotel Rangsit
 - Avoid peak hours (**07:30–09:30, 16:30–18:30**).  
@@ -252,13 +259,17 @@ For guests traveling with an electric vehicle, several charging stations are loc
 - Expressways save time but tolls apply.  
 - Plan extra time for delays, especially in rain or events.  
 - Show hotel name in Thai: **โรงแรม โนโวเทล กรุงเทพ ฟิวเจอร์พาร์ค รังสิต** for clarity.  
+<br>
 
 ---
+<br>
 
 ## 🎥 Suggested YouTube Video
 **Public Transportation in Bangkok**: [How to Use BTS, MRT, and Tuk Tuks](https://www.youtube.com/watch?v=L-VSLvdRgWE)  
 
+<br>
 ---
+<br>
 
 ## ☀️ Weather in January
 Pathum Thani enjoys pleasant weather in January:
@@ -266,11 +277,12 @@ Pathum Thani enjoys pleasant weather in January:
 - **Lows**: 20–22°C (68–72°F)  
 - **Conditions**: Mostly sunny to partly cloudy, low rainfall  
 - **Comfort**: Warm days, cooler mornings/evenings  
-
+<br>
 **Tip**: Pack light clothing + a jacket for mornings or air-conditioned places.  
 Check updated forecasts on [AccuWeather](https://www.accuweather.com/en/th/mueang-pathum-thani/1-319891_1_al/january-weather/1-319891_1_al?year=2026).  
-
+<br>
 ---
+<br>
 
 ## 🔌 Electricity in Thailand
 - Voltage: **220V, 50 Hz** (compatible with U.K., Europe, much of Asia; not standard U.S.).  
