@@ -59,6 +59,8 @@ Have these ready before you start:
 
 
 ---
+<br>
+
 # 🛂 VISA
 
 Please review the summary of visa information for countries and territories below.  
@@ -68,9 +70,10 @@ Further information: [Ministry of Foreign Affairs of the Kingdom of Thailand](ht
 
 ---
 
+
 ## ✈️ Visa on Arrival (15 Days)
 Passport holders of the following countries/territories may apply for **Visa on Arrival** (Period of Stay – 15 Days):
-
+<br>
 - Armenia  
 - Belarus  
 - Bhutan*  
@@ -104,8 +107,10 @@ Passport holders of the following countries/territories may apply for **Visa on 
 - Uzbekistan*  
 - Vanuatu  
 - Venezuela  
+<br>
 
 ---
+<br>
 
 ## 🤝 Bilateral Visa Exemption Agreements
 Passport holders of the following countries/territories have **bilateral agreements** on visa exemption for ordinary passports with Thailand:
@@ -113,12 +118,15 @@ Passport holders of the following countries/territories have **bilateral agreeme
 - **14 Days**: Cambodia, Myanmar (International Airports only)  
 - **30 Days**: China, Hong Kong, Laos, Macao, Mongolia, Russia, Vietnam  
 - **90 Days**: Argentina, Brazil, Chile, Korea (ROK), Peru  
+<br>
 
 ---
 
+<br>
+
 ## 🌍 Visa Exemption Scheme (Up to 60 Days)
 Nationals of the following countries/territories are entitled to the **Visa Exemption Scheme** for tourism and short-term business engagements (stay not exceeding 60 days):
-
+<br>
 - Albania, Andorra, Australia  
 - Austria, Bahrain, Belgium  
 - Bhutan, Brazil, Brunei  
@@ -150,18 +158,21 @@ Nationals of the following countries/territories are entitled to the **Visa Exem
 - Trinidad and Tobago, Türkiye, UAE  
 - UK, Ukraine, Uruguay  
 - USA, Uzbekistan, Vietnam  
+<br>
 
 ---
-
-📌 **Note**: Countries marked with * are also eligible for tourism and short-term business engagements for a stay not exceeding 60 days.  
-
-🗓️ Department of Consular Affairs, 15 July 2024
-
----
-
-
 
 <br>
+
+📌 **Note**: Countries marked with * are also eligible for tourism and short-term business engagements for a stay not exceeding 60 days.  
+<br>
+🗓️ Department of Consular Affairs, 15 July 2024
+
+
+---
+
+<br>
+
 ## 🛣️ Travel from Suvarnabhumi Airport to Novotel Bangkok Future Park Rangsit
 
 - Distance: **~45–50 km**
