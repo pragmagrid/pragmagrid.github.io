@@ -69,7 +69,7 @@ If your country of residence indicates you require a visa, please follow the ins
 Further information: [Ministry of Foreign Affairs of the Kingdom of Thailand](https://www.thaievisa.go.th/)
 
 ---
-
+<br>
 
 ## ✈️ Visa on Arrival (15 Days)
 Passport holders of the following countries/territories may apply for **Visa on Arrival** (Period of Stay – 15 Days):
@@ -121,7 +121,6 @@ Passport holders of the following countries/territories have **bilateral agreeme
 <br>
 
 ---
-
 <br>
 
 ## 🌍 Visa Exemption Scheme (Up to 60 Days)
