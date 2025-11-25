@@ -176,12 +176,7 @@ Nationals of the following countries/territories are entitled to the **Visa Exem
 
 - Distance: **~45–50 km**
 - Travel Time: **45 minutes to 1 hour** by car (up to 1.5 hours if traffic is heavy)
-- Thai Address for your Driver: **"ไปโรงแรม โนโวเทล ฟิวเจอร์พาร์ค รังสิต ครับ/ค่ะ (อยู่ติดกับห้างฟิวเจอร์พาร์ค ฝั่งสเปลล์)"**
-*(Please go to Novotel Future Park Rangsit. It’s nearby Future Park Mall, Zpell side.)*
-<br><br>
-
-<div class="border41">Conference Hotel Information in English and Thai</div><br>
-Helpful to have handy when taking a taxi or ride-hailing apps<br>
+- Conference Hotel Information in English and Thai: Helpful to have handy when taking a taxi or ride-hailing apps
 
 <table class="program40">
   <tbody><tr>
