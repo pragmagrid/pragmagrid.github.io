@@ -6,6 +6,10 @@ workshop: pragma41
 short: Call for Student Hackathon
 ---
 
+## 🧩 PRAGMA 41 x SEAIP Collaborative Action Hackathon 🧩
+- [Hackathon Guide](https://docs.google.com/document/d/1XC8NvWbnD7hArGnmsDozQXSosK53-tG2jobdy5Jz8AU/edit?usp=drive_web&ouid=107462459730493196480)
+
+
 <section class="hackathon" aria-labelledby="h-title">
    <header class="hero">
         <!--<h1 class="subtitle">Call for PRAGMA41 × SEAIP Student Hackathon</h1>-->
