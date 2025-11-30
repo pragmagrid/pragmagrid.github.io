@@ -8,26 +8,29 @@ short: program
 
 <a class="DPage_Pragma41" href="#day1">Day 1</a>&nbsp;&nbsp;<a class="DPage_Pragma41" href="#day2">Day 2</a>&nbsp;&nbsp;<a class="DPage_Pragma41" href="#day3">Day 3</a>
 
-<div class="border41" id="day1">Day 1 (Thu Jan 8, 2026) : PRAGMA Workshop</div>
+<div class="border41" id="day1">Day 1 (Thursday, January 8, 2026) : PRAGMA Workshop</div>
 <table class="program40">
   <tbody><tr>
     <th>Time</th>
     <th>Main Activity</th>
-    <th>Parallel Activity</th>
+    <th>Place</th>
+  </tr>
+  <tr>
+    <td>08:00 - 08:30</td>
+    <td><b>Registration</b></td>
+    <td>Novotel Future Park Rangsit</td>
   </tr>
   <tr>
     <td>08:30 - 09:00</td>
-    <td><b>Registration</b></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>09:00 - 09:30</td>
     <td><b>Opening Remarks</b></td>
-    <td></td>
+    <td>Thanyaburi Ballroom</td>
   </tr>
   <tr>
-    <td>09:30 - 10:15</td>
-    <td><b>Keynote talk 1</b></td>
+    <td>09:00 - 09:50</td>
+    <td><b>Keynote talk 1: <br>
+"High-Resolution Weather and Climate Forecasting Models for Thailand: Towards Climate Resilience and Risk Management"<br></b>
+    <i>Dr. Chinnawat Pop Surussavadee, <br>
+CPS WEATHER Company Limited and CPS AGRI Company Limited</i></td>
     <td></td>
   </tr>
   <tr>
