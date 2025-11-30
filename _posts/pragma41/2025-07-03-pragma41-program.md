@@ -126,20 +126,6 @@ PRAGMA Student Ice Breaking</b></td>
     </td>
     <td>Thanyaburi Ballroom 1</td>
   </tr>
-Parallel 3.2: 
-Presentation Session 3: AI-Driven Discovery in Life and Health Sciences
-Session Chair: Heru Suhartanto, University of Indonesia
-- Baseline Study on Deep Learning Models for Early Detection of Periodontitis Using Periapical Radiographs 
-Nora Hariadi, University of Indonesia
-- Integrating Functional Study Evidence to Enhance AI-based Variant Pathogenicity Predictions in SenusaBio Platform 
-Chandra Prasetyo Utomo, Yarsi University
-- Reflections on a decade and more of the Indonesian Herbal Database for virtual screening 
-Rezi Riadhi Syahdi, University of Indonesia
-- A Clinical Automated Report and Efficient Network (CARE-Net) for Medical Report Generation Using Quantization-Aware Training and Parallel Inference 
-Junta Zeniarja, Universitas Dian Nuswantoro
-
-*Note: Each presentation will have 10 min
-
   <tr>
     <td></td>
     <td><b>Parallel 3.2<br>
