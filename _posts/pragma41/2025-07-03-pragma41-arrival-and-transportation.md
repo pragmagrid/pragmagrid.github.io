@@ -260,6 +260,28 @@ Nationals of the following countries/territories are entitled to the **Visa Exem
 <br>
 
 ---
+
+<br>
+### Option 4: Private car with a driver
+<br>
+CHARLEE TRANSPORT & TRAVEL CO.,LTD.  
+Juristic Person Registration 0105567072634
+No. 64 Chaloem Phrakiat 9, Soi 9, Intersection 1, Nong Bon Subdistrict, Prawet District, Bangkok 10250
+Email; taxitourservice.office.8181@gmail.com
+charlee@taxitourservice.com 
+Website:[[Taxitourservice.com](Taxitourservice.com)](https://www.taxitourservice.com/)
+Coordination phone number
+Call;+6620955108(office)
+Call;+66879149404
+Call;+66989493999
+
+Bangkok airport transfer rate:
+1,000–1,200 THB
+
+Daily car rental with driver:
+4,000 THB per day for Bangkok and metropolitan areas (up to 10 hours and include fuel cost)
+
+---
 <br>
 
 ## ⚡ EV Charging Stations
