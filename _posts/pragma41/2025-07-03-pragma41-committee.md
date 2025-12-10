@@ -63,8 +63,9 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 
 <br/>
 <div class="border41">Local Committee</div>
+<br/>
 
-## Steering and Coordination Committee
+### Steering and Coordination Committee
 1. Wilawan Rukpakavong (Chairman)
 2. Prapaporn Rattanatamrong (Vice Chairman)
 3. Siriwan Suebnukarn
@@ -78,10 +79,10 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 11. Sirikunya Nilpanich
 12. Wanida Putthividhya (Secretary)
 13. Pimpawan (Assistant Secretary)
+<br/>
+### Executive Committee
 
-## Executive Committee
-
-### Ceremonial and Operational Affairs Committee
+#### Ceremonial and Operational Affairs Committee
 1. Wanida Putthividhya (Chairman)
 2. Wirat Jareevongpiboon (Vice Chairman)
 3. Prapaporn Rattanatamrong
@@ -90,8 +91,8 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 6. Nawarerk Chalarak
 7. Tussanee
 8. Pakkaporn Saophan (Secretary)
-
-### Venue Management, Reception and Budget Management Committee
+<br/>
+#### Venue Management, Reception and Budget Management Committee
 1. Wilawan Rukpakavong (Chairman)
 2. Sirikunya Nilpanich (Vice Chairman)
 3. Thapana Boonchoo
@@ -101,8 +102,8 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 7. Satanat Kitsiranuwat
 8. Onjira Sitthisak
 9. Nawarerk Chalarak (Secretary)
-
-### Academic and Research Affairs Committee
+<br/>
+#### Academic and Research Affairs Committee
 1. Prapaporn Rattanatamrong (Chairman)
 2. Saowaluk Watanapa (Vice Chairman)
 3. Chaiporn Jaikaeo
