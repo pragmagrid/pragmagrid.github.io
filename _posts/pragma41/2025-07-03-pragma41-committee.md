@@ -63,3 +63,58 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 
 <br/>
 <div class="border41">Local Committee</div>
+
+## Steering and Coordination Committee
+1. Wilawan Rukpakavong (Chairman)
+2. Prapaporn Rattanatamrong (Vice Chairman)
+3. Siriwan Suebnukarn
+4. Punpiti Piamsa-nga
+5. Thapana Boonchoo
+6. Wirat Jareevongpiboon
+7. Saowaluk Watanapa
+8. Chalee Vorakulpipat
+9. Nawarerk Chalarak
+10. Pakkaporn Saophan
+11. Sirikunya Nilpanich
+12. Wanida Putthividhya (Secretary)
+13. Pimpawan (Assistant Secretary)
+
+## Executive Committee
+
+### Ceremonial and Operational Affairs Committee
+1. Wanida Putthividhya (Chairman)
+2. Wirat Jareevongpiboon (Vice Chairman)
+3. Prapaporn Rattanatamrong
+4. Lumpapun Punchoojit
+5. Onjira Sitthisak
+6. Nawarerk Chalarak
+7. Tussanee
+8. Pakkaporn Saophan (Secretary)
+
+### Venue Management, Reception and Budget Management Committee
+1. Wilawan Rukpakavong (Chairman)
+2. Sirikunya Nilpanich (Vice Chairman)
+3. Thapana Boonchoo
+4. Prapaporn Rattanatamrong
+5. Wanida Putthividhya
+6. Wirat Jareevongpiboon
+7. Satanat Kitsiranuwat
+8. Onjira Sitthisak
+9. Nawarerk Chalarak (Secretary)
+
+### Academic and Research Affairs Committee
+1. Prapaporn Rattanatamrong (Chairman)
+2. Saowaluk Watanapa (Vice Chairman)
+3. Chaiporn Jaikaeo
+4. Prachya Boonprasurt
+5. Kasidit Chanchio
+6. Songsakdi Rongviriyapanish
+7. Lumpapun Punchoojit
+8. Wanida Putthividhya
+9. Satanat Kitsiranuwat
+10. Chainarong Kesamoon
+11. Nuchjarin Intalar
+12. Nawarerk Chalarak
+13. Pakkaporn Saophan
+14. Kundjanasith Thonglek
+15. Thapana Boonchoo (Secretary)
