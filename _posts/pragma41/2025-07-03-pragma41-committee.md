@@ -79,7 +79,7 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 11. Sirikunya Nilpanich
 12. Wanida Putthividhya (Secretary)
 13. Pimpawan Infhasaeng (Assistant Secretary)
-<br/>
+<br/><br/>
 
 ### Executive Committee
 
@@ -95,7 +95,7 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 9. Chanchanok Hoyhul
 10. Pakkaporn Saophan (Secretary)
 11. Piyaporn Tumpetch (Assistant Secretary)
-<br/>
+<br/><br/>
 
 #### Venue Management, Reception and Budget Management Committee
 1. Wilawan Rukpakavong (Chairman)
@@ -113,7 +113,7 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 13. Piyaporn Tumpetch
 14. Nawarerk Chalarak (Secretary)
 15. Pimpawan Infhasaeng (Assistant Secretary)
-<br/>
+<br/><br/>
 
 #### Academic and Research Affairs Committee
 1. Prapaporn Rattanatamrong (Chairman)
