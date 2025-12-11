@@ -1,4 +1,4 @@
----
+<img width="238" height="30" alt="image" src="https://github.com/user-attachments/assets/cc57a87c-39ed-411d-b6cf-5ca2468dca30" />---
 layout: pragma41
 title: "Committees"
 date: 2025-07-03
@@ -78,8 +78,9 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 10. Pakkaporn Saophan
 11. Sirikunya Nilpanich
 12. Wanida Putthividhya (Secretary)
-13. Pimpawan (Assistant Secretary)
+13. Pimpawan Infhasaeng (Assistant Secretary)
 <br/>
+
 ### Executive Committee
 
 #### Ceremonial and Operational Affairs Committee
@@ -89,9 +90,13 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 4. Lumpapun Punchoojit
 5. Onjira Sitthisak
 6. Nawarerk Chalarak
-7. Tussanee
-8. Pakkaporn Saophan (Secretary)
+7. Tusanee Intasorn
+8. Rossarin  Khakhaow
+9. Chanchanok Hoyhul
+10. Pakkaporn Saophan (Secretary)
+11. Piyaporn Tumpetch (Assistant Secretary)
 <br/>
+
 #### Venue Management, Reception and Budget Management Committee
 1. Wilawan Rukpakavong (Chairman)
 2. Sirikunya Nilpanich (Vice Chairman)
@@ -101,8 +106,15 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 6. Wirat Jareevongpiboon
 7. Satanat Kitsiranuwat
 8. Onjira Sitthisak
-9. Nawarerk Chalarak (Secretary)
+9. Tusanee Intasorn
+10. Nirun Subsomboon
+11. Pranot Phasugcheewin
+12. Onuma Junphet
+13. Piyaporn Tumpetch
+14. Nawarerk Chalarak (Secretary)
+15. Pimpawan Infhasaeng (Assistant Secretary)
 <br/>
+
 #### Academic and Research Affairs Committee
 1. Prapaporn Rattanatamrong (Chairman)
 2. Saowaluk Watanapa (Vice Chairman)
@@ -118,4 +130,8 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 12. Nawarerk Chalarak
 13. Pakkaporn Saophan
 14. Kundjanasith Thonglek
-15. Thapana Boonchoo (Secretary)
+15. Thitiwan Sirivadhanakul
+16. Patcharat Meemano
+17. Wanatsanan Pluto
+18. Thapana Boonchoo (Secretary)
+19. Rossarin  Khakhaow (Assistant Secretary)
