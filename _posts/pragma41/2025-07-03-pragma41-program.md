@@ -267,7 +267,7 @@ Lunch & Steering Committee Meeting (12:30 - 14:20)</b></td>
     <b>Session Chair:</b> Wanida Putthividhya, Thammasat University<br>
     <b>- Oral & Demo:  Dental ID: A Vision for the Future — From Control to Compassion: Connecting People Through Digital Healthcare </b><br>
     <i>Aiko Morimoto, University of Osaka</i><br>
-    <b>Design of a Decentralized Annotation Platform and Preliminary Federated Learning Model on an Open Dental X-ray Dataset </b><br>
+    <b>- Design of a Decentralized Annotation Platform and Preliminary Federated Learning Model on an Open Dental X-ray Dataset </b><br>
     <i>Pamica Srimora, Thammasat University</i><br>
     <b>- Context-Aware Robotic Arm Control System Based on MCP: An Implementation </b><br>
     <i>Hsiu-Mei Chou, National Center for High-performance Computing (NCHC)</i><br><br>
