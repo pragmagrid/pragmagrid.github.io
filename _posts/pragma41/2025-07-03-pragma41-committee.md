@@ -1,4 +1,4 @@
-<img width="238" height="30" alt="image" src="https://github.com/user-attachments/assets/cc57a87c-39ed-411d-b6cf-5ca2468dca30" />---
+---
 layout: pragma41
 title: "Committees"
 date: 2025-07-03
