@@ -46,20 +46,26 @@ Wilawan Rukpakavong, Thammasat University, Thailand
 8. Nuchjarin Intalar, Thammasat University, Thailand
 9. Wassapon Watanakeesuntorn, University of Osaka, Japan
 10. Kundjanasith thonglek, Kasetsart University, Thailand
-11. Anusha Achuthan, Universiti Sans Malaysia, Malaysia
-12. Sri Chusri Haryanti, Universitas YARSI, Indonesia
-13. Yeni Herdiyeni, IPB University, Indonesia
-14. Jhoirene B. Clemente, University of the Philippines Diliman, Philippines	
-15. Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
-16. Supawit Tangpanithandee, Thailand
+11. Sri Chusri Haryanti, Universitas YARSI, Indonesia
+12. Yeni Herdiyeni, IPB University, Indonesia
+13. Hsiu-Mei Chou, National Center for High-performance Computing (NCHC), Taiwan
+14. Supawit Tangpanithandee, Bangkok Dusit Medcal Services (BDMS), Thailand
+15. Marut Chantra, Mahidol University, Thailand
+16. Chaiporn Jaikaeo, Kasetsart University, Thailand
+17. Krittika Lertsawat, Soundgood project, Thailand
+18. Thulan Nguyen, Osaka Metropolitan University, Japan
+19. Chainarong Kesamoon, Thammasat University
+20. Alexis Drogoul, IRD/TLU ACROSS International Joint Laboratory, Vietnam
+21. Wisnu Jatmiko, University of Indonesia, Indonesia
 
 <br/>
 <div class="border41">PRAGMA 41 Student Committee</div>
 1. Junya Yamamoto (The University of Osaka) (PSC Co-Chair)
 2. Yoshiki Noguchi (The University of Osaka) (PSC Co-Chair)
-3. Supawit Tangpanithandee (Thammasat University)
-4. Salma Mousbah (Universiti Sains Malaysia)
-5. Xingyuan Kang (Nara Institute of Science and Technology)
+3. Peemapat Podsoonthorn (Thammasat University)
+4. Pamica Srimora (Thammasat University)
+5. Salma Mousbah (Universiti Sains Malaysia)
+6. Xingyuan Kang (Nara Institute of Science and Technology)
 
 <br/>
 <div class="border41">Local Committee</div>
