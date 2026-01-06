@@ -1,7 +1,7 @@
 ---
 title: Ichikawa
 firstname: Kohei
-affiliation: Associate Professor, Nara Institute of Science and Technology (NAIST)
+affiliation: Associate Professor, Kansai University
 imagesrc: "k-ichikawa.png"
 layout: person
 executivearea: "Workshop Engagement"
@@ -19,6 +19,3 @@ categories:
 
 **Related Work:** Distributed Systems; Software-Defined Networking; Grid/Cloud Computing; Virtualization.
 
-[Website][1]
-
-[1]: http://sdlab.naist.jp/members/ichikawa
