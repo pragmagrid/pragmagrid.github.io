@@ -30,25 +30,25 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 Final Program
 
 Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumthani, Thailand
-<div style="color: #333; margin: 0 auto; padding: 20px; font-size: 16px;">
+<div style="color: #333; margin: 0 auto; padding: 20px; font-size: 14px;">
 
   <h2 id="day1" style="color: #2e59d9; border-bottom: 2px solid #2e59d9; padding-bottom: 5px;">Day 1 (Thursday, January 8, 2026) : PRAGMA Workshop</h2>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:00 - 08:30</p>
     <p style="font-weight: bold; margin: 0;">Registration</p>
     <p style="margin: 0;">Novotel Future Park Rangsit</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:30 - 09:00</p>
     <p style="font-weight: bold; margin: 0;">Opening Remarks</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">09:00 - 09:50</p>
     <p style="font-weight: bold; margin: 0;">Keynote talk 1: <br>"High-Resolution Weather and Climate Forecasting Models for Thailand: Towards Climate Resilience and Risk Management"</p>
     <p style="margin: 5px 0 0 0;"><i>Dr. Chinnawat Pop Surussavadee, <br>CPS WEATHER Company Limited and CPS AGRI Company Limited</i></p>
