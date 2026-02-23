@@ -30,7 +30,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 Final Program
 
 Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumthani, Thailand
-<div style="color: #162b46; margin: 0 auto; padding: 20px; font-size: 14px;">
+<div style="color: #333; margin: 0 auto; padding: 20px; font-size: 14px;">
 
   <h2 id="day1" style="color: #162b46; border-bottom: 2px solid #162b46; padding-bottom: 5px;">Day 1 (Thursday, January 8, 2026) : PRAGMA Workshop</h2>
 
@@ -136,7 +136,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
     <p style="margin: 10px 0 0 0;"><i>*Note: Each presentation will have 10 min</i></p>
     <p style="margin: 5px 0 0 0;">Thanyaburi Ballroom 1</p>
 
-    <div style="margin-top: 25px;">
+    <div style="margin-top: 25px; font-size: 1.1rem;">
         <p style="font-weight: bold; margin: 0;">Parallel 3.2: <u>Presentation Session 3: AI-Driven Discovery in Life and Health Sciences</u></p>
         <p style="margin: 5px 0;"><b>Session Chair:</b> Heru Suhartanto, University of Indonesia</p>
         <p style="margin: 0;"><b>- Baseline Study on Deep Learning Models for Early Detection of Periodontitis Using Periapical Radiographs</b><br><i>Nora Hariadi, University of Indonesia</i></p>
@@ -219,7 +219,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
     <p style="font-weight: bold; margin: 0;">Parallel 5.1.1: Lunch (12:30 - 13:30)</p>
     <p style="margin: 0;">Main Restaurant</p>
     
-    <div style="margin-top: 15px;">
+    <div style="margin-top: 15px; font-size: 1.1rem;">
         <p style="font-weight: bold; margin: 0;">Parallel 3.2: Research Poster Session (13:30 - 14:20)</p>
         <p style="margin: 5px 0;"><b>Session Chair:</b> Thapana Boonchoo, Thammasat University</p>
         <p style="margin: 0;"><b>1) ELK-Based HPC Monitoring System with Automated Resource Management and Real-Time Notifications</b> - <i>Andria Arisal, University of Indonesia</i></p>
