@@ -30,7 +30,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
 Final Program
 
 Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumthani, Thailand
-<div style="color: #333; margin: auto;">
+<div style="color: #333; line-height: 1.8; margin: 0 auto; padding: 20px; font-size: 1.1rem;">
 
   <h2 id="day1" style="color: #2e59d9; border-bottom: 2px solid #2e59d9; padding-bottom: 5px;">Day 1 (Thursday, January 8, 2026) : PRAGMA Workshop</h2>
 
