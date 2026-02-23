@@ -45,9 +45,10 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
   <div style="margin-bottom: 20px; font-size: 1.15rem;">
-    <p style="color: #162b46; margin-bottom: 2px;">09:00 - 09:50</p>
+    <p style="color: #162b46; margin-bottom: 2px;">09:00 - 10:00</p>
     <p style="font-weight: bold; margin: 0;">Keynote talk 1: <br>"High-Resolution Weather and Climate Forecasting Models for Thailand: Towards Climate Resilience and Risk Management"</p>
-    <p style="margin: 5px 0 0 0;"><i>Dr. Chinnawat Pop Surussavadee, <br>CPS WEATHER Company Limited and CPS AGRI Company Limited</i></p>
+    <p style="margin: 5px 0 0 0;"><i>Dr. Chinnawat Surussavadee, <br>Founder and CEO, CPS Weather Co., Ltd. and CPS Agri Co., Ltd.</i></p>
+    <p style="margin: 5px 0 0 0;">Abstract: Thailand’s diverse tropical climate presents unique challenges for accurate weather and climate forecasting, especially as extreme events such as heavy rainfall, flash floods, and droughts become more frequent under changing global conditions. This presentation highlights advances in high-resolution weather and climate modeling tailored for Thailand, focusing on model development, data assimilation, and the integration of satellite, ground-based, and citizen-sourced observations to improve spatial and temporal accuracy. It also discusses the use of downscaling and ensemble forecasting techniques to enhance local predictions, along with practical applications in agriculture, water resource management, disaster preparedness, and urban planning. Drawing from experiences at CPS Weather and CPS Agri, the talk illustrates how data-driven modeling and regional collaboration can strengthen climate resilience and sustainable decision-making in Thailand and across Southeast Asia.</p>
     <p style="margin: 5px 0 0 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
