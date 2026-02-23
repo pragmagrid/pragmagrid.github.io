@@ -34,21 +34,21 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
 
   <h2 id="day1" style="color: #2e59d9; border-bottom: 2px solid #2e59d9; padding-bottom: 5px;">Day 1 (Thursday, January 8, 2026) : PRAGMA Workshop</h2>
 
-  <div style="margin-bottom: 20px; font-size: 12px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:00 - 08:30</p>
     <p style="font-weight: bold; margin: 0;">Registration</p>
     <p style="margin: 0;">Novotel Future Park Rangsit</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px; font-size: 12px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:30 - 09:00</p>
     <p style="font-weight: bold; margin: 0;">Opening Remarks</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px; font-size: 12px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">09:00 - 09:50</p>
     <p style="font-weight: bold; margin: 0;">Keynote talk 1: <br>"High-Resolution Weather and Climate Forecasting Models for Thailand: Towards Climate Resilience and Risk Management"</p>
     <p style="margin: 5px 0 0 0;"><i>Dr. Chinnawat Pop Surussavadee, <br>CPS WEATHER Company Limited and CPS AGRI Company Limited</i></p>
@@ -56,21 +56,21 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">09:50 - 10:15</p>
     <p style="font-weight: bold; margin: 0;">PRAGMA 41 Welcome & Update</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">10:15 - 10:30</p>
     <p style="margin: 0;">Coffee break</p>
     <p style="margin: 0;">Thanyaburi Ballroom Hallway</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">10:30 - 11:40</p>
     <p style="font-weight: bold; margin: 0;"><u>Presentation Session 1: Intelligent Urban Sensing and Digital Twins</u></p>
     <p style="margin: 5px 0;"><b>Session Chair:</b> Shinji Shimojo, Aomori University</p>
@@ -83,21 +83,21 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">11:40 - 11:50</p>
     <p style="font-weight: bold; margin: 0;">PRAGMA 41 Group Photo</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">11:50 - 12:40</p>
     <p style="margin: 0;">Lunch</p>
     <p style="margin: 0;">Main Restaurant</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">12:40 - 13:20</p>
     <p style="font-weight: bold; margin: 0;">Parallel 1.1: PRAGMA 41 x SEAIP Collaborative Action Hackathon Overview</p>
     <p style="margin: 0;">Thanyaburi Ballroom 1</p>
@@ -106,7 +106,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">13:20 - 14:45</p>
     <p style="font-weight: bold; margin: 0;">Parallel 2.1: PRAGMA Collaborative Action Groups - Proposal & Ideas (Topic: AI for Healthcare Innovation)</p>
     <p style="margin: 0;">Thanyaburi Ballroom 1</p>
@@ -117,14 +117,14 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">14:45 - 15:15</p>
     <p style="margin: 0;">Coffee break</p>
     <p style="margin: 0;">Thanyaburi Ballroom Hallway</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">15:15 - 16:45</p>
     <p style="font-weight: bold; margin: 0;">Parallel 3.1: <u>Presentation Session 2: Smart Optimization in High-Performance and Cloud Computing</u></p>
     <p style="margin: 5px 0;"><b>Session Chair:</b> Shava Smallen, UCSD</p>
@@ -149,21 +149,21 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">16:45 - 18:00 (for Hackathon Students)</p>
     <p style="font-weight: bold; margin: 0;">Hack the Future I — Prototyping for Impact & Collaboration</p>
     <p style="margin: 0;">The Satit Space, Thammasat Secondary School</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">18:00 - 19:00 (for Hackathon Students)</p>
     <p style="font-weight: bold; margin: 0;">Dinner for Hackathon Students</p>
     <p style="margin: 0;">The Satit Space, Thammasat Secondary School</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">Overnight (for Hackathon Students)</p>
     <p style="font-weight: bold; margin: 0;">Hack the Future II – Prototyping for Impact & Collaboration</p>
     <p style="margin: 0;">The Satit Space, Thammasat Secondary School</p>
@@ -173,14 +173,14 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
 
   <h2 id="day2" style="color: #2e59d9; border-bottom: 2px solid #2e59d9; padding-bottom: 5px;">Day 2 (Friday, January 9, 2026) : PRAGMA Workshop</h2>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:00 - 08:30</p>
     <p style="font-weight: bold; margin: 0;">Registration</p>
     <p style="margin: 0;">Novotel Future Park Rangsit</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:30 - 09:30</p>
     <p style="font-weight: bold; margin: 0;">Keynote talk 2: <br>"Innovative Pathways to Urban Resilience: Integrating Community Engagement and Policy for Sustainable Cities"</p>
     <p style="margin: 5px 0 0 0;"><i>Associate Professor Dr. Wijitbusaba Marome, <br>Faculty of Architecture and Planning, Thammasat University, Thailand</i></p>
@@ -188,7 +188,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">09:30 - 10:30</p>
     <p style="font-weight: bold; margin: 0;">Keynote talk 3: <br>"From Sound to Sustainability: Wave-Based Technologies for a Resilient Future"</p>
     <p style="margin: 5px 0 0 0;"><i>Associate Professor Dr. Sorasak Danworaphong,<br>Institute of Music Science and Engineering, King Mongkut's Institute of Technology Ladkrabang, Thailand</i></p>
@@ -196,14 +196,14 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">10:30 - 11:00</p>
     <p style="margin: 0;">Coffee break</p>
     <p style="margin: 0;">Thanyaburi Ballroom Hallway</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">11:00 - 12:30</p>
     <p style="font-weight: bold; margin: 0;">Parallel 4.1: PRAGMA Collaborative Action Groups - Showcase from Hackathon (Topic: AI for Healthcare Innovation)</p>
     <p style="margin: 0;">Thanyaburi Ballroom 1</p>
@@ -214,7 +214,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">12:30 - 14:20</p>
     <p style="font-weight: bold; margin: 0;">Parallel 5.1.1: Lunch (12:30 - 13:30)</p>
     <p style="margin: 0;">Main Restaurant</p>
@@ -242,7 +242,7 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">14:20 - 15:30</p>
     <p style="font-weight: bold; margin: 0;">Demo Session: Adaptive Intelligence & Federated Digital Systems</p>
     <p style="margin: 5px 0;"><b>Session Chair:</b> Wanida Putthividhya, Thammasat University</p>
@@ -254,28 +254,28 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">15:30 - 15:45</p>
     <p style="margin: 0;">Coffee break</p>
     <p style="margin: 0;">Thanyaburi Ballroom Hallway</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">15:45 - 17:00</p>
     <p style="font-weight: bold; margin: 0;">Collaborative Action Hackathon Conclusions: <br>Reflections, Recognition, and Road Ahead</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">17:00 - 17:30</p>
     <p style="font-weight: bold; margin: 0;">PRAGMA Wrap-up & Next Meeting Announcement</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">18:30 - 21:00</p>
     <p style="font-weight: bold; margin: 0;">Banquet Dinner</p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
@@ -285,14 +285,14 @@ Location: Thanyaburi Ballroom @ Novotel Bangkok (Future Park Rangsit), Pathumtha
 
   <h2 id="day3" style="color: #2e59d9; border-bottom: 2px solid #2e59d9; padding-bottom: 5px;">Day 3 (Saturday, January 10, 2026) : PRAGMA Workshop</h2>
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:00 - 08:30</p>
     <p style="margin: 0;">Check-in and departure</p>
     <p style="margin: 0;">Novotel Future Park Rangsit</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #2e59d9; margin-bottom: 2px;">08:30 - 12:30</p>
     <p style="margin: 0;">Cross-cultural networking</p>
     <p style="margin: 0;">TBD</p>
