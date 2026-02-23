@@ -54,8 +54,9 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
 
   <div style="margin-bottom: 20px; font-size: 1.15rem;">
-    <p style="color: #162b46; margin-bottom: 2px;">09:50 - 10:15</p>
+    <p style="color: #162b46; margin-bottom: 2px;">10:00 - 10:15</p>
     <p style="font-weight: bold; margin: 0;">PRAGMA 41 Welcome & Update</p>
+    <p style="margin: 5px 0 0 0;"><i>Shava Smallen, <br>San Diego Supercomputer Center (SDSC)</i></p>
     <p style="margin: 0;">Thanyaburi Ballroom</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
@@ -73,7 +74,7 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
     <p style="margin: 5px 0;"><b>Session Chair:</b> Shinji Shimojo, Aomori University</p>
     <p style="margin: 0;"><b>- Harnessing Global Cloud-Edge infrastructure for Earthquake Early Warning at Scale</b><br><i>Kensworth Subratie, EarthScope Consortium</i></p>
     <p style="margin: 10px 0 0 0;"><b>- Smart Blue Light Pole-based Real-Time Crowd Counting for Smart Campuses</b><br><i>Ming Zhao, Arizona State University</i></p>
-    <p style="margin: 10px 0 0 0;"><b>- The Application of Sentiment Analysis Tools in the Picture Frustration Study on the Community Perception of Airport Noise</b><br><i>Satanat Kitsiranuwat, Thammasat University; Krittika Lertsawat, Soundgood Project</i></p>
+    <p style="margin: 10px 0 0 0;"><b>- Integrating Sentiment Analysis with Picture Frustration Studies to Assess Community Perceptions of Airport</b><br><i>Satanat Kitsiranuwat, Thammasat University; Krittika Lertsawat, Soundgood Project</i></p>
     <p style="margin: 10px 0 0 0;"><b>- Digital Twin Technologies and 2D/3D GIS for Urban Development in Braga: Towards Smart and Sustainable Cities</b><br><i>Inês Calor, Centre of Studies in Geography and Spatial Planning (CEGOT)</i></p>
     <p style="margin: 10px 0 0 0;"><i>*Note: Each presentation will have 10 min</i></p>
     <p style="margin: 5px 0 0 0;">Thanyaburi Ballroom</p>
@@ -97,8 +98,12 @@ If you see the alert YOUR PROFILE & SCHEDULE ARE HIDDEN FROM ATTENDEES when you 
   <div style="margin-bottom: 20px; font-size: 1.15rem;">
     <p style="color: #162b46; margin-bottom: 2px;">12:40 - 13:20</p>
     <p style="font-weight: bold; margin: 0;">Parallel 1.1: PRAGMA 41 x SEAIP Collaborative Action Hackathon Overview</p>
-    <p style="margin: 0;">Thanyaburi Ballroom 1</p>
+    <p style="margin: 5px 0;"><b>Moderator:</b> Prapaporn Rattanatamrong, Department of Computer Science, Thammasat University</p>
+    <p style="margin: 0;">A quick introduction to the hackathon’s purpose and flow, followed by short topic previews from the Topic Leads to prepare everyone for the afternoon activities.</p>
+    <p style="margin: 0;">Specific location: Thanyaburi Ballroom Partition 1</p>
     <p style="font-weight: bold; margin: 10px 0 0 0;">Parallel 1.2: PRAGMA Student Ice Breaking</p>
+    <p style="margin: 5px 0;"><b>Moderators:</b> Marut Chantra and Supawit Tangpanithandee</p>
+    <p style="margin: 0;">A light, fun warm-up session to help students get comfortable, meet one another, and prepare for collaborative activities ahead.</p>
     <p style="margin: 0;">Pathum Thani Room</p>
   </div>
   <hr style="border: 0; border-top: 1px solid #eee; margin: 15px 0;">
