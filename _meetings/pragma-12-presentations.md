@@ -5,7 +5,7 @@ layout: page
 meeting_date: March 20-22, 2007, Bangkok, Thailand
 presentations: pragma12
 date: 2007-03-20
-photos: http://www.flickr.com/photos/31817935@N00/sets/72157601357197301/
-culture: http://www.flickr.com/photos/31817935@N00/sets/72157601350916720/
+photos: https://www.flickr.com/photos/31817935@N00/sets/72157601357197301/
+culture: https://www.flickr.com/photos/31817935@N00/sets/72157601350916720/
 ---
 
