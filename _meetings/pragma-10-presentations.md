@@ -5,7 +5,7 @@ layout: page
 meeting_date: March 26-28, 2006, Townsville, Australia
 presentations: pragma10
 date: 2006-03-26
-photos: http://www.flickr.com/photos/31817935@N00/sets/72157601350903080/
+photos: https://www.flickr.com/photos/31817935@N00/albums/72157601350904078
 culture: https://www.flickr.com/photos/31817935@N00/albums/72157601350904078
 ---
 
